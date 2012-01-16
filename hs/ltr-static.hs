@@ -14,7 +14,7 @@ import System.Time
 import qualified Text.XHtml as H
 import qualified Text.HTML.Light as M
 
-import LT
+import LTR
 import Pwd
 
 -- If the initial entry is root, discard it.

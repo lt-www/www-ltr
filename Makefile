@@ -4,7 +4,7 @@ build-ghc:
 build-cabal:
 	cabal configure --disable-optimisation
 	cabal build
-	cp dist/build/lt-static/lt-static administration.cgi
+	cp dist/build/ltr-static/ltr-static administration.cgi
 	strip -s administration.cgi
 
 rd-rebuild:
@@ -18,7 +18,7 @@ clean:
 	rm -fR about audio bio photos reviews video
 	for i in `find . -name index.html` ; do rm $$i; done
 	rm -f administration.cgi
-	rm -f lt.cgi
+	rm -f ltr.cgi
 
 push:
 	git push sp

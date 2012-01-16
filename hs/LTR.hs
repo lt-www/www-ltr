@@ -1,4 +1,4 @@
-module LT where
+module LTR where
 
 import Data.Char
 import Data.List
