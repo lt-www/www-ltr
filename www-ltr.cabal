@@ -1,0 +1,47 @@
+name:              www-ltr
+version:           0.0
+description:       lucie thorne website
+author:            Rohan Drape
+maintainer:        rd@slavepianos.org
+stability:         Experimental
+homepage:          http://slavepianos.org/rd/?t=www-ltr
+tested-with:       GHC==7.0.3
+build-type:        Simple
+cabal-version:     >= 1.8
+
+data-files:        README
+                   Makefile
+                   lt.css
+                   images/camera/*.jpg
+                   images/cover/*.jpg
+                   images/front/*.jpg
+                   images/photos/*.jpg
+                   images/working/*.jpg
+                   md/*.md
+                   md/albums/*.md
+                   md/error/*.md
+                   md/forms/*.md
+                   md/news/*.md
+                   md/photos/*.md
+                   md/shop/*.md
+                   md/shows/*.md
+                   md/songs/*.md
+                   pr/*.pdf
+
+executable lt-static
+  build-depends:   base == 4.*,
+                   bytestring,
+                   cgi,
+                   directory,
+                   directory-tree,
+                   filepath,
+                   html-minimalist,
+                   old-time,
+                   pandoc==1.6.0.1,
+                   process,
+                   utf8-string,
+                   xhtml,
+                   xml
+  hs-source-dirs:  hs
+  main-is:         lt-static.hs
+  ghc-options:     -Wall -fwarn-tabs

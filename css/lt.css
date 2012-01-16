@@ -1,0 +1,295 @@
+/* @ */
+
+@media screen {
+ body {
+  margin: 5em;
+  font-size: 10pt;
+ }
+ div.main {
+  width: 60%;
+ }
+ h1 {
+  font-size: 3.75em;
+ }
+}
+
+@media all and (max-width: 800px) {
+ body {
+  margin: 1em;
+  font-size: 1em;
+ }
+ div.main {
+  width: 100%;
+ }
+ h1 {
+  font-size: 2.25em;
+ }
+}
+
+@font-face {
+  font-family: lt-normal;
+  src: url(../data/font/OFLGoudyStM.otf) format("opentype");
+}
+
+@font-face {
+  font-family: lt-header;
+  src: url(../data/font/OptimusPrinceps.ttf) format("truetype");
+}
+
+/* plain */
+
+html {
+}
+
+/*
+  bisc design:
+
+    dark blue = 011e48
+    light blue = 53a0a8
+    red = bf1e2e
+    white = fdf5e0
+    fonts = "Betty Noir"
+*/
+
+body {
+ background-color: #53a0a8;
+ color: #fdf5e0;
+ font-size: 100%;
+ font-family: lt-normal, sans-serif;
+ text-align: left;
+}
+
+/* basic page layout */
+
+/*
+
++-----------------------------+  <- main
++-----------------------------+  <- menu
++-----------------------------+  <- submenu
++                             +  <- content
++                             +
++                             +
++                             +
++                             +
++                             +
++-----------------------------+
++-----------------------------+  <- footer
+
+*/
+
+div.main {
+}
+
+nav.menu, nav.submenu {
+ font-family: lt-header;
+ margin: 0em;
+}
+
+nav.submenu {
+ padding: 0.5em 0em;
+}
+
+ul.menu, ul.submenu {
+ margin: 0em;
+ padding: 0em;
+}
+
+li.menu, li.submenu {
+ display: inline;
+ padding-right: 1em;
+}
+
+footer {
+ font-size: 84%;
+ font-weight: normal;
+ margin-top: 2em;
+ margin-bottom: 0.15em;
+}
+
+p.caption {
+ display: none;
+}
+
+/***** Element Selectors *****/
+
+p {
+ line-height: 1.15em;
+}
+
+h1, h2 {
+ font-family: lt-header;
+ clear: both;
+}
+
+h3, h4 {
+ font-family: lt-normal;
+ clear: both;
+}
+
+h1 {
+ font-weight: normal;
+ letter-spacing: 0.25em;
+ white-space: nowrap;
+ margin: 0em 0em 0.75em 0em;
+ padding-top: 0.1em;
+}
+
+h2 {
+ font-size: 110%;
+ font-weight: normal;
+ margin: 0em;
+}
+
+h3 {
+ font-size: 100%;
+ font-weight: bold; /* normal */
+ margin: 0em;
+}
+
+blockquote {
+ margin: 0em 1em;
+ padding: 0em 1em;
+ border: none;
+ border-color: #ddd;
+ border-width: 0px;
+}
+
+a {
+ color: #fefced;
+}
+
+a:visited {
+}
+
+ol {
+}
+
+ul {
+ list-style: none;
+}
+
+/* make list spacing equal to line-height (1.25em) */
+li {
+ margin-top: 0.15em;
+}
+
+hr {
+ width: 100%;
+ height: 1px;
+ border: 0;
+ color: #fdf5e0;
+ background-color: #fdf5e0;
+}
+
+/* Images are _never_ the only link, don't indicate link status. */
+img {
+ border: 0px;
+}
+
+/* Tables are used for form layout, there are alternate dl/dt/dd
+   versions but they take up a lot of space... */
+table {
+ font-size: 100%; /* IE */
+}
+
+th {
+ text-align: right;
+ font-weight: normal;
+}
+
+td {
+}
+
+/***** Element.Class Selectors *****/
+
+div.content ul li:before {
+ content: "\00BB \0020";
+}
+
+img.tag {
+ display: none;
+}
+
+body.photos div.main h1 {
+ margin: 0em 0em -0.25em 0em;
+}
+
+div.photos-preview {
+ width: 500%; /* stop image previews from wrapping */
+ padding-top: 0.5em;
+}
+
+img.photos-preview {
+ padding-right: 0.5em;
+}
+
+div.photos-preload {
+ display: none;
+}
+
+span.arrows {
+ padding-left: 2em;
+}
+
+div.radio {
+ border: none;
+ border-width: 1px;
+ margin: 1em 1em;
+}
+
+/***** albums *****/
+
+.albums p {
+ clear: both;
+}
+
+.albums img {
+ float: left;
+ margin: 0px 50px 15px 0px;
+}
+
+.albums div div p {
+ margin: 15px 0px 15px 0px;
+}
+
+a.here {
+ color: #011e48;
+}
+
+a.h1, a.edit, a.edit:visited {
+ text-decoration: none;
+}
+
+/***** album (singular, ie. actual page) *****/
+
+body.albums div.main div.content div.figure {
+ float: right;
+}
+
+body.albums div.main div.content ol {
+ margin: 0em 0em 2em 0em;
+ padding: 0em 2em;
+}
+
+/***** forms *****/
+
+textarea, input {
+ font-size: 100%;
+ border-width: 0px;
+}
+
+input.send {
+ background-color: transparent;
+ border-width: 1px;
+ border-style: dotted;
+ color: #fefced;
+}
+
+form dl dt {
+ display: inline;
+}
+
+.forms img {
+ padding: 0px;
+ margin: 0px;
+}
