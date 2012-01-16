@@ -19,3 +19,6 @@ clean:
 	for i in `find . -name index.html` ; do rm $$i; done
 	rm -f administration.cgi
 	rm -f lt.cgi
+
+push:
+	git push sp
