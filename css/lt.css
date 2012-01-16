@@ -214,16 +214,16 @@ body.photos div.main h1 {
  margin: 0em 0em -0.25em 0em;
 }
 
-div.photos-preview {
+div.img-preview {
  width: 500%; /* stop image previews from wrapping */
  padding-top: 0.5em;
 }
 
-img.photos-preview {
+img.img-preview {
  padding-right: 0.5em;
 }
 
-div.photos-preload {
+div.img-preload {
  display: none;
 }
 

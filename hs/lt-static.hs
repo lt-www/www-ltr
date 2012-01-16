@@ -71,7 +71,7 @@ add_prefix p (d,t) =
 
 make_file :: Config -> ([String], String) -> IO ()
 make_file cf (p_, nm) = do
-  cs <- lt_camera_data cf
+  cs <- lt_img_data cf
   let dir = lt_path_to p_ nm
       dir' = splitDirectories dir
       mfn = lt_dir cf </> lt_markdown_file_name dir'
@@ -103,8 +103,8 @@ rebuild_get cf = do
   md <- C.liftIO (lt_md (lt_dir cf </> "data/md"))
   let l = concatMap (\(p, ns) -> map (\n -> (p, n)) ns) md
   C.liftIO (do mapM_ (make_file cf) l
-               _ <- lt_camera_reductions cf
-               lt_write_camera_pages cf)
+               _ <- lt_img_reductions cf
+               lt_write_photos_pages cf)
   outputHtml (message_link "rebuild_get" "rebuild completed" "../")
 
 login_get :: C.CGI C.CGIResult
@@ -147,22 +147,22 @@ upload_post = do
 db_changes_get :: C.CGI C.CGIResult
 db_changes_get = undefined
 
-camera_get :: C.CGI C.CGIResult
-camera_get = do
+photos_get :: C.CGI C.CGIResult
+photos_get = do
   let fn = "data/config/photos.hs"
   contents <- C.liftIO (readFileOr "" fn)
   outputHtml (text_editor fn contents)
 
-camera_post :: Config -> C.CGI C.CGIResult
-camera_post cf = do
+photos_post :: Config -> C.CGI C.CGIResult
+photos_post cf = do
   text <- C.getInput "text"
   let file = "data/config/photos.hs"
       text' = maybe "no_text" deleteCR text
   C.liftIO (do U.writeFile file text'
                _ <- darcs_rec "photos"
-               _ <- lt_camera_reductions cf
-               lt_write_camera_pages cf)
-  outputHtml (message_link "camera_post" "edit stored" "/")
+               _ <- lt_img_reductions cf
+               lt_write_photos_pages cf)
+  outputHtml (message_link "photos_post" "edit stored" "/")
 
 unknown_request :: String -> [FilePath] -> C.CGI C.CGIResult
 unknown_request m p =
@@ -190,8 +190,8 @@ request_dispatch cf m a =
       ("POST",["upload"]) -> require_verified upload_post
       ("GET",["rebuild"]) -> require_verified (rebuild_get cf)
       ("GET",["db", "changes"]) -> require_verified db_changes_get
-      ("GET",["photos"]) -> require_verified camera_get
-      ("POST",["photos"]) -> require_verified (camera_post cf)
+      ("GET",["photos"]) -> require_verified photos_get
+      ("POST",["photos"]) -> require_verified (photos_post cf)
       _ -> unknown_request m a
 
 cgiMain :: Config -> C.CGI C.CGIResult
