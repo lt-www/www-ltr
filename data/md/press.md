@@ -169,6 +169,6 @@ predecessor, _The Bud_." **_David Curry, The Canberra Times_**
    [21]: http://www.theaustralian.com.au/news/arts/starfire-fuels-a-passion-to-play-for-lucie-thorne/story-e6frg8n6-1226111206784
    [22]: http://theorangepress.net/2011/08/review-lucie-thorne-bonfires-in-silver-city/
    [23]: http://www.altmedia.net.au/lucie-thorne-bonfires-in-silver-city/39904
-   [24]: data/image/camera/lt-pr-rs.jpg
+   [24]: data/image/photos/pr-rs.jpg
    [25]: data/pr/LucieThorneBioOctober2011.pdf
    [26]: http://upstreamwhispers.wordpress.com/2011/09/09/lucie-thorne-bonfires-in-silver-city/

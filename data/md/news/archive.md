@@ -613,18 +613,9 @@ to lucies site.
 [14]: shows/
 [14.4]: http://www.darebin.vic.gov.au/Page/page.asp?Page_Id=878&h=1[15]:  http://www.myspace.com/wot90
 [15.1]: songs/the-upfield-line/  
-[11.4]: http://www.myspace.com/jackiemarshall
-[11.5]: albums/
-[11.6]: http://www.australianmusicprize.com.au/about.php
-[12.0]: http://www.luciethorne.com/camera/bimbaya/4142/
-[13]: press/
-[13.1]: http://www.abc.net.au/local/stories/2008/06/10/2270378.htm
-[14]: shows/
-[14.4]: http://www.darebin.vic.gov.au/Page/page.asp?Page_Id=878&h=1[15]:  http://www.myspace.com/wot90
-[15.1]: songs/the-upfield-line/  
 [16]: albums/black-across-the-field
 [16.1]: http://www.myspace.com/luciethornemusic
-[16.2]: camera/press-photos/2009-01_1/
+[16.2]: photos
 [17]: http://www.vitamin.net.au
 [18]: http://www.vitamin.net.au/pages/review.asp?i=567
 [19]: http://www.abc.net.au/local/videos/2009/03/26/2525973.htm

@@ -1,3 +1,10 @@
+### 17th january 2012
+
+News Flash! We're very pleased to be able to let you know that Lucie will be joining the fabulous [Pieta Brown][81] and her trio for their Australian tour in March 2012. These [tour dates have just been announced][14], and tickets for the shows will go on sale on Monday 23rd January.
+
+In the meantime, Lucie's summer tour continues... with four more shows
+across Tasmania this week... [details here][14]
+
 ### 12th december 2011   
 
 Check out [Lucie's recent appearance on SBS televsion show RockWiz here][100]. As well as a rather alarmingly detailed knowledge of her 'special category'...  the show also features a live performance of [Can't Sleep For Dreaming with the RocKwiz Orkestra][101]  
@@ -152,7 +159,6 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [11.4]: http://www.myspace.com/jackiemarshall
 [11.5]: albums/
 [11.6]: http://www.australianmusicprize.com.au/about.php
-[12.0]: http://www.luciethorne.com/camera/bimbaya/4142/
 [13]: press/
 [13.1]: http://www.abc.net.au/local/stories/2008/06/10/2270378.htm
 [14]: shows/
@@ -160,7 +166,6 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [15.1]: songs/the-upfield-line/
 [16]: albums/black-across-the-field
 [16.1]: http://www.myspace.com/luciethornemusic
-[16.2]: camera/press-photos/2009-01_1/
 [17]: http://www.vitamin.net.au
 [18]: http://www.vitamin.net.au/pages/review.asp?i=567
 [19]: http://www.abc.net.au/local/videos/2009/03/26/2525973.htm
@@ -198,7 +203,7 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [88.1]: http://www.theatreroyal.info/
 [89]: albums/bonfires-in-silver-city
 [89.1]: home/
-[90]: camera/lt-fence/
+[90]: photos/fence/
 [91]: http://www.milkymoondesign.com/
 [92]: forms/mailing-list/
 [92.1]: http://www.abc.net.au/rn/breakfast/
@@ -207,7 +212,7 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [95]: http://www.abc.net.au/local/videos/2011/09/22/3323241.htm
 [95.1]: http://www.youtube.com/luciethorne
 [96]: http://www.abc.net.au/rn/musicdeli/
-[97]: data/image/camera/lt-pr-rs.jpg
+[97]: data/image/photos/pr-rs.jpg
 [97.1]: http://www.abc.net.au/local/videos/2011/10/18/3342676.htm
 [98.1]: http://www.tathrahotel.com.au/Tathra_Hotel/News.html
 [99]: http://www.corinbank.com/  

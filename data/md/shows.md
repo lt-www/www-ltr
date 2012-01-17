@@ -4,20 +4,15 @@
 
 **TASMANIA** 
 
-**Saturday 14th January 2012**  
-[TAMAR VALLEY FOLK FESTIVAL][100], Georgetown    
-Memorial Hall.  
-7pm  
-
-**Sunday 15th January 2012**    
-[TAMAR VALLEY FOLK FESTIVAL][100], Georgetown   
-Memorial Hall.  
-12.30pm        
-
 **Wednesday 18th January 2012**  
 THE LITTLE THEATRE, Deloraine  
 plus special guests *Slings & Arrows*      
 7.30pm / Tickets $15 at the door      
+
+**Friday 20th January 2012**  
+Live to Air performance and interview on *Statewide Mornings*, with Sarah Gillman.  
+ABC Radio. 10.30am.  
+   
 
 **Friday 20th January 2012**  
 FRESH ON CHARLES, Launceston    
@@ -93,7 +88,34 @@ details tba
 [PORT FAIRY FOLK FESTIVAL][99.1], Port Fairy                 
 details tba    
 
-* * * * *  
+* * * * *    
+
+**PIETA BROWN (USA) - AUSTRALIAN TOUR 2012**  
+with special guest LUCIE THORNE  
+
+**Tuesday 13th March 2012**  
+BELLA UNION at Trades Hall, Carlton, Melbourne, VIC  
+tickets on sale soon                  
+   
+**Wednesday 14th March 2012**  
+[CARNIVAL OF SUBURBIA][104] at  
+OAKLEIGH MASONIC HALL, Oakleigh, Melbourne, VIC  
+tickets on sale soon  
+
+**Thursday 15th March 2012**  
+THE CAMELOT LOUNGE, Marrickville, Sydney, NSW  
+tickets on sale soon      
+
+**Friday 16th March 2012**  
+THE POLISH CLUB, Turner, Canberra, ACT   
+tickets on sale soon      
+
+**Saturday 17th March 2012**  
+STAR COURT THEATRE, Lismore, NSW      
+tickets on sale soon   
+
+* * * * *   
+
 [past shows][archive]
 
   [archive]: shows/archive/
@@ -127,3 +149,4 @@ details tba
 [101]: http://www.bigtix.com.au/ProductDetails.aspx?productID=2083
 [102]: http://www.ellingtonjazz.com.au/index.php/schedule/month/02/show/1689
 [103]: http://www.wauchopearts.org.au/
+[104]: http://www.carnivalofsuburbia.com   

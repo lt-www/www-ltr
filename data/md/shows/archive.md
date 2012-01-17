@@ -1,5 +1,15 @@
 ## shows/archive
 
+**TASMANIA**  
+
+**Sunday 15th January 2012**    
+TAMAR VALLEY FOLK FESTIVAL, Georgetown   
+Memorial Hall.   
+
+**Saturday 14th January 2012**  
+TAMAR VALLEY FOLK FESTIVAL, Georgetown    
+Memorial Hall.  
+
 **NSW**  
 
 **Thursday 5th January 2012**  
