@@ -156,27 +156,15 @@ predecessor, _The Bud_." **_David Curry, The Canberra Times_**
   
 * * * * *  
 
-   [1]: data/pr/Lucie_Thorne_Press_Release_Winter_2007.pdf
-   [1.1]: pr/Lucie_Thorne_Press_Release_Spring_2007.pdf
-   [1.2]: data/pr/ThorneFaganPressRelease.pdf
    [2]: http://www.australianstage.com.au/reviews/sydney/lucie-thorne-1385.html
-   [3]: data/pr/LucieThorneDarebinFeastMediaRelease.pdf
-   [4]: pr/ThorneFaganTASPressRelease.pdf
-   [5]: data/pr/LucieThorneMediaReleaseMarch09-2pg.pdf
    [6]: http://www.vitamin.net.au/pages/review.asp?i=567
    [7]: http://www.altmedia.net.au/lucy-thorne-black-across-the-field/4157   
-   [8]: data/pr/LucieThorneMediaReleaseToffSept09.pdf
-   [9]: pr/LucieThorneBioJan2010.pdf
-   [10]: data/pr/LucieThorneBioFeb2010.pdf
-   [11]: pr/LucieThorneBio2June2010.pdf
-   [12]: data/pr/HeavenReview.JPG
+   [12]: data/image/photos/pr-hm.jpg
    [13]: http://www.writteninmusic.com/pop/lucie-thorne-black-across-the-field/lang/nl/
    [14]: http://www.subjectivisten.nl/caleidoscoop/2010/10/lucie-thorne-black-across-the-field.html
    [15]: http://www.realrootscafe.com/livereviewreport_1.html
    [16]: http://czb.ro/articol/930/
    [17]: http://www.artshub.com.au/au/news-article/reviews/performing-arts/lucie-thorne-with-hamish-stuart-181132
-   [18]: data/pr/LucieThorneBISCAugustMediaRelease.pdf
-   [19]: pr/LucieThorneBioAugust2011.pdf
    [20]: http://www.abc.net.au/rn/breakfast/albums/
    [21]: http://www.theaustralian.com.au/news/arts/starfire-fuels-a-passion-to-play-for-lucie-thorne/story-e6frg8n6-1226111206784
    [22]: http://theorangepress.net/2011/08/review-lucie-thorne-bonfires-in-silver-city/

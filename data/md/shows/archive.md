@@ -863,7 +863,7 @@ RSL, Tamar Valley Folk Festival.
 [82]: http://www.amsterdamfm.nl
 [83]: http://www.musicbythesea.com.au  
 [85]: http://www.thethornburytheatre.com/index.htm
-[86]: data/pr/HalftheskyPromo.pdf
+[86]: http://www.iwda.org.au/2011/01/31/half-the-sky-080311-thornbury-vic-thornbury-theatre/
 [86.1]: http://www.mullummusicfestival.com/
 [87]: http://www.theatreroyal.info/
 [87.1]: http://www.timrogers.com.au/

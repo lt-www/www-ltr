@@ -189,10 +189,10 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [41]: http://www.writteninmusic.com/pop/lucie-thorne-black-across-the-field/lang/nl/
 [46]: http://www.mullummusicfestival.com/
 [81]:  http://www.pietabrown.com
-[82]: data/pr/HeavenReview.JPG
+[82]: data/image/photos/pr-hm.jpg
 [83]: http://www.musicbythesea.com.au
 [85]: http://www.thethornburytheatre.com/index.htm
-[86]: data/pr/HalftheskyPromo.pdf
+[86]: http://www.iwda.org.au/2011/01/31/half-the-sky-080311-thornbury-vic-thornbury-theatre/
 [87]: http://megaphon.com.au/gallery/lucie-thorne-2011-session
 [88]: http://czb.ro/articol/930/
 [88.1]: http://www.theatreroyal.info/

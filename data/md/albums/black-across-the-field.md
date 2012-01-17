@@ -55,4 +55,4 @@ Artwork by [Rachel Stone][19].
 exclusive license to Vitamin Records.  Made in Australia.
 
   [24]: http://www.luciethorne.com
-  [25]: data/pr/LucieThorneMediaReleaseMarch09-2pg.pdf
+  [25]: data/pr/LucieThorneBATFMediaRelease.pdf
