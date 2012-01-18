@@ -3,9 +3,9 @@ module LTR where
 import Data.Char
 import Data.List
 import Data.Function
-import System.Directory
+import System.Directory {- directory -}
 import qualified System.Directory.Tree as T {- directory-tree -}
-import System.FilePath
+import System.FilePath {- filepath -}
 import qualified System.IO.UTF8 as U {- utf8-string -}
 import qualified Text.HTML.Light as H {- html-minimalist -}
 import qualified Text.HTML.Light.Common as H

@@ -1,18 +1,18 @@
 module Main (main,rd_rebuild) where
 
 import Control.Monad
-import qualified Data.ByteString.Lazy as B
+import qualified Data.ByteString.Lazy as B {- bytestring -}
 import Data.List
 import Data.Maybe
-import qualified Network.CGI as C
-import System.Cmd
-import System.Directory
+import qualified Data.Time as T {- time -}
+import qualified Network.CGI as C {- cgi -}
+import System.Cmd {- process -}
+import System.Directory {- directory -}
 import System.Exit
-import System.FilePath
+import System.FilePath {- filepath -}
 import qualified System.IO.UTF8 as U {- utf8-string -}
-import System.Time
-import qualified Text.XHtml as H
-import qualified Text.HTML.Light as M
+import qualified Text.XHtml as H {- xhtml -}
+import qualified Text.HTML.Light as M {- html-minimalist -}
 
 import LTR
 import Pwd
@@ -26,7 +26,7 @@ dropRoot p =
 
 outputHtml :: (String -> H.Html) -> C.CGI C.CGIResult
 outputHtml f = do
-  t <- C.liftIO getClockTime
+  t <- C.liftIO T.getCurrentTime
   C.output (H.renderHtml (f (show t)))
 
 readFileOr :: String -> FilePath -> IO String
@@ -58,7 +58,7 @@ run_darcs p = do
 -- This must not write to stdout...
 darcs_rec :: String -> IO ExitCode
 darcs_rec c = do
-  t <- getClockTime
+  t <- T.getCurrentTime
   let n = "'Online edit at " ++ show t ++ " [" ++ c ++ "]'"
   run_darcs ["record", "--all", "-m", n]
 

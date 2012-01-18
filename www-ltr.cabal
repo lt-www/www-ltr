@@ -36,9 +36,9 @@ executable ltr-static
                    directory-tree,
                    filepath,
                    html-minimalist,
-                   old-time,
                    pandoc==1.6.0.1,
                    process,
+                   time,
                    utf8-string,
                    xhtml,
                    xml
