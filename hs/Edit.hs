@@ -9,21 +9,26 @@ import System.Cmd {- process -}
 import System.Directory {- directory -}
 import System.Exit
 import System.FilePath {- filepath -}
-import qualified System.IO.Strict as I {- strict -}
 import qualified System.IO.UTF8 as U {- utf8-string -}
 import qualified Text.HTML.Light as H {- html-minimalist -}
 import qualified Text.XML.Light as X {- xml -}
+
+-- * Types
 
 data VCS = Darcs | Git
 type Author = String
 type URL = String
 type Password = String
+type Title = String
+type Time = String
+type Text = String
 data Config = Config {cfg_vcs :: Maybe VCS
                      ,cfg_author :: Author
                      ,cfg_url :: URL
                      ,cfg_pwd :: Password}
-
 type Result = C.CGI C.CGIResult
+
+-- * IO
 
 -- | Output @HTML@ 'String' in @utf-8@ encoding.
 utf8_output :: String -> Result
@@ -36,36 +41,33 @@ output_html f = do
   t <- C.liftIO getCurrentTime
   utf8_output (H.renderHTML5 (f (show t)))
 
-preamble :: String -> String -> X.Content
-preamble title time = H.p [] [H.cdata (title ++ ": " ++ time)]
+-- | Note: strictness, see System.IO.Strict.
+read_file_or :: Text -> FilePath -> IO String
+read_file_or s f = do
+  x <- doesFileExist f
+  if x then U.readFile f else return s
 
-std_header :: String -> X.Content
+-- * HTML
+
+std_header :: Title -> X.Content
 std_header title = H.head [] [H.title [] [H.cdata title]]
 
-std_html :: String -> String -> X.Content -> X.Element
+std_html :: Title -> Time -> X.Content -> X.Element
 std_html title time c =
-    let b = H.body [] [preamble title time,c]
+    let p = H.p [] [H.cdata (title ++ ": " ++ time)]
+        b = H.body [] [p,c]
     in H.html [H.lang "en"] [std_header title,b]
 
-text_editor :: String -> String -> String -> X.Element
-text_editor title initial time =
+-- | A basic @HTML@ text editor.
+text_editor :: FilePath -> Text -> Time -> X.Element
+text_editor fn initial time =
     let a = [H.method "post", H.enctype "multipart/form-data"]
         f = H.form a c
         t = [H.name "text", H.rows "30", H.cols "80"]
         c = [H.textarea t [H.cdata initial]
-            ,H.input [H.type' "hidden",H.name "file",H.value title]
+            ,H.input [H.type' "hidden",H.name "file",H.value fn]
             ,H.input [H.type' "submit",H.value "edit"]]
-    in std_html title time f
-
-read_file_or :: String -> FilePath -> IO String
-read_file_or s f = do
-  x <- doesFileExist f
-  if x then I.readFile f else return s
-
-edit_get :: FilePath -> Result
-edit_get fn = do
-  t <- C.liftIO (read_file_or "" fn)
-  output_html (text_editor fn t)
+    in std_html fn time f
 
 -- | Delete carriage returns, the browser may insert these.
 delete_cr :: String -> String
@@ -73,7 +75,7 @@ delete_cr = filter (/= '\r')
 
 -- * Replies
 
-message_only :: String -> String -> String -> X.Element
+message_only :: Title -> String -> Time -> X.Element
 message_only title message time =
     let c = H.p [] [H.cdata message]
     in std_html title time c
@@ -112,11 +114,15 @@ run_darcs p = system ("darcs " ++ unwords p ++ " &>/dev/null")
 darcs_add :: FilePath -> IO ExitCode
 darcs_add f = run_darcs ["add", f]
 
+-- | Commit all changes to 'FilePath'.
 darcs_commit :: Author -> FilePath -> IO ExitCode
-darcs_commit _ fn = do
+darcs_commit au fn = do
   t <- getCurrentTime
-  let m = "'online edit of " ++ fn ++ " at " ++ show t ++ "'"
-  run_darcs ["record", fn, "-a", "-m", m]
+  let m = "'edit: " ++ fn ++ " at: " ++ show t ++ "'"
+  run_darcs ["record",fn
+            ,"--all"
+            ,"--patch-name",m
+            ,"--author",au]
 
 -- * VCS
 
@@ -144,7 +150,12 @@ vcs_add_c c = vcs_add (cfg_vcs c)
 vcs_commit_c :: Config -> FilePath -> IO ExitCode
 vcs_commit_c c = vcs_commit (cfg_vcs c) (cfg_author c)
 
--- *
+-- * Edit
+
+edit_get :: FilePath -> Result
+edit_get fn = do
+  t <- C.liftIO (read_file_or "" fn)
+  output_html (text_editor fn t)
 
 edit_post :: Config -> URL -> Result
 edit_post c ln = do
@@ -174,10 +185,12 @@ edit_text q c f =
 login_cookie :: String
 login_cookie = "secret_login_cookie"
 
-validated :: C.CGI Bool
-validated = do
-  c <- C.getCookie login_cookie
-  return (isJust c)
+validated :: Config -> C.CGI Bool
+validated c = do
+  k <- C.getCookie login_cookie
+  case k of
+    Just pwd -> return (pwd == cfg_pwd c)
+    Nothing -> return False
 
 pwd_entry :: String -> String -> X.Element
 pwd_entry title time =
@@ -193,13 +206,13 @@ login_get = output_html (pwd_entry "login_get")
 login_post :: Config -> Result
 login_post c = do
   pwd <- C.getInput "pwd"
-  let valid = maybe False (== (cfg_pwd c)) pwd
+  let pwd' = fromMaybe "" pwd
       c_msg = message_link "login_post" "login succeeded" (cfg_url c)
       w_msg = message_link "login_post" "login failed" (cfg_url c)
-      correct = do C.setCookie (C.newCookie login_cookie "")
-                   output_html c_msg
-      wrong = output_html w_msg
-  if valid then correct else wrong
+  if pwd' == cfg_pwd c
+  then do C.setCookie (C.newCookie login_cookie pwd')
+          output_html c_msg
+  else output_html w_msg
 
 logout_get :: Config -> Result
 logout_get c = do
@@ -244,8 +257,8 @@ upload_post c = do
 
 unknown_request :: String -> [FilePath] -> Result
 unknown_request m p =
-    let m' = " method = " ++ m
-        p' = " path = " ++ show p
-        i = " illegal operation " ++ m' ++ p'
+    let m' = "method = " ++ m
+        p' = ";path = " ++ show p
+        i = "illegal operation: " ++ m' ++ p'
     in output_html (message_only "unknown_request" i)
 

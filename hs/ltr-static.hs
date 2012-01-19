@@ -67,9 +67,9 @@ photos_post cf = do
                L.lt_write_photos_pages cf)
   E.std_reply e_config "photos_post" "edit stored"
 
-require_verified :: E.Result -> E.Result
-require_verified y = do
-  v <- E.validated
+require_verified :: E.Config -> E.Result -> E.Result
+require_verified e y = do
+  v <- E.validated e
   let l = "/administration.cgi/login"
       n = E.message_link "require_verified" "un-verified" l
   if v then y else E.output_html n
@@ -77,7 +77,7 @@ require_verified y = do
 request_dispatch :: L.Config -> String -> [String] -> C.CGI C.CGIResult
 request_dispatch cf m a =
     let e = e_config
-        v = require_verified
+        v = require_verified e
     in case (m,a) of
          ("GET",("edit":p)) -> v (E.edit_get (L.lt_markdown_file_name p))
          ("POST",("edit":p)) -> v (edit_post_mk cf p e)
