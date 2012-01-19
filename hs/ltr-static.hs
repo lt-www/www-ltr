@@ -7,8 +7,8 @@ import System.Directory {- directory -}
 import System.FilePath {- filepath -}
 import qualified System.IO.UTF8 as U {- utf8-string -}
 import qualified Text.HTML.Light as H {- html-minimalist -}
+import qualified WWW.Minus.Edit as E
 
-import qualified Edit as E
 import qualified LTR as L
 import qualified Pwd as P
 

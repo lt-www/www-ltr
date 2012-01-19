@@ -36,6 +36,7 @@ executable ltr-static
                    directory-tree,
                    filepath,
                    html-minimalist,
+                   hwww-minus,
                    pandoc==1.6.0.1,
                    process,
                    time,

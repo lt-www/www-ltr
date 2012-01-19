@@ -8,7 +8,7 @@ import qualified System.Directory.Tree as T {- directory-tree -}
 import System.FilePath {- filepath -}
 import qualified System.IO.UTF8 as U {- utf8-string -}
 import qualified Text.HTML.Light as H {- html-minimalist -}
-import qualified Text.HTML.Light.Common as H
+import qualified Text.HTML.Light.Composite as H
 import qualified Text.Pandoc as P {- pandoc -}
 import qualified Text.XML.Light as X {- xml -}
 
