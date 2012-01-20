@@ -31,29 +31,31 @@ img_find x =
 img_resize_dir :: Int -> FilePath
 img_resize_dir n = "r-" ++ show n
 
-img_set :: (Class,Int) -> (FilePath,FilePath) -> [Img] -> Area -> X.Content
+type Renamer = FilePath -> FilePath
+
+img_set :: (Class,Int) -> (FilePath,Renamer) -> [Img] -> Area -> X.Content
 img_set (cl,rd) (rt,bs) is ar =
     let (Just a) = lookup ar is
         fn n = rt </> "rgen/photos" </> img_resize_dir rd </> n <.> "jpg"
-        ln n = bs </> "photos" </> n
+        ln n = bs ("photos" </> n)
         cl' = H.class' cl
         f (n,_) = H.a [H.href (ln n)] [H.img [cl',H.src (fn n),H.alt n]]
     in H.div [cl'] (map f a)
 
-img_preview :: (FilePath,FilePath) -> [Img] -> Area -> X.Content
+img_preview :: (FilePath,Renamer) -> [Img] -> Area -> X.Content
 img_preview = img_set ("img-preview",60)
 
-img_preload :: Int -> (FilePath,FilePath) -> [Img] -> Area -> X.Content
+img_preload :: Int -> (FilePath,Renamer) -> [Img] -> Area -> X.Content
 img_preload sz = img_set ("img-preload",sz)
 
 img_no_preload :: X.Content
 img_no_preload = H.div [H.class' "img-preload"] []
 
-img_submenu :: FilePath -> [Img] -> X.Content
+img_submenu :: Renamer -> [Img] -> X.Content
 img_submenu p d =
     let f (n,((i,_):_)) = (n,i)
         f (_,[]) = undefined
-        adr i = p </> "photos" </> i
+        adr i = p ("photos" </> i)
         cl = H.class' "submenu"
         g (n,i) = H.li [cl] [H.a [cl,H.href (adr i)] [H.cdata n]]
     in H.nav [cl] [H.ul [cl] (map (g . f) d)]

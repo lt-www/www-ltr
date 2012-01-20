@@ -92,7 +92,7 @@ request_dispatch cf (m,p,q) =
          _ -> E.unknown_request (m,p,q)
 
 lt_static_config :: L.Config
-lt_static_config = L.Config "/" "/" "." True
+lt_static_config = L.Config ("/" </>) "/" "." True
 
 main :: IO ()
 main = W.run_cgi lt_static_config request_dispatch
@@ -101,4 +101,4 @@ cf_rebuild :: L.Config -> IO ()
 cf_rebuild = C.runCGI . C.handleErrors . rebuild_get
 
 rd_rebuild :: IO ()
-rd_rebuild = cf_rebuild (L.Config "/ltr" "/ltr" ".." True)
+rd_rebuild = cf_rebuild (L.Config ("/ltr" </>) "/ltr" ".." True)

@@ -1,5 +1,8 @@
-build-ghc:
-	(cd hs ; make build-static-ghc ; make build-cgi-ghc)
+build-cgi-ghc:
+	(cd hs ; make build-cgi-ghc)
+
+build-static-ghc:
+	(cd hs ; make build-static-ghc)
 
 build-cabal:
 	cabal configure --disable-optimisation
@@ -18,7 +21,7 @@ clean:
 	rm -fR about audio bio photos reviews video
 	for i in `find . -name index.html` ; do rm $$i; done
 	rm -f administration.cgi
-	rm -f ltr.cgi
+	rm -f index.cgi
 
 push:
 	git push sp
