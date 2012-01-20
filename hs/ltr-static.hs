@@ -26,33 +26,32 @@ add_prefix p (d,t) =
     then (d,t)
     else (p</>d,t)
 
-make_file :: L.Config -> ([String], String) -> IO ()
-make_file cf (p_, nm) = do
+make_file :: L.Config -> [FilePath] -> IO ()
+make_file cf p = do
   cs <- L.lt_img_data cf
-  let dir = L.lt_path_to p_ nm
-      dir' = splitDirectories dir
-      mfn = L.lt_dir cf </> L.lt_markdown_file_name dir'
-      hfn = L.lt_dir cf </> L.lt_html_file_name dir'
+  let dir = joinPath p
+      mfn = L.lt_dir cf </> L.lt_markdown_file_name p
+      hfn = L.lt_dir cf </> L.lt_html_file_name p
       hfp = L.lt_dir cf </> dir
   mf <- L.lt_markdown_to_html (add_prefix (L.lt_root cf)) mfn
-  let h = L.lt_std_html cf cs p_ nm (H.cdata_raw mf)
+  let h = L.lt_std_html cf cs p (H.cdata_raw mf)
       h' = H.renderHTML5 h
   createDirectoryIfMissing True hfp
   U.writeFile hfn h'
-  when (nm == "home") (U.writeFile (L.lt_dir cf </> "index.html") h')
+  when (L.lt_class_tag p == "home")
+       (U.writeFile (L.lt_dir cf </> "index.html") h')
 
 edit_post_mk :: L.Config -> [FilePath] -> E.Config -> W.Result
 edit_post_mk cf p e = do
   let ln = "/" </> L.lt_html_file_name p
   r <- E.edit_post e ln
-  C.liftIO (make_file cf (L.lt_clear_path p))
+  C.liftIO (make_file cf p)
   return r
 
 rebuild_get :: L.Config -> W.Result
 rebuild_get cf = do
   md <- C.liftIO (L.lt_md (L.lt_dir cf </> "data/md"))
-  let l = concatMap (\(p, ns) -> map (\n -> (p, n)) ns) md
-  C.liftIO (do mapM_ (make_file cf) l
+  C.liftIO (do mapM_ (make_file cf) (L.md_flatten md)
                _ <- L.lt_img_reductions cf
                L.lt_write_photos_pages cf)
   E.std_reply e_config "rebuild_get" "rebuild completed"
@@ -93,7 +92,7 @@ request_dispatch cf (m,p,q) =
          _ -> E.unknown_request (m,p,q)
 
 lt_static_config :: L.Config
-lt_static_config = L.Config "/" "." True
+lt_static_config = L.Config "/" "/" "." True
 
 main :: IO ()
 main = W.run_cgi lt_static_config request_dispatch
@@ -102,4 +101,4 @@ cf_rebuild :: L.Config -> IO ()
 cf_rebuild = C.runCGI . C.handleErrors . rebuild_get
 
 rd_rebuild :: IO ()
-rd_rebuild = cf_rebuild (L.Config "/ltr" ".." True)
+rd_rebuild = cf_rebuild (L.Config "/ltr" "/ltr" ".." True)

@@ -2,6 +2,7 @@ module Img where
 
 import Control.Monad
 import Data.List
+import Data.Maybe
 import System.Directory {- directory -}
 import System.FilePath {- filepath -}
 import System.Process {- process -}
@@ -22,32 +23,37 @@ img_initial c =
       ((x,((y,_):_)):_) -> (x,y)
       _ -> undefined
 
+img_find :: Id -> [Img] -> [(Area,Id)]
+img_find x =
+    let f i (j,_) = if j == x then Just (i,j) else Nothing
+    in catMaybes . concatMap (\(a,e) -> map (f a) e)
+
 img_resize_dir :: Int -> FilePath
 img_resize_dir n = "r-" ++ show n
 
-img_set :: (Class,Int) -> FilePath -> [Img] -> Area -> X.Content
-img_set (cl,rd) rt is ar =
+img_set :: (Class,Int) -> (FilePath,FilePath) -> [Img] -> Area -> X.Content
+img_set (cl,rd) (rt,bs) is ar =
     let (Just a) = lookup ar is
         fn n = rt </> "rgen/photos" </> img_resize_dir rd </> n <.> "jpg"
-        ln n = rt </> "photos" </> n
+        ln n = bs </> "photos" </> n
         cl' = H.class' cl
         f (n,_) = H.a [H.href (ln n)] [H.img [cl',H.src (fn n),H.alt n]]
     in H.div [cl'] (map f a)
 
-img_preview :: FilePath -> [Img] -> Area -> X.Content
+img_preview :: (FilePath,FilePath) -> [Img] -> Area -> X.Content
 img_preview = img_set ("img-preview",60)
 
-img_preload :: Int -> FilePath -> [Img] -> Area -> X.Content
+img_preload :: Int -> (FilePath,FilePath) -> [Img] -> Area -> X.Content
 img_preload sz = img_set ("img-preload",sz)
 
 img_no_preload :: X.Content
 img_no_preload = H.div [H.class' "img-preload"] []
 
 img_submenu :: FilePath -> [Img] -> X.Content
-img_submenu rt d =
+img_submenu p d =
     let f (n,((i,_):_)) = (n,i)
         f (_,[]) = undefined
-        adr i = rt </> "photos" </> i
+        adr i = p </> "photos" </> i
         cl = H.class' "submenu"
         g (n,i) = H.li [cl] [H.a [cl,H.href (adr i)] [H.cdata n]]
     in H.nav [cl] [H.ul [cl] (map (g . f) d)]
