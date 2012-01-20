@@ -154,16 +154,14 @@ In the meantime - [Radio National][30] will be airing an hour-long feature conce
 
 And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and includes Lucie's 'As You Find It', from Black Across The Field. This double CD features a whole host of great local music (including Paul Kelly, Ross Wilson, Jeff Lang...) and can be [bought online here.][30.1]
 
-
-
 [11.4]: http://www.myspace.com/jackiemarshall
-[11.5]: albums/
+[11.5]: albums
 [11.6]: http://www.australianmusicprize.com.au/about.php
-[13]: press/
+[13]: press
 [13.1]: http://www.abc.net.au/local/stories/2008/06/10/2270378.htm
-[14]: shows/
+[14]: shows
 [14.4]: http://www.darebin.vic.gov.au/Page/page.asp?Page_Id=878&h=1[15]:  http://www.myspace.com/wot90
-[15.1]: songs/the-upfield-line/
+[15.1]: songs/the-upfield-line
 [16]: albums/black-across-the-field
 [16.1]: http://www.myspace.com/luciethornemusic
 [17]: http://www.vitamin.net.au
@@ -177,14 +175,14 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [25.1]: http://www.youtube.com/watch?v=Uo_KrFU6F-8
 [25.2]: http://www.youtube.com/watch?v=26R7jTl7DvY
 [26]: http://www.youtube.com/watch?v=xbO8nk_jeSY
-[27]: contact/
+[27]: contact
 [28]: http://www.youtube.com/watch?v=jtLUuo2ownc
 [29]: http://viewmorepics.myspace.com/index.cfm?fuseaction=user.viewPicture&friendID=210219295&albumId=1936342
 [30]: http://www.abc.net.au/rn/musicdeli/stories/2009/2730724.htm
 [30.1]: http://www.waterfrontrecords.com/orders/shop.asp?Action=AddItem&ProductID=74410&Qty=1
 [34.1]: http://www.mullummusicfestival.com/artists.html
 [36]: http://www.australianmusicprize.com.au/
-[36.1]: songs/when-the-lights-go-down/
+[36.1]: songs/when-the-lights-go-down
 [37]: http://noteslive.net.au/
 [37.1]: http://northcotesocialclub.com/
 [38]: http://www.smokedrecordings.com
@@ -202,8 +200,8 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [88]: http://czb.ro/articol/930/
 [88.1]: http://www.theatreroyal.info/
 [89]: albums/bonfires-in-silver-city
-[89.1]: home/
-[90]: photos/fence/
+[89.1]: home
+[90]: photos/fence
 [91]: http://www.milkymoondesign.com/
 [92]: forms/mailing-list/
 [92.1]: http://www.abc.net.au/rn/breakfast/
@@ -224,6 +222,6 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 
 if you care to know it, there is still all of the [old news][1.1]...
 
-[1.1]: news/archive/
+[1.1]: news/archive
 [2]: http://blogs.myspace.com/luciethornemusic
 

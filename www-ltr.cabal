@@ -28,7 +28,7 @@ data-files:        README
                    md/songs/*.md
                    pr/*.pdf
 
-executable ltr-static
+executable ltr-cgi
   build-depends:   base == 4.*,
                    bytestring,
                    cgi,
@@ -44,5 +44,5 @@ executable ltr-static
                    xhtml,
                    xml
   hs-source-dirs:  hs
-  main-is:         ltr-static.hs
+  main-is:         ltr-cgi.hs
   ghc-options:     -Wall -fwarn-tabs
