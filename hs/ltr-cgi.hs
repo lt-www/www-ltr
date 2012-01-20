@@ -21,8 +21,7 @@ md_page :: L.Config -> [FilePath] -> W.Result
 md_page cf p = do
   let p' = L.lt_markdown_file_name p
   h <- C.liftIO (L.lt_markdown_to_html (add_prefix cf) p')
-  cs <- C.liftIO (L.lt_img_data cf)
-  let h' = L.lt_std_html cf cs p (H.cdata_raw h)
+  let h' = L.lt_std_html cf p (H.cdata_raw h)
   W.utf8_html_output (H.renderHTML5 h')
 
 ph_page_def :: L.Config -> W.Result

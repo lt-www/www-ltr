@@ -47,13 +47,9 @@ lt_menu_items =
     [{-"home",-}
      "news","shows","albums","shop","press","photos","contact"]
 
-lt_menu :: (String->String) -> [I.Img] -> [(String,String)]
-lt_menu cf cs =
-    let ph = let (_,y) = I.img_initial cs
-             in "photos" </> y
-        f x = case x of
-                "photos" -> (cf "photos",ph)
-                _ -> (cf x,x)
+lt_menu :: (String -> String) -> [(String,String)]
+lt_menu cf =
+    let f x = (cf x,x)
     in map f lt_menu_items
 
 lt_class_tag :: [String] -> String
@@ -90,14 +86,14 @@ std_copyright cf p =
          ,H.a [H.href H.w3_css_validator] [H.cdata "css"]
          ,H.a [H.href (lt_edit_ln cf p)] [H.cdata "."]]
 
-std_menu :: Config -> [I.Img] -> String -> X.Content
-std_menu cf im nm =
+std_menu :: Config -> String -> X.Content
+std_menu cf nm =
     let cl = H.class' "menu"
         f (m,p_) =
             let a_cl = H.class' (if m == nm then "here" else "not-here")
                 ln = H.href (lt_base cf p_)
             in H.li [cl] [H.a [a_cl,ln] [H.cdata m]]
-    in H.nav [cl] [H.ul [cl] (map f (lt_menu title_case im))]
+    in H.nav [cl] [H.ul [cl] (map f (lt_menu title_case))]
 
 lt_h1 :: X.Content
 lt_h1 =
@@ -105,13 +101,13 @@ lt_h1 =
     in H.a [H.class' "h1",H.href lt_site] [t]
 
 -- > joinPath ["a","b"] == "a/b"
-lt_std_html :: Config -> [I.Img] -> [String] -> X.Content -> X.Element
-lt_std_html cf im p t =
+lt_std_html :: Config -> [String] -> X.Content -> X.Element
+lt_std_html cf p t =
     let n_ = lt_class_tag p
         a_ = joinPath p
         m_ = std_meta cf a_
         x_ = H.div [H.class' "content"] [lt_h1,t]
-        b_ = [std_menu cf im n_,x_,std_copyright cf a_]
+        b_ = [std_menu cf n_,x_,std_copyright cf a_]
     in std_html [H.head [] m_
                 ,H.body [H.class' n_] [H.div [H.class' "main"] b_]]
 
@@ -192,7 +188,7 @@ photos_page cf im sm c nb =
                     ,H.span [] c_
                     ,arrows cf nb]
         x_ = H.div [H.class' "content"] [g_,i_,I.img_preload 450 (rt,lt_base cf) im c]
-        b_ = [std_menu cf im "photos",lt_h1,sm,x_]
+        b_ = [std_menu cf "photos",lt_h1,sm,x_]
     in std_html [H.head [] m_
                 ,H.body [H.class' "photos"] [H.div [H.class' "main"] b_]]
 
