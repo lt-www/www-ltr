@@ -1,5 +1,5 @@
 build-ghc:
-	(cd hs ; make build-ghc)
+	(cd hs ; make build-static-ghc ; make build-cgi-ghc)
 
 build-cabal:
 	cabal configure --disable-optimisation

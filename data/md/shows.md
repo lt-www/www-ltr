@@ -1,5 +1,3 @@
-* * * * *   
-
 *more duet shows with [Hamish Stuart][97]...*  
 
 **TASMANIA** 
