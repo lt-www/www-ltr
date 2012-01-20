@@ -7,6 +7,7 @@ import System.Directory {- directory -}
 import System.FilePath {- filepath -}
 import qualified System.IO.UTF8 as U {- utf8-string -}
 import qualified Text.HTML.Light as H {- html-minimalist -}
+import qualified WWW.Minus.CGI as W
 import qualified WWW.Minus.Edit as E
 
 import qualified LTR as L
@@ -40,14 +41,14 @@ make_file cf (p_, nm) = do
   U.writeFile hfn h'
   when (nm == "home") (U.writeFile (L.lt_dir cf </> "index.html") h')
 
-edit_post_mk :: L.Config -> [FilePath] -> E.Config -> E.Result
+edit_post_mk :: L.Config -> [FilePath] -> E.Config -> W.Result
 edit_post_mk cf p e = do
   let ln = "/" </> L.lt_html_file_name p
   r <- E.edit_post e ln
   C.liftIO (make_file cf (L.lt_clear_path p))
   return r
 
-rebuild_get :: L.Config -> E.Result
+rebuild_get :: L.Config -> W.Result
 rebuild_get cf = do
   md <- C.liftIO (L.lt_md (L.lt_dir cf </> "data/md"))
   let l = concatMap (\(p, ns) -> map (\n -> (p, n)) ns) md
@@ -56,7 +57,7 @@ rebuild_get cf = do
                L.lt_write_photos_pages cf)
   E.std_reply e_config "rebuild_get" "rebuild completed"
 
-photos_post :: L.Config -> E.Result
+photos_post :: L.Config -> W.Result
 photos_post cf = do
   text <- C.getInput "text"
   let file = "data/config/photos.hs"
@@ -67,20 +68,20 @@ photos_post cf = do
                L.lt_write_photos_pages cf)
   E.std_reply e_config "photos_post" "edit stored"
 
-require_verified :: E.Config -> E.Result -> E.Result
+require_verified :: E.Config -> W.Result -> W.Result
 require_verified e y = do
   v <- E.validated e
   let l = "/administration.cgi/login"
       n = E.message_link "require_verified" "un-verified" l
   if v then y else E.output_html n
 
-request_dispatch :: L.Config -> String -> [String] -> C.CGI C.CGIResult
-request_dispatch cf m a =
+request_dispatch :: L.Config -> W.Dispatch
+request_dispatch cf (m,p,q) =
     let e = e_config
         v = require_verified e
-    in case (m,a) of
-         ("GET",("edit":p)) -> v (E.edit_get (L.lt_markdown_file_name p))
-         ("POST",("edit":p)) -> v (edit_post_mk cf p e)
+    in case (m,p) of
+         ("GET",("edit":p')) -> v (E.edit_get (L.lt_markdown_file_name p'))
+         ("POST",("edit":p')) -> v (edit_post_mk cf p' e)
          ("GET",["login"]) -> E.login_get
          ("POST",["login"]) -> E.login_post e
          ("GET",["logout"]) -> E.logout_get e
@@ -89,26 +90,13 @@ request_dispatch cf m a =
          ("GET",["rebuild"]) -> v (rebuild_get cf)
          ("GET",["photos"]) -> v (E.edit_get "data/config/photos.hs")
          ("POST",["photos"]) -> v (photos_post cf)
-         _ -> E.unknown_request m a
-
--- | If the initial entry is root, discard it.
-drop_root :: [FilePath] -> [FilePath]
-drop_root p =
-    case p of
-      "/":p' -> p'
-      _ -> p
-
-cgi_main :: L.Config -> C.CGI C.CGIResult
-cgi_main cf = do
-  method <- C.requestMethod
-  path <- return . drop_root . splitDirectories =<< C.pathInfo
-  request_dispatch cf method path
+         _ -> E.unknown_request (m,p,q)
 
 lt_static_config :: L.Config
 lt_static_config = L.Config "/" "." True
 
 main :: IO ()
-main = C.runCGI (C.handleErrors (cgi_main lt_static_config))
+main = W.run_cgi lt_static_config request_dispatch
 
 cf_rebuild :: L.Config -> IO ()
 cf_rebuild = C.runCGI . C.handleErrors . rebuild_get
