@@ -9,6 +9,7 @@ Redirect permanent /error /?p=error
 Redirect permanent /forms /?p=forms
 Redirect permanent /home /?p=home
 Redirect permanent /news /?p=news
+Redirect permanent /photos /?p=photos
 Redirect permanent /press /?p=press
 Redirect permanent /shop /?p=shop
 Redirect permanent /shows /?p=shows
