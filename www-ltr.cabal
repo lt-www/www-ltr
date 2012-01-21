@@ -11,22 +11,28 @@ cabal-version:     >= 1.8
 
 data-files:        README
                    Makefile
-                   lt.css
-                   images/camera/*.jpg
-                   images/cover/*.jpg
-                   images/front/*.jpg
-                   images/photos/*.jpg
-                   images/working/*.jpg
-                   md/*.md
-                   md/albums/*.md
-                   md/error/*.md
-                   md/forms/*.md
-                   md/news/*.md
-                   md/photos/*.md
-                   md/shop/*.md
-                   md/shows/*.md
-                   md/songs/*.md
-                   pr/*.pdf
+                   css/lt.css
+                   data/config/htaccess
+                   data/config/*.hs
+                   data/font/*.otf
+                   data/font/*.ttf
+                   data/image/cover/*.jpg
+                   data/image/front/*.jpg
+                   data/image/photos/*.jpg
+                   data/image/working/*.jpg
+                   data/md/*.md
+                   data/md/albums/*.md
+                   data/md/error/*.md
+                   data/md/forms/*.md
+                   data/md/news/*.md
+                   data/md/photos/*.md
+                   data/md/shop/*.md
+                   data/md/shows/*.md
+                   data/md/songs/*.md
+                   data/mp3/*.mp3
+                   data/pr/*.pdf
+                   data/swf/*.swf
+                   data/xspf/*.xspf
 
 executable ltr-cgi
   build-depends:   base == 4.*,
