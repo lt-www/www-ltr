@@ -28,9 +28,6 @@
 you can [join lucie's mailing list][9], visit [lucie's myspace page][10], 
 visit [lucie's facebook page][23], or [send lucie a message][11] online.
 
-
-
-
   [9]: forms/mailing-list/
   [10]: http://www.myspace.com/luciethornemusic  
   [11]: forms/send-message/  
