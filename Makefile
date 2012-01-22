@@ -12,5 +12,11 @@ clean:
 	(cd hs ; make clean)
 	rm -f index.cgi
 
-push:
+push-sp:
 	git push sp
+
+pull-sp:
+	git pull sp master
+
+add-sp-remote:
+	git remote add sp ssh://rd@slavepianos.org/~rd/ut/www-ltr.git
