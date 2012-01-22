@@ -51,7 +51,7 @@ d_page cf d =
 e_config :: E.Config
 e_config =
     E.Config {E.cfg_vcs = Just E.Git
-             ,E.cfg_author = "lucie thorne"
+             ,E.cfg_author = "lucie thorne <lucie@luciethorne.com>"
              ,E.cfg_url = "http://luciethorne.com"
              ,E.cfg_pwd = P.lt_pwd}
 
