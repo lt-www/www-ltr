@@ -1,4 +1,3 @@
-
 **VICTORIA**  
 
 **Saturday 28th January 2012**  
@@ -60,7 +59,7 @@ details tba
 
 * * * * *    
 
-**PIETA BROWN (USA) - AUSTRALIAN TOUR 2012**  
+**[PIETA BROWN][81] (USA) - AUSTRALIAN TOUR 2012**  
 with special guest LUCIE THORNE  
 
 **Tuesday 13th March 2012**  
