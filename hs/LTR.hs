@@ -68,6 +68,7 @@ std_meta cf dsc =
     ,H.meta_author "lucie thorne"
     ,H.meta_content_type "text/html; charset=UTF-8"
     ,H.link_css "all" (lt_css cf)
+    ,H.link_rss "rss" "?p=news/rss.xml"
     ,H.meta_viewport "width=device-width,initial-scale=1,user-scalable=yes"]
 
 std_html :: [X.Content] -> X.Element
