@@ -42,7 +42,7 @@ ph_page cf x =
       i:_ -> ph_page_i cf i
       _ -> ph_page_def cf
 
-d_page :: L.Config -> [[Char]] -> W.Result
+d_page :: L.Config -> [String] -> W.Result
 d_page cf d =
     case d of
       "photos":i -> ph_page cf i

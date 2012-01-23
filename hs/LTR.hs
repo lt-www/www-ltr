@@ -205,8 +205,10 @@ lt_photo_page_io cf i = lt_img_data cf >>= return . lt_photo_page cf i
 lt_photo_page_io_id :: Config -> I.Id -> IO String
 lt_photo_page_io_id cf i = do
   im <- lt_img_data cf
-  let x:_ = I.img_find i im
-  return (lt_photo_page cf x im)
+  let r = case I.img_find i im of
+            [] -> lt_photo_page cf (I.img_initial im) im
+            x:_ -> lt_photo_page cf x im
+  return r
 
 lt_img_reductions :: Config -> IO ()
 lt_img_reductions cf = do

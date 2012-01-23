@@ -14,3 +14,5 @@ Redirect permanent /press /?p=press
 Redirect permanent /shop /?p=shop
 Redirect permanent /shows /?p=shows
 Redirect permanent /songs /?p=songs
+
+Redirect permanent /camera /?p=photos
