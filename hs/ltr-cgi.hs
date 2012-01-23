@@ -3,7 +3,7 @@ import qualified Network.CGI as C {- cgi -}
 import qualified Text.HTML.Light as H {- html-minimalist -}
 import System.FilePath {- filepath -}
 import qualified WWW.Minus.CGI as W {- hwww-minus -}
-import qualified WWW.Minus.Edit as E
+import qualified WWW.Minus.CGI.Editor as W
 
 import qualified Img as I
 import qualified LTR as L
@@ -48,25 +48,25 @@ d_page cf d =
       "photos":i -> ph_page cf i
       _ -> md_page cf d
 
-e_config :: E.Config
+e_config :: W.Config
 e_config =
-    let v = Just (E.Git,("lucie thorne <lucie@luciethorne.com>",Just "sp"))
-    in E.Config {E.cfg_vcs = v
-                ,E.cfg_url = "http://luciethorne.com"
-                ,E.cfg_pwd = Just P.lt_pwd}
+    let v = Just (W.Git,("lucie thorne <lucie@luciethorne.com>",Just "sp"))
+    in W.Config {W.cfg_vcs = v
+                ,W.cfg_url = "http://luciethorne.com"
+                ,W.cfg_pwd = Just P.lt_pwd}
 
-photos_post :: E.Config -> L.Config -> W.Result
+photos_post :: W.Config -> L.Config -> W.Result
 photos_post e cf = do
-  r <- E.edit_post e "/"
+  r <- W.edit_post e "/"
   C.liftIO (L.lt_img_reductions cf)
   return r
 
-require_verified :: E.Config -> W.Result -> W.Result
+require_verified :: W.Config -> W.Result -> W.Result
 require_verified e y = do
-  v <- E.validated e
+  v <- W.validated e
   let l = "?o=login"
-      n = E.message_link "require_verified" "un-verified" l
-  if v then y else E.output_html n
+      n = W.message_link "require_verified" "un-verified" l
+  if v then y else W.output_html n
 
 -- > splitDirectories "photos/fence" == ["photos","fence"]
 dispatch :: L.Config -> W.Parameters -> W.Result
@@ -75,17 +75,17 @@ dispatch cf (m,p,q) =
         v = require_verified e
     in case (m,p,q) of
          ("GET",_,[("p",d)]) -> d_page cf (splitDirectories d)
-         ("GET",_,[("e",d)]) -> v (E.edit_get (L.lt_markdown_file_name_f d))
-         ("POST",_,[("e",d)]) -> v (E.edit_post e ("?p=" ++ d))
-         ("GET",_,[("o","login")]) -> E.login_get
-         ("POST",_,[("o","login")]) -> E.login_post e
-         ("GET",_,[("o","logout")]) -> E.logout_get e
-         ("GET",_,[("o","upload")]) -> v E.upload_get
-         ("POST",_,[("o","upload")]) -> v (E.upload_post e)
-         ("GET",_,[("o","photos")]) -> v (E.edit_get "data/config/photos.hs")
+         ("GET",_,[("e",d)]) -> v (W.edit_get (L.lt_markdown_file_name_f d))
+         ("POST",_,[("e",d)]) -> v (W.edit_post e ("?p=" ++ d))
+         ("GET",_,[("o","login")]) -> W.login_get
+         ("POST",_,[("o","login")]) -> W.login_post e
+         ("GET",_,[("o","logout")]) -> W.logout_get e
+         ("GET",_,[("o","upload")]) -> v W.upload_get
+         ("POST",_,[("o","upload")]) -> v (W.upload_post e)
+         ("GET",_,[("o","photos")]) -> v (W.edit_get "data/config/photos.hs")
          ("POST",_,[("o","photos")]) -> v (photos_post e cf)
          ("GET",_,_) -> d_page cf p
-         _ -> E.unknown_request (m,p,q)
+         _ -> W.unknown_request (m,p,q)
 
 main :: IO ()
 main = W.run_cgi (L.Config ("?p=" ++) "." True) dispatch
