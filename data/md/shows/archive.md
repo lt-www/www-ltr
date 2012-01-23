@@ -2,6 +2,25 @@
 
 **TASMANIA**  
 
+**Sunday 22nd January 2012**  
+BROOKFIELD VINEYARD, Margate       
+
+**Saturday 21st January 2012**  
+THE ALLEY CAT, Hobart  
+plus special guests *Slings & Arrows*           
+   
+**Friday 20th January 2012**  
+FRESH ON CHARLES, Launceston    
+plus special guests *Slings & Arrows*      
+
+**Friday 20th January 2012**  
+Live to Air performance and interview on *Statewide Mornings*, with Sarah Gillman.  
+ABC Radio. 10.30am.  
+
+**Wednesday 18th January 2012**  
+THE LITTLE THEATRE, Deloraine  
+plus special guests *Slings & Arrows*      
+  
 **Sunday 15th January 2012**    
 TAMAR VALLEY FOLK FESTIVAL, Georgetown   
 Memorial Hall.   
@@ -9,6 +28,8 @@ Memorial Hall.
 **Saturday 14th January 2012**  
 TAMAR VALLEY FOLK FESTIVAL, Georgetown    
 Memorial Hall.  
+
+* * * * *    
 
 **NSW**  
 
