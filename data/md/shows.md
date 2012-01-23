@@ -92,25 +92,38 @@ details tba
 with special guest LUCIE THORNE  
 
 **Tuesday 13th March 2012**  
-BELLA UNION at Trades Hall, Carlton, Melbourne, VIC  
-tickets on sale soon                  
+[BELLA UNION at Trades Hall][105], Carlton, Melbourne, VIC  
+8pm  
+Tickets $25/$22 + bf presale    
+($30/$25 at the door - if available)  
+[Tickets on sale now through the venue][105]                    
    
 **Wednesday 14th March 2012**  
 [CARNIVAL OF SUBURBIA][104] at  
-OAKLEIGH MASONIC HALL, Oakleigh, Melbourne, VIC  
-tickets on sale soon  
+[CARAVAN MUSIC CLUB][106], Oakleigh, Melbourne, VIC  
+8pm  
+Tickets $30 + bf presale   
+($32 at the door - if available)  
+[Tickets on sale now through the venue][106]    
 
 **Thursday 15th March 2012**  
-THE CAMELOT LOUNGE, Marrickville, Sydney, NSW  
-tickets on sale soon      
+[THE CAMELOT LOUNGE][90], Marrickville, Sydney, NSW  
+8pm   
+Tickets $27 / $ 22 + bf presale   
+($30 / $25 at the door - if available)  
+[Tickets on sale now through the venue][107] 
 
 **Friday 16th March 2012**  
-THE POLISH CLUB, Turner, Canberra, ACT   
-tickets on sale soon      
-
+THE POLISH CLUB, Turner, Canberra, ACT       
+8pm   
+Tickets $25 / $ 22 + bf presale   
+($30 / $25 at the door - if available)  
+[Tickets on sale now through Moshtix][108] 
+      
 **Saturday 17th March 2012**  
 STAR COURT THEATRE, Lismore, NSW      
-tickets on sale soon   
+7.30pm   
+Tickets $34 - [on sale now through the venue][107]   
 
 * * * * *   
 
@@ -148,3 +161,8 @@ tickets on sale soon
 [102]: http://www.ellingtonjazz.com.au/index.php/schedule/month/02/show/1689
 [103]: http://www.wauchopearts.org.au/
 [104]: http://www.carnivalofsuburbia.com   
+[105]: http://www.bellaunion.com.au/ticketing/show_535/
+[106]: http://www.caravanmusic.com.au/gigs/pieta-brown/
+[107]: http://www.trybooking.com/BCUB
+[108]: http://www.moshtix.com.au/event.aspx?id=54131&ref=pietabrownpolishclub
+[109]: http://www.starcourttheatre.com.au/shows
