@@ -1,30 +1,5 @@
 *more duet shows with [Hamish Stuart][97]...*  
 
-**TASMANIA** 
-
-**Wednesday 18th January 2012**  
-THE LITTLE THEATRE, Deloraine  
-plus special guests *Slings & Arrows*      
-7.30pm / Tickets $15 at the door      
-
-**Friday 20th January 2012**  
-Live to Air performance and interview on *Statewide Mornings*, with Sarah Gillman.  
-ABC Radio. 10.30am.  
-   
-
-**Friday 20th January 2012**  
-FRESH ON CHARLES, Launceston    
-plus special guests *Slings & Arrows*      
-8pm / Tickets $15 at the door      
-
-**Saturday 21st January 2012**  
-THE ALLEY CAT, Hobart  
-plus special guests *Slings & Arrows*      
-8pm / Tickets $15 at the door     
-
-**Sunday 22nd January 2012**  
-BROOKFIELD VINEYARD, Margate       
-4.30pm / Tickets $15 at the door    
 
 * * * * *   
 
