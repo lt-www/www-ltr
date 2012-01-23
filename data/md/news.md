@@ -1,152 +1,132 @@
-### 17th january 2012
+### 17 january 2012 | Pieta Brown
 
 News Flash! We're very pleased to be able to let you know that Lucie will be joining the fabulous [Pieta Brown][81] and her trio for their Australian tour in March 2012. These [tour dates have just been announced][14], and tickets for the shows will go on sale on Monday 23rd January.
 
-In the meantime, Lucie's summer tour continues... with four more shows
-across Tasmania this week... [details here][14]
+In the meantime, Lucie's summer tour continues... with four more shows across Tasmania this week... [details here][14]
 
-### 12th december 2011   
+### 12 december 2011 | RockWiz
 
-Check out [Lucie's recent appearance on SBS televsion show RockWiz here][100]. As well as a rather alarmingly detailed knowledge of her 'special category'...  the show also features a live performance of [Can't Sleep For Dreaming with the RocKwiz Orkestra][101]  
+Check out [Lucie's recent appearance on SBS televsion show RockWiz here][100]. As well as a rather alarmingly detailed knowledge of her 'special category'...  the show also features a live performance of [Can't Sleep For Dreaming with the RocKwiz Orkestra][101]
 
-### 14th november 2011  
+### 14 november 2011 | Summer Tour
 
 Lots of Lucie's 2012 [summer tour dates][14] have just been announced... with shows in Tassie, Western Australia, NSW and Victoria... and festival performances at the [Tathra Summer Music Festival][98.1], Tamar Valley Folk Fest, [Corinbank][99], and [Port Fairy][99.1]! with more dates added soon... [visit the shows page][14] for details...
 
-### 20th october 2011  
+### 20 october 2011 | Rolling Stone
 
-Lucie is featured in the November edition of Rolling Stone magazine's ['Ten New Female Artists To Get Excited About'][97]! 
+Lucie is featured in the November edition of Rolling Stone magazine's ['Ten New Female Artists To Get Excited About'][97]!
 
-And there is now another [live clip][97.1] - courtesy of ABC south east - of a version of 'Till The Season', filmed at The Tanja Hall last month.     
+And there is now another [live clip][97.1] - courtesy of ABC south east - of a version of 'Till The Season', filmed at The Tanja Hall last month.
 
-From next weekend it's back on the road for the rest of the spring, with more duo shows with Hamish Stuart, starting with two sweet old country halls in Nellingen and Milton, October 28th & 29th... [details here][14]  
+From next weekend it's back on the road for the rest of the spring, with more duo shows with Hamish Stuart, starting with two sweet old country halls in Nellingen and Milton, October 28th & 29th... [details here][14]
 
-### 5th october 2011  
+### 5 october 2011 | Music Deli
 
-This Friday night October 7th Radio National's [Music Deli][96] will feature Lucie performing live in the studio in duet with Hamish Stuart. The show airs at 7pm, with a repeat on Sunday 9th Oct at 4pm.   
+This Friday night October 7th Radio National's [Music Deli][96] will feature Lucie performing live in the studio in duet with Hamish Stuart. The show airs at 7pm, with a repeat on Sunday 9th Oct at 4pm.
 
-In other news, there are some new live clips of Lucie and Hamish up on the internets; a selection of songs from their recent performance at the [Guildford Music Hall here][95.1], and a version of 'Northern Town' filmed by ABC south east at The Tanja Hall [here][95].   
+In other news, there are some new live clips of Lucie and Hamish up on the internets; a selection of songs from their recent performance at the [Guildford Music Hall here][95.1], and a version of 'Northern Town' filmed by ABC south east at The Tanja Hall [here][95].
 
-### 19th september 2011  
+### 19 september 2011 | Mullum Music Festival
 
 More dates have just been announced across NSW and QLD through the spring, including some more sweet old country hall shows, and a return to the best little fest in the land - [The Mullum Music Festival][46]... [details here][14]
 
-### 13th september 2011 
+### 13 september 2011 | Radio Australia
 
-[Bonfires In Silver City][89] is Album Of The Week on Radio Australia this week! ...and 'Till The Season' from the album is in this week's Amrap 'Great Southern Charts' Top Ten.  The launch tour continues through September with shows across Victoria and South Australia... [details here][14].  
+[Bonfires In Silver City][89] is Album Of The Week on Radio Australia this week! ...and 'Till The Season' from the album is in this week's Amrap 'Great Southern Charts' Top Ten.  The launch tour continues through September with shows across Victoria and South Australia... [details here][14].
 
-### 24th august 2011 
+### 24 august 2011 | News Flash!
 
-News flash: as it turns out...the boys are all in town next Friday night
-and we are in for a bonanza Sydney Album Launch show! Not only will there be duets with th one and only Hamish Stuart; Chris Abrahams, Dave Symes and Carl Dewhurst will all be joining us too! What a coup! Get your [tickets][14] now folks... x
+News flash: as it turns out...the boys are all in town next Friday night and we are in for a bonanza Sydney Album Launch show! Not only will there be duets with th one and only Hamish Stuart; Chris Abrahams, Dave Symes and Carl Dewhurst will all be joining us too! What a coup! Get your [tickets][14] now folks... x
 
-### 19th august 2011 
+### 19 august 2011 | Bonfires In Silver City Album Launch Tour
 
-The [album launch tour][14] starts in just a few days with the first run of shows taking in Kyogle, Brisbane, Byron, Armidale and Bundagen, followed by Newcastle, Sydney, Katoomba and Canberra... joined by a whole lot of very special guests along the way... [tickets and details here][14]. And the [album reviews][13] have continued to roll in with some pretty extraordinary praise ... have a read of [these][13] ... 
+The [album launch tour][14] starts in just a few days with the first run of shows taking in Kyogle, Brisbane, Byron, Armidale and Bundagen, followed by Newcastle, Sydney, Katoomba and Canberra... joined by a whole lot of very special guests along the way... [tickets and details here][14]. And the [album reviews][13] have continued to roll in with some pretty extraordinary praise ... have a read of [these][13] ...
 
-### 8th august 2011  
+### 8 august 2011 | Bonfires In Silver City Out Today
 
 [Bonfires In Silver City][89] hits the shelves - and the internets - TODAY! so you can now head on down to your favourite local record store, visit [iTunes][94], [Vitamin's digital store][93.1] or place a mail order... and get yourselves a copy x [Reviews][13] have started rolling in, and glowing! and the [tour starts][14] in just a couple of weeks...Happy days on they roll... x
 
-### 25th july 2011  
+### 25 july 2011 | Radio National
 
-[Bonfires In Silver City][89] is Album Of The Week this week on Radio National
-Breakfast! [Tune in][92.1] to hear songs from the record across the airwaves... / [Album out 8th August][89].  
+[Bonfires In Silver City][89] is [Album Of The Week][92.2] this week on Radio National Breakfast! [Tune in][92.1] to hear songs from the record across the airwaves... / [Album out 8th August][89].
 
-### 23rd july 2011
+### 23 july 2011 | Bonfires In Silver City
 
-[Details][14] for the first round of dates of Lucie's Australian album launch tour for [Bonfires In Silver City][89] are now up, with [tickets now on sale][14] for many of the shows...   
+[Details][14] for the first round of dates of Lucie's Australian album launch tour for [Bonfires In Silver City][89] are now up, with [tickets now on sale][14] for many of the shows...
 
-### 8th july 2011
+### 8 july 2011 | LT.com Radio
 
-You can now listen to some sneak previews from [Bonfires In Silver City][89]! ... squished little mp3s of the first three songs from the album - Falling, Till The Season, and Can't Sleep For Dreaming - are up on the new 'LT Radio' [here][89].  
+You can now listen to some sneak previews from [Bonfires In Silver City][89]! ... squished little mp3s of the first three songs from the album - Falling, Till The Season, and Can't Sleep For Dreaming - are up on the new 'LT Radio' [here][89].
 
-### 5th july 2011
+### 5 july 2011 | Tour Dates
 
-In anticipation of the imminent release of [Bonfires In Silver City][89], 
-the first round of Lucie's national [album launch tour dates][14] have just
-been announced. More dates and details will be added soon... visit the [shows][14] page or [join the mailing list][92] for updates.  
+In anticipation of the imminent release of [Bonfires In Silver City][89],  the first round of Lucie's national [album launch tour dates][14] have just been announced. More dates and details will be added soon... visit the [shows][14] page or [join the mailing list][92] for updates.
 
-### 21st june 2011
+### 21 june 2011 | Cover Art
 
-Well folks, [Bonfires In Silver City][89] will be hitting the shelves - and the internets - on Monday 8th August. We'll be adding some sneak previews of some of the songs here at LT.com soon, but for now, here's [Rachel Stone's][91] beautiful [cover art][89.1], some [new photos][90] and some [album info][89] to check out.   
+Well folks, [Bonfires In Silver City][89] will be hitting the shelves - and the internets - on Monday 8th August. We'll be adding some sneak previews of some of the songs here at LT.com soon, but for now, here's [Rachel Stone's][91] beautiful [cover art][89.1], some [new photos][90] and some [album info][89] to check out.
 
-### 22nd may 2011
+### 22 may 2011 | Mr Tim Rogers
 
-Lucie returns to The Theatre Royal in Castlemaine on Friday 3rd June,
-this time to play an opening set for Mr Tim Rogers. You can book your tickets [here][88.1]. In other news, this site will be getting a rather major overhaul soon... but in the meantime... there are a few updates and additions to the [press page][13], including our first ever [Transylvanian album review][88], for Black Across The Field, from Romanian Arts, Politics and Music site [CZB][88]. Ah, those Hercules Mirror Shields... everybody should have one...!
+Lucie returns to The Theatre Royal in Castlemaine on Friday 3rd June, this time to play an opening set for Mr Tim Rogers. You can book your tickets [here][88.1]. In other news, this site will be getting a rather major overhaul soon... but in the meantime... there are a few updates and additions to the [press page][13], including our first ever [Transylvanian album review][88], for Black Across The Field, from Romanian Arts, Politics and Music site [CZB][88]. Ah, those Hercules Mirror Shields... everybody should have one...!
 
-### 26th april 2011
+### 26 april 2011 | Recording News
 
-Lucie's new album is well on the way to being finished folks...! It'll be out in August... and we'll be telling you lots more about it real soon.
-In the meantime... there are a few pics and such from the recording session
-at Megaphon studios [here][87]. Lucie will be venturing out from under the headphones for just a couple of shows next month - Thursday 5th May back at the beautiful Theatre Royal in Castlemaine Vic - book now! - ...a special fundraiser gig for the Barmah-Millewa campaign at Friends of The Earth, Melbourne on Friday 6th...and then a two-set show at the Harmonie German Club in ACT... [details here][14].
+Lucie's new album is well on the way to being finished folks...! It'll be out in August... and we'll be telling you lots more about it real soon. In the meantime... there are a few pics and such from the recording session at Megaphon studios [here][87]. Lucie will be venturing out from under the headphones for just a couple of shows next month - Thursday 5th May back at the beautiful Theatre Royal in Castlemaine Vic - book now! - ...a special fundraiser gig for the Barmah-Millewa campaign at Friends of The Earth, Melbourne on Friday 6th...and then a two-set show at the Harmonie German Club in ACT... [details here][14].
 
-### 3rd march 2011
+### 3 march 2011 | Half the Sky & Drill Hall
 
 Lucie will be performing a short set next Tuesday 8th March at the [Thornbury Theatre][85], as part of ['Half The Sky'][86] - Melbourne's celebrations to mark 100 years of International Women's Day. Clare Bowditch, The Stiff Gins, Deborah Conway, Sally Dastey, The Town Bikes and The Red Brigade, are all also performing on the night... and the show has nearly sold out...! so get your tickets quick folks. And just announced, Lucie will be returning to the Northern Rivers at the start of next month for two very special concerts at the beautiful Drill Hall in Mullumbimby, with a selection of some of the finest local talent. Details up now on the [shows][14] page.
 
-### 7th january 2011
+### 7 january 2011 | Music By The Sea
 
 Just one show this month folks - at the [Music By The Sea Festival][83] in Queensland, and then not many shows after that for a while... There will be a couple of performances over the coming months - but for the most part, we're hunkering down out here at LTHQ, working on the next album, and some other exciting recording projects... all of which we'll keep you posted on... more news to follow..!
 
-### 18th november 2010
+### 18 november 2010 | Europe & Pieta Brown
 
-Huge thanks to all those folks who helped make the European tour such
-a success and delight - especially to the crew at Smoked Recordings and Munich/V2 for all their work and support. The Benelux's leading Roots Music Magazine, 'Heaven' - has Black Across The Field as the ['Meesterwerk Feature Album'][82] in their Nov/Dec edition - and we'll have that, along a whole host of other friendly reviews, translated in to English and up on this site soon ( - for those of you whose Dutch isn't what it used to be...). Another special big thanks too to our Romanian friends who've helped and hosted so generously with this last week of the tour x
+Huge thanks to all those folks who helped make the European tour such a success and delight - especially to the crew at Smoked Recordings and Munich/V2 for all their work and support. The Benelux's leading Roots Music Magazine, 'Heaven' - has Black Across The Field as the ['Meesterwerk Feature Album'][82] in their Nov/Dec edition - and we'll have that, along a whole host of other friendly reviews, translated in to English and up on this site soon ( - for those of you whose Dutch isn't what it used to be...). Another special big thanks too to our Romanian friends who've helped and hosted so generously with this last week of the tour x
 
-Lucie plays her first show back in Australia this Monday night,
-supporting a couple of her very favourites - [Pieta Brown & Bo Ramsey][81] -
-at The Basement in Sydney. Then it's up to one of the best little festivals
-in the country - [The Mullum Music Festival][46] - and then a handful of
-end-of-year shows through NSW and Victoria with the one n only Jo Jo Smith.
-Details on the [shows][14] page.
+Lucie plays her first show back in Australia this Monday night, supporting a couple of her very favourites - [Pieta Brown & Bo Ramsey][81] - at The Basement in Sydney. Then it's up to one of the best little festivals in the country - [The Mullum Music Festival][46] - and then a handful of end-of-year shows through NSW and Victoria with the one n only Jo Jo Smith. Details on the [shows][14] page.
 
-### 6th october 2010
+### 6 october 2010 | Benelux
 
 [Black Across The Field][16] has hit the shelves across the Benelux - courtesy of our good friends at [Smoked Recordings][38] and Munich/V2 distribution. And the local reviews have been rolling in - and glowing! Here are a couple: four stars from Norbert Tebarts in [Written In Music][41], and this from Jan Willem Broek at [Subjectivisten][40]. The European tour has been off to a great start with some super-sweet shows in Tuscany and Paris - big thanks to all those who have come out to the shows, and helped and hosted along the way so far x One show in beautiful Totnes tomorrow night, and then next stop - Berlin, with a whole bunch of shows across Germany from this Saturday... on it rolls... [updated details here][14]...
 
-### 27th august 2010
+### 27 august 2010 | Smoked Recordings
 
-We're very pleased to let you know that [Black Across The Field][16] will be
-released across the Benelux on October 4th through boutique Netherlands-based label [Smoked Recordings][38]. Lucie will be touring Europe for a couple of months from mid September - and lots of these tour dates and details are up on the [shows][14] page now - with more coming soon.
+We're very pleased to let you know that [Black Across The Field][16] will be released across the Benelux on October 4th through boutique Netherlands-based label [Smoked Recordings][38]. Lucie will be touring Europe for a couple of months from mid September - and lots of these tour dates and details are up on the [shows][14] page now - with more coming soon.
 
-In other news, there are a couple of new clips out there on the internets
-- courtesy of ABC South East - one of Lucie recording the draft of a new song,
-['Falling'][39], with Hamish Stuart, in her home studio at Bimbaya back in June,
-and a version of ['Over In Threes'][39.1] live from the Candelo Town Hall later that same day.
+In other news, there are a couple of new clips out there on the internets - courtesy of ABC South East - one of Lucie recording the draft of a new song, ['Falling'][39], with Hamish Stuart, in her home studio at Bimbaya back in June, and a version of ['Over In Threes'][39.1] live from the Candelo Town Hall later that same day.
 
-### 19th july 2010
+### 19 july 2010 | Notes & NSC
 
 Just a few Aussie shows left till the summertime folks - including this Thursday 22nd July at [NOTES LIVE][37] in Sydney, and Thursday 19th August at The [NORTHCOTE SOCIAL CLUB][37.1] in Melbourne. [More info here...][14]
 
-### 28th june 2010
+### 28 june 2010 | Europe Tour Dates
 
 Lucie will be heading back to Europe later in the year - and the first round of these [tour dates][14] have just been announced, with details and more shows - in Italy, France, Germany and The Netherlands - to be announced soon.
 
-### 31st may 2010
+### 31 may 2010 | Candelo & Murrah
 
-Two very special shows coming up this weekend - back in the beautiful Bega Valley, in duet with the one n only Hamish Stuart - Friday 4th June at The Candelo Town Hall, and Saturday 5th June at The Murrah Hall. These have gotta be two of the sweetest little concert halls in the country x And it's Dr Stuart's debut appearance at both - so come on out and bring yr friends.
-We've also just listed a whole bunch of details for late June/July tour dates on the [shows][14] page - with dates in Vic, Qld, NSW and ACT...
+Two very special shows coming up this weekend - back in the beautiful Bega Valley, in duet with the one n only Hamish Stuart - Friday 4th June at The Candelo Town Hall, and Saturday 5th June at The Murrah Hall. These have gotta be two of the sweetest little concert halls in the country x And it's Dr Stuart's debut appearance at both - so come on out and bring yr friends. We've also just listed a whole bunch of details for late June/July tour dates on the [shows][14] page - with dates in Vic, Qld, NSW and ACT...
 
-### 23rd march 2010
+### 23 march 2010 | LT & Leonard Cohen
 
-This week Universal are releasing a 2CD compiliation, 'Chillseeker', which includes Lucie's [When The Lights Go Down][36.1] from [Black Across The Field][16]. Other artists on the compilation include Radiohead, Leonard Cohen, Joan As Policewoman, Ray LaMontagne, Nick Drake, Neko Case, Jeff Buckley, Regina Spektor, Florence + The Machine, Sia, and many more...!
-'Chillseeker' will be available in stores and online from March 26th.
+This week Universal are releasing a 2CD compiliation, 'Chillseeker', which includes Lucie's [When The Lights Go Down][36.1] from [Black Across The Field][16]. Other artists on the compilation include Radiohead, Leonard Cohen, Joan As Policewoman, Ray LaMontagne, Nick Drake, Neko Case, Jeff Buckley, Regina Spektor, Florence + The Machine, Sia, and many more...! 'Chillseeker' will be available in stores and online from March 26th.
 
-### 14th february 2010
+### 14 february 2010 | Australian Music Prize Short List
 
 More good news from LTHQ: it has just been announced that [Black Across The Field][16] is one of nine albums Short Listed for the 2009 [Australian Music Prize][36], alongside Kid Sam, Sarah Blasko, Black Cab, Lisa Mitchell, Oh Mercy, Urthboy, Bertie Blackman and The Mess Hall. The AMP awards are announced in March...
 
-### 26th december 2009
+### 26 december 2009 | SMH Best Roots Album of 2009
 
 It sure has been a big ol' year out here at LTHQ - and to cap it off, we're very pleased to let you know that [Black Across The Field][16] has been named "Best Roots Album of 2009" in The Sydney Morning Herald, and has also made the cut in other 'Best Albums' lists in Rhythms Magazine, and Melbourne's Herald Sun.  There's just one more show for the year - tomorrow night, at The Basement in Sydney, with Mr Tim Freedman, and then its off to that fine southern Isle of Tas in the new year. Details up now on the the [shows][14] page...
 
-### 7th december 2009
+### 7 december 2009 | Australian Music Prize Long List
 
 In news just in - [Black Across The Field][16] has been included in the 2009 Australian Music Prize Long List. (The short-list will be announced in February...)
 
-### 11th november 2009
+### 11 november 2009 | Totnes & Music Deli
 
 The European tour has come to an end (with a beautiful last-show-of-th-tour, to another packed house, in Totnes - thanks folks x). Lucie will be back playing in Australia at the end of the month; including three performances at [The Mullum Music Fest][34.1], and a handful of other shows in Queensland and Northern NSW - [details here][14].
 
@@ -205,6 +185,7 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [91]: http://www.milkymoondesign.com/
 [92]: forms/mailing-list/
 [92.1]: http://www.abc.net.au/rn/breakfast/
+[92.1]: http://www.abc.net.au/radionational/programs/breakfast/album-of-the-week-bonfires-in-silver-city--amy/2925112
 [93.1]: http://www.vitamin.net.au/albumdefault.asp?ai=471
 [94]: http://itunes.apple.com/au/album/great-wave/id455221727?i=455221736&ign-mpt=uo%3D4
 [95]: http://www.abc.net.au/local/videos/2011/09/22/3323241.htm
@@ -213,15 +194,14 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [97]: data/image/photos/pr-rs.jpg
 [97.1]: http://www.abc.net.au/local/videos/2011/10/18/3342676.htm
 [98.1]: http://www.tathrahotel.com.au/Tathra_Hotel/News.html
-[99]: http://www.corinbank.com/  
+[99]: http://www.corinbank.com/
 [99.1]: http://www.portfairyfolkfestival.com/?p=1400#more-1400
 [100]: http://www.sbs.com.au/ondemand/video/2174982667/RocKwiz-S9-Ep124-Lucie-Thorn-Ronnie-Charles
 [101]: http://www.sbs.com.au/ondemand/video/2174968428/RocKwiz-S9-Ep124-Lucie-Thorn-Solo-Performance
 
-### old news
+### old news | archive
 
 if you care to know it, there is still all of the [old news][1.1]...
 
 [1.1]: news/archive
 [2]: http://blogs.myspace.com/luciethornemusic
-

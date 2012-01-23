@@ -132,13 +132,17 @@ lt_no_file =
             ,"we might have moved it a little?"
             ,"please try finding it using the menu."]
 
-lt_markdown_to_html :: (P.Target -> P.Target) -> FilePath -> IO String
-lt_markdown_to_html tf fn = do
-  s <- read_file_or lt_no_file fn
-  let p = P.defaultParserState {P.stateSmart = True}
-      d = P.readMarkdown p (s ++ "\n")
-      d' = revise_ln tf d
-  return (P.writeHtmlString P.defaultWriterOptions d')
+lt_markdown_to_html :: (P.Target -> P.Target) -> String -> String
+lt_markdown_to_html tf s =
+    let p = P.defaultParserState {P.stateSmart = True}
+        d = P.readMarkdown p (s ++ "\n")
+        d' = revise_ln tf d
+    in P.writeHtmlString P.defaultWriterOptions d'
+
+lt_markdown_to_html_io :: (P.Target -> P.Target) -> FilePath -> IO String
+lt_markdown_to_html_io tf fn =
+    let f = lt_markdown_to_html tf
+    in fmap f (read_file_or lt_no_file fn)
 
 -- | Special case for the 'home' file.
 lt_markdown_file_name_f :: FilePath -> FilePath

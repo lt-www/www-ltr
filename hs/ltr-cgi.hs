@@ -7,6 +7,7 @@ import qualified WWW.Minus.CGI.Editor as W
 
 import qualified Img as I
 import qualified LTR as L
+import qualified News as N
 import qualified Pwd as P
 
 add_prefix :: L.Config -> (String,String) -> (String,String)
@@ -20,7 +21,7 @@ add_prefix c (d,t) =
 md_page :: L.Config -> [FilePath] -> W.Result
 md_page cf p = do
   let p' = L.lt_markdown_file_name p
-  h <- C.liftIO (L.lt_markdown_to_html (add_prefix cf) p')
+  h <- C.liftIO (L.lt_markdown_to_html_io (add_prefix cf) p')
   let h' = L.lt_std_html cf p (H.cdata_raw h)
   W.utf8_html_output (H.renderHTML5 h')
 
@@ -45,6 +46,7 @@ ph_page cf x =
 d_page :: L.Config -> [String] -> W.Result
 d_page cf d =
     case d of
+      ["news","rss.xml"] -> rss_news cf
       "photos":i -> ph_page cf i
       _ -> md_page cf d
 
@@ -67,6 +69,14 @@ require_verified e y = do
   let l = "?o=login"
       n = W.message_link "require_verified" "un-verified" l
   if v then y else W.output_html n
+
+rss_news :: L.Config -> W.Result
+rss_news cf = do
+  s <- C.liftIO (L.read_file_or "" "data/md/news.md")
+  let n = N.parse s
+      f = L.lt_markdown_to_html (add_prefix cf)
+      x = N.rss_s f n
+  W.utf8_ct_output "application/rss+xml" x
 
 -- > splitDirectories "photos/fence" == ["photos","fence"]
 dispatch :: L.Config -> W.Parameters -> W.Result
