@@ -1,7 +1,5 @@
 - Lucie Thorne [Biography][25] (pdf), October 2011  
 
-* * * * *  
-
 ### Bonfires In Silver City   
 
 "_Bonfires In Silver City_ reveals a subtlety and craft that eclipses Thorne's prior work."  **_Martin Jones, Rhythms Magazine, August 2011_**    
