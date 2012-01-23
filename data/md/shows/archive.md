@@ -1,5 +1,7 @@
 ## shows/archive
 
+*more duet shows with [Hamish Stuart][97]...*    
+
 **TASMANIA**  
 
 **Sunday 22nd January 2012**  
@@ -914,7 +916,7 @@ RSL, Tamar Valley Folk Festival.
 [96.6]: http://www.theelliscollective.com
 [96.7]: http://www.triplejunearthed.com/birdsandbelles
 [96.8]: http://www.myspace.com/denhanrahan
-[97]: http://www.hamishstuart.net/fr_home.cfm[89]:  
+[97]: http://www.hamishstuart.net/fr_home.cfm  
 [97.1]: http://www.abc.net.au/rn/musicdeli/
 [98.1]: http://www.tathrahotel.com.au/Tathra_Hotel/News.html
 
