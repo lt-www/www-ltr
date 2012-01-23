@@ -1,7 +1,3 @@
-*more duet shows with [Hamish Stuart][97]...*  
-
-
-* * * * *   
 
 **VICTORIA**  
 
@@ -12,6 +8,8 @@ with JO JO SMITH
 Bookings essential: 5798 1381    
   
 * * * * *   
+*more duet shows with [Hamish Stuart][97]...*  
+
 
 **NSW**   
 
@@ -23,8 +21,7 @@ plus Shanna Watson and The Understudy
 **Saturday 11th February 2012**  
 [THE WAUCHOPE ARTS HALL][103], Wauchope             
 7.30pm / Tickets $25 / $20 members               
-
-* * * * *      
+     
 
 **WESTERN AUSTRALIA**   
 
