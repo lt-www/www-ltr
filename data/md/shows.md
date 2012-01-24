@@ -126,7 +126,7 @@ Tickets $34 - [on sale now through the venue][107]
 [97]: http://www.hamishstuart.net/fr_home.cfm
 [98]: http://venue505.com/
 [99]: http://www.corinbank.com/  
-[99.1]: http://www.portfairyfolkfestival.com/?p=1400#more-1400
+[99.1]: http://www.portfairyfolkfestival.com/
 [100]: http://www.tamarvalleyfolkfestival.com/Home.html  
 [101]: http://www.bigtix.com.au/ProductDetails.aspx?productID=2083
 [102]: http://www.ellingtonjazz.com.au/index.php/schedule/month/02/show/1689
