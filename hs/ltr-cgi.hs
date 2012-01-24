@@ -10,21 +10,22 @@ import qualified LTR as L
 import qualified News as N
 import qualified Pwd as P
 
--- nr = non-relative (for rss etc.)
-add_prefix :: Bool -> L.Config -> (String,String) -> (String,String)
-add_prefix nr c (d,t) =
+add_prefix :: L.Config -> (String,String) -> (String,String)
+add_prefix c (d,t) =
     if "http://" `isPrefixOf` d
     then (d,t)
     else if head (splitDirectories d) `elem` L.lt_data_dirs
          then (L.lt_root c </> d,t)
-         else if nr
-              then (L.lt_site </> L.lt_base c d,t)
-              else (L.lt_base c d,t)
+         else (L.lt_base c d,t)
+
+-- non-relative (for rss etc.)
+non_rel :: (String,String) -> (String,String)
+non_rel (i,j) = (L.lt_site </> i,L.lt_site </> j)
 
 md_page :: L.Config -> [FilePath] -> W.Result
 md_page cf p = do
   let p' = L.lt_markdown_file_name p
-  h <- C.liftIO (L.lt_markdown_to_html_io (add_prefix False cf) p')
+  h <- C.liftIO (L.lt_markdown_to_html_io (add_prefix cf) p')
   let h' = L.lt_std_html cf p (H.cdata_raw h)
   W.utf8_html_output (H.renderHTML5 h')
 
@@ -77,7 +78,7 @@ rss_news :: L.Config -> W.Result
 rss_news cf = do
   s <- C.liftIO (L.read_file_or "" "data/md/news.md")
   let n = N.parse s
-      f = L.lt_markdown_to_html (add_prefix True cf)
+      f = L.lt_markdown_to_html (non_rel . add_prefix cf)
       x = N.rss_s f n
   W.utf8_ct_output "application/rss+xml" x
 
@@ -88,7 +89,7 @@ news_d cf d = do
       m = case N.entry_by_date_s d e of
             Just e' -> N.n_entry_md md e'
             Nothing -> "No news today"
-      f = L.lt_markdown_to_html (add_prefix False cf)
+      f = L.lt_markdown_to_html (add_prefix cf)
       h = L.lt_std_html cf ["?n="++d] (H.cdata_raw (f m))
   W.utf8_html_output (H.renderHTML5 h)
 
