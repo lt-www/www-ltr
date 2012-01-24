@@ -108,12 +108,13 @@ n_item f md ((dt,tt),dsc) =
     R.item [R.title tt
            ,R.pubDate_t dt
            ,R.guid_ln (L.lt_site ++ "?n=" ++ format_iso_8601_date dt)
-           ,R.description (f (n_dsc_md md dsc))]
+           ,R.description_cdata (f (n_dsc_md md dsc))]
 
 rss :: N_Markup -> N_News -> X.Element
 rss f (nw,md) =
     let cf = [R.title "lucie thorne: news"
              ,R.link "http://luciethorne.com/news"
+             ,R.atom_link_url "http://luciethorne.com/news/rss.xml"
              ,R.description "lucie thorne: news & updates"]
     in R.rss "2.0" [R.channel (cf ++ map (n_item f md) nw)]
 
