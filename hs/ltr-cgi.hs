@@ -78,6 +78,17 @@ rss_news cf = do
       x = N.rss_s f n
   W.utf8_ct_output "application/rss+xml" x
 
+news_d :: L.Config -> String -> W.Result
+news_d cf d = do
+  s <- C.liftIO (L.read_file_or "" "data/md/news.md")
+  let (e,md) = N.parse s
+      m = case N.entry_by_date_s d e of
+            Just e' -> N.n_entry_md md e'
+            Nothing -> "No news today"
+      f = L.lt_markdown_to_html (add_prefix cf)
+      h = L.lt_std_html cf ["?n="++d] (H.cdata_raw (f m))
+  W.utf8_html_output (H.renderHTML5 h)
+
 -- > splitDirectories "photos/fence" == ["photos","fence"]
 dispatch :: L.Config -> W.Parameters -> W.Result
 dispatch cf (m,p,q) =
@@ -87,6 +98,8 @@ dispatch cf (m,p,q) =
          ("GET",_,[("p",d)]) -> d_page cf (splitDirectories d)
          ("GET",_,[("e",d)]) -> v (W.edit_get (L.lt_markdown_file_name_f d))
          ("POST",_,[("e",d)]) -> v (W.edit_post e ("?p=" ++ d))
+         ("GET",_,[("n","rss")]) -> rss_news cf
+         ("GET",_,[("n",d)]) -> news_d cf d
          ("GET",_,[("o","login")]) -> W.login_get
          ("POST",_,[("o","login")]) -> W.login_post e
          ("GET",_,[("o","logout")]) -> W.logout_get e
