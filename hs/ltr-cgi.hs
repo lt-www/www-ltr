@@ -10,6 +10,16 @@ import qualified LTR as L
 import qualified News as N
 import qualified Pwd as P
 
+-- > is_non_rel "?p=shows" == False
+-- > is_non_rel "http://luciethorne.com/?p=shows" == True
+is_non_rel :: String -> Bool
+is_non_rel = isPrefixOf "http://"
+
+-- > to_non_rel "?p=shows" == "http://luciethorne.com/?p=shows"
+-- > let u = "http://luciethorne.com/?p=shows" in u == to_non_rel u
+to_non_rel :: String -> FilePath
+to_non_rel x = if is_non_rel x then x else L.lt_site </> x
+
 add_prefix :: L.Config -> (String,String) -> (String,String)
 add_prefix c (d,t) =
     if "http://" `isPrefixOf` d
@@ -20,7 +30,7 @@ add_prefix c (d,t) =
 
 -- non-relative (for rss etc.)
 non_rel :: (String,String) -> (String,String)
-non_rel (i,j) = (L.lt_site </> i,L.lt_site </> j)
+non_rel (i,j) = (to_non_rel i,to_non_rel j)
 
 md_page :: L.Config -> [FilePath] -> W.Result
 md_page cf p = do

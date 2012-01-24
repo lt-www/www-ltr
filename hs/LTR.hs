@@ -34,7 +34,7 @@ lt_css :: Config -> FilePath
 lt_css cf = lt_root cf </> "css/lt.css"
 
 lt_site :: String
-lt_site = "http://www.luciethorne.com"
+lt_site = "http://luciethorne.com"
 
 lt_edit_ln :: Config -> [Char] -> FilePath
 lt_edit_ln cf p = lt_root cf </> "?e=" ++ p
