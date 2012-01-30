@@ -1,14 +1,5 @@
-**VICTORIA**  
 
-**Saturday 28th January 2012**  
-THE PARISH, Violet Town  
-with JO JO SMITH        
-7.30pm / $20  
-Bookings essential: 5798 1381    
-  
-* * * * *   
 *more duet shows with [Hamish Stuart][97]...*  
-
 
 **NSW**   
 
