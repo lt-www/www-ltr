@@ -1,5 +1,13 @@
 ## shows/archive
 
+
+**VICTORIA**  
+
+**Saturday 28th January 2012**  
+THE PARISH, Violet Town  
+with JO JO SMITH           
+  
+* * * * *   
 *more duet shows with [Hamish Stuart][97]...*    
 
 **TASMANIA**  
