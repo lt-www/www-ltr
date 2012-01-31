@@ -4,7 +4,7 @@ News Flash! We're very pleased to be able to let you know that Lucie will be joi
 
 In the meantime, Lucie's summer tour continues... with four more shows across Tasmania this week... [details here][14]
 
-### 12 december 2011 | RockWiz
+### 12 december 2011 | RocKwiz
 
 Check out [Lucie's recent appearance on SBS televsion show RockWiz here][100]. As well as a rather alarmingly detailed knowledge of her 'special category'...  the show also features a live performance of [Can't Sleep For Dreaming with the RocKwiz Orkestra][101]
 
