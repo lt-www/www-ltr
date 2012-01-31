@@ -1,4 +1,3 @@
-
 *more duet shows with [Hamish Stuart][97]...*  
 
 **NSW**   
@@ -17,7 +16,7 @@ plus Shanna Watson and The Understudy
 
 **Wednesday 15th February 2012**  
 MOJOS, Fremantle      
-plus Justin Walshe Folk Machine  
+plus Justin Walshe Folk Machine & Daniel Champagne.  
 8.30pm / $15  
 
 **Thursday 16th February 2012**  
