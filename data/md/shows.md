@@ -44,7 +44,7 @@ details tba
 **VICTORIA** 
  
 **Thursday 8th March 2012**   
-Lucie will be performing as part of 'Stopping All Stations Except East Richmond" - opening night of the [CARNIVAL OF SUBURBIA][104] at    
+Lucie will be performing as part of 'Stopping All Stations Except East Richmond" - opening night of the [CARNIVAL OF SUBURBIA][104] at 
 [CARAVAN MUSIC CLUB][106], Oakleigh, Melbourne, VIC  
 
 **Friday 9th - Monday 12th March 2012**  
