@@ -35,9 +35,10 @@ SEA GARDENS CAFE, Prevelly
    
 **ACT** 
  
-**Friday 2nd - Sunday 4th March 2012**  
+**Sunday 4th March 2012**  
 [CORINBANK FESTIVAL][99], Brindabella Mountains                 
-details tba   
+*3pm at the Gibraltar Grove stage, duo show with Jay McMahon.*  
+[Festival tickets on sale now][99]      
 
 * * * * *   
 
