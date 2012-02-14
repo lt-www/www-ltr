@@ -115,7 +115,6 @@ Tickets $34 - [on sale now through the venue][107]
 [100]: http://www.tamarvalleyfolkfestival.com/Home.html  
 [101]: http://www.bigtix.com.au/ProductDetails.aspx?productID=2083
 [102]: http://www.ellingtonjazz.com.au/index.php/schedule/month/02/show/1689
-[103]: http://www.wauchopearts.org.au/
 [104]: http://www.carnivalofsuburbia.com   
 [105]: http://www.bellaunion.com.au/ticketing/show_535/
 [106]: http://www.caravanmusic.com.au/gigs/pieta-brown/
