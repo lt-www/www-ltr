@@ -38,7 +38,7 @@ Lucie will be performing as part of "Stopping All Stations Except East Richmond"
 [CARNIVAL OF SUBURBIA][104] at  
 [CARAVAN MUSIC CLUB][106], Oakleigh    
 
-*duet shows with [Hamish Stuart][97] at Port Fairy...*   
+*duet shows with [Hamish Stuart][97] at Port Fairy Festival...*   
 
 **Friday 9th March 2012**  
 [PORT FAIRY FOLK FESTIVAL][99.1], Port Fairy                 
