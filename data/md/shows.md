@@ -54,7 +54,7 @@ Folk Circus, 8.30pm
 
 **Sunday 11th March 2012**  
 [PORT FAIRY FOLK FESTIVAL][99.1], Port Fairy                 
-*'On the Road Again' themed concert, hosted by Lucie, with Pieta Brown,
+*'One for the Road' themed concert, hosted by Lucie, with Pieta Brown,
 Mick Thomas, The Stiff Gins, Madison Violet and Frencham Smith*  
 Stage 4, 3.45pm      
 
