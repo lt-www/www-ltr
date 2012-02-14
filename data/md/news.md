@@ -1,3 +1,7 @@
+### 13 february 2012 | Western Australia  
+
+Lucie tours to Western Australia this week with shows in Fremantle, Perth, Nannup and Prevelly, all in duet with Hamish Stuart. Details on the [shows page][14]    
+
 ### 17 january 2012 | Pieta Brown
 
 News Flash! We're very pleased to be able to let you know that Lucie will be joining the fabulous [Pieta Brown][81] and her trio for their Australian tour in March 2012. These [tour dates have just been announced][14], and tickets for the shows will go on sale on Monday 23rd January.
