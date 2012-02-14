@@ -7,7 +7,7 @@
 [THE WAUCHOPE ARTS HALL][103], Wauchope   
 
 **Friday 10th February 2012**  
-[THE NORTHERN STAR][101], Newcastle  
+THE NORTHERN STAR, Newcastle  
 plus Shanna Watson and The Understudy             
 
 **VICTORIA**  
@@ -935,7 +935,8 @@ RSL, Tamar Valley Folk Festival.
 [96.8]: http://www.myspace.com/denhanrahan
 [97]: http://www.hamishstuart.net/fr_home.cfm  
 [97.1]: http://www.abc.net.au/rn/musicdeli/
-[98.1]: http://www.tathrahotel.com.au/Tathra_Hotel/News.html
+[98.1]: http://www.tathrahotel.com.au/Tathra_Hotel/News.html  
+[103]: http://www.wauchopearts.org.au/
 
 if you'd care to know, there are still details of lucie's old shows:
 [2009][2009], [2008][2008], [2007][2007], [2006][2006], [2005][2005],
