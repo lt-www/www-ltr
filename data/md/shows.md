@@ -1,16 +1,5 @@
 *more duet shows with [Hamish Stuart][97]...*  
-
-**NSW**   
-
-**Friday 10th February 2012**  
-[THE NORTHERN STAR][101], Newcastle  
-plus Shanna Watson and The Understudy           
-9pm / presale tickets $12.50 / [on sale now][101]    
-
-**Saturday 11th February 2012**  
-[THE WAUCHOPE ARTS HALL][103], Wauchope             
-7.30pm / Tickets $25 / $20 members               
-     
+                        
 
 **WESTERN AUSTRALIA**   
 
