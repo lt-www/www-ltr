@@ -38,9 +38,25 @@ Lucie will be performing as part of "Stopping All Stations Except East Richmond"
 [CARNIVAL OF SUBURBIA][104] at  
 [CARAVAN MUSIC CLUB][106], Oakleigh    
 
-**Friday 9th - Monday 12th March 2012**  
+*duet shows with [Hamish Stuart][97] at Port Fairy...*   
+
+**Friday 9th March 2012**  
 [PORT FAIRY FOLK FESTIVAL][99.1], Port Fairy                 
-details tba    
+Reardon Theatre, 8pm     
+
+**Saturday 10th March 2012**  
+[PORT FAIRY FOLK FESTIVAL][99.1], Port Fairy                 
+Lighthouse Cafe, 1.45pm   
+
+**Saturday 10th March 2012**  
+[PORT FAIRY FOLK FESTIVAL][99.1], Port Fairy                 
+Folk Circus, 8.30pm    
+
+**Sunday 11th March 2012**  
+[PORT FAIRY FOLK FESTIVAL][99.1], Port Fairy                 
+*'On the Road Again' themed concert, hosted by Lucie, with Pieta Brown,
+Mick Thomas, The Stiff Gins, Madison Violet and Frencham Smith*  
+Stage 4, 3.45pm      
 
 * * * * *    
 
