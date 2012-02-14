@@ -1,6 +1,15 @@
 ## shows/archive
 
 
+**NSW**   
+
+**Saturday 11th February 2012**  
+[THE WAUCHOPE ARTS HALL][103], Wauchope   
+
+**Friday 10th February 2012**  
+[THE NORTHERN STAR][101], Newcastle  
+plus Shanna Watson and The Understudy             
+
 **VICTORIA**  
 
 **Saturday 28th January 2012**  
