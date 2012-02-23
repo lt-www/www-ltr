@@ -1,6 +1,6 @@
 ### 23 february 2012 | Get your tickets...  
 
-Big thanks to all who came out to the WA shows last week - what a great little westerly tour! Next stop: [Corinbank Festival][99] - in the beautiful Brindabella Mountains, next weekend 2-4th March. There are still a few [tickets available][99] for this one - but there wont be for long. And speaking of tickets - the [Pieta Brown][81] tour starts in just over two weeks - all details for these show - and presale info - [here][14]. You don't wanna miss out on this one folks! x    
+Big thanks to all who came out to the WA shows last week - what a great little westerly tour! Next stop: [Corinbank Festival][99] - in the beautiful Brindabella Mountains, next weekend 2-4th March. There are still a few [tickets available][99] for this one - but there wont be for long. And speaking of tickets - the [Pieta Brown][81] tour starts in just over two weeks! You'll find all details for these shows - and presale info - [here][14]. You don't wanna miss out on this one folks! x    
 
 ### 13 february 2012 | Western Australia  
 
