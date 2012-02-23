@@ -1,26 +1,3 @@
-*more duet shows with [Hamish Stuart][97]...*  
-                        
-
-**WESTERN AUSTRALIA**   
-
-**Wednesday 15th February 2012**  
-MOJOS, Fremantle      
-plus Justin Walshe Folk Machine & Daniel Champagne.  
-8.30pm / $15  
-
-**Thursday 16th February 2012**  
-[THE ELLINGTON JAZZ CLUB][102], Perth        
-8pm / Tickets $15 [on sale now][102]  
-
-**Friday 17th February 2012**  
-NANNUP HOTEL, Nannup  
-8pm / free entry
-
-**Saturday 18th February 2012**  
-SEA GARDENS CAFE, Prevelly  
-6.30pm / bookings 08 9757 3074   
-
-* * * * * 
    
 **ACT** 
  
