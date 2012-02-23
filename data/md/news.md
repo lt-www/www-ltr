@@ -1,3 +1,7 @@
+### 23 february 2012 | Get your tickets...  
+
+Big thanks to all who came out to the WA shows last week - what a great little westerly tour! Next stop: [Corinbank Festival][99] - in the beautiful Brindabella Mountains. There are still a few [tix available][99] for this one - but get in quick. And speaking of tickets - the [Pieta Brown][81] tour starts in just over two weeks - all details for these show - and presale info - [here][14]. You don't wanna miss out on this one folks! x    
+
 ### 13 february 2012 | Western Australia  
 
 Lucie tours to Western Australia this week with shows in Fremantle, Perth, Nannup and Prevelly, all in duet with Hamish Stuart. Details on the [shows page][14]    
