@@ -952,7 +952,8 @@ RSL, Tamar Valley Folk Festival.
 [96.8]: http://www.myspace.com/denhanrahan
 [97]: http://www.hamishstuart.net/fr_home.cfm  
 [97.1]: http://www.abc.net.au/rn/musicdeli/
-[98.1]: http://www.tathrahotel.com.au/Tathra_Hotel/News.html  
+[98.1]: http://www.tathrahotel.com.au/Tathra_Hotel/News.html 
+[102]: http://www.ellingtonjazz.com.au 
 [103]: http://www.wauchopearts.org.au/
 
 if you'd care to know, there are still details of lucie's old shows:
