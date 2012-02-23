@@ -1,6 +1,23 @@
 ## shows/archive
 
+*more duet shows with [Hamish Stuart][97]...*                          
 
+**WESTERN AUSTRALIA**   
+
+**Saturday 18th February 2012**  
+SEA GARDENS CAFE, Prevelly      
+
+**Friday 17th February 2012**  
+NANNUP HOTEL, Nannup  
+
+**Thursday 16th February 2012**  
+[THE ELLINGTON JAZZ CLUB][102], Perth       
+ 
+**Wednesday 15th February 2012**  
+MOJOS, Fremantle      
+plus Justin Walshe Folk Machine & Daniel Champagne.  
+
+* * * * *    
 **NSW**   
 
 **Saturday 11th February 2012**  
