@@ -105,10 +105,13 @@ type N_Markup = (String -> String)
 
 n_item :: N_Markup -> MD -> N_Entry -> X.Content
 n_item f md ((dt,tt),dsc) =
-    R.item [R.title tt
-           ,R.pubDate_t dt
-           ,R.guid_ln (L.lt_site ++ "?n=" ++ format_iso_8601_date dt)
-           ,R.description_cdata (f (n_dsc_md md dsc))]
+    let ln = L.lt_site ++ "?n=" ++ format_iso_8601_date dt
+    in R.item [R.title tt
+              ,R.link ln
+              ,R.pubDate_t dt
+              ,R.category [] "News"
+              ,R.guid_ln ln
+              ,R.description_cdata (f (n_dsc_md md dsc))]
 
 rss :: N_Markup -> N_News -> X.Element
 rss f (nw,md) =
