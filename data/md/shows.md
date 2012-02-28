@@ -32,7 +32,7 @@ Folk Circus, 8.30pm
 **Sunday 11th March 2012**  
 [PORT FAIRY FOLK FESTIVAL][99.1], Port Fairy                 
 *'One for the Road' themed concert, hosted by Lucie, with Pieta Brown,
-Mick Thomas, The Stiff Gins, Madison Violet and Frencham Smith*  
+Mick Thomas, Lanie Lane, Madison Violet and Frencham Smith*  
 Stage 4, 3.45pm      
 
 * * * * *    
@@ -41,7 +41,8 @@ Stage 4, 3.45pm
 with special guest LUCIE THORNE  
 
 **Tuesday 13th March 2012**  
-[BELLA UNION at Trades Hall][105], Carlton, Melbourne, VIC  
+[BELLA UNION at Trades Hall][105], Melbourne, VIC   
+Corner Lygon and Victoria St, Carlton  
 8pm  
 Tickets $25/$22 + bf presale    
 ($30/$25 at the door - if available)  
@@ -49,21 +50,24 @@ Tickets $25/$22 + bf presale
    
 **Wednesday 14th March 2012**  
 [CARNIVAL OF SUBURBIA][104] at  
-[CARAVAN MUSIC CLUB][106], Oakleigh, Melbourne, VIC  
+[CARAVAN MUSIC CLUB][106], Melbourne, VIC   
+95 Drummond St, Oakleigh  
 8pm  
 Tickets $30 + bf presale   
 ($32 at the door - if available)  
 [Tickets on sale now through the venue][106]    
 
 **Thursday 15th March 2012**  
-[THE CAMELOT LOUNGE][90], Marrickville, Sydney, NSW  
+[THE CAMELOT LOUNGE][90], Sydney, NSW   
+Corner Marrickville Rd and Railway Pde, Marrickville   
 8pm   
 Tickets $27 / $ 22 + bf presale   
 ($30 / $25 at the door - if available)  
 [Tickets on sale now through the venue][107] 
 
 **Friday 16th March 2012**  
-THE POLISH CLUB, Turner, Canberra, ACT       
+THE WHITE EAGLE POLISH CLUB, Canberra, ACT       
+38 David St, Turner   
 8pm   
 Tickets $25 / $ 22 + bf presale   
 ($30 / $25 at the door - if available)  
@@ -71,6 +75,7 @@ Tickets $25 / $ 22 + bf presale
       
 **Saturday 17th March 2012**  
 STAR COURT THEATRE, Lismore, NSW      
+Star Court Arcade, Molesworth Street  
 7.30pm   
 Tickets $34 - [on sale now through the venue][107]   
 
