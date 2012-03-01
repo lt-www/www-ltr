@@ -3,8 +3,8 @@
 Due to insane volumes of rain - the beautiful Corinbank Festival has just been postponed. In the last few days the situation has, unfortunately, shifted from "..it's gonna be crazy wet but still fun in yr gumboots!" to..."ongoing rain has rendered the site unusable... and brings real risk of landslides to the only road in or out of the Corin Forest area ".  
 Ah well dear Corin. We'll see you a bit later in the year!  
 
-In other news - PIETA BROWN and THE SAWDUST BOYS (USA) start their
-[Australian tour][14] next week! Lucie will be playing the opening set for each of these shows... as well joining PB and co for a number or songs and duets and such. Sure is set to be a pretty special little tour folks. So...tell your friends and [book your tickets][14]! x  
+In other news - [PIETA BROWN and THE SAWDUST BOYS][81] (USA) start their
+[Australian tour][14] next week! Lucie will be playing the opening set for each of these shows... as well joining PB and co for a number of songs and duets and such. Sure is set to be a pretty special little tour folks. So...tell your friends and [book your tickets][14]! x  
 
 ### 23 february 2012 | Get your tickets...  
 
