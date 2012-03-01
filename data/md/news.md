@@ -1,3 +1,11 @@
+### 1 march 2012 | Corinbank Festival postponed  
+
+Due to insane volumes of rain - the beautiful Corinbank Festival has just been postponed. In the last few days the situation has, unfortunately, shifted from "..it's gonna be crazy wet but still fun in yr gumboots!" to..."ongoing rain has rendered the site unusable... and brings real risk of landslides to the only road in or out of the Corin Forest area ".  
+Ah well dear Corin. We'll see you a bit later in the year!  
+
+In other news - PIETA BROWN and THE SAWDUST BOYS (USA) start their
+[Australian tour][14] next week! Lucie will be playing the opening set for each of these shows... as well joining PB and co for a number or songs and duets and such. Sure is set to be a pretty special little tour folks. So...tell your friends and [book your tickets][14]! x  
+
 ### 23 february 2012 | Get your tickets...  
 
 Big thanks to all who came out to the WA shows last week - what a great little westerly tour! Next stop: [Corinbank Festival][99] - in the beautiful Brindabella Mountains, next weekend 2-4th March. There are still a few [tickets available][99] for this one - but there wont be for long. And speaking of tickets - the [Pieta Brown][81] tour starts in just over two weeks! You'll find all details for these shows - and presale info - [here][14]. You don't wanna miss out on this one folks! x    
