@@ -76,7 +76,7 @@ Tickets $25 / $ 22 + bf presale
 STAR COURT THEATRE, Lismore, NSW      
 Star Court Arcade, Molesworth Street  
 7.30pm   
-Tickets $34 - [on sale now through the venue][107]   
+Tickets $34 - [on sale now through the venue][109]   
 
 * * * * *   
 
