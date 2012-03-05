@@ -1,11 +1,5 @@
    
-**ACT** 
- 
-**Sunday 4th March 2012**  
-[CORINBANK FESTIVAL][99], Brindabella Mountains                 
-*POSTPONED due to flooding!*      
 
-* * * * *   
 
 **VICTORIA** 
  
