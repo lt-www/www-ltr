@@ -1,4 +1,5 @@
-**[PIETA BROWN & the Sawdust Boys][81] (USA) - AUSTRALIAN TOUR March 9th -17th 2012** with special guest LUCIE THORNE  
+**[PIETA BROWN & the Sawdust Boys][81] (USA) - AUSTRALIAN TOUR March 9th -17th 2012**   
+with special guest LUCIE THORNE  
 
 **Thursday 8th March 2012**   
 Lucie Thorne & Pieta Brown - interview and live-to-air performance on *The Inside Sleeve* with Robbie Buck.  
