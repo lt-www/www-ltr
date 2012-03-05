@@ -12,7 +12,7 @@ Lucie Thorne & Pieta Brown - interview and live-to-air performance on *Acid Coun
 **VICTORIA** 
  
 **Thursday 8th March 2012**   
-Lucie will be performing as part of "Stopping All Stations Except East Richmond" - opening night of the [CARNIVAL OF SUBURBIA][104] at  
+Lucie will be performing as part of "Stopping All Stations Except East Richmond" - opening night of the [CARNIVAL OF SUBURBIA][104] at 
 [CARAVAN MUSIC CLUB][106], Oakleigh    
 8pm  
 
