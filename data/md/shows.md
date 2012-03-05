@@ -38,7 +38,7 @@ Stage 4, 3.45pm
 
 * * * * *    
 
-**[PIETA BROWN][81] (USA) - AUSTRALIAN TOUR 2012**  
+**[PIETA BROWN & the Sawdust Boys][81] (USA) - AUSTRALIAN TOUR March 9th -17th 2012**   
 with special guest LUCIE THORNE  
 
 **Tuesday 13th March 2012**  
@@ -81,7 +81,31 @@ Star Court Arcade, Molesworth Street
 Tickets $34 - [on sale now through the venue][109]   
 
 * * * * *   
+*Duet shows with [Hamish Stuart][97]...*    
 
+**SOUTH AUSTRALIA** 
+ 
+**Friday 20th April 2012**   
+THE WHEATSHEAF HOTEL, Thebarton
+details tba  
+   
+**Saturday 21st April 2012**   
+BAROSSA REGIONAL GALLERY, Tanunda
+details tba  
+
+**Sunday 22nd April 2012**   
+THE STANLEY BRIDGE HOTEL, Verdun  
+details tba   
+
+**VICTORIA** 
+ 
+**Friday 27th April 2012**   
+ARARAT LIVE, Ararat  
+details tba     
+
+**Suday 29th April 2012**   
+WOLSELEY WINERY, Paraparap    
+details tba     
 [past shows][archive]
 
   [archive]: shows/archive/
