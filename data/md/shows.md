@@ -81,16 +81,16 @@ Star Court Arcade, Molesworth Street
 Tickets $34 - [on sale now through the venue][109]   
 
 * * * * *   
-*Duet shows with [Hamish Stuart][97]...*    
+*more duet shows with [Hamish Stuart][97]...*    
 
 **SOUTH AUSTRALIA** 
  
 **Friday 20th April 2012**   
-THE WHEATSHEAF HOTEL, Thebarton
+THE WHEATSHEAF HOTEL, Thebarton  
 details tba  
    
 **Saturday 21st April 2012**   
-BAROSSA REGIONAL GALLERY, Tanunda
+BAROSSA REGIONAL GALLERY, Tanunda  
 details tba  
 
 **Sunday 22nd April 2012**   
