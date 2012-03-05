@@ -1,14 +1,21 @@
-   
+**[PIETA BROWN & the Sawdust Boys][81] (USA) - AUSTRALIAN TOUR March 9th -17th 2012** with special guest LUCIE THORNE  
 
+**Thursday 8th March 2012**   
+Lucie Thorne & Pieta Brown - interview and live-to-air performance on *The Inside Sleeve* with Robbie Buck.  
+3pm / ABC Radio National    
+
+**Thursday 8th March 2012**   
+Lucie Thorne & Pieta Brown - interview and live-to-air performance on *Acid Country* with David Heard.  
+4.15pm / 3PBS Radio      
 
 **VICTORIA** 
  
 **Thursday 8th March 2012**   
-Lucie will be performing as part of "Stopping All Stations Except East Richmond" - opening night of the   
-[CARNIVAL OF SUBURBIA][104] at  
+Lucie will be performing as part of "Stopping All Stations Except East Richmond" - opening night of the [CARNIVAL OF SUBURBIA][104] at  
 [CARAVAN MUSIC CLUB][106], Oakleigh    
+8pm  
 
-*duet shows with [Hamish Stuart][97] at Port Fairy Festival...*   
+*Duet shows with [Hamish Stuart][97] at Port Fairy Festival...*   
 
 **Friday 9th March 2012**  
 [PORT FAIRY FOLK FESTIVAL][99.1], Port Fairy                 
