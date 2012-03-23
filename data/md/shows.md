@@ -33,7 +33,7 @@ Folk Circus, 8.30pm
 **Sunday 11th March 2012**  
 [PORT FAIRY FOLK FESTIVAL][99.1], Port Fairy                 
 *'One for the Road' themed concert, hosted by Lucie, with Pieta Brown,
-Mick Thomas, Lanie Lane, Madison Violet and Frencham Smith*  
+Mick Thomas, Madison Violet and Frencham Smith*  
 Stage 4, 3.45pm      
 
 * * * * *    
@@ -43,42 +43,28 @@ with special guest LUCIE THORNE
 
 **Tuesday 13th March 2012**  
 [BELLA UNION at Trades Hall][105], Melbourne, VIC   
-Corner Lygon and Victoria St, Carlton  
-8pm  
-Tickets $25/$22 + bf presale    
-($30/$25 at the door - if available)  
-[Tickets on sale now through the venue][105]                    
+Corner Lygon and Victoria St, Carlton                     
    
 **Wednesday 14th March 2012**  
 [CARNIVAL OF SUBURBIA][104] at  
 [CARAVAN MUSIC CLUB][106], Melbourne, VIC   
-95 Drummond St, Oakleigh  
-8pm  
-Tickets $30 + bf presale   
-($32 at the door - if available)  
-[Tickets on sale now through the venue][106]    
+95 Drummond St, Oakleigh   
+
+**Thursday 8th March 2012**   
+Lucie with Pieta Brown and The Sawdust Boys - interview and live-to-air performance on *Drive* with Richard Glover.  
+5pm / 702 ABC Sydney     
 
 **Thursday 15th March 2012**  
 [THE CAMELOT LOUNGE][90], Sydney, NSW   
 Corner Marrickville Rd and Railway Pde, Marrickville   
-8pm   
-Tickets $27 / $ 22 + bf presale   
-($30 / $25 at the door - if available)  
-[Tickets on sale now through the venue][107] 
 
 **Friday 16th March 2012**  
 THE WHITE EAGLE POLISH CLUB, Canberra, ACT       
-38 David St, Turner   
-8pm   
-Tickets $25 / $ 22 + bf presale   
-($30 / $25 at the door - if available)  
-[Tickets on sale now through Moshtix][108] 
+38 David St, Turner    
       
 **Saturday 17th March 2012**  
-STAR COURT THEATRE, Lismore, NSW      
+[STAR COURT THEATRE][109], Lismore, NSW      
 Star Court Arcade, Molesworth Street  
-7.30pm   
-Tickets $34 - [on sale now through the venue][109]   
 
 * * * * *   
 *more duet shows with [Hamish Stuart][97]...*    
@@ -103,8 +89,8 @@ BAROSSA REGIONAL GALLERY, Tanunda
 details tba    
 
 **Sunday 22nd April 2012**   
-THE STANLEY BRIDGE HOTEL, Verdun  
-41 Onkaparinga Valley Rd  
+THE STANLEY BRIDGE HOTEL  
+41 Onkaparinga Valley Rd, Verdun    
 5pm / free entry     
 
 **VICTORIA** 
@@ -113,9 +99,9 @@ THE STANLEY BRIDGE HOTEL, Verdun
 ARARAT LIVE, Ararat  
 8pm / $15       
 
-**Suday 29th April 2012**   
-WOLSELEY WINERY, Paraparap  
-Hendy Main Road    
+**Sunday 29th April 2012**   
+WOLSELEY WINERY  
+Hendy Main Road, Paraparap     
 with Victoriana Gaye  
 3pm / $15       
 
