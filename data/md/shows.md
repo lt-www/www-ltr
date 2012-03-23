@@ -83,29 +83,41 @@ Tickets $34 - [on sale now through the venue][109]
 * * * * *   
 *more duet shows with [Hamish Stuart][97]...*    
 
+**NSW**   
+
+**Wednesday 4th April 2012**   
+PADDINGTON UNITING CHURCH, Sydney  
+395 Oxford St, Paddington.   
+'Sea Of Peace' Fundraiser.   
+7pm / $20  
+
 **SOUTH AUSTRALIA** 
  
 **Friday 20th April 2012**   
-THE WHEATSHEAF HOTEL, Thebarton  
-details tba  
+THE WHEATSHEAF HOTEL, Adelaide  
+36 George St, Thebarton
+9pm / free entry  
    
 **Saturday 21st April 2012**   
 BAROSSA REGIONAL GALLERY, Tanunda  
-details tba  
+details tba    
 
 **Sunday 22nd April 2012**   
 THE STANLEY BRIDGE HOTEL, Verdun  
-details tba   
+41 Onkaparinga Valley Rd  
+5pm / free entry     
 
 **VICTORIA** 
  
 **Friday 27th April 2012**   
 ARARAT LIVE, Ararat  
-details tba     
+8pm / $15       
 
 **Suday 29th April 2012**   
-WOLSELEY WINERY, Paraparap    
-details tba     
+WOLSELEY WINERY, Paraparap  
+Hendy Main Road    
+with Victoriana Gaye  
+3pm / $15       
 
 * * * * *   
 
