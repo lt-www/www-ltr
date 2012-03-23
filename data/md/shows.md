@@ -50,7 +50,7 @@ Corner Lygon and Victoria St, Carlton
 [CARAVAN MUSIC CLUB][106], Melbourne, VIC   
 95 Drummond St, Oakleigh   
 
-**Thursday 8th March 2012**   
+**Thursday 15th March 2012**   
 Lucie with Pieta Brown and The Sawdust Boys - interview and live-to-air performance on *Drive* with Richard Glover.  
 5pm / 702 ABC Sydney     
 
