@@ -1014,6 +1014,7 @@ RSL, Tamar Valley Folk Festival.
 [97]: http://www.hamishstuart.net/fr_home.cfm  
 [97.1]: http://www.abc.net.au/rn/musicdeli/
 [98.1]: http://www.tathrahotel.com.au/Tathra_Hotel/News.html 
+[99.1]: http://www.portfairyfolkfestival.com/
 [102]: http://www.ellingtonjazz.com.au 
 [103]: http://www.wauchopearts.org.au/  
 [104]: http://www.carnivalofsuburbia.com   
