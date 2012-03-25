@@ -20,6 +20,17 @@ SBS TV 'Rockwiz', December 2011
 </div>
 </div>
 
+<div class="yt-entry">
+<div class="yt-img">
+<a href="?v=QKN4qOatpKo"><img src="http://i.ytimg.com/vi/QKN4qOatpKo/default.jpg" width="120" height="90" />
+</a>
+</div>
+<div class="yt-txt">
+<a href="?v=QKN4qOatpKo">When I Get There</a><br />
+Live at The Guildford Hall, with Hamish Stuart, September 2011  
+</div>
+</div>
+
 
 <div class="yt-entry">
 <div class="yt-img">
