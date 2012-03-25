@@ -1,6 +1,7 @@
 import Data.List
 import qualified Network.CGI as C {- cgi -}
 import qualified Text.HTML.Light as H {- html-minimalist -}
+import qualified Text.XML.Light as X {- xml -}
 import System.FilePath {- filepath -}
 import qualified WWW.Minus.CGI as W {- hwww-minus -}
 import qualified WWW.Minus.CGI.Editor as E
@@ -64,6 +65,28 @@ d_page cf d =
       "photos":i -> ph_page cf i
       _ -> md_page cf d
 
+mk_viewer :: String -> X.Content
+mk_viewer v =
+    let v' = "http://www.youtube.com/v/" ++ v
+        o_a = [H.width "425", H.height "344"]
+        o_c = [H.param [H.name "movie"
+                       ,H.value v']
+              ,H.param [H.name "allowFullScreen"
+                       ,H.value "true"]
+              ,H.param [H.name "allowscriptaccess"
+                       ,H.value "always"]
+              ,H.embed [H.src v'
+                       ,H.type' "application/x-shockwave-flash"
+                       ,H.width "425"
+                       ,H.height "344"]]
+        o = H.object o_a o_c
+    in H.div [H.class' "viewer"] [o]
+
+v_page :: L.Config -> String -> W.Result
+v_page cf d = do
+  let h' = L.lt_std_html cf ["?v="++d] (mk_viewer d)
+  W.utf8_html_output (H.renderHTML5 h')
+
 e_config :: E.Config
 e_config =
     let v = Just (E.Git,("lucie thorne <lucie@luciethorne.com>",Just "sp"))
@@ -121,6 +144,7 @@ dispatch cf (m,p,q) =
          ("POST",_,[("o","upload")]) -> v (E.upload_post e)
          ("GET",_,[("o","photos")]) -> v (E.edit_get "data/config/photos.hs")
          ("POST",_,[("o","photos")]) -> v (photos_post e cf)
+         ("GET",_,[("v",d)]) -> v_page cf d
          ("GET",_,_) -> d_page cf p
          _ -> E.unknown_request (m,p,q)
 

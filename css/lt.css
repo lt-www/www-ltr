@@ -293,3 +293,17 @@ form dl dt {
  padding: 0px;
  margin: 0px;
 }
+
+/* yt */
+
+div.yt-entry {
+ clear: both;
+}
+
+div.yt-img {
+ float: left;
+}
+
+div.yt-img a img {
+ padding-right: 1em;
+}

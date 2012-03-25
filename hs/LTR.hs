@@ -45,7 +45,7 @@ lt_data_dirs = ["css","data","rgen"]
 lt_menu_items :: [String]
 lt_menu_items =
     [{-"home",-}
-     "news","shows","albums","shop","press","photos","contact"]
+     "news","shows","albums","shop","press","photos","video","contact"]
 
 lt_menu :: (String -> String) -> [(String,String)]
 lt_menu cf =
