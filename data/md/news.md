@@ -1,6 +1,6 @@
 ### 26 march 2012 | New video page up... 
 
-Big thanks to all those folks who came along to the shows with
+Thanks to all those folks who came along to the shows with
 Pieta Brown & the Sawdust Boys these past couple of weeks. What a 
 super sweet tour! x 
 
