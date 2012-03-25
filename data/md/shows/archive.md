@@ -1,3 +1,64 @@
+**[PIETA BROWN & the Sawdust Boys][81] (USA) - AUSTRALIAN TOUR March 9th -17th 2012**   
+with special guest LUCIE THORNE  
+
+**Saturday 17th March 2012**  
+[STAR COURT THEATRE][109], Lismore, NSW      
+Star Court Arcade, Molesworth Street  
+
+**Friday 16th March 2012**  
+THE WHITE EAGLE POLISH CLUB, Canberra, ACT       
+38 David St, Turner  
+
+**Thursday 15th March 2012**  
+[THE CAMELOT LOUNGE][90], Sydney, NSW   
+Corner Marrickville Rd and Railway Pde, Marrickville   
+
+**Thursday 15th March 2012**   
+Lucie with Pieta Brown and The Sawdust Boys - interview and live-to-air performance on *Drive* with Richard Glover.  
+5pm / 702 ABC Sydney     
+      
+**Wednesday 14th March 2012**  
+[CARNIVAL OF SUBURBIA][104] at  
+[CARAVAN MUSIC CLUB][106], Melbourne, VIC   
+95 Drummond St, Oakleigh   
+
+**Tuesday 13th March 2012**  
+[BELLA UNION at Trades Hall][105], Melbourne, VIC   
+Corner Lygon and Victoria St, Carlton           
+ 
+*Duet shows with [Hamish Stuart][97] at Port Fairy Festival...*   
+
+**Sunday 11th March 2012**  
+[PORT FAIRY FOLK FESTIVAL][99.1], Port Fairy                 
+*'One for the Road' themed concert, hosted by Lucie, with Pieta Brown,
+Mick Thomas, Madison Violet and Frencham Smith*    
+
+**Saturday 10th March 2012**  
+[PORT FAIRY FOLK FESTIVAL][99.1], Port Fairy                 
+Folk Circus  
+
+**Saturday 10th March 2012**  
+[PORT FAIRY FOLK FESTIVAL][99.1], Port Fairy                 
+Lighthouse Cafe 
+
+**Friday 9th March 2012**  
+[PORT FAIRY FOLK FESTIVAL][99.1], Port Fairy                 
+Reardon Theatre 
+
+**Thursday 8th March 2012**   
+Lucie performing as part of "Stopping All Stations Except East Richmond" - opening night of the [CARNIVAL OF SUBURBIA][104] at 
+[CARAVAN MUSIC CLUB][106], Oakleigh, VIC    
+  
+**Thursday 8th March 2012**   
+Lucie Thorne & Pieta Brown - interview and live-to-air performance on *Acid Country* with David Heard.  
+4.15pm / 3PBS Radio  
+
+**Thursday 8th March 2012**   
+Lucie Thorne & Pieta Brown - interview and live-to-air performance on *The Inside Sleeve* with Robbie Buck.  
+3pm / ABC Radio National    
+
+* * * * *    
+
 ## shows/archive
 
 *more duet shows with [Hamish Stuart][97]...*                          
