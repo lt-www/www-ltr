@@ -16,7 +16,7 @@ ABC Radio National, March 2012
 </div>
 <div class="yt-txt">
 <a href="?v=2DJJfnrM7hw">Can't Sleep for Dreaming</a><br />
-SBS Rockwiz, December 2011  
+SBS TV 'Rockwiz', December 2011  
 </div>
 </div>
 
@@ -28,7 +28,7 @@ SBS Rockwiz, December 2011
 </div>
 <div class="yt-txt">
 <a href="?v=6bx4G2bDbXg">As You Find It</a><br />
-Guildford Hall, September 2011  
+Live at The Guildford Hall, with Hamish Stuart, September 2011  
 </div>
 </div>
 
@@ -40,7 +40,7 @@ Guildford Hall, September 2011
 </div>
 <div class="yt-txt">
 <a href="?v=A_r7HWTzuT4">Falling</a><br />
-ABC Southeast, June 2010  
+Work in progress with Hamish Stuart, filmed by ABC Southeast, Bimbaya June 2010  
 </div>
 </div>
 
@@ -51,7 +51,7 @@ ABC Southeast, June 2010
 </div>
 <div class="yt-txt">
 <a href="?v=xbO8nk_jeSY">Open Sky</a><br />
-The Basement, Sydney April 2009  
+Live at The Basement, filmed by Alex Barry, Sydney April 2009  
 </div>
 </div>  
 
