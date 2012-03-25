@@ -40,7 +40,7 @@ Live at The Guildford Hall, with Hamish Stuart, September 2011
 </div>
 <div class="yt-txt">
 <a href="?v=A_r7HWTzuT4">Falling</a><br />
-Work in progress with Hamish Stuart, filmed by ABC Southeast, Bimbaya June 2010  
+'Work in progress with Hamish Stuart', ABC Southeast, Bimbaya, June 2010  
 </div>
 </div>
 
@@ -51,7 +51,7 @@ Work in progress with Hamish Stuart, filmed by ABC Southeast, Bimbaya June 2010
 </div>
 <div class="yt-txt">
 <a href="?v=xbO8nk_jeSY">Open Sky</a><br />
-Live at The Basement, filmed by Alex Barry, Sydney April 2009  
+Live at The Basement, Sydney, April 2009  
 </div>
 </div>  
 
