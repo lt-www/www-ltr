@@ -1,3 +1,5 @@
+## shows/archive  
+
 **[PIETA BROWN & the Sawdust Boys][81] (USA) - AUSTRALIAN TOUR March 9th -17th 2012**   
 with special guest LUCIE THORNE  
 
@@ -58,8 +60,6 @@ Lucie Thorne & Pieta Brown - interview and live-to-air performance on *The Insid
 3pm / ABC Radio National    
 
 * * * * *    
-
-## shows/archive
 
 *more duet shows with [Hamish Stuart][97]...*                          
 
