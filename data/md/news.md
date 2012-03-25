@@ -1,4 +1,3 @@
-
 ### 26 march 2012 | New video page up... 
 
 Big thanks to all those folks who came along to the shows with
@@ -8,7 +7,7 @@ super sweet tour! x
 ABC radio national filmed Lucie and Pieta performing 'Butterfly
 Blues' together live in the studio at the start of the tour, and this clip,
 along with a selection of other live clips, is up now on the new
-[video page][]. With more to be added soon...
+[video page][102]. With more to be added soon...
 
 ### 1 march 2012 | Corinbank Festival postponed  
 
