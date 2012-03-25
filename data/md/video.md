@@ -51,7 +51,7 @@ Live at The Guildford Hall, with Hamish Stuart, September 2011
 </div>
 <div class="yt-txt">
 <a href="?v=A_r7HWTzuT4">Falling</a><br />
-'Work in progress with Hamish Stuart', ABC Southeast, Bimbaya, June 2010  
+'Work in progress' with Hamish Stuart, ABC Southeast, Bimbaya, June 2010  
 </div>
 </div>
 
