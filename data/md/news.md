@@ -1,3 +1,15 @@
+
+### 26 march 2012 | New video page up... 
+
+Big thanks to all those folks who came along to the shows with
+Pieta Brown & the Sawdust Boys these past couple of weeks. What a 
+super sweet tour! x 
+
+ABC radio national filmed Lucie and Pieta performing 'Butterfly
+Blues' together live in the studio at the start of the tour, and this clip,
+along with a selection of other live clips, is up now on the new
+[video page][]. With more to be added soon...
+
 ### 1 march 2012 | Corinbank Festival postponed  
 
 Due to insane volumes of rain - the beautiful Corinbank Festival has just been postponed. In the last few days the situation has, unfortunately, shifted from "..it's gonna be crazy wet but still fun in yr gumboots!" to..."ongoing rain has rendered the site unusable... and brings real risk of landslides to the only road in or out of the Corin Forest area ".  
@@ -214,6 +226,7 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [99.1]: http://www.portfairyfolkfestival.com/?p=1400#more-1400
 [100]: http://www.sbs.com.au/ondemand/video/2174982667/RocKwiz-S9-Ep124-Lucie-Thorn-Ronnie-Charles
 [101]: http://www.sbs.com.au/ondemand/video/2174968428/RocKwiz-S9-Ep124-Lucie-Thorn-Solo-Performance
+[102]: video
 
 ### old news | archive
 
