@@ -13,16 +13,16 @@ PADDINGTON UNITING CHURCH, Sydney
  
 **Friday 20th April 2012**   
 THE WHEATSHEAF HOTEL, Adelaide  
-36 George St, Thebarton
+36 George St, Thebarton  
 9pm / free entry  
    
 **Saturday 21st April 2012**   
-BAROSSA REGIONAL GALLERY, Tanunda  
+BAROSSA REGIONAL GALLERY, Tanunda    
 details tba    
 
 **Sunday 22nd April 2012**   
 THE STANLEY BRIDGE HOTEL  
-41 Onkaparinga Valley Rd, Verdun    
+41 Onkaparinga Valley Rd, Verdun      
 5pm / free entry     
 
 **VICTORIA** 
