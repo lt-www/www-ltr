@@ -27,7 +27,7 @@ SBS TV 'Rockwiz', December 2011
 </div>
 <div class="yt-txt">
 <a href="?zei9PYk7Sdc">Till The Season</a><br />
-Tanja Hall with Hamish Stuart, ABC Southeast, September 2011  
+The Tanja Hall, with Hamish Stuart, ABC Southeast, September 2011  
 </div>
 </div>
 
@@ -39,7 +39,7 @@ Tanja Hall with Hamish Stuart, ABC Southeast, September 2011
 </div>
 <div class="yt-txt">
 <a href="?v=QKN4qOatpKo">When I Get There</a><br />
-Live at The Guildford Hall, with Hamish Stuart, September 2011  
+The Guildford Hall, with Hamish Stuart, September 2011  
 </div>
 </div>
 
@@ -51,7 +51,7 @@ Live at The Guildford Hall, with Hamish Stuart, September 2011
 </div>
 <div class="yt-txt">
 <a href="?v=6bx4G2bDbXg">As You Find It</a><br />
-Live at The Guildford Hall, with Hamish Stuart, September 2011  
+The Guildford Hall, with Hamish Stuart, September 2011  
 </div>
 </div>
 
@@ -74,7 +74,7 @@ Live at The Guildford Hall, with Hamish Stuart, September 2011
 </div>
 <div class="yt-txt">
 <a href="?v=xbO8nk_jeSY">Open Sky</a><br />
-Live at The Basement, Sydney, April 2009  
+The Basement, Sydney, April 2009  
 </div>
 </div>  
 
