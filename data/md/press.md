@@ -8,11 +8,12 @@
  
 "Mitchell fans will sense a resonance of 1976's _Hejira_, for many her masterpiece, in _Bonfires In Silver City_. While _Hejira_'s theme of geographical dislocation is missing from _Bonfires_, perhaps replaced with journeys of the heart, the records are strikingly similar; poetic, introspective works that have a solidity and wholeness."  **_Ian Cuthbertson, The Australian, August 2011,_ [full article here][21]**      
 
-"an album of powerful intimacy and poetic deliverance" **_The Saturday Age, Life & Style Magazine, September 2011_**  
+"Thorne's powerful intimacy [is] embedded in each song. At times stylistically similar to the late Chris Whitley... Thorne has breathed in love and life and returns both as art. Hers is a poetic gift; _Bonfires_ is a river of sound, its currents best revealed the more deeply you listen." **_The Age, August 2011_** 
+
 
 "Not long ago, I was driving through the Wimmera at night, back roads beyond Horsham. No towns and no lights except the moon and stars. Lucie Thorne was singing in the car; I loved 2009's AMP-nominated Black Across the Field but this year's album is sensational. The songs are small and finely formed in the same way that Gillian Welch's are, the attention to microscopic folk/rock/country detail immense. That night way out west the songs shone out of the dark; it was religious. Great music will do that for you and I give thanks."  **_Chris Johnston, The Melbourne Magazine, September 2011_**    
 
-"Thorne's powerful intimacy [is] embedded in each song. At times stylistically similar to the late Chris Whitley... Thorne has breathed in love and life and returns both as art. Hers is a poetic gift; _Bonfires_ is a river of sound, its currents best revealed the more deeply you listen." **_The Age, August 2011_**  
+"an album of powerful intimacy and poetic deliverance" **_The Saturday Age, Life & Style Magazine, September 2011_**   
 
 "Lucie Thorne's 2009 album, Black Across The Field, was my album of the year; it was shortlisted for the prestigious Australian Music Prize and helped her find a new, larger audience. She has a lot to live up to with the follow-up Bonfires in Silver City, but has yet again proven that her songwriting, arranging, guitar playing and singing are, dare I say it - world class. Think an amalgam of Joni Mitchell, Emmylou Harris and The Cowboy Junkies. She is an artist well worth discovering and I can't think of another Australian artist I would recommend more highly right now." **_Dave Clark, Readings Monthly, August 2011_**     
 
