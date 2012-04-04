@@ -18,7 +18,9 @@ THE WHEATSHEAF HOTEL, Adelaide
    
 **Saturday 21st April 2012**   
 BAROSSA REGIONAL GALLERY, Tanunda    
-details tba    
+7pm   
+tickets available BAROSSA MUSIC CENTRE   
+or phone Vicki on 0417 084 191  
 
 **Sunday 22nd April 2012**   
 THE STANLEY BRIDGE HOTEL  
