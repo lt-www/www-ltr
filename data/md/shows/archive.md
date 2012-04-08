@@ -1,5 +1,16 @@
 ## shows/archive  
 
+*more duet shows with [Hamish Stuart][97]...*    
+
+**NSW**   
+
+**Wednesday 4th April 2012**   
+PADDINGTON UNITING CHURCH, Sydney  
+395 Oxford St, Paddington.   
+'Sea Of Peace' Fundraiser.   
+
+* * * * * 
+
 **[PIETA BROWN & the Sawdust Boys][81] (USA) - AUSTRALIAN TOUR March 9th -17th 2012**   
 with special guest LUCIE THORNE  
 
