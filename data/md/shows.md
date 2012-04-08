@@ -1,14 +1,6 @@
  
 *more duet shows with [Hamish Stuart][97]...*    
 
-**NSW**   
-
-**Wednesday 4th April 2012**   
-PADDINGTON UNITING CHURCH, Sydney  
-395 Oxford St, Paddington.   
-'Sea Of Peace' Fundraiser.   
-7pm / $20  
-
 **SOUTH AUSTRALIA** 
  
 **Friday 20th April 2012**   
