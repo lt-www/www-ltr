@@ -1,3 +1,7 @@
+### 18 april 2012 | South Australia 
+
+Lucie heads to South Australia this weekend with shows in Adelaide, Tanunda, and Verdun, all in duet with Hamish Stuart. Details [here][14]    
+
 ### 26 march 2012 | New video page up... 
 
 Thanks to all those folks who came along to the shows with
