@@ -10,7 +10,7 @@ with Victoriana Gaye
 **Friday 27th April 2012**   
 ARARAT LIVE, Ararat      
 
-**SOUTH AUSTRALIA** 
+**SOUTH AUSTRALIA**   
 *more duet shows with [Hamish Stuart][97]...*    
  
 **Sunday 22nd April 2012**   
