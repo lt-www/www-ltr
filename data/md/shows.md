@@ -1,35 +1,11 @@
  
-*more duet shows with [Hamish Stuart][97]...*    
-
-**SOUTH AUSTRALIA** 
- 
-**Friday 20th April 2012**   
-THE WHEATSHEAF HOTEL, Adelaide  
-36 George St, Thebarton  
-9pm / free entry  
-   
-**Saturday 21st April 2012**   
-BAROSSA REGIONAL GALLERY, Tanunda    
-7pm   
-tickets available BAROSSA MUSIC CENTRE   
-or phone Vicki on 0417 084 191  
-
-**Sunday 22nd April 2012**   
-THE STANLEY BRIDGE HOTEL  
-41 Onkaparinga Valley Rd, Verdun      
-5pm / free entry     
-
 **VICTORIA** 
  
-**Friday 27th April 2012**   
-ARARAT LIVE, Ararat  
-8pm / $15       
+**Sunday 3rd June 2012**   
+House Concert, Maryknoll.      
+*duet show with [Hamish Stuart][97]*    
 
-**Sunday 29th April 2012**   
-WOLSELEY WINERY  
-Hendy Main Road, Paraparap     
-with Victoriana Gaye  
-3pm / $15       
+
 
 * * * * *   
 
