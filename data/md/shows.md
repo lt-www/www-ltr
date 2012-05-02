@@ -5,7 +5,23 @@
 House Concert, Maryknoll.      
 *duet show with [Hamish Stuart][97]*    
 
+* * * * *   
+ 
+**NSW** 
+ 
+**Thursday 14th June 2012**   
+House Concert, Newcastle.       
+details tba.  
 
+**Friday 15th June 2012**   
+33 on Hickory, Dorrigo.  
+with Elana Stone.  
+details tba.    
+ 
+**Saturday 16th June 2012**   
+5 Church St, Bellingen.  
+with Laura Jean and Elana Stone.  
+details tba.    
 
 * * * * *   
 
