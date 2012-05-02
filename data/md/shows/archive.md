@@ -1,7 +1,29 @@
 ## shows/archive  
+       
+**VICTORIA** 
+ 
+**Sunday 29th April 2012**   
+WOLSELEY WINERY  
+Hendy Main Road, Paraparap     
+with Victoriana Gaye  
 
+**Friday 27th April 2012**   
+ARARAT LIVE, Ararat      
+
+**SOUTH AUSTRALIA** 
 *more duet shows with [Hamish Stuart][97]...*    
+ 
+**Sunday 22nd April 2012**   
+THE STANLEY BRIDGE HOTEL  
+41 Onkaparinga Valley Rd, Verdun   
 
+**Saturday 21st April 2012**   
+BAROSSA REGIONAL GALLERY, Tanunda     
+
+**Friday 20th April 2012**   
+THE WHEATSHEAF HOTEL, Adelaide  
+36 George St, Thebarton   
+   
 **NSW**   
 
 **Wednesday 4th April 2012**   
