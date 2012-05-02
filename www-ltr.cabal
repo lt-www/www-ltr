@@ -42,7 +42,7 @@ executable ltr-cgi
                    directory-tree,
                    filepath,
                    html-minimalist,
-                   hwww-minus,
+                   www-minus,
                    pandoc==1.6.0.1,
                    process,
                    time,
