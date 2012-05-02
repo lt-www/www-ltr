@@ -10,6 +10,8 @@ with Victoriana Gaye
 **Friday 27th April 2012**   
 ARARAT LIVE, Ararat      
 
+* * * * *   
+
 **SOUTH AUSTRALIA**   
 *more duet shows with [Hamish Stuart][97]...*    
  
@@ -24,6 +26,8 @@ BAROSSA REGIONAL GALLERY, Tanunda
 THE WHEATSHEAF HOTEL, Adelaide  
 36 George St, Thebarton   
    
+* * * * *   
+
 **NSW**   
 
 **Wednesday 4th April 2012**   
