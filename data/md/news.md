@@ -1,3 +1,11 @@
+### 12 may 2012 | Take Something Beautiful - The Songs of Jesse Younan
+
+In 2008 we lost a friend and a mighty fine songwriter. Jesse Younan died from myeloid leukemia aged just 35, and just months after the release and wide acclaim of his extraordinary album 'A Good Day for a Migraine'.  
+
+Now in 2012, a new album - [Take Something Beautiful - The Songs of Jesse Younan][103] has brought together a host of local songwriters to celebrate and pay tribute to the magic that is Jesse's music.  
+
+For this project Lucie recorded a version of Jesse's haunting song 'Whatever Floats' alongside musical comrades Hamish Stuart and Dave Symes, and the other artists on the album include Jordie Lane, Abbe May, Greg J Walker (Machine Translations), Emily Lubitz (TinPan Orange), M Jack Bee, Jen Cloher, Jai Pyne (The Paper Scissors) and Cameron Potts and Gaby Huber (Dead Letter Chorus). [Take Something Beautiful][103] will be released on Monday 14th May through [Vitamin Records][17]. 
+
 ### 18 april 2012 | South Australia 
 
 Lucie heads to South Australia this weekend with shows in Adelaide, Tanunda, and Verdun, all in duet with Hamish Stuart. Details [here][14]    
@@ -229,7 +237,8 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [99.1]: http://www.portfairyfolkfestival.com/?p=1400#more-1400
 [100]: http://www.sbs.com.au/ondemand/video/2174982667/RocKwiz-S9-Ep124-Lucie-Thorn-Ronnie-Charles
 [101]: http://www.sbs.com.au/ondemand/video/2174968428/RocKwiz-S9-Ep124-Lucie-Thorn-Solo-Performance
-[102]: video
+[102]: video  
+[103]: http://www.takesomethingbeautiful.com/
 
 ### old news | archive
 
