@@ -1,3 +1,7 @@
+### 14 may 2012 | Radio National Album of the Week    
+
+[Take Something Beautiful - The Songs of Jesse Younan][103] is [Album of the Week][103.1] this week on [ABC Radio National][103.1]. It hits the shelves - and the internets - today, via the good folks at [Vitamin Records][17].     
+
 ### 12 may 2012 | Take Something Beautiful - The Songs of Jesse Younan
 
 In 2008 we lost a friend and a mighty fine songwriter. Jesse Younan died from myeloid leukemia aged just 35, and just months after the release and wide acclaim of his extraordinary album 'A Good Day for a Migraine'.  
@@ -239,6 +243,7 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [101]: http://www.sbs.com.au/ondemand/video/2174968428/RocKwiz-S9-Ep124-Lucie-Thorn-Solo-Performance
 [102]: video  
 [103]: http://www.takesomethingbeautiful.com/
+[103.1]: http://www.abc.net.au/radionational/programs/breakfast/aotw-jesse-younan/4003926
 
 ### old news | archive
 
