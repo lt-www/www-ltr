@@ -1,6 +1,6 @@
 ### 14 may 2012 | Radio National Album of the Week    
 
-[Take Something Beautiful - The Songs of Jesse Younan][103] is [Album of the Week][103.1] this week on [ABC Radio National][103.1]. It hits the shelves - and the internets - today, via the good folks at [Vitamin Records][17].     
+[Take Something Beautiful][103] is [Album of the Week][103.1] this week on [ABC Radio National][103.1]. It hits the shelves - and the internets - today, via the good folks at [Vitamin Records][17].     
 
 ### 12 may 2012 | Take Something Beautiful - The Songs of Jesse Younan
 
