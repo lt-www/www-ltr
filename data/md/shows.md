@@ -25,6 +25,15 @@ details tba.
 
 * * * * *   
 
+**ACT** 
+
+**Saturday 30th June 2012**   
+The Keller, Narrabundah.  
+*duet show with [Hamish Stuart][97]*    
+details tba.    
+
+* * * * *   
+
 [past shows][archive]
 
   [archive]: shows/archive/
