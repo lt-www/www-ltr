@@ -5,6 +5,7 @@
 House Concert at 'The Shed', Maryknoll.      
 *duet show with [Hamish Stuart][97]*    
 2pm / $15  
+Bookings: 0418 429 025  
 
 * * * * *   
  
