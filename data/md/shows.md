@@ -2,8 +2,9 @@
 **VICTORIA** 
  
 **Sunday 3rd June 2012**   
-House Concert, Maryknoll.      
+House Concert at 'The Shed', Maryknoll.      
 *duet show with [Hamish Stuart][97]*    
+2pm / $15  
 
 * * * * *   
  
@@ -11,12 +12,14 @@ House Concert, Maryknoll.
  
 **Thursday 14th June 2012**   
 House Concert, Newcastle.       
-details tba.  
+with Shanna Watson and Elana Stone.   
+details tba.   
 
 **Friday 15th June 2012**   
 33 on Hickory, Dorrigo.  
 with Elana Stone.  
-details tba.    
+7pm / $15  
+Bookings: 02 6657 1882    
  
 **Saturday 16th June 2012**   
 5 Church St, Bellingen.  
