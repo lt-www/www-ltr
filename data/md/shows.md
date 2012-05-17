@@ -5,7 +5,7 @@
 House Concert at 'The Shed', Maryknoll.      
 *duet show with [Hamish Stuart][97]*    
 2pm / $15  
-Bookings: 0418 429 025  
+Bookings /info: 0418 429 025  
 
 * * * * *   
  
@@ -48,7 +48,7 @@ with JO JO SMITH
 Dinner and show tickets available.  
 Bookings essential: 03 5790 5381     
 
-**Saturday 8th July 2012**   
+**Saturday 7th July 2012**   
 Motofinish Cafe, Rushworth.      
 with JO JO SMITH    
 6.30pm  
