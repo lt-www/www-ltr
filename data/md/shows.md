@@ -24,7 +24,7 @@ Bookings: 02 6657 1882
  
 **Saturday 16th June 2012**   
 5 Church St, Bellingen.  
-with Laura Jean and Elana Stone.  
+with Elana Stone.  
 details tba.    
 
 * * * * *   
@@ -32,11 +32,30 @@ details tba.
 **ACT** 
 
 **Saturday 30th June 2012**   
-The Keller, Narrabundah.  
+The Keller, (downstairs at the Harmonie German Club) Canberra.  
+Jerrabomberra Ave, Narrabundah.  
 *duet show with [Hamish Stuart][97]*    
 details tba.    
 
 * * * * *   
+
+**VICTORIA** 
+ 
+**Friday 6th July 2012**   
+Strathbogie Store, Strathbogie.      
+with JO JO SMITH    
+6.30pm  
+Dinner and show tickets available.  
+Bookings essential: 03 5790 5381     
+
+**Saturday 8th July 2012**   
+Motofinish Cafe, Rushworth.      
+with JO JO SMITH    
+6.30pm  
+Dinner and show tickets available.  
+Bookings essential: 0438 018 192  
+
+* * * * *    
 
 [past shows][archive]
 
