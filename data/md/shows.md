@@ -4,7 +4,7 @@
 **Sunday 3rd June 2012**   
 House Concert at 'The Shed', Maryknoll.      
 *duet show with [Hamish Stuart][97]*    
-2pm / $15  
+2pm  
 Bookings /info: 0418 429 025  
 
 * * * * *   
@@ -19,7 +19,7 @@ with Shanna Watson and Elana Stone.
 **Friday 15th June 2012**   
 33 on Hickory, Dorrigo.  
 with Elana Stone.  
-7pm / $15  
+7pm  
 Bookings: 02 6657 1882    
  
 * * * * *   
