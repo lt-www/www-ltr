@@ -12,9 +12,9 @@ Bookings /info: 0418 429 025
 **NSW** 
  
 **Thursday 14th June 2012**   
-House Concert, Newcastle.       
+The Lass O'Gowrie, Newcastle.       
 with Shanna Watson and Elana Stone.   
-details tba.   
+8.30pm     
 
 **Friday 15th June 2012**   
 33 on Hickory, Dorrigo.  
@@ -22,11 +22,6 @@ with Elana Stone.
 7pm / $15  
 Bookings: 02 6657 1882    
  
-**Saturday 16th June 2012**   
-5 Church St, Bellingen.  
-with Elana Stone.  
-details tba.    
-
 * * * * *   
 
 **ACT** 
