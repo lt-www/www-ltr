@@ -36,14 +36,15 @@ Bookings: 02 6657 1882
 The Keller, (downstairs at the Harmonie German Club) Canberra.  
 Jerrabomberra Ave, Narrabundah.  
 *duet show with [Hamish Stuart][97]*    
-details tba.    
+8pm.  
+[Tickets on sale now][110].      
 
 **NSW**   
 
 **Sunday 1st July 2012**   
 The Braidwood Hotel, Braidwood.   
 *duet show with [Hamish Stuart][97]*    
-details tba.    
+4pm.    
 
 * * * * *   
 
@@ -102,3 +103,4 @@ Bookings essential: 0438 018 192
 [107]: http://www.trybooking.com/BCUB
 [108]: http://www.moshtix.com.au/event.aspx?id=54131&ref=pietabrownpolishclub
 [109]: http://www.starcourttheatre.com.au/shows
+[110]: http://www.lonewolfpromotions.com/
