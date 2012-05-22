@@ -38,6 +38,13 @@ Jerrabomberra Ave, Narrabundah.
 *duet show with [Hamish Stuart][97]*    
 details tba.    
 
+**NSW**   
+
+**Sunday 1st July 2012**   
+The Braidwood Hotel, Braidwood.   
+*duet show with [Hamish Stuart][97]*    
+details tba.    
+
 * * * * *   
 
 **VICTORIA** 
