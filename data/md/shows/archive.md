@@ -1,11 +1,16 @@
-## shows/archive  
-       
+## shows/archive
+
+ 
 **VICTORIA** 
+ 
+**Sunday 3rd June 2012**   
+House Concert at 'The Shed', Maryknoll.      
+*duet show with [Hamish Stuart][97]*      
  
 **Sunday 29th April 2012**   
 WOLSELEY WINERY  
 Hendy Main Road, Paraparap     
-with Victoriana Gaye  
+*duet show with [Hamish Stuart][97]*    
 
 **Friday 27th April 2012**   
 ARARAT LIVE, Ararat      
