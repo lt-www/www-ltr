@@ -1,11 +1,4 @@
  
-**VICTORIA** 
- 
-**Sunday 3rd June 2012**   
-House Concert at 'The Shed', Maryknoll.      
-*duet show with [Hamish Stuart][97]*    
-2pm  
-Bookings /info: 0418 429 025  
 
 * * * * *   
  
