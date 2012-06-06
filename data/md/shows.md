@@ -64,6 +64,21 @@ with JO JO SMITH
 
 * * * * *    
 
+**VICTORIA**   
+
+**Saturday 11th August 2012**   
+The Courthouse, Yackandandah.      
+with JO JO SMITH    
+details tba.   
+
+**Saturday 18th August 2012**   
+The Velvet Room, Thornbury Theatre, Melbourne.  
+*duet show with [Hamish Stuart][97]*    
+with SWEET JEAN  
+details tba.        
+
+* * * * *    
+
 [past shows][archive]
 
   [archive]: shows/archive/
