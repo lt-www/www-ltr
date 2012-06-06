@@ -77,6 +77,11 @@ The Velvet Room, Thornbury Theatre, Melbourne.
 with SWEET JEAN  
 details tba.        
 
+**Sunday 19th August 2012**   
+Westernport Hotel, San Remo.  
+*duet show with [Hamish Stuart][97]*    
+details tba.  
+
 * * * * *    
 
 [past shows][archive]
