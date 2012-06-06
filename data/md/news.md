@@ -1,3 +1,7 @@
+### 6 June 2012 | Winter touring    
+
+Well, after a restful and merry month of May, it's back on the road over the winter months, with shows in lots of corners of the country. Details up now on the [shows page][14]...
+
 ### 14 may 2012 | Radio National Album of the Week    
 
 [Take Something Beautiful][103] is [Album of the Week][103.1] this week on [ABC Radio National][103.1]. It hits the shelves - and the internets - today, via the good folks at [Vitamin Records][17].     
