@@ -57,6 +57,12 @@ with JO JO SMITH
 Dinner and show tickets available.  
 Bookings essential: 0438 018 192  
 
+**Sunday 8th July 2012**   
+Penny School Gallery Cafe, Maldon.      
+with JO JO SMITH    
+4pm  
+Bookings: 03 5475 1911    
+
 **Sunday 15th July 2012**   
 Hickinbotham Winery, Dromana.      
 with JO JO SMITH    
