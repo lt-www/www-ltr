@@ -5,18 +5,18 @@
 **NSW** 
  
 **Wednesday 13th June 2012**   
-The Newsagency, Sydney.   
+The Newsagency, SYDNEY.   
 375 Enmore Road, Marrickville.        
 with Elana Stone and Ngaiire.     
 8pm       
 
 **Thursday 14th June 2012**   
-The Lass O'Gowrie, Newcastle.       
+The Lass O'Gowrie, NEWCASTLE.       
 with Shanna Watson and Elana Stone.   
 8.30pm     
 
 **Friday 15th June 2012**   
-33 on Hickory, Dorrigo.  
+33 on Hickory, DORRIGO.  
 with Elana Stone.  
 7pm  
 Bookings: 02 6657 1882    
@@ -26,7 +26,7 @@ Bookings: 02 6657 1882
 **ACT** 
 
 **Saturday 30th June 2012**   
-The Keller, (downstairs at the Harmonie German Club) Canberra.  
+The Keller, (downstairs at the Harmonie German Club) CANBERRA.  
 Jerrabomberra Ave, Narrabundah.  
 *duet show with [Hamish Stuart][97]*    
 8pm.  
@@ -35,7 +35,7 @@ Jerrabomberra Ave, Narrabundah.
 **NSW**   
 
 **Sunday 1st July 2012**   
-The Braidwood Hotel, Braidwood.   
+The Braidwood Hotel, BRAIDWOOD.   
 *duet show with [Hamish Stuart][97]*    
 4pm.    
 
@@ -44,27 +44,27 @@ The Braidwood Hotel, Braidwood.
 **VICTORIA** 
  
 **Friday 6th July 2012**   
-Strathbogie Store, Strathbogie.      
+Strathbogie Store, STRATHBOGIE.      
 with JO JO SMITH    
 6.30pm  
 Dinner and show tickets available.  
 Bookings essential: 03 5790 5381     
 
 **Saturday 7th July 2012**   
-Motofinish Cafe, Rushworth.      
+Motofinish Cafe, RUSHWORTH.      
 with JO JO SMITH    
 6.30pm  
 Dinner and show tickets available.  
 Bookings essential: 0438 018 192  
 
 **Sunday 8th July 2012**   
-Penny School Gallery Cafe, Maldon.      
+Penny School Gallery Cafe, MALDON.      
 with JO JO SMITH    
 4pm  
 Bookings: 03 5475 1911    
 
 **Sunday 15th July 2012**   
-Hickinbotham Winery, Dromana.      
+Hickinbotham Winery, DROMANA.      
 with JO JO SMITH    
 1pm  
 
@@ -73,12 +73,12 @@ with JO JO SMITH
 **VICTORIA**   
 
 **Saturday 11th August 2012**   
-The Courthouse, Yackandandah.      
+The Courthouse, YACKANDANDAH.      
 with JO JO SMITH    
 details tba.   
 
 **Saturday 18th August 2012**   
-The Velvet Room, Thornbury Theatre, Melbourne.  
+The Velvet Room, Thornbury Theatre, MELBOURNE.  
 *duet show with [Hamish Stuart][97]*    
 with SWEET JEAN  
 details tba.        
