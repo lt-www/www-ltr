@@ -28,7 +28,8 @@ more enthralling. _Bonfires In Silver City_ is further proof Thorne deserves to 
  
 - _Album Of The Week_ on [Radio National Breakfast][20], 25 July 2011  
 - _Album Of The Week_ on Radio Australia, 12 September 2011  
-- _Album Of The Month_ in The Melbourne Magazine, The Age, September 2011  
+- _Album Of The Month_ in The Melbourne Magazine, The Age, September 2011   
+- Longlisted for **The Australian Music Prize** 2011
 - Featured in [_Ten New Female Artists To Get Excited About_][24] in Rolling Stone Magazine, November 2011    
 
 
@@ -37,7 +38,7 @@ more enthralling. _Bonfires In Silver City_ is further proof Thorne deserves to 
 ### Black Across The Field
 
 - Awarded *'Best Roots Album of 2009'* by The Sydney Morning Herald  
-- Shortlisted for the prestigious **Australian Music Prize** 2009
+- Shortlisted for **The Australian Music Prize** 2009
 - 'When The Lights Go Down' (from Black Across The Field) chosen by Universal Records to be included on their 2010 compilation 'Chillseeker' alongside songs from Leonard Cohen, Radiohead, Jeff Buckley, Joan As Policewoman, Nick Drake, Ray LaMontagne, Sia, Neko Case
 
 
@@ -125,7 +126,7 @@ you are drawn in and carried on whatever winds prevail." **_Live review from The
 
 ### Where Night Birds Call
 
-- Longlisted for the **Australian Music Prize** 2007  
+- Longlisted for **The Australian Music Prize** 2007  
 
 "Thorne writes some of the most simple and beautiful folk songs you
 will hear. _Where Night Birds Call_ is filled with stunning sketches
