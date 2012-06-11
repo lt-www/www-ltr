@@ -5,7 +5,6 @@
   ,("loretta","photo by eryca green")
   ,("diastema","photo by eryca green")
   ,("polka-dots","photo by eryca green")
-  ,("orange","photo by eryca green")
   ])
 ,("Bimbaya"
  ,[("factory","")
@@ -23,7 +22,8 @@
   ,("ulu","with Tom Hall, backstage University of London Union, UK")
   ])
 ,("Archive"
- ,[("green","photo by eryca green")
+ ,[("orange","photo by eryca green")
+  ,("green","photo by eryca green")
   ,("doorway","photo by eryca green")
   ,("angle","photo by eryca green")
   ,("white","photo by eryca green")
