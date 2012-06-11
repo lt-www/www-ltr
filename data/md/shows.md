@@ -26,8 +26,9 @@ Bookings: 02 6657 1882
 **ACT** 
 
 **Saturday 30th June 2012**   
-The Keller, (downstairs at the Harmonie German Club) CANBERRA.  
-Jerrabomberra Ave, Narrabundah.  
+The Keller, CANBERRA.  
+Jerrabomberra Ave, Narrabundah.   
+(downstairs at the Harmonie German Club)   
 *duet show with [Hamish Stuart][97]*    
 8pm.  
 [Tickets on sale now][110].      
