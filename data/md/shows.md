@@ -76,13 +76,14 @@ with JO JO SMITH
 **Saturday 11th August 2012**   
 The Courthouse, YACKANDANDAH.      
 with JO JO SMITH    
-details tba.   
+7pm  
+Bookings: 0458454050    
 
 **Saturday 18th August 2012**   
-The Velvet Room, Thornbury Theatre, MELBOURNE.  
+[The Velvet Room, Thornbury Theatre][111], MELBOURNE.  
 *duet show with [Hamish Stuart][97]*    
 with SWEET JEAN  
-details tba.        
+[Tickets on sale now][111.1]        
 
 * * * * *    
 
@@ -124,3 +125,5 @@ details tba.
 [108]: http://www.moshtix.com.au/event.aspx?id=54131&ref=pietabrownpolishclub
 [109]: http://www.starcourttheatre.com.au/shows
 [110]: http://www.lonewolfpromotions.com/
+[111]: http://thethornburytheatre.com/  
+[111.1]: http://thornburytheatre.oztix.com.au/default.aspx?Event=27515  
