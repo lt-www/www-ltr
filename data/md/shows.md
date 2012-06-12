@@ -80,7 +80,7 @@ with JO JO SMITH
 Bookings: 0458454050    
 
 **Saturday 18th August 2012**   
-[The Velvet Room, Thornbury Theatre][111], MELBOURNE.  
+[The Velvet Room][111], Thornbury Theatre, MELBOURNE.  
 *duet show with [Hamish Stuart][97]*    
 with SWEET JEAN  
 [Tickets on sale now][111.1]        
