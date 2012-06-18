@@ -1,5 +1,21 @@
 ## shows/archive
 
+**NSW**   
+
+**Friday 15th June 2012**   
+33 on Hickory, DORRIGO.  
+with Elana Stone.          
+
+**Thursday 14th June 2012**   
+The Lass O'Gowrie, NEWCASTLE.       
+with Shanna Watson and Elana Stone.      
+   
+**Wednesday 13th June 2012**   
+The Newsagency, SYDNEY.   
+375 Enmore Road, Marrickville.        
+with Elana Stone.   
+
+* * * * *   
  
 **VICTORIA** 
  
