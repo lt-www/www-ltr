@@ -1,27 +1,6 @@
  
 
 * * * * *   
- 
-**NSW** 
- 
-**Wednesday 13th June 2012**   
-The Newsagency, SYDNEY.   
-375 Enmore Road, Marrickville.        
-with Elana Stone and Ngaiire.     
-8pm       
-
-**Thursday 14th June 2012**   
-The Lass O'Gowrie, NEWCASTLE.       
-with Shanna Watson and Elana Stone.   
-8.30pm     
-
-**Friday 15th June 2012**   
-33 on Hickory, DORRIGO.  
-with Elana Stone.  
-7pm  
-Bookings: 02 6657 1882    
- 
-* * * * *   
 
 **ACT** 
 
