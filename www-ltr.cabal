@@ -25,7 +25,6 @@ data-files:        README
                    data/md/error/*.md
                    data/md/forms/*.md
                    data/md/news/*.md
-                   data/md/photos/*.md
                    data/md/shop/*.md
                    data/md/shows/*.md
                    data/md/songs/*.md
@@ -45,6 +44,7 @@ executable ltr-cgi
                    old-locale,
                    pandoc==1.6.0.1,
                    process,
+                   split,
                    time,
                    utf8-string,
                    www-minus,
