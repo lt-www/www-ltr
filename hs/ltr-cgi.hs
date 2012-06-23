@@ -133,6 +133,8 @@ dispatch cf (m,p,q) =
         v = require_verified e
     in case (m,p,q) of
          ("GET",_,[("p",d)]) -> d_page cf (splitDirectories d)
+         ("GET",_,[("e","photos")]) -> v (E.edit_get "data/config/photos.hs")
+         ("POST",_,[("e","photos")]) -> v (photos_post e cf)
          ("GET",_,[("e",d)]) -> v (E.edit_get (L.lt_markdown_file_name_f d))
          ("POST",_,[("e",d)]) -> v (E.edit_post e ("?p=" ++ d))
          ("GET",_,[("n","rss")]) -> rss_news cf
@@ -142,8 +144,6 @@ dispatch cf (m,p,q) =
          ("GET",_,[("o","logout")]) -> E.logout_get e
          ("GET",_,[("o","upload")]) -> v E.upload_get
          ("POST",_,[("o","upload")]) -> v (E.upload_post e)
-         ("GET",_,[("o","photos")]) -> v (E.edit_get "data/config/photos.hs")
-         ("POST",_,[("o","photos")]) -> v (photos_post e cf)
          ("GET",_,[("v",d)]) -> v_page cf d
          ("GET",_,_) -> d_page cf p
          _ -> E.unknown_request (m,p,q)

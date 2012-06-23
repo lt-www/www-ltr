@@ -106,6 +106,10 @@ footer {
  margin-bottom: 0.15em;
 }
 
+footer p a img {
+ margin: 0px 4px 0px 0px;
+}
+
 p.caption {
  display: none;
 }
@@ -237,6 +241,16 @@ div.radio {
  margin: 1em 1em;
 }
 
+/* a */
+
+a.here {
+ color: #011e48;
+}
+
+a.h1, a.edit, a.edit:visited {
+ text-decoration: none;
+}
+
 /***** albums *****/
 
 .albums p {
@@ -252,13 +266,8 @@ div.radio {
  margin: 15px 0px 15px 0px;
 }
 
-a.here {
- color: #011e48;
-}
-
-a.h1, a.edit, a.edit:visited {
- text-decoration: none;
-}
+/* the floats here interact badly with the footer... */
+.albums footer p a img {display: none;}
 
 /***** album (singular, ie. actual page) *****/
 

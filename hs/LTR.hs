@@ -77,15 +77,31 @@ std_html = H.html [H.lang "en"]
 -- p = path to page
 std_copyright :: Config -> FilePath -> X.Content
 std_copyright cf p =
-    H.footer
-         [H.class' "footer"]
-         [H.copy
+    let rss_v = H.w3_rss_validator lt_site
+        mk_i :: String -> Int -> X.Content
+        mk_i nm sz = H.img [H.src (printf "data/png/icon/%s-%d.png" nm sz)
+                           ,H.alt nm]
+        rss_i = mk_i "rss" 14
+        fb_i = mk_i "fb" 14
+        ms_i = mk_i "ms" 14
+        sc_i = mk_i "sc" 14
+    in H.footer
+        [H.class' "footer"]
+        [H.p []
+         [H.a [H.href "?p=news/rss.xml"] [rss_i]
+         ,H.a [H.href "http://www.facebook.com/lucie.thorne.3"] [fb_i]
+         ,H.a [H.href "http://www.myspace.com/luciethornemusic"] [ms_i]
+         ,H.a [H.href "http://soundcloud.com/lucie-1-2"] [sc_i]
+         ,H.br []
+         ,H.copy
          ,H.a [H.href lt_site] [H.cdata "lucie thorne"]
          ,H.cdata " 2012. " {- 1998- -}
          ,H.a [H.href H.w3_html_validator] [H.cdata "html"]
          ,H.cdata ", "
          ,H.a [H.href H.w3_css_validator] [H.cdata "css"]
-         ,H.a [H.href (lt_edit_ln cf p)] [H.cdata "."]]
+         ,H.cdata ", "
+         ,H.a [H.href rss_v] [H.cdata "rss"]
+         ,H.a [H.href (lt_edit_ln cf p)] [H.cdata "."]]]
 
 std_menu :: Config -> String -> X.Content
 std_menu cf nm =
@@ -167,10 +183,7 @@ arrows :: Config -> I.Neighbours -> X.Content
 arrows cf (l,_,r) =
     let f s (Just n) = H.a [H.href (lt_base cf ("photos" </> n))] [s]
         f s Nothing = s
-        ln = H.href (lt_root cf </> "?o=photos")
-        cl = H.class' "edit"
-        dot = H.a [cl,ln] [H.cdata "."]
-    in H.span [H.class' "arrows"] [f H.larr l,H.nbsp,H.nbsp,f H.rarr r,dot]
+    in H.span [H.class' "arrows"] [f H.larr l,H.nbsp,H.nbsp,f H.rarr r]
 
 photos_page :: Config ->
                [I.Img] ->
@@ -193,7 +206,7 @@ photos_page cf im sm c nb =
                     ,H.span [] c_
                     ,arrows cf nb]
         x_ = H.div [H.class' "content"] [g_,i_,I.img_preload 450 (rt,lt_base cf) im c]
-        b_ = [std_menu cf "photos",lt_h1,sm,x_]
+        b_ = [std_menu cf "photos",lt_h1,sm,x_,std_copyright cf "photos"]
     in std_html [H.head [] m_
                 ,H.body [H.class' "photos"] [H.div [H.class' "main"] b_]]
 
