@@ -89,7 +89,7 @@ std_copyright cf p =
         [H.class' "footer"]
         [H.p []
          [H.a [H.href "?p=news/rss.xml"] [rss_i]
-         ,H.a [H.href "http://www.facebook.com/lucie.thorne.3"] [fb_i]
+         ,H.a [H.href "http://www.facebook.com/lucie.thorne"] [fb_i]
          ,H.a [H.href "http://www.myspace.com/luciethornemusic"] [ms_i]
          ,H.a [H.href "http://soundcloud.com/lucie-1-2"] [sc_i]
          ,H.br []
