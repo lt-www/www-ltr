@@ -1,3 +1,7 @@
+### 27 June 2012 | This weekend...      
+
+Two shows coming up this weekend - in Canberra and Braidwood - in duet with the one n only Mr Hamish Stuart. [Details here][14].    
+
 ### 6 June 2012 | Winter touring    
 
 Well, after a restful and merry month of May, it's back on the road over the winter months, with shows in lots of corners of the country. Details up now on the [shows page][14]...
