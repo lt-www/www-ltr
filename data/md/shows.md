@@ -52,6 +52,11 @@ with JO JO SMITH
 
 **VICTORIA**   
 
+**Friday 10th August 2012**   
+House Concert, CAMBPELLS CREEK.      
+with JO JO SMITH    
+7.30pm        
+
 **Saturday 11th August 2012**   
 The Courthouse, YACKANDANDAH.      
 with JO JO SMITH    
@@ -61,8 +66,14 @@ Bookings: 0458454050
 **Saturday 18th August 2012**   
 [The Velvet Room][111], Thornbury Theatre, MELBOURNE.  
 *duet show with [Hamish Stuart][97]*    
-with SWEET JEAN  
+with SWEET JEAN   
+8pm  
 [Tickets on sale now][111.1]        
+
+**Sunday 19th August 2012**   
+Westernport Hotel, SAN REMO.  
+*duet show with [Hamish Stuart][97]*    
+5.30pm     
 
 * * * * *    
 
