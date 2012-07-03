@@ -22,6 +22,11 @@ The Braidwood Hotel, BRAIDWOOD.
 * * * * *   
 
 **VICTORIA** 
+
+**Wednesday 4th July 2012**   
+interview and live-to-air performance on *The Morning Show* with Jonathon Ridnell.    
+10.30am.   
+ABC Central Victoria.   
  
 **Friday 6th July 2012**   
 Strathbogie Store, STRATHBOGIE.      
