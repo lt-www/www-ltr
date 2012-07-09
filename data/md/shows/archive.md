@@ -1,5 +1,44 @@
 ## shows/archive
 
+* * * * *   
+
+**VICTORIA** 
+
+**Sunday 8th July 2012**   
+Penny School Gallery Cafe, MALDON.      
+with JO JO SMITH   
+
+**Saturday 7th July 2012**   
+Motofinish Cafe, RUSHWORTH.      
+with JO JO SMITH   
+ 
+**Friday 6th July 2012**   
+Strathbogie Store, STRATHBOGIE.      
+with JO JO SMITH       
+
+**Wednesday 4th July 2012**   
+interview and live-to-air performance on *The Morning Show*  
+with Jonathan Ridnell.    
+ABC Central Victoria.   
+
+* * * * *  
+
+**NSW**   
+
+**Sunday 1st July 2012**   
+The Braidwood Hotel, BRAIDWOOD.   
+*duet show with [Hamish Stuart][97]*    
+
+**ACT** 
+
+**Saturday 30th June 2012**   
+The Keller, CANBERRA.  
+Jerrabomberra Ave, Narrabundah.   
+(downstairs at the Harmonie German Club)   
+*duet show with [Hamish Stuart][97]*    
+     
+* * * * *  
+
 **NSW**   
 
 **Friday 15th June 2012**   
