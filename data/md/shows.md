@@ -1,62 +1,10 @@
- 
 
-* * * * *   
-
-**ACT** 
-
-**Saturday 30th June 2012**   
-The Keller, CANBERRA.  
-Jerrabomberra Ave, Narrabundah.   
-(downstairs at the Harmonie German Club)   
-*duet show with [Hamish Stuart][97]*    
-8pm.  
-[Tickets on sale now][110].      
-
-**NSW**   
-
-**Sunday 1st July 2012**   
-The Braidwood Hotel, BRAIDWOOD.   
-*duet show with [Hamish Stuart][97]*    
-4pm.    
-
-* * * * *   
-
-**VICTORIA** 
-
-**Wednesday 4th July 2012**   
-interview and live-to-air performance on *The Morning Show*  
-with Jonathan Ridnell.    
-ABC Central Victoria.   
-10.30am.     
- 
-**Friday 6th July 2012**   
-Strathbogie Store, STRATHBOGIE.      
-with JO JO SMITH    
-6.30pm  
-Dinner and show tickets available.  
-Bookings essential: 03 5790 5381     
-
-**Saturday 7th July 2012**   
-Motofinish Cafe, RUSHWORTH.      
-with JO JO SMITH    
-6.30pm  
-Dinner and show tickets available.  
-Bookings essential: 0438 018 192  
-
-**Sunday 8th July 2012**   
-Penny School Gallery Cafe, MALDON.      
-with JO JO SMITH    
-4pm  
-Bookings: 03 5475 1911    
+**VICTORIA**  
 
 **Sunday 15th July 2012**   
 Hickinbotham Winery, DROMANA.      
 with JO JO SMITH    
-1pm  
-
-* * * * *    
-
-**VICTORIA**   
+1pm    
 
 **Friday 10th August 2012**   
 House Concert, CAMBPELLS CREEK.      
