@@ -1,10 +1,4 @@
-
 **VICTORIA**  
-
-**Sunday 15th July 2012**   
-Hickinbotham Winery, DROMANA.      
-with JO JO SMITH    
-1pm    
 
 **Friday 10th August 2012**   
 House Concert, CAMBPELLS CREEK.      
