@@ -1,3 +1,9 @@
+**NSW**  
+
+**Monday 6th August 2012**   
+*The Starfish Club* at the Clovelly Bowls Club, SYDNEY.   
+details tba.  
+
 **VICTORIA**  
 
 **Friday 10th August 2012**   
