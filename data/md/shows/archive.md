@@ -4,6 +4,10 @@
 
 **VICTORIA** 
 
+**Sunday 15th July 2012**   
+Hickinbotham Winery, DROMANA.      
+with JO JO SMITH   
+
 **Sunday 8th July 2012**   
 Penny School Gallery Cafe, MALDON.      
 with JO JO SMITH   
