@@ -6,5 +6,5 @@ Lucie's new album [Bonfires In Silver City][1] OUT NOW through [Vitamin Records]
 
   [1]: albums/bonfires-in-silver-city
   [2]: http://www.vitamin.net.au/
-  [3]: data/image/front/bonfires.jpg
+  [3]: data/image/front/loretta.jpg
 

@@ -22,4 +22,4 @@ make sure to leave an address.
 if you want to join lucie's mailing list there is a
 [different form][9].
 
-  [9]: ../mailing-list/
+  [9]: forms/mailing-list/

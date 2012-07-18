@@ -52,8 +52,8 @@ html {
 */
 
 body {
- background-color: #53a0a8;
- color: #fdf5e0;
+ background-color: #FFFFF0 /*#212321 #392313 #442922 #53a0a8*/;
+ color: #2F4F4F /* #fdf5e0 #fdf5e0*/;
  font-size: 100%;
  font-family: lt-normal, sans-serif;
  text-align: left;
@@ -81,7 +81,7 @@ div.main {
 }
 
 nav.menu, nav.submenu {
- font-family: lt-header;
+ font-family: lt-header, sans-serif;
  margin: 0em;
 }
 
@@ -121,12 +121,12 @@ p {
 }
 
 h1, h2 {
- font-family: lt-header;
+ font-family: lt-header, sans-serif;
  clear: both;
 }
 
 h3, h4 {
- font-family: lt-normal;
+ font-family: lt-normal, sans-serif;
  clear: both;
 }
 
@@ -154,23 +154,17 @@ blockquote {
  margin: 0em 1em;
  padding: 0em 1em;
  border: none;
- border-color: #ddd;
+ border-color: #2F4F4F;
  border-width: 0px;
 }
 
-a {
- color: #fefced;
-}
+a {color: #2F4F4F;}  /* #F3E667 #fefced */
 
-a:visited {
-}
+a:visited {}
 
-ol {
-}
+ol {}
 
-ul {
- list-style: none;
-}
+ul {list-style: none;}
 
 /* make list spacing equal to line-height (1.25em) */
 li {
@@ -181,8 +175,8 @@ hr {
  width: 100%;
  height: 1px;
  border: 0;
- color: #fdf5e0;
- background-color: #fdf5e0;
+ color: #2F4F4F; /* #fdf5e0 */
+ background-color: #FFFFF0; /* #fdf5e0 */
 }
 
 /* Images are _never_ the only link, don't indicate link status. */
@@ -244,7 +238,7 @@ div.radio {
 /* a */
 
 a.here {
- color: #011e48;
+ color: #2F4F4F; /* #011e48 */
 }
 
 a.h1, a.edit, a.edit:visited {
@@ -284,14 +278,17 @@ body.albums div.main div.content ol {
 
 textarea, input {
  font-size: 100%;
- border-width: 0px;
+ border-width: 1px;
+ border-style: dotted;
+ border-color: #2F4F4F;
 }
 
-input.send {
+input {
  background-color: transparent;
  border-width: 1px;
  border-style: dotted;
- color: #fefced;
+ border-color: #2F4F4F;
+ color: #2F4F4F; /* #fefced */
 }
 
 form dl dt {
