@@ -176,7 +176,7 @@ hr {
  height: 1px;
  border: 0;
  color: #2F4F4F; /* #fdf5e0 */
- background-color: #FFFFF0; /* #fdf5e0 */
+ background-color: #2F4F4F; /* #fdf5e0 */
 }
 
 /* Images are _never_ the only link, don't indicate link status. */
