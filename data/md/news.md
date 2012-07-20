@@ -1,3 +1,7 @@
+### 5 July 2012 | Across Victoria with Jo Jo Smith  
+
+Lucie will be touring across regional Victoria over the next few weeks in cahoots with the fabulous Jo Jo Smith, with [shows][14] in Strathbogie, Rushworth, Maldon, Dromana, Yackandanah and Campbells Creek.   
+
 ### 27 June 2012 | This weekend...      
 
 Two shows coming up this weekend - in Canberra and Braidwood - in duet with the one n only Mr Hamish Stuart. [Details here][14].    
