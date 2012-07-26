@@ -1,3 +1,7 @@
+### 26 July 2012 | Starfish Club  
+
+Lucie will be next month's special guest at Sydney's 'Starfish Club' show on Monday 6th August. She'll be joining forces with some of the finest in a rare full-band collaboration, featuring Chris Abrahams, Jonathan Zwartz, Glen Hannah and Hamish Stuart. No presale tickets are available for this show so you'll wanna roll up early folks! [Details here][14].  
+
 ### 5 July 2012 | Across Victoria with Jo Jo Smith  
 
 Lucie will be touring across regional Victoria over the next few weeks in cahoots with the fabulous Jo Jo Smith, with [shows][14] in Strathbogie, Rushworth, Maldon, Dromana, Yackandanah and Campbells Creek.   
