@@ -2,6 +2,7 @@
 
 **Monday 6th August 2012**   
 *Starfish Club* at The Clovelly Bowls Club, SYDNEY.   
+1 Ocean Street, Clovelly.  
 *a very special band collaboration show featuring Chris Abrahams, Jonathan Zwartz, Glen Hannah and Hamish Stuart.*    
 Doors open 6pm / Dinner available / Show from 7pm /   
 Tickets available at the door only.        
