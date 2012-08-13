@@ -34,8 +34,8 @@ The Stanley Bridge Hotel, VERDUN.
  
 **Sunday 16th September 2012**   
 The Wheatsheaf Hotel, ADELAIDE.   
-with MATT WALKER. 
-4pm   
+with MATT WALKER.   
+4pm     
 
 * * * * *   
 
@@ -44,14 +44,17 @@ with MATT WALKER.
 **Friday 28th September 2012**   
 The Candelo Town Hall, CANDELO.  
 with MATT WALKER.  
+7.30pm / Tickets available at the door  
  
 **Saturday 29th September 2012**   
 The Heritage Hotel, BULLI.   
 with MATT WALKER.   
+details tba  
 
 **Sunday 30th September 2012**   
 Notes Live, SYDNEY.   
 with MATT WALKER.       
+details tba   
 
 * * * * *   
 
@@ -60,10 +63,12 @@ with MATT WALKER.
 **Saturday 6th October 2012**     
 The Bridge Hotel, CASTLEMAINE.   
 with MATT WALKER.      
+details tba   
 
 **Sunday 7th October 2012**     
 The Toff In Town, MELBOURNE.   
 with MATT WALKER.      
+details tba   
 
 * * * * *     
 
