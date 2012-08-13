@@ -1,5 +1,8 @@
-
 **VICTORIA**    
+
+**Monday 13th August 2012**  
+*Live to air performance and guest DJ* on 'Homebrew' with Jenny O'Keefe.  
+3PBs fm. 3-4pm.    
 
 **Saturday 18th August 2012**   
 [The Velvet Room][111], Thornbury Theatre, MELBOURNE.  
@@ -13,7 +16,56 @@ Westernport Hotel, SAN REMO.
 *duet show with [Hamish Stuart][97]*    
 5.30pm     
 
-* * * * *    
+* * * * *     
+
+**VICTORIA** 
+
+**Thursday 13th September 2012**   
+Babushka Bar, BALLARAT.  
+8pm 
+
+* * * * *   
+
+**South Australia**  
+
+**Saturday 15th September 2012**   
+The Stanley Bridge Hotel, VERDUN.  
+8pm 
+ 
+**Sunday 16th September 2012**   
+The Wheatsheaf Hotel, ADELAIDE. 
+with MATT WALKER. 
+4pm   
+
+* * * * *   
+
+**NSW**  
+
+**Friday 28th September 2012**   
+The Candelo Town Hall, CANDELO.  
+with MATT WALKER.  
+ 
+**Saturday 29th September 2012**   
+The Heritage Hotel, BULLI. 
+with MATT WALKER. 
+
+**Sunday 30th September 2012**   
+Notes Live, SYDNEY. 
+with MATT WALKER.     
+
+* * * * *   
+
+**VICTORIA**  
+ 
+**Saturday 6th October 2012**   
+The Bridge Hotel, CASTLEMAINE. 
+with MATT WALKER.    
+
+**Sunday 7th October 2012**   
+The Toff In Town, MELBOURNE. 
+with MATT WALKER.    
+
+* * * * *     
 
 [past shows][archive]
 
