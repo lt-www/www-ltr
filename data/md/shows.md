@@ -1,26 +1,5 @@
-**NSW**  
 
-**Monday 6th August 2012**   
-*Starfish Club* at The Clovelly Bowls Club, SYDNEY.   
-1 Ocean Street, Clovelly.  
-*a very special band collaboration show featuring Chris Abrahams, Jonathan Zwartz, Glen Hannah and Hamish Stuart.*    
-Doors open 6pm / Dinner available / Show from 7pm /   
-Tickets available at the door only.        
-
-* * * * *    
-
-**VICTORIA**  
-
-**Friday 10th August 2012**   
-House Concert, CAMBPELLS CREEK.      
-with JO JO SMITH    
-7.30pm        
-
-**Saturday 11th August 2012**   
-The Courthouse, YACKANDANDAH.      
-with JO JO SMITH    
-7pm  
-Bookings: 0458454050    
+**VICTORIA**    
 
 **Saturday 18th August 2012**   
 [The Velvet Room][111], Thornbury Theatre, MELBOURNE.  
