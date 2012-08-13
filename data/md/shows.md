@@ -26,7 +26,7 @@ Babushka Bar, BALLARAT.
 
 * * * * *   
 
-**South Australia**  
+**SOUTH AUSTRALIA**  
 
 **Saturday 15th September 2012**   
 The Stanley Bridge Hotel, VERDUN.  
@@ -57,13 +57,13 @@ with MATT WALKER.
 
 **VICTORIA**  
  
-**Saturday 6th October 2012**   
-The Bridge Hotel, CASTLEMAINE. 
-with MATT WALKER.    
+**Saturday 6th October 2012**     
+The Bridge Hotel, CASTLEMAINE.   
+with MATT WALKER.      
 
-**Sunday 7th October 2012**   
-The Toff In Town, MELBOURNE. 
-with MATT WALKER.    
+**Sunday 7th October 2012**     
+The Toff In Town, MELBOURNE.   
+with MATT WALKER.      
 
 * * * * *     
 
