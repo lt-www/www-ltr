@@ -1,3 +1,7 @@
+### 13 August 2012 | 3PBS
+
+Lucie will be playing a few songs live-to-air, as well as 'guest dj-ing' some of her local favourites on Australian music show 'Home Brew', with Jenny O'Keefe, 3PBS radio today from 3pm.    
+
 ### 26 July 2012 | Starfish Club  
 
 Lucie will be next month's special guest at Sydney's 'Starfish Club' show on Monday 6th August. She'll be joining forces with some of the finest in a rare full-band collaboration, featuring Chris Abrahams, Jonathan Zwartz, Glen Hannah and Hamish Stuart. No presale tickets are available for this show so you'll wanna roll up early folks! [Details here][14].  
