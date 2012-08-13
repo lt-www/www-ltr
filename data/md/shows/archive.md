@@ -1,7 +1,26 @@
 ## shows/archive
 
+**VICTORIA**  
+
+**Saturday 11th August 2012**   
+The Courthouse, YACKANDANDAH.      
+with JO JO SMITH   
+
+**Friday 10th August 2012**   
+House Concert, CAMBPELLS CREEK.      
+with JO JO SMITH  
+
 * * * * *   
 
+**NSW**  
+
+**Monday 6th August 2012**   
+*Starfish Club* at The Clovelly Bowls Club, SYDNEY.   
+1 Ocean Street, Clovelly.  
+*a very special band collaboration show featuring Chris Abrahams, Jonathan Zwartz, Glen Hannah and Hamish Stuart.*         
+
+* * * * *    
+         
 **VICTORIA** 
 
 **Sunday 15th July 2012**   
