@@ -1,6 +1,6 @@
 ### 13 August 2012 | 3PBS
 
-Lucie will be playing a few songs live-to-air, as well as 'guest dj-ing' some of her local favourites on Australian music show 'Home Brew', with Jenny O'Keefe, 3PBS radio today from 3pm.    
+Lucie will be playing a few songs live-to-air, as well as 'guest dj-ing' some of her local favourites on Australian music show [Homebrew][112.1], with Jenny O'Keefe, 3PBS radio today from 3pm.    
 
 ### 26 July 2012 | Starfish Club  
 
@@ -264,6 +264,7 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [102]: video  
 [103]: http://www.takesomethingbeautiful.com/
 [103.1]: http://www.abc.net.au/radionational/programs/breakfast/aotw-jesse-younan/4003926
+[112.1]: http://www.pbsfm.org.au/node/19074 
 
 ### old news | archive
 
