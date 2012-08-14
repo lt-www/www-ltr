@@ -2,7 +2,11 @@
 
 **Monday 13th August 2012**  
 *Live to air performance and guest DJ* on 'Homebrew' with Jenny O'Keefe.  
-3PBs fm. 3-4pm.    
+3PBS fm. 3-4pm.   
+
+**Saturday 18th August 2012**  
+*Live to air performance* on 'Off the Record' with Brian Wise.  
+3RRR fm. 10.30am.     
 
 **Saturday 18th August 2012**   
 [The Velvet Room][111], Thornbury Theatre, MELBOURNE.  
