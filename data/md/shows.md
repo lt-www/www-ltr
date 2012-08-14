@@ -42,6 +42,15 @@ with [MATT WALKER][112].
 4pm     
 
 * * * * *   
+  
+**VICTORIA** 
+
+**Saturday 22nd September 2012**   
+'GIRL INTERPRETED' at the Velvet Room, Thornbury Theatre, Melbourne.  
+with Tracey McNeil, Mojo Juju and Georgia Fields.  
+details tba.  
+
+* * * * *   
 
 **NSW**  
 
