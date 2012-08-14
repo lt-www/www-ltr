@@ -1,7 +1,7 @@
 **VICTORIA**    
 
 **Monday 13th August 2012**  
-*Live to air performance and guest DJ* on 'Homebrew' with Jenny O'Keefe.  
+*Live to air performance and guest DJ* on [Homebrew][112.1] with Jenny O'Keefe.  
 3PBS fm. 3-4pm.   
 
 **Saturday 18th August 2012**  
