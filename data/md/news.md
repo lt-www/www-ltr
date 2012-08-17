@@ -1,3 +1,7 @@
+### 17 August 2012 | 3RRR  
+
+Lucie will be performing live in the stuido on 'Off The Record' with Brian Wise tomorrow morning, as part of [3RRR's Radiothon week][113] which starts today! And then two shows this weekend in duet with Hamish Stuart, in Thornbury and San Remo, [details here][14].    
+
 ### 13 August 2012 | 3PBS
 
 Lucie will be playing a few songs live-to-air, as well as 'guest dj-ing' some of her local favourites on Australian music show [Homebrew][112.1], with Jenny O'Keefe, 3PBS radio today from 3pm.    
@@ -265,6 +269,7 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [103]: http://www.takesomethingbeautiful.com/
 [103.1]: http://www.abc.net.au/radionational/programs/breakfast/aotw-jesse-younan/4003926
 [112.1]: http://www.pbsfm.org.au/node/19074 
+[113]: http://www.rrr.org.au  
 
 ### old news | archive
 
