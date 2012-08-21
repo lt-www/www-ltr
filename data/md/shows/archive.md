@@ -1,6 +1,25 @@
 ## shows/archive
 
-**VICTORIA**  
+**VICTORIA** 
+
+**Sunday 19th August 2012**   
+WESTERNPORT HOTEL   
+Marine Parade, SAN REMO.  
+*duet show with [Hamish Stuart][97]*          
+
+**Saturday 18th August 2012**   
+[The Velvet Room][111], THORNBURY THEATRE.  
+High Street, Thornbury, MELBOURNE.  
+*duet show with [Hamish Stuart][97]*    
+with SWEET JEAN    
+
+**Saturday 18th August 2012**  
+*Live to air performance* on 'Off the Record' with Brian Wise.  
+3RRR fm.      
+
+**Monday 13th August 2012**  
+*Live to air performance and guest DJ* on [Homebrew][112.1] with Jenny O'Keefe.  
+3PBS fm.  
 
 **Saturday 11th August 2012**   
 The Courthouse, YACKANDANDAH.      
