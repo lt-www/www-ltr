@@ -1,26 +1,4 @@
-**VICTORIA**    
-
-**Monday 13th August 2012**  
-*Live to air performance and guest DJ* on [Homebrew][112.1] with Jenny O'Keefe.  
-3PBS fm. 3-4pm.   
-
-**Saturday 18th August 2012**  
-*Live to air performance* on 'Off the Record' with Brian Wise.  
-3RRR fm. 10.30am.     
-
-**Saturday 18th August 2012**   
-[The Velvet Room][111], Thornbury Theatre, MELBOURNE.  
-*duet show with [Hamish Stuart][97]*    
-with SWEET JEAN   
-8pm  
-[Tickets on sale now][111.1]        
-
-**Sunday 19th August 2012**   
-Westernport Hotel, SAN REMO.  
-*duet show with [Hamish Stuart][97]*    
-5.30pm     
-
-* * * * *     
+   
 
 **VICTORIA** 
 
@@ -48,7 +26,8 @@ with [MATT WALKER][112].
 **Saturday 22nd September 2012**   
 'GIRL INTERPRETED' at the Velvet Room, Thornbury Theatre, Melbourne.  
 with Tracey McNeil, Mojo Juju and Georgia Fields.  
-details tba.  
+8pm   
+[Tickets on sale now][113]   
 
 * * * * *   
 
@@ -127,3 +106,4 @@ details tba
 [111.1]: http://thornburytheatre.oztix.com.au/default.aspx?Event=27515  
 [112]: http://www.mattwalker.com.au/  
 [112.1]: http://www.pbsfm.org.au/node/19074
+[113]: http://tickets.oztix.com.au/default.aspx?Event=29135
