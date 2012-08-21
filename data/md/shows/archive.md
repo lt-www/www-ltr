@@ -1162,6 +1162,10 @@ RSL, Tamar Valley Folk Festival.
 [107]: http://www.trybooking.com/BCUB
 [108]: http://www.moshtix.com.au/event.aspx?id=54131&ref=pietabrownpolishclub
 [109]: http://www.starcourttheatre.com.au/shows
+[111]: http://thethornburytheatre.com/  
+[111.1]: http://thornburytheatre.oztix.com.au/default.aspx?Event=27515  
+[112]: http://www.mattwalker.com.au/  
+[112.1]: http://www.pbsfm.org.au/node/19074
 
 if you'd care to know, there are still details of lucie's old shows:
 [2009][2009], [2008][2008], [2007][2007], [2006][2006], [2005][2005],
