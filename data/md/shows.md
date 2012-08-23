@@ -106,4 +106,4 @@ details tba
 [111.1]: http://thornburytheatre.oztix.com.au/default.aspx?Event=27515  
 [112]: http://www.mattwalker.com.au/  
 [112.1]: http://www.pbsfm.org.au/node/19074
-[113]: http://tickets.oztix.com.au/default.aspx?Event=29135
+[113]: http://thethornburytheatre.com/event/girl-interpreted-2012-feat-lucie-thorne-mojo-juju-georgia-fields-tracy-mcneil/
