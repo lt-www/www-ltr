@@ -3,7 +3,8 @@
 **VICTORIA** 
 
 **Thursday 13th September 2012**   
-Babushka Bar, BALLARAT.  
+BABUSHKA BAR   
+Humffray St Nth, BALLARAT.  
 8pm 
 
 * * * * *   
@@ -15,7 +16,8 @@ The Stanley Bridge Hotel, VERDUN.
 8pm 
  
 **Sunday 16th September 2012**   
-The Wheatsheaf Hotel, ADELAIDE.   
+THE WHEATSHEAF HOTEL  
+George St, Thebarton, ADELAIDE.   
 with [MATT WALKER][112].   
 4pm     
 
@@ -24,7 +26,8 @@ with [MATT WALKER][112].
 **VICTORIA** 
 
 **Saturday 22nd September 2012**   
-'GIRL INTERPRETED' at the Velvet Room, Thornbury Theatre, Melbourne.  
+'GIRL INTERPRETED' at the Velvet Room, THORNBURY THEATRE.  
+High St, Thornbury, MELBOURNE.  
 with Tracey McNeil, Mojo Juju and Georgia Fields.  
 8pm   
 [Tickets on sale now][113]   
