@@ -12,7 +12,7 @@ Humffray St Nth, BALLARAT.
 **SOUTH AUSTRALIA**  
 
 **Saturday 15th September 2012**   
-THE STANLEY BRIDGE HOTEL
+THE STANLEY BRIDGE HOTEL  
 Onkaparinga Valley Rd, VERDUN.  
 8pm 
  
