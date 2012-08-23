@@ -7,6 +7,7 @@ import System.Directory {- directory -}
 import System.FilePath {- filepath -}
 import System.Process {- process -}
 import qualified Text.HTML.Light as H {- html-minimalist -}
+import qualified Text.HTML.Light.Composite.Menu as H
 import qualified Text.XML.Light as X {- xml -}
 
 type Area = String
@@ -53,12 +54,10 @@ img_no_preload = H.div [H.class' "img-preload"] []
 
 img_submenu :: Renamer -> [Img] -> X.Content
 img_submenu p d =
-    let f (n,((i,_):_)) = (n,i)
+    let adr i = p ("photos" </> i)
+        f (n,((i,_):_)) = (n,i,adr i)
         f (_,[]) = undefined
-        adr i = p ("photos" </> i)
-        cl = H.class' "submenu"
-        g (n,i) = H.li [cl] [H.a [cl,H.href (adr i)] [H.cdata n]]
-    in H.nav [cl] [H.ul [cl] (map (g . f) d)]
+    in H.nav_menu_span "submenu" (map f d) ""
 
 sets :: [(a,b)] -> [(Maybe a,(a,b),Maybe a)]
 sets n =

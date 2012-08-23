@@ -85,19 +85,15 @@ nav.menu, nav.submenu {
  margin: 0em;
 }
 
-nav.submenu {
- padding: 0.5em 0em 0em 0em;
-}
+nav.submenu {padding: 0.5em 0em 0em 0em;}
 
-ul.menu, ul.submenu {
- margin: 0em;
- padding: 0em;
-}
+/* nav_menu_list */
+ul.menu, ul.submenu {margin: 0em; padding: 0em;}
+li.menu, li.submenu {display: inline; padding-right: 1em;}
 
-li.menu, li.submenu {
- display: inline;
- padding-right: 1em;
-}
+/* nav_menu_span */
+span.menu, span.submenu {padding-right: 1em;}
+span.menu-separator {display: none;}
 
 footer {
  font-size: 84%;
@@ -238,7 +234,7 @@ div.radio {
 /* a */
 
 a.here {
- color: #2F4F4F; /* #011e48 */
+ color: #000; /* #011e48 #2F4F4F */
 }
 
 a.h1, a.edit, a.edit:visited {

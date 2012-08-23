@@ -9,6 +9,7 @@ import System.FilePath {- filepath -}
 import qualified System.IO.UTF8 as U {- utf8-string -}
 import qualified Text.HTML.Light as H {- html-minimalist -}
 import qualified Text.HTML.Light.Composite as H
+import qualified Text.HTML.Light.Composite.Menu as H
 import qualified Text.Pandoc as P {- pandoc -}
 import Text.Printf
 import qualified Text.XML.Light as X {- xml -}
@@ -104,13 +105,9 @@ std_copyright cf p =
          ,H.a [H.href (lt_edit_ln cf p)] [H.cdata "."]]]
 
 std_menu :: Config -> String -> X.Content
-std_menu cf nm =
-    let cl = H.class' "menu"
-        f (m,p_) =
-            let a_cl = H.class' (if m == nm then "here" else "not-here")
-                ln = H.href (lt_base cf p_)
-            in H.li [cl] [H.a [a_cl,ln] [H.cdata m]]
-    in H.nav [cl] [H.ul [cl] (map f (lt_menu title_case))]
+std_menu cf =
+    let f (m,p_) = (m,p_,lt_base cf p_)
+    in H.nav_menu_span "menu" (map f (lt_menu title_case))
 
 lt_h1 :: X.Content
 lt_h1 =
