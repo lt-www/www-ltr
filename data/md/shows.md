@@ -12,7 +12,8 @@ Humffray St Nth, BALLARAT.
 **SOUTH AUSTRALIA**  
 
 **Saturday 15th September 2012**   
-The Stanley Bridge Hotel, VERDUN.  
+THE STANLEY BRIDGE HOTEL
+Onkaparinga Valley Rd, VERDUN.  
 8pm 
  
 **Sunday 16th September 2012**   
@@ -37,17 +38,20 @@ with Tracey McNeil, Mojo Juju and Georgia Fields.
 **NSW**  
 
 **Friday 28th September 2012**   
-The Candelo Town Hall, CANDELO.  
+THE CANDELO TOWN HALL  
+William St, CANDELO.  
 with [MATT WALKER][112].  
 7.30pm / Tickets available at the door  
  
 **Saturday 29th September 2012**   
-The Heritage Hotel, BULLI.   
+THE HERITAGE HOTEL  
+Princes Hwy, BULLI.   
 with [MATT WALKER][112].   
 details tba  
 
 **Sunday 30th September 2012**   
-Notes Live, SYDNEY.   
+NOTES LIVE  
+Enmore Rd, Newtown, SYDNEY.   
 with [MATT WALKER][112].       
 details tba   
 
@@ -56,12 +60,14 @@ details tba
 **VICTORIA**  
  
 **Saturday 6th October 2012**     
-The Bridge Hotel, CASTLEMAINE.   
+THE BRIDGE HOTEL  
+Walker St, CASTLEMAINE.   
 with [MATT WALKER][112].      
 details tba   
 
 **Sunday 7th October 2012**     
-The Toff In Town, MELBOURNE.   
+THE TOFF IN TOWN  
+Swanston St, MELBOURNE.   
 with [MATT WALKER][112].      
 details tba   
 
