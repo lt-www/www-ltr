@@ -57,7 +57,7 @@ img_submenu p d =
     let adr i = p ("photos" </> i)
         f (n,((i,_):_)) = (n,i,adr i)
         f (_,[]) = undefined
-    in H.nav_menu_span "submenu" (map f d) ""
+    in H.nav_menu_span id "submenu" (map f d) ""
 
 sets :: [(a,b)] -> [(Maybe a,(a,b),Maybe a)]
 sets n =
