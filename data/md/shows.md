@@ -41,8 +41,8 @@ with Tracey McNeil, Mojo Juju and Georgia Fields.
 THE CANDELO TOWN HALL  
 William St, CANDELO.  
 with [MATT WALKER][112].  
-[*presented by the Candelo Arts Society*][115]    
 7.30pm / Tickets available at the door  
+[*presented by the Candelo Arts Society*][115]     
  
 **Saturday 29th September 2012**   
 THE HERITAGE HOTEL  
