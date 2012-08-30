@@ -1,4 +1,3 @@
-
 **VICTORIA**
 
 **Thursday 13th September 2012**  
@@ -41,7 +40,7 @@ THE CANDELO TOWN HALL
 William St, CANDELO.  
 with [MATT WALKER][112].  
 7.30pm / Tickets available at the door  
-*presented by the* [Candelo Arts Society][115]  
+*presented by the*  [Candelo Arts Society][115]  
 
 **Saturday 29th September 2012**  
 THE HERITAGE HOTEL  
