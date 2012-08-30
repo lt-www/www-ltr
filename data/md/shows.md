@@ -73,7 +73,7 @@ details tba
 
 * * * * *     
 
-**European Tour October - November 2012**  
+**EUROPEAN TOUR October - November 2012**  
 details announced soon  
 
 * * * * *  
