@@ -73,6 +73,11 @@ details tba
 
 * * * * *     
 
+**European Tour October - November 2012**  
+details announced soon  
+
+* * * * *  
+
 [past shows][archive]
 
   [archive]: shows/archive/
