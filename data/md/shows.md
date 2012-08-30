@@ -1,82 +1,81 @@
 
-
 **VICTORIA**
 
-**Thursday 13th September 2012**
-BABUSHKA BAR
-Humffray St Nth, BALLARAT.
-8pm
+**Thursday 13th September 2012**  
+BABUSHKA BAR  
+Humffray St Nth, BALLARAT.  
+8pm  
 
 * * * * *
 
 **SOUTH AUSTRALIA**
 
-**Saturday 15th September 2012**
-THE STANLEY BRIDGE HOTEL
-Onkaparinga Valley Rd, VERDUN.
-8pm
+**Saturday 15th September 2012**  
+THE STANLEY BRIDGE HOTEL  
+Onkaparinga Valley Rd, VERDUN.  
+8pm  
 
-**Sunday 16th September 2012**
-[THE WHEATSHEAF HOTEL][94]
-George St, Thebarton, ADELAIDE.
-with [MATT WALKER][112].
-4pm
-
-* * * * *
-
-**VICTORIA**
-
-**Saturday 22nd September 2012**
-'GIRL INTERPRETED' at the Velvet Room, THORNBURY THEATRE.
-High St, Thornbury, MELBOURNE.
-with Tracey McNeil, Mojo Juju and Georgia Fields.
-8pm
-[Tickets on sale now][113]
+**Sunday 16th September 2012**  
+[THE WHEATSHEAF HOTEL][94]  
+George St, Thebarton, ADELAIDE.  
+with [MATT WALKER][112].  
+4pm  
 
 * * * * *
 
-**NSW**
+**VICTORIA**  
 
-**Friday 28th September 2012**
-THE CANDELO TOWN HALL
-William St, CANDELO.
-with [MATT WALKER][112].
-7.30pm / Tickets available at the door
-*presented by the* [Candelo Arts Society][115]
-
-**Saturday 29th September 2012**
-THE HERITAGE HOTEL
-Princes Hwy, BULLI.
-with [MATT WALKER][112].
-details tba
-
-**Sunday 30th September 2012**
-NOTES LIVE
-Enmore Rd, Newtown, SYDNEY.
-with [MATT WALKER][112].
-details tba
+**Saturday 22nd September 2012**  
+'GIRL INTERPRETED' at the Velvet Room, THORNBURY THEATRE.  
+High St, Thornbury, MELBOURNE.  
+with Tracey McNeil, Mojo Juju and Georgia Fields.  
+8pm  
+[Tickets on sale now][113]  
 
 * * * * *
 
-**VICTORIA**
+**NSW**  
 
-**Saturday 6th October 2012**
-THE BRIDGE HOTEL
-Walker St, CASTLEMAINE.
-with [MATT WALKER][112].
-details tba
+**Friday 28th September 2012**  
+THE CANDELO TOWN HALL  
+William St, CANDELO.  
+with [MATT WALKER][112].  
+7.30pm / Tickets available at the door  
+*presented by the* [Candelo Arts Society][115]  
 
-**Sunday 7th October 2012**
-[THE TOFF IN TOWN][114]
-Swanston St, MELBOURNE.
-with [MATT WALKER][112].
-7pm
-[Tickets on sale now][114]
+**Saturday 29th September 2012**  
+THE HERITAGE HOTEL  
+Princes Hwy, BULLI.  
+with [MATT WALKER][112].  
+details tba  
+
+**Sunday 30th September 2012**  
+NOTES LIVE  
+Enmore Rd, Newtown, SYDNEY.  
+with [MATT WALKER][112].  
+details tba  
+
+* * * * *  
+
+**VICTORIA**  
+
+**Saturday 6th October 2012**  
+THE BRIDGE HOTEL  
+Walker St, CASTLEMAINE.  
+with [MATT WALKER][112].  
+details tba  
+
+**Sunday 7th October 2012**  
+[THE TOFF IN TOWN][114]  
+Swanston St, MELBOURNE.  
+with [MATT WALKER][112].  
+7pm  
+[Tickets on sale now][114]  
 
 * * * * *
 
-**EUROPEAN TOUR October - November 2012**
-details announced soon
+**EUROPEAN TOUR October - November 2012**  
+details announced soon  
 
 * * * * *
 
