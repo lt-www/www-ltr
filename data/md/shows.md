@@ -41,6 +41,7 @@ with Tracey McNeil, Mojo Juju and Georgia Fields.
 THE CANDELO TOWN HALL  
 William St, CANDELO.  
 with [MATT WALKER][112].  
+[*presented by the Candelo Arts Society*][115]    
 7.30pm / Tickets available at the door  
  
 **Saturday 29th September 2012**   
@@ -123,3 +124,4 @@ details announced soon
 [112.1]: http://www.pbsfm.org.au/node/19074
 [113]: http://thethornburytheatre.com/event/girl-interpreted-2012-feat-lucie-thorne-mojo-juju-georgia-fields-tracy-mcneil/
 [114]: http://www.thetoffintown.com/shows/
+[115]: http://www.cas.org.au
