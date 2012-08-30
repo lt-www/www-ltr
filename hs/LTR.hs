@@ -106,7 +106,7 @@ std_copyright cf p =
 
 std_menu :: Config -> String -> X.Content
 std_menu cf =
-    let f (m,p_) = (m,p_,lt_base cf p_)
+    let f (m,p_) = (m,p_,Just (lt_base cf p_))
     in H.nav_menu_span id "menu" (map f (lt_menu title_case))
 
 lt_h1 :: X.Content

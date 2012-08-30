@@ -55,7 +55,7 @@ img_no_preload = H.div [H.class' "img-preload"] []
 img_submenu :: Renamer -> [Img] -> X.Content
 img_submenu p d =
     let adr i = p ("photos" </> i)
-        f (n,((i,_):_)) = (n,i,adr i)
+        f (n,((i,_):_)) = (n,i,Just (adr i))
         f (_,[]) = undefined
     in H.nav_menu_span id "submenu" (map f d) ""
 
