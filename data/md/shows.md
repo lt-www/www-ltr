@@ -17,7 +17,7 @@ Onkaparinga Valley Rd, VERDUN.
 8pm 
  
 **Sunday 16th September 2012**   
-THE WHEATSHEAF HOTEL  
+[THE WHEATSHEAF HOTEL][94]    
 George St, Thebarton, ADELAIDE.   
 with [MATT WALKER][112].   
 4pm     
@@ -66,10 +66,11 @@ with [MATT WALKER][112].
 details tba   
 
 **Sunday 7th October 2012**     
-THE TOFF IN TOWN  
+[THE TOFF IN TOWN][114]    
 Swanston St, MELBOURNE.   
 with [MATT WALKER][112].      
-details tba   
+7pm   
+[Tickets on sale now][114]  
 
 * * * * *     
 
@@ -92,7 +93,7 @@ details announced soon
 [90.1]: http://www.trybooking.com/RWU
 [91]: http://www.clarendonguesthouse.com.au/
 [93]: http://www.caravanmusic.com.au
-[94]: http://wheatsheafhotel.com.au/
+[94]: http://wheatsheafhotel.com.au/gigs
 [95]: http://www.bellaunion.com.au
 [96]: http://www.jojosmithsoul.com/
 [96.1]: http://www.myspace.com/sweetjeanmusic
@@ -121,3 +122,4 @@ details announced soon
 [112]: http://www.mattwalker.com.au/  
 [112.1]: http://www.pbsfm.org.au/node/19074
 [113]: http://thethornburytheatre.com/event/girl-interpreted-2012-feat-lucie-thorne-mojo-juju-georgia-fields-tracy-mcneil/
+[114]: http://www.thetoffintown.com/shows/
