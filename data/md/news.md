@@ -1,3 +1,13 @@
+### 1 September 2012 | Spring news
+
+We're delighted to let you know that [Bonfires In Silver City][89] will be
+released in Europe next month, courtesy of the good folk at
+Netherlands-based record label [Smoked Recordings][38], with
+distribution Europe-wide through [Continental Record Services][113.1].   
+
+Before heading off on an extensive European tour in October/November, Lucie will be performing across Victoria, South Australia and NSW, including joining Smoked label-mate [Matt Walker][114] on his national album launch tour. [Details here][14].  
+
+
 ### 17 August 2012 | 3RRR  
 
 Lucie will be performing live in the stuido on 'Off The Record' with Brian Wise tomorrow morning, as part of [3RRR's Radiothon week][113] which starts today! And then two shows this weekend in duet with Hamish Stuart, in Thornbury and San Remo, [details here][14].    
@@ -269,8 +279,9 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [103]: http://www.takesomethingbeautiful.com/
 [103.1]: http://www.abc.net.au/radionational/programs/breakfast/aotw-jesse-younan/4003926
 [112.1]: http://www.pbsfm.org.au/node/19074 
-[113]: http://www.rrr.org.au  
-
+[113]: http://www.rrr.org.au   
+[113.1]: http://www.continental.nl
+[114]: http://www.mattwalker.com.au/
 ### old news | archive
 
 if you care to know it, there is still all of the [old news][1.1]...
