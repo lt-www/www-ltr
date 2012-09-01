@@ -90,20 +90,20 @@ with [MATT WALKER][112]
 
 **Saturday 27th October 2012**   
 [PACO PLUMTREK][117]    
-ALMELO  
+Achtzaligheden 2, ALMELO  
 with [MATT WALKER][112]  
 
 **BELGIUM**  
  
 **Wednesday 31st October 2012**  
 [BAVART ARTHOUSE][118]    
-GENT  
+Noordstraat 32, GENT    
 
 **NETHERLANDS**  
 
 **Saturday 3rd November 2012**    
 [PATRONAAT][119]    
-HAARLEM  
+Zijlsingel 2, HAARLEM  
 *Smoked Recordings Label Night*  
 with BIG LOW, MATT WALKER and DAVIE LAWSON    
 
@@ -115,19 +115,19 @@ with BIG LOW, MATT WALKER and JEREON KANT
 
 **Sunday 11th November 2012**     
 [GIGANT][121]    
-APPELDOORN.  
+Nieuwstraat 377, APPELDOORN.  
 with [MATT WALKER][112]  
 
 **GERMANY**
 
 **Wednesday 14th November 2012**   
 [INTERSOUP][122]   
-BERLIN.  
+Schliemannstr. 31, BERLIN.  
 with [MATT WALKER][112]  
 
 **Thursday 15th November 2012**   
 Berlin Folk Society at [ST GAUDY CAFE][123]    
-GaudystraÃÅ¸e 1, BERLIN  
+Gaudystr. 1, BERLIN  
 with [MATT WALKER][112]   
 
 **Friday 16th November 2012**   
