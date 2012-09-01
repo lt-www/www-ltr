@@ -84,8 +84,8 @@ Bagijnenstraat 9, DEVENTER.
 with [MATT WALKER][112]  
 
 **Friday 26th October 2012**    
-JANSEN_JANSEN    
-ENCHEDE  
+JANSEN en JANSEN    
+Oude Markt 10, ENCHEDE  
 with [MATT WALKER][112]  
 
 **Saturday 27th October 2012**   
@@ -109,7 +109,7 @@ with BIG LOW, MATT WALKER and DAVIE LAWSON
 
 **Friday 9th November 2012**    
 [THEATRE WILDE WERELD][120]  
-WAGENINGEN  
+Burgtstraat 1, WAGENINGEN  
 *Smoked Recordings Label Night*    
 with BIG LOW, MATT WALKER and JEREON KANT   
 
@@ -137,20 +137,20 @@ with [MATT WALKER][112]
 
 **Saturday 17th November 2012**   
 GUT OGROSEN      
-VETSHCAU    
+Ogrosener Dorfstr. 35, VETSHCAU    
 with [MATT WALKER][112]   
 
 **NETHERLANDS**  
 
 **Sunday 18th November 2012**    
-THEATRE de BERENKUIL    
-UTRECHT  
+[THEATRE de BERENKUIL][125]      
+Biltstraat 166, UTRECHT  
 *Smoked Recordings Label Night*    
 with BIG LOW, MATT WALKER and JEREON KANT 
 
 **Monday 19th November 2012**    
-FRITS PHILIL CENTRUM  
-EINDHOVEN   
+[FRITS PHILIL CENTRUM][126]    
+Heuvel Galerie 140, EINDHOVEN   
 *Smoked Recordings Label Night*    
 with BIG LOW, MATT WALKER and JEREON KANT  
 
@@ -210,3 +210,5 @@ with BIG LOW, MATT WALKER and JEREON KANT
 [122]: http://www.jerlin.de/intersoup/
 [123]: http://www.gaudycafe.com/
 [124]: http://sofasessions.blogspot.com.au/2012
+[125]: http://www.deberenkuil.nl/info.html
+[126]: http://www.muziekgebouweindhoven.nl
