@@ -79,76 +79,76 @@ more dates and details announced soon
 **NETHERLANDS**  
 
 **Thursday 25th October 2012**  
-[BURGERWEESHUIS][16]    
+[BURGERWEESHUIS][116]    
 Bagijnenstraat 9, DEVENTER.  
 with [MATT WALKER][112]  
 
-**Friday 26th October 2012**  
+**Friday 26th October 2012**    
 JANSEN_JANSEN    
 ENCHEDE  
 with [MATT WALKER][112]  
 
-**Saturday 27th October 2012**
+**Saturday 27th October 2012**   
 [PACO PLUMTREK][117]    
 ALMELO  
 with [MATT WALKER][112]  
 
 **BELGIUM**  
  
-**Wednesday 31st October 2012**
+**Wednesday 31st October 2012**  
 [BAVART ARTHOUSE][118]    
 GENT  
 
 **NETHERLANDS**  
 
-**Saturday 3rd November 2012**  
+**Saturday 3rd November 2012**    
 [PATRONAAT][119]    
 HAARLEM  
 *Smoked Recordings Label Night*  
 with BIG LOW, MATT WALKER and DAVIE LAWSON    
 
-**Friday 9th November 2012**  
+**Friday 9th November 2012**    
 [THEATRE WILDE WERELD][120]  
 WAGENINGEN  
 *Smoked Recordings Label Night*    
 with BIG LOW, MATT WALKER and JEREON KANT   
 
-**Sunday 11th November 2012**    
+**Sunday 11th November 2012**     
 [GIGANT][121]    
 APPELDOORN.  
 with [MATT WALKER][112]  
 
 **GERMANY**
 
-**Wednesday 14th November 2012** 
-[INTERSOUP][122]  
+**Wednesday 14th November 2012**   
+[INTERSOUP][122]   
 BERLIN.  
 with [MATT WALKER][112]  
 
-**Thursday 15th November 2012** 
+**Thursday 15th November 2012**   
 Berlin Folk Society at [ST GAUDY CAFE][123]    
-GaudystraÃe 1, BERLIN  
+GaudystraÃÅ¸e 1, BERLIN  
 with [MATT WALKER][112]   
 
-**Friday 16th November 2012** 
+**Friday 16th November 2012**   
 [SOFA SALON][124]    
 BERLIN  
 with [MATT WALKER][112]  
 
-**Saturday 17th November 2012** 
+**Saturday 17th November 2012**   
 GUT OGROSEN      
 VETSHCAU    
 with [MATT WALKER][112]   
 
 **NETHERLANDS**  
 
-**Sunday 18th November 2012**  
+**Sunday 18th November 2012**    
 THEATRE de BERENKUIL    
 UTRECHT  
 *Smoked Recordings Label Night*    
 with BIG LOW, MATT WALKER and JEREON KANT 
 
-**Monday 19th November 2012**  
+**Monday 19th November 2012**    
 FRITS PHILIL CENTRUM  
 EINDHOVEN   
 *Smoked Recordings Label Night*    
