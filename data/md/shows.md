@@ -74,7 +74,85 @@ with [MATT WALKER][112].
 * * * * *
 
 **EUROPEAN TOUR October - November 2012**  
-details announced soon  
+more dates and details announced soon  
+  
+**NETHERLANDS**  
+
+**Thursday 25th October 2012**  
+[BURGERWEESHUIS][16]    
+Bagijnenstraat 9, DEVENTER.  
+with [MATT WALKER][112]  
+
+**Friday 26th October 2012**  
+JANSEN_JANSEN    
+ENCHEDE  
+with [MATT WALKER][112]  
+
+**Saturday 27th October 2012**
+[PACO PLUMTREK][117]    
+ALMELO  
+with [MATT WALKER][112]  
+
+**BELGIUM**  
+ 
+**Wednesday 31st October 2012**
+[BAVART ARTHOUSE][118]    
+GENT  
+
+**NETHERLANDS**  
+
+**Saturday 3rd November 2012**  
+[PATRONAAT][119]    
+HAARLEM  
+*Smoked Recordings Label Night*  
+with BIG LOW, MATT WALKER and DAVIE LAWSON    
+
+**Friday 9th November 2012**  
+[THEATRE WILDE WERELD][120]  
+WAGENINGEN  
+*Smoked Recordings Label Night*    
+with BIG LOW, MATT WALKER and JEREON KANT   
+
+**Sunday 11th November 2012**    
+[GIGANT][121]    
+APPELDOORN.  
+with [MATT WALKER][112]  
+
+**GERMANY**
+
+**Wednesday 14th November 2012** 
+[INTERSOUP][122]  
+BERLIN.  
+with [MATT WALKER][112]  
+
+**Thursday 15th November 2012** 
+Berlin Folk Society at [ST GAUDY CAFE][123]    
+GaudystraÃe 1, BERLIN  
+with [MATT WALKER][112]   
+
+**Friday 16th November 2012** 
+[SOFA SALON][124]    
+BERLIN  
+with [MATT WALKER][112]  
+
+**Saturday 17th November 2012** 
+GUT OGROSEN      
+VETSHCAU    
+with [MATT WALKER][112]   
+
+**NETHERLANDS**  
+
+**Sunday 18th November 2012**  
+THEATRE de BERENKUIL    
+UTRECHT  
+*Smoked Recordings Label Night*    
+with BIG LOW, MATT WALKER and JEREON KANT 
+
+**Monday 19th November 2012**  
+FRITS PHILIL CENTRUM  
+EINDHOVEN   
+*Smoked Recordings Label Night*    
+with BIG LOW, MATT WALKER and JEREON KANT  
 
 * * * * *
 
@@ -123,3 +201,12 @@ details announced soon
 [113]: http://thethornburytheatre.com/event/girl-interpreted-2012-feat-lucie-thorne-mojo-juju-georgia-fields-tracy-mcneil/
 [114]: http://www.thetoffintown.com/shows/
 [115]: http://www.cas.org.au
+[116]: http://burgerweeshuis.nl/
+[117]: http://members.home.nl/pacoplumtrek/
+[118]: http://www.bavart.be/index.html
+[119]: http://www.patronaat.nl/
+[120]: http://www.theaterdewildewereld.nl/nieuws/
+[121]: http://www.gigant.nl/
+[122]: http://www.jerlin.de/intersoup/
+[123]: http://www.gaudycafe.com/
+[124]: http://sofasessions.blogspot.com.au/2012
