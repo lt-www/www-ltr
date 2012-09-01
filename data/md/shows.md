@@ -49,10 +49,11 @@ with [MATT WALKER][112].
 details tba  
 
 **Sunday 30th September 2012**  
-NOTES LIVE  
+[NOTES LIVE][114.2]    
 Enmore Rd, Newtown, SYDNEY.  
 with [MATT WALKER][112].  
-details tba  
+7.30pm    
+[Tickets on sale now][114.1]  
 
 * * * * *  
 
@@ -200,6 +201,8 @@ with BIG LOW, MATT WALKER and JEREON KANT
 [112.1]: http://www.pbsfm.org.au/node/19074
 [113]: http://thethornburytheatre.com/event/girl-interpreted-2012-feat-lucie-thorne-mojo-juju-georgia-fields-tracy-mcneil/
 [114]: http://www.thetoffintown.com/shows/
+[114.1]: http://noteslive.oztix.com.au/default.aspx?Event=29546
+[114.2]: http://www.noteslive.net.au
 [115]: http://www.cas.org.au
 [116]: http://burgerweeshuis.nl/
 [117]: http://members.home.nl/pacoplumtrek/
