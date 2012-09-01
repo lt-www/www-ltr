@@ -43,7 +43,7 @@ with [MATT WALKER][112].
 *presented by the*  [Candelo Arts Society][115]  
 
 **Saturday 29th September 2012**  
-THE HERITAGE HOTEL  
+[THE HERITAGE HOTEL][115.1]    
 Princes Hwy, BULLI.  
 with [MATT WALKER][112].  
 details tba  
@@ -204,6 +204,7 @@ with BIG LOW, MATT WALKER and JEREON KANT
 [114.1]: http://noteslive.oztix.com.au/default.aspx?Event=29546
 [114.2]: http://www.noteslive.net.au
 [115]: http://www.cas.org.au
+[115.1]: http://www.heritagehotel.com.au/
 [116]: http://burgerweeshuis.nl/
 [117]: http://members.home.nl/pacoplumtrek/
 [118]: http://www.bavart.be/index.html
