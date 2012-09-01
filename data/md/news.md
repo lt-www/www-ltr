@@ -2,7 +2,7 @@
 
 We're delighted to let you know that [Bonfires In Silver City][89] will be
 released in Europe next month, courtesy of the good folk at
-Netherlands-based record label [Smoked Recordings][38], with
+Netherlands-based label [Smoked Recordings][38], with
 distribution Europe-wide through [Continental Record Services][113.1].   
 
 Before heading off on an extensive European tour in October/November, Lucie will be performing across Victoria, South Australia and NSW, including joining Smoked label-mate [Matt Walker][114] on his national album launch tour. [Details here][14].  
