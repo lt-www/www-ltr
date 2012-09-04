@@ -108,7 +108,7 @@ Zijlsingel 2, HAARLEM
 *Smoked Recordings Label Night*  
 with BIG LOW, MATT WALKER and DAVIE LAWSON    
 
-**Friday 9th November 2012**    
+**Saturday 10th November 2012**    
 [THEATRE WILDE WERELD][120]  
 Burgtstraat 1, WAGENINGEN  
 *Smoked Recordings Label Night*    
