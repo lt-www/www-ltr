@@ -19,6 +19,7 @@ pull-sp:
 	git pull sp master
 
 add-remote-sp:
+	git remote remove sp
 	git remote add sp ssh://rd@slavepianos.org/~rd/ut/www-ltr.git
 
 remote-update:
