@@ -136,7 +136,8 @@ Heuvel Galerie 140, EINDHOVEN
 *Smoked Recordings Label Night*    
 with BIG LOW, MATT WALKER and JEREON KANT  
 
-* * * * *
+* * * * *   
+
 
 [past shows][archive]
 
