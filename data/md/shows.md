@@ -11,6 +11,10 @@ with Tracey McNeil, Mojo Juju and Georgia Fields.
 
 **NSW**  
 
+**Friday 28th September 2012**   
+Interview and live-to-air performance on *Mornings* with Tim Holt.     
+ABC South East. 10.30am.     
+
 **Friday 28th September 2012**  
 THE CANDELO TOWN HALL  
 William St, CANDELO.  
