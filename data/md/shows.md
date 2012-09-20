@@ -1,26 +1,4 @@
-**VICTORIA**
 
-**Thursday 13th September 2012**  
-BABUSHKA BAR  
-Humffray St Nth, BALLARAT.  
-8pm  
-
-* * * * *
-
-**SOUTH AUSTRALIA**
-
-**Saturday 15th September 2012**  
-THE STANLEY BRIDGE HOTEL  
-Onkaparinga Valley Rd, VERDUN.  
-8pm  
-
-**Sunday 16th September 2012**  
-[THE WHEATSHEAF HOTEL][94]  
-George St, Thebarton, ADELAIDE.  
-with [MATT WALKER][112].  
-4pm  
-
-* * * * *
 
 **VICTORIA**  
 
