@@ -1,4 +1,3 @@
-
 **VICTORIA**  
 
 **Saturday 22nd September 2012**  
@@ -38,10 +37,10 @@ with [MATT WALKER][112].
 **VICTORIA**  
 
 **Saturday 6th October 2012**  
-THE BRIDGE HOTEL  
+[THE BRIDGE HOTEL][127]    
 Walker St, CASTLEMAINE.  
 with [MATT WALKER][112].  
-details tba  
+8pm    
 
 **Sunday 7th October 2012**  
 [THE TOFF IN TOWN][114]  
@@ -194,3 +193,4 @@ with BIG LOW, MATT WALKER and JEREON KANT
 [124]: http://sofasessions.blogspot.com.au/2012
 [125]: http://www.deberenkuil.nl/info.html
 [126]: http://www.muziekgebouweindhoven.nl
+[127]: http://www.facebook.com/thebridgecastlemaine
