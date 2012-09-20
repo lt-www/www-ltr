@@ -1,3 +1,7 @@
+### 20 September 2012 | Girl Interpreted  
+
+Lucie will be performing as part of a beautiful 'Darebin Feast' event in Melbourne this Saturday night; 'Girl Interpreted' - with Auslan sign language interpreters live on stage alongside the performers. Other performers on the night are Tracey McNeil, Mojo Juju and Georgia Fields. [More info and tickets available here][115].    
+
 ### 1 September 2012 | Spring news
 
 We're delighted to let you know that [Bonfires In Silver City][89] will be
@@ -10,7 +14,7 @@ Before heading off on an extensive European tour in October/November, Lucie will
 
 ### 17 August 2012 | 3RRR  
 
-Lucie will be performing live in the stuido on 'Off The Record' with Brian Wise tomorrow morning, as part of [3RRR's Radiothon week][113] which starts today! And then two shows this weekend in duet with Hamish Stuart, in Thornbury and San Remo, [details here][14].    
+Lucie will be performing live in the studio on 'Off The Record' with Brian Wise tomorrow morning, as part of [3RRR's Radiothon week][113] which starts today! And then two shows this weekend in duet with Hamish Stuart, in Thornbury and San Remo, [details here][14].    
 
 ### 13 August 2012 | 3PBS
 
@@ -282,6 +286,7 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [113]: http://www.rrr.org.au   
 [113.1]: http://www.continental.nl
 [114]: http://www.mattwalker.com.au/
+[115]: http://thethornburytheatre.com/event/girl-interpreted-2012-feat-lucie-thorne-mojo-juju-georgia-fields-tracy-mcneil/  
 ### old news | archive
 
 if you care to know it, there is still all of the [old news][1.1]...
