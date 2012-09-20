@@ -3,7 +3,7 @@
 **SOUTH AUSTRALIA**
 
 **Sunday 16th September 2012**  
-THE WHEATSHEAF HOTEL 
+THE WHEATSHEAF HOTEL   
 George St, Thebarton, ADELAIDE.  
 with [MATT WALKER][112].  
 
