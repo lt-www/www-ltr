@@ -1,6 +1,23 @@
 ## shows/archive
 
-**VICTORIA** 
+**SOUTH AUSTRALIA**
+
+**Sunday 16th September 2012**  
+THE WHEATSHEAF HOTEL 
+George St, Thebarton, ADELAIDE.  
+with [MATT WALKER][112].  
+
+**Saturday 15th September 2012**  
+THE STANLEY BRIDGE HOTEL  
+Onkaparinga Valley Rd, VERDUN. 
+
+* * * * *
+
+**VICTORIA**
+
+**Thursday 13th September 2012**  
+BABUSHKA BAR  
+Humffray St Nth, BALLARAT.  
 
 **Sunday 19th August 2012**   
 WESTERNPORT HOTEL   
