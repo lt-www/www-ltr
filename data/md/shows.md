@@ -1,5 +1,4 @@
 
-
 **VICTORIA**  
 
 **Saturday 22nd September 2012**  
@@ -24,7 +23,8 @@ with [MATT WALKER][112].
 [THE HERITAGE HOTEL][115.1]    
 Princes Hwy, BULLI.  
 with [MATT WALKER][112].  
-details tba  
+8pm     
+[Tickets on sale now][115.1]    
 
 **Sunday 30th September 2012**  
 [NOTES LIVE][114.2]    
