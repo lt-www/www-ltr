@@ -1,12 +1,3 @@
-**VICTORIA**  
-
-**Saturday 22nd September 2012**  
-'GIRL INTERPRETED' at the Velvet Room, THORNBURY THEATRE.  
-High St, Thornbury, MELBOURNE.  
-with Tracey McNeil, Mojo Juju and Georgia Fields.  
-8pm  
-[Tickets on sale now][113]  
-
 * * * * *
 
 **NSW**  
