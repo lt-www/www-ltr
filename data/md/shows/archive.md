@@ -1,5 +1,31 @@
 ## shows/archive  
 
+* * * * *
+
+**NSW**  
+
+**Sunday 30th September 2012**  
+NOTES LIVE  
+Enmore Rd, Newtown, SYDNEY.  
+with [MATT WALKER][112].     
+
+**Saturday 29th September 2012**  
+THE HERITAGE HOTEL   
+Princes Hwy, BULLI.  
+with [MATT WALKER][112].  
+   
+**Friday 28th September 2012**  
+THE CANDELO TOWN HALL  
+William St, CANDELO.  
+with [MATT WALKER][112].  
+
+**Friday 28th September 2012**   
+Interview and live-to-air performance on *Mornings* with Tim Holt.     
+ABC South East.  
+
+
+* * * * *  
+
 **VICTORIA**   
 
 **Saturday 22nd September 2012**  
