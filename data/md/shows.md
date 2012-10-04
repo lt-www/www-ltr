@@ -1,33 +1,4 @@
-* * * * *
 
-**NSW**  
-
-**Friday 28th September 2012**   
-Interview and live-to-air performance on *Mornings* with Tim Holt.     
-ABC South East. 10.30am.     
-
-**Friday 28th September 2012**  
-THE CANDELO TOWN HALL  
-William St, CANDELO.  
-with [MATT WALKER][112].  
-7.30pm / Tickets available at the door  
-*presented by the*  [Candelo Arts Society][115]  
-
-**Saturday 29th September 2012**  
-[THE HERITAGE HOTEL][115.1]    
-Princes Hwy, BULLI.  
-with [MATT WALKER][112].  
-8pm     
-[Tickets on sale now][115.1]    
-
-**Sunday 30th September 2012**  
-[NOTES LIVE][114.2]    
-Enmore Rd, Newtown, SYDNEY.  
-with [MATT WALKER][112].  
-7.30pm    
-[Tickets on sale now][114.1]  
-
-* * * * *  
 
 **VICTORIA**  
 
@@ -41,7 +12,7 @@ with [MATT WALKER][112].
 [THE TOFF IN TOWN][114]  
 Swanston St, MELBOURNE.  
 with [MATT WALKER][112].  
-7pm  
+8pm  
 [Tickets on sale now][114]  
 
 * * * * *
