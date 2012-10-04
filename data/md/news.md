@@ -1,6 +1,6 @@
 ### 4 October 2012 | Castlemaine, Melbourne 
 
-Two more shows with [Matt Walker][114] and his mighty band coming up this weekend - Saturday 6th Oct at The Bridge Hotel in Castlemaine, and Sunday 7th at The Toff In Town in Melbourne, and then it's off across the seas! [Details here][14].    
+Two more shows with [Matt Walker][114] and his mighty band coming up this weekend - Saturday 6th at The Bridge Hotel in Castlemaine, and Sunday 7th at The Toff In Town in Melbourne, and then it's off across the seas! [Details here][14].    
 
 ### 20 September 2012 | Girl Interpreted  
 
