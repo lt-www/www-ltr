@@ -1,5 +1,4 @@
 
-
 **VICTORIA**  
 
 **Saturday 6th October 2012**  
@@ -81,7 +80,7 @@ with [MATT WALKER][112]
 
 **Saturday 17th November 2012**   
 GUT OGROSEN      
-Ogrosener Dorfstr. 35, VETSHCAU    
+Ogrosener Dorfstr. 35, VETSCHAU    
 with [MATT WALKER][112]   
 
 **NETHERLANDS**  
