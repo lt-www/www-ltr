@@ -1,4 +1,3 @@
-
 **VICTORIA**  
 
 **Saturday 6th October 2012**  
@@ -38,6 +37,9 @@ with [MATT WALKER][112]
 
 **BELGIUM**  
  
+**Monday 29th October 2012**  
+House Concert, GENT    
+
 **Wednesday 31st October 2012**  
 [BAVART ARTHOUSE][118]    
 Noordstraat 32, GENT    
