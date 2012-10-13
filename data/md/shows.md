@@ -1,4 +1,10 @@
-  
+**USA**    
+
+**Saturday 13th October 2012**  
+THE BLUE SHOP  
+Burlington, IOWA.  
+with [PIETA BROWN & BO RAMSEY][81]  
+8pm  
 
 * * * * *
 
