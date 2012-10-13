@@ -1,17 +1,5 @@
-**VICTORIA**  
 
-**Saturday 6th October 2012**  
-[THE BRIDGE HOTEL][127]    
-Walker St, CASTLEMAINE.  
-with [MATT WALKER][112].  
-8pm    
-
-**Sunday 7th October 2012**  
-[THE TOFF IN TOWN][114]  
-Swanston St, MELBOURNE.  
-with [MATT WALKER][112].  
-8pm  
-[Tickets on sale now][114]  
+  
 
 * * * * *
 
