@@ -3,7 +3,7 @@
 **VICTORIA**  
 
 **Sunday 7th October 2012**  
-[THE TOFF IN TOWN][114]  
+THE TOFF IN TOWN    
 Swanston St, MELBOURNE.  
 with [MATT WALKER][112].   
 
