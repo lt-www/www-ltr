@@ -8,8 +8,7 @@ with [PIETA BROWN & BO RAMSEY][81]
 
 * * * * *
 
-**EUROPEAN TOUR October - November 2012**  
-more dates and details announced soon  
+**EUROPEAN TOUR 2012**    
   
 **NETHERLANDS**  
 
