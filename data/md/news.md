@@ -1,3 +1,7 @@
+### 23 October 2012 | Bonfires in Europe...     
+
+[Bonfires In Silver City][89] hits the Northern shelves this week, 
+courtesy of boutique Dutch label [Smoked Recordings][38], with distribution Europe-wide through Continental Record Services (...so if it's not on the shelf at your favourite local record store you can ask them to order it in via CRS).  Lucie's European tour starts this weekend, with the first round of shows in Deventer, Enchede and Almelo. [Details here][14].    
 
 ### 13 October 2012 | Tonight in Burlington with Pieta Brown!      
 
