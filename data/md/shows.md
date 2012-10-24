@@ -91,6 +91,13 @@ Heuvel Galerie 140, EINDHOVEN
 *Smoked Recordings Label Night*    
 with BIG LOW, MATT WALKER and JEREON KANT  
 
+**ROMANIA**
+
+**Wednesday 21st November 2012**   
+PANIC!     
+Strada Academiei 19, BUCHAREST   
+with DEKANDENS   
+
 * * * * *   
 
 
