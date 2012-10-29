@@ -9,7 +9,7 @@
 > phone: +61 2 6684 6633  
 > email: vitamin at vitamin dot net dot au
 
-**for distro enquiries across the Benelux contact Smoked Recordings:**
+**for distribution enquiries throughout Europe contact Smoked Recordings:**
 
 > email: info at smokedrecordings dot com  
 
