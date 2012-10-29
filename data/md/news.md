@@ -1,3 +1,7 @@
+### 29 October 2012 | Bonfires and Belgium 
+
+The first Dutch album reviews for Bonfires have started rolling in - and glowing! - [here's one][116] from Jan Willem Broek at [Subjectivisten][116]. Lucie performs two shows in Gent, Belgium this week, followed by the first in a series of Smoked Label Night Theatre Concerts, at the [Patronaat][116.1] in Haarlem on Saturday night, alongside Big Low, Matt Walker, Davie Lawson and Jeroen Kant. [Details here][14].
+
 ### 23 October 2012 | Bonfires in Europe...     
 
 [Bonfires In Silver City][89] hits the Northern shelves this week, 
@@ -301,6 +305,10 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [113.1]: http://www.continental.nl
 [114]: http://www.mattwalker.com.au/
 [115]: http://thethornburytheatre.com/event/girl-interpreted-2012-feat-lucie-thorne-mojo-juju-georgia-fields-tracy-mcneil/  
+[116]: http://www.subjectivisten.nl/caleidoscoop/2012/10/lucie-thorne-bonfires-in-silver-city.html
+[116.1]: http://www.patronaat.nl/
+
+
 ### old news | archive
 
 if you care to know it, there is still all of the [old news][1.1]...
