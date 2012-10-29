@@ -1,6 +1,6 @@
 ### 29 October 2012 | Bonfires and Belgium 
 
-The first Dutch album reviews for Bonfires have started rolling in - and glowing! - [here's one][116] from Jan Willem Broek at [Subjectivisten][116]. Lucie performs two shows in Gent, Belgium this week, followed by the first in a series of Smoked Label Night Theatre Concerts, at the [Patronaat][116.1] in Haarlem on Saturday night, alongside Big Low, Matt Walker, Davie Lawson and Jeroen Kant. [Details here][14].
+The first Dutch album reviews for Bonfires have started rolling in - and glowing! - [here's one][116] from Jan Willem Broek at [Subjectivisten][116]. Lucie performs two shows in Gent, Belgium this week, followed by the first in a series of Smoked Label Night Theatre Concerts, at the [Patronaat][116.1] in Haarlem, alongside Big Low, Matt Walker, Davie Lawson and Jeroen Kant. [Details here][14].
 
 ### 23 October 2012 | Bonfires in Europe...     
 
