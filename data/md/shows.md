@@ -157,7 +157,7 @@ with DEKANDENS
 [121]: http://www.gigant.nl/
 [122]: http://www.jerlin.de/intersoup/
 [123]: http://www.gaudycafe.com/
-[124]: http://sofasessions.blogspot.com.au/2012
+[124]: http://www.sofasalon.de/
 [125]: http://www.deberenkuil.nl/info.html
 [126]: http://www.muziekgebouweindhoven.nl
 [127]: http://www.facebook.com/thebridgecastlemaine
