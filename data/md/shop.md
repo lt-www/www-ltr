@@ -3,9 +3,7 @@
 Lucie's albums are available on the shelves at all good record stores around Australia, courtesy of [Vitamin Distribution][8].
 And if they're not on the shelf at yr local, ask 'em t o order it in!
 
-[Black Across The Field][4] is also available in stores throughout
-The Netherlands, Belgium and Luxembourg, through [Smoked Recordings][6]
-and Munich/V2 distribution.  
+[Bonfires In Silver City][7] and [Black Across The Field][4] are also available in stores Europe-wide, through [Smoked Recordings][6] and Continental Record Services/V2 distribution.  
 
 **MAIL ORDER:**  
 
