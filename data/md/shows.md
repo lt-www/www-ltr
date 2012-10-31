@@ -155,7 +155,7 @@ with DEKANDENS
 [119]: http://www.patronaat.nl/
 [120]: http://www.theaterdewildewereld.nl/nieuws/
 [121]: http://www.gigant.nl/
-[122]: http://www.jerlin.de/intersoup/
+[122]: http://www.intersoup.de/
 [123]: http://www.gaudycafe.com/
 [124]: http://www.sofasalon.de/
 [125]: http://www.deberenkuil.nl/info.html
