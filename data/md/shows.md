@@ -42,7 +42,7 @@ Noordstraat 32, GENT
 [PATRONAAT][119]    
 Zijlsingel 2, HAARLEM  
 *Smoked Recordings Label Night*  
-with BIG LOW, MATT WALKER and DAVIE LAWSON    
+with BIG LOW, MATT WALKER, DAVIE LAWSON and JEREON KANT     
 
 **Saturday 10th November 2012**    
 [THEATRE WILDE WERELD][120]  
