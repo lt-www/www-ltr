@@ -1,29 +1,28 @@
-- Lucie Thorne [Biography][25] (pdf), October 2011  
+- Lucie Thorne [Biography][25] (pdf)    
 
 ### Bonfires In Silver City   
 
-"_Bonfires In Silver City_ reveals a subtlety and craft that eclipses Thorne's prior work."  **_Martin Jones, Rhythms Magazine, August 2011_**    
+"_Bonfires In Silver City_ reveals a subtlety and craft that eclipses Thorne's prior work."  **_Martin Jones, Rhythms Magazine_**    
 
-"I've been listening to three great female artists in the last month; the first two, Gillian Welch and Emmylou Harris require little introduction to most, their bodies of work substantial, their standing already verging on legendary. The third is a name lesser known, but her album _Bonfires in Silver City_ is undoubtedly the best of all three. Lucie Thorne is one of our own, and with this album she makes a firm statement that she is one of our finest. World-class." **_Chris Peken, Alternative Music Group, August 2011,_ [full review here][23]**      
+"I've been listening to three great female artists in the last month; the first two, Gillian Welch and Emmylou Harris require little introduction to most, their bodies of work substantial, their standing already verging on legendary. The third is a name lesser known, but her album _Bonfires in Silver City_ is undoubtedly the best of all three. Lucie Thorne is one of our own, and with this album she makes a firm statement that she is one of our finest. World-class." **_Chris Peken, Alternative Music Group,_ [full review here][23]**      
  
-"Mitchell fans will sense a resonance of 1976's _Hejira_, for many her masterpiece, in _Bonfires In Silver City_. While _Hejira_'s theme of geographical dislocation is missing from _Bonfires_, perhaps replaced with journeys of the heart, the records are strikingly similar; poetic, introspective works that have a solidity and wholeness."  **_Ian Cuthbertson, The Australian, August 2011,_ [full article here][21]**      
+"Mitchell fans will sense a resonance of 1976's _Hejira_, for many her masterpiece, in _Bonfires In Silver City_. While _Hejira_'s theme of geographical dislocation is missing from _Bonfires_, perhaps replaced with journeys of the heart, the records are strikingly similar; poetic, introspective works that have a solidity and wholeness."  **_Ian Cuthbertson, The Australian_, [full article here][21]**      
 
-"Thorne's powerful intimacy [is] embedded in each song. At times stylistically similar to the late Chris Whitley... Thorne has breathed in love and life and returns both as art. Hers is a poetic gift; _Bonfires_ is a river of sound, its currents best revealed the more deeply you listen." **_The Age, August 2011_** 
+"Thorne's powerful intimacy [is] embedded in each song. At times stylistically similar to the late Chris Whitley... Thorne has breathed in love and life and returns both as art. Hers is a poetic gift; _Bonfires_ is a river of sound, its currents best revealed the more deeply you listen." **_The Age_** 
 
+"Not long ago, I was driving through the Wimmera at night, back roads beyond Horsham. No towns and no lights except the moon and stars. Lucie Thorne was singing in the car; I loved 2009's AMP-nominated Black Across the Field but this year's album is sensational. The songs are small and finely formed in the same way that Gillian Welch's are, the attention to microscopic folk/rock/country detail immense. That night way out west the songs shone out of the dark; it was religious. Great music will do that for you and I give thanks."  **_Chris Johnston, The Melbourne Magazine_**    
 
-"Not long ago, I was driving through the Wimmera at night, back roads beyond Horsham. No towns and no lights except the moon and stars. Lucie Thorne was singing in the car; I loved 2009's AMP-nominated Black Across the Field but this year's album is sensational. The songs are small and finely formed in the same way that Gillian Welch's are, the attention to microscopic folk/rock/country detail immense. That night way out west the songs shone out of the dark; it was religious. Great music will do that for you and I give thanks."  **_Chris Johnston, The Melbourne Magazine, September 2011_**    
+"an album of powerful intimacy and poetic deliverance" **_The Saturday Age, Life & Style Magazine_**   
 
-"an album of powerful intimacy and poetic deliverance" **_The Saturday Age, Life & Style Magazine, September 2011_**   
-
-"Lucie Thorne's 2009 album, Black Across The Field, was my album of the year; it was shortlisted for the prestigious Australian Music Prize and helped her find a new, larger audience. She has a lot to live up to with the follow-up Bonfires in Silver City, but has yet again proven that her songwriting, arranging, guitar playing and singing are, dare I say it - world class. Think an amalgam of Joni Mitchell, Emmylou Harris and The Cowboy Junkies. She is an artist well worth discovering and I can't think of another Australian artist I would recommend more highly right now." **_Dave Clark, Readings Monthly, August 2011_**     
+"Lucie Thorne's 2009 album, Black Across The Field, was my album of the year; it was shortlisted for the prestigious Australian Music Prize and helped her find a new, larger audience. She has a lot to live up to with the follow-up Bonfires in Silver City, but has yet again proven that her songwriting, arranging, guitar playing and singing are, dare I say it - world class. Think an amalgam of Joni Mitchell, Emmylou Harris and The Cowboy Junkies. She is an artist well worth discovering and I can't think of another Australian artist I would recommend more highly right now." **_Dave Clark, Readings Monthly_**     
 
 "Somehow both restrained and edgy, Thorne retains her seemingly effortless ability to weave spaciousness into her songs, which makes them all the
-more enthralling. _Bonfires In Silver City_ is further proof Thorne deserves to be mentioned in the same breath as Australia's first ladies of indie singer/songwriter fare" **_Drum Magazine, August 2011_**    
+more enthralling. _Bonfires In Silver City_ is further proof Thorne deserves to be mentioned in the same breath as Australia's first ladies of indie singer/songwriter fare" **_Drum Magazine_**    
 
 "_Bonfires In Silver City_ casts a spell....Lucie's sublime voice has a melting power - breathy, luscious, languid like honey and as striking as the sunrise. The album is one unified gesture of grace and awareness" **_Marlo Spikin, upstream whispers.com_ [full review here][26]**
   
 
-"_Bonfires in Silver City_ is a great ride... a beautifully subtle album of songwriter-rock presented with faultless production and delivery . Everything sits in its right place and serves nothing but the song, (and) Thorne holds your attention without demanding it, you just want to listen. She elusively conjures a post-60's Joni Mitchell - that deep, rich but definitely feminine voice of hers sits marvelously amongst the songs she's crafted. This lady's got some serious talent."  **_Orange Press, August 2011_  [full review here][22]**    
+"_Bonfires in Silver City_ is a great ride... a beautifully subtle album of songwriter-rock presented with faultless production and delivery . Everything sits in its right place and serves nothing but the song, (and) Thorne holds your attention without demanding it, you just want to listen. She elusively conjures a post-60's Joni Mitchell - that deep, rich but definitely feminine voice of hers sits marvelously amongst the songs she's crafted. This lady's got some serious talent."  **_Orange Press_,  [full review here][22]**    
 
  
 - _Album Of The Week_ on [Radio National Breakfast][20], 25 July 2011  
@@ -45,37 +44,37 @@ more enthralling. _Bonfires In Silver City_ is further proof Thorne deserves to 
 "Without exaggeration _Black Across The Field_ is as good as anything
 I've heard this year... Growling with warm tube overdrive, stinging
 like Neil Young... this is a diverse, profound album...with nuances
-subtle and breathtaking" **_Martin Jones, Rhythms Magazine, March 2009_**  
+subtle and breathtaking" **_Martin Jones, Rhythms Magazine_**  
 
 
-"This is one of the finest female vocal albums released by an Australian in the last few years. The whole album - from her band, to production, to the songs -is first rate [and] will hopefully see her find the larger audience she deserves. Make the effort to seek this fine album out." **_Readings Monthly, May 2009_**    
+"This is one of the finest female vocal albums released by an Australian in the last few years. The whole album - from her band, to production, to the songs -is first rate [and] will hopefully see her find the larger audience she deserves. Make the effort to seek this fine album out." **_Readings Monthly_**    
 
 
-"This gentle chanteuse has delivered quiet perfection. There is such an intensity of feeling here... In mood and approach the closest comparison I can make is with Emmylou Harris' _Wrecking Ball_ -  moody folk, country noir... a collection of stories that speaks small but resonates much bigger. Thorne marks out her space with some fabulous sensuality." **_Bernard Zuel, Sydney Morning Herald. Album of Week 21st March 2009_**     
+"This gentle chanteuse has delivered quiet perfection. There is such an intensity of feeling here... In mood and approach the closest comparison I can make is with Emmylou Harris' _Wrecking Ball_ -  moody folk, country noir... a collection of stories that speaks small but resonates much bigger. Thorne marks out her space with some fabulous sensuality." **_Bernard Zuel, Sydney Morning Herald, Album of the Week_**     
 
  
 "Thorne's songs are exquisite miniatures of distilled emotion, her melodies and
-harmonies are sublime, and the way she pits grinding guitars against that ethereal, sensual voice is like watching a thunderstorm in the distance. By turns dark and tender, _Black Across The Field_ is a beautiful album." **_David Curry, The Canberra Times, April 2009_**  
+harmonies are sublime, and the way she pits grinding guitars against that ethereal, sensual voice is like watching a thunderstorm in the distance. By turns dark and tender, _Black Across The Field_ is a beautiful album." **_David Curry, The Canberra Times_**  
 
 
 "This is music that can be tender and taut, full of the subtle nuances of real life as opposed to the black-and-white world of simple pop. There's tough guitar and autumnal shades, haunting slow-mo rock, Neil Young-esque guitar lines...And right up front is a voice with a quality that keeps drawing the listener in." **_Noel Mengel, Courier Mail. Album of the Week 19th March 2009_**     
 
-"Thorne cuts her own niche from the acoustic masses by specialising in gently percolating nocturnes that could be penned by PJ Harvey after waking in a Tasmanian poppy field. A bright star rising, and one worth all the attention she receives." **_Andy Hazel, Inpress, March 2009_**   
+"Thorne cuts her own niche from the acoustic masses by specialising in gently percolating nocturnes that could be penned by PJ Harvey after waking in a Tasmanian poppy field. A bright star rising, and one worth all the attention she receives." **_Andy Hazel, Inpress_**   
 
 
-"The production of the voice is a giant close-up of delicate emotional expression; every murmur, tongue flick and gentle pulse is significant. Thorne also has a gift for melody and, for the complete trifecta, writes thoughtful, intelligent lyrics that, as with Joni Mitchell, leave you pondering shades of meaning. Thorne's electric guitars paint gorgeous swaths in the stereo field... this is an album that deserves to be widely heard." **_Ian Cuthbertson, \*\*\*\*, The Australian, April 2009 _**   
+"The production of the voice is a giant close-up of delicate emotional expression; every murmur, tongue flick and gentle pulse is significant. Thorne also has a gift for melody and, for the complete trifecta, writes thoughtful, intelligent lyrics that, as with Joni Mitchell, leave you pondering shades of meaning. Thorne's electric guitars paint gorgeous swaths in the stereo field... this is an album that deserves to be widely heard." **_Ian Cuthbertson, \*\*\*\*, The Australian_**   
 
-"A spellbinding dark-folk storybook" **_Sarah Howells, Root N All, JMAG, March 2009_**  
+"A spellbinding dark-folk storybook" **_Sarah Howells, Root N All, JMAG_**  
 
-"With the slow burn rock of Sun Kil Moon and the depth of voice of Joni Mitchell, Thorne is insidious in her ability to borrow down into your psyche, drawing you closer...she knows exactly what is required and when." **_Chris Peken, Alternative Media Group, March 2009_**    
+"With the slow burn rock of Sun Kil Moon and the depth of voice of Joni Mitchell, Thorne is insidious in her ability to borrow down into your psyche, drawing you closer...she knows exactly what is required and when." **_Chris Peken, Alternative Media Group_**    
 
 
 "the Australian PJ Harvey... possessing the punch of Cat Power, the country-rock hybrid of Emmylou Harris, and the wise words of Joni Mitchell" 
-**_Kathleen Noonan, The Courier Mail, June 2009_**     
+**_Kathleen Noonan, The Courier Mail_**     
 
-"_Black Across The Field_ is easily one of the best Australian releases this year. A sweet mix of beauty and power..." **_Northern Territory News, August 2009_**  
+"_Black Across The Field_ is easily one of the best Australian releases this year. A sweet mix of beauty and power..." **_Northern Territory News_**  
 
-"The opening track of _Black Across The Field_, As You Find It, is undoubtedly one of the loveliest songs you'll hear all year. With its brushed drums, cautious electric guitars and mellow piano playing, it's simply beautiful as Thorne's honey-like voice drifts over the top. Thorne is definitely a major talent in Australia's burgeoning folk singer-songwriter scene." **_Patrick Lang, db magazine, April 2009_**    
+"The opening track of _Black Across The Field_, As You Find It, is undoubtedly one of the loveliest songs you'll hear all year. With its brushed drums, cautious electric guitars and mellow piano playing, it's simply beautiful as Thorne's honey-like voice drifts over the top. Thorne is definitely a major talent in Australia's burgeoning folk singer-songwriter scene." **_Patrick Lang, db magazine_**    
 
 "Dances between alt-folk blues and a PJ Harvey-style drone with production moving into Howling Bells territory at times...This album deserves multiple spins" **_Rave Magazine_**  
 
@@ -94,7 +93,7 @@ Dutch reviews from 'Black Across The Field's release in the Benelux
 
 * * * * *
 
-"... If music is her poison, then this album could be considered a Hercules mirror-shield" **_[Album Review][16] by CZB; Romanian Art, Politics and Music site, March 2011._**      
+"... If music is her poison, then this album could be considered a Hercules mirror-shield" **_[Album Review][16] by CZB; Romanian Art, Politics and Music site_**      
 
 
 * * * * *  
