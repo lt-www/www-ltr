@@ -100,6 +100,65 @@ with DEKANDENS
 
 * * * * *   
 
+**AUSTRALIA**
+
+**ACT**  
+
+**30th November - 2nd December 2012**    
+[CORINBANK FESTIVAL][99]     
+Brindabella Mountains.    
+[Tickets on sale now][99]      
+ 
+* * * * * 
+
+**NSW**  
+
+**Wednesday 5th December**  
+HOUSE CONCERT, Cessnock  
+with SHANNA WATSON  
+
+**Thursday 6th December**  
+GRAND JUNCTION, Maitland  
+with SHANNA WATSON  
+
+**Friday 7th December**  
+THE MANOR, Newcastle  
+with SHANNA WATSON  
+
+**Saturday 15th December**  
+THE MURRAH HALL, Murrah  
+with THE ELLIS COLLECTIVE    
+
+* * * * *    
+
+**TASMANIA**
+
+**Sunday 6th January**  
+BROOKFIELD WINERY  
+Margate  
+
+**Friday 11th January**  
+FRESH on CHARLES  
+Launceston  
+
+* * * * *     
+
+**VICTORIA**  
+
+**Sunday 20th January**  
+FOUR LEAF SESSIONS  
+Melbourne   
+
+**Saturday 16th February**  
+CUDA BAR  
+Lorne  
+
+**Sunday 17th February**  
+WOLSELEY WINERY  
+Paraparap  
+
+* * * * *     
+
 
 [past shows][archive]
 
