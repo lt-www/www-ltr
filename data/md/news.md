@@ -1,3 +1,14 @@
+### 7 November 2012 | Smoked Label Night #2 
+
+The second in this series of Smoked Recordings Label Night concerts
+is happening this weekend - at the beautiful Theatre Wilde Wereld in
+Wageningen, Saturday 10th November. As well as performing solo, Lucie
+will be joining forces with label-mates - and legends! - Big Low and Matt Walker, for a whole lot of mix n match on each others songs over the course of the evening. We're in for a real treat folks!  
+
+In other news, more tour dates have just been added to the [shows page][14],
+including one in Bucharest, RO, as well as the start of Lucie's Australian summer tour schedule. [Details here][14].     
+
+
 ### 29 October 2012 | Bonfires and Belgium 
 
 The first Dutch album reviews for Bonfires have started rolling in - and glowing! - [here's one][116] from Jan Willem Broek at [Subjectivisten][116]. Lucie performs two shows in Gent, Belgium this week, followed by the first in a series of Smoked Label Night Theatre Concerts, at the [Patronaat][116.1] in Haarlem, alongside Big Low, Matt Walker, Davie Lawson and Jeroen Kant. [Details here][14].
