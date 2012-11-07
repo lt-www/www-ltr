@@ -149,10 +149,6 @@ Launceston
 FOUR LEAF SESSIONS  
 Melbourne   
 
-**Saturday 16th February**  
-CUDA BAR  
-Lorne  
-
 **Sunday 17th February**  
 WOLSELEY WINERY  
 Paraparap  
