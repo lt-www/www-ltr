@@ -1,3 +1,8 @@
+### 13 November 2012 | Berlin    
+
+Lucie plays three shows in Berlin this week - Wednesday at Intersoup, Thursday at St Gaudy, and Friday at Sofa Salon. Friday night's show has already sold out! ... and we recommend turning up early to the others to ensure a good seat x [Details here][14].  
+
+
 ### 7 November 2012 | Smoked Label Night #2 
 
 The second in this series of Smoked Recordings Label Night concerts
