@@ -61,21 +61,19 @@ with [MATT WALKER][112]
 [INTERSOUP][122]   
 Schliemannstr. 31, BERLIN.  
 with [MATT WALKER][112]  
+show starts 9pm  
 
 **Thursday 15th November 2012**   
 Berlin Folk Society at [ST GAUDY CAFE][123]    
 Gaudystr. 1, BERLIN  
 with [MATT WALKER][112]   
+doors open 8.30pm / show starts 9pm   
 
 **Friday 16th November 2012**   
 [SOFA SALON][124]    
 BERLIN  
-with [MATT WALKER][112]  
-
-**Saturday 17th November 2012**   
-GUT OGROSEN      
-Ogrosener Dorfstr. 35, VETSCHAU    
 with [MATT WALKER][112]   
+SOLD OUT!  
 
 **NETHERLANDS**  
 
@@ -83,7 +81,7 @@ with [MATT WALKER][112]
 [THEATRE de BERENKUIL][125]      
 Biltstraat 166, UTRECHT  
 *Smoked Recordings Label Night*    
-with BIG LOW, MATT WALKER and JEREON KANT 
+with BIG LOW, MATT WALKER and JEREON KANT  
 
 **Monday 19th November 2012**    
 [FRITS PHILIL CENTRUM][126]    
