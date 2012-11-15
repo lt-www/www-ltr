@@ -82,12 +82,14 @@ SOLD OUT!
 Biltstraat 166, UTRECHT  
 *Smoked Recordings Label Night*    
 with BIG LOW, MATT WALKER and JEREON KANT  
+3.30pm  
 
 **Monday 19th November 2012**    
 [FRITS PHILIL CENTRUM][126]    
 Heuvel Galerie 140, EINDHOVEN   
 *Smoked Recordings Label Night*    
 with BIG LOW, MATT WALKER and JEREON KANT  
+9pm  
 
 **ROMANIA**
 
