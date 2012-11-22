@@ -98,6 +98,11 @@ PANIC!
 Strada Academiei 19, BUCHAREST   
 with DEKANDENS   
 
+**Thursday 22nd November 2012**   
+DIANEI   
+Dianei 4, BUCHAREST   
+10pm  
+
 * * * * *   
 
 **AUSTRALIA**
