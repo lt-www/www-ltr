@@ -103,6 +103,11 @@ DIANEI
 Dianei 4, BUCHAREST   
 10pm  
 
+**Saturday 24th November 2012**   
+LONDOPHONE     
+Zalomit 2, BUCHAREST   
+8pm  
+
 * * * * *   
 
 **AUSTRALIA**
