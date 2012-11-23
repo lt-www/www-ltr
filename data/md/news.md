@@ -1,3 +1,7 @@
+### 23 November 2012 | Bucharest  
+
+An extra show has just been added to the Romanian leg of the tour; Lucie plays at Londophone, Zalomit 2, tomorrow night, Saturday 24th Nov, from 8pm.  
+
 ### 13 November 2012 | Berlin    
 
 Lucie plays three shows in Berlin this week - Wednesday at Intersoup, Thursday at St Gaudy, and Friday at Sofa Salon. Friday night's show has already sold out! ... and we recommend turning up early to the others to ensure a good seat x [Details here][14].  
