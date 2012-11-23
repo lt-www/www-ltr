@@ -114,7 +114,7 @@ Zalomit 2, BUCHAREST
 
 **ACT**  
 
-**30th November - 2nd December 2012**    
+**Sunday 2nd December 2012**    
 [CORINBANK FESTIVAL][99]     
 Brindabella Mountains.    
 [Tickets on sale now][99]      
