@@ -1,6 +1,6 @@
 ### 23 November 2012 | Bucharest  
 
-An extra show has just been added to the Romanian leg of the tour; Lucie plays at Londophone, Zalomit 2, tomorrow night, Saturday 24th Nov, from 8pm.  
+An extra show has just been added to the Romanian leg of the tour!; Lucie plays at [Londophone][117], Zalomit 2, tomorrow night, Saturday 24th Nov, from 8pm.  
 
 ### 13 November 2012 | Berlin    
 
@@ -327,6 +327,7 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [115]: http://thethornburytheatre.com/event/girl-interpreted-2012-feat-lucie-thorne-mojo-juju-georgia-fields-tracy-mcneil/  
 [116]: http://www.subjectivisten.nl/caleidoscoop/2012/10/lucie-thorne-bonfires-in-silver-city.html
 [116.1]: http://www.patronaat.nl/
+[117]: http://www.londophone.ro/
 
 
 ### old news | archive
