@@ -3,8 +3,8 @@
 **Saturday 13th October 2012**  
 THE BLUE SHOP  
 Burlington, IOWA.  
-with [PIETA BROWN & BO RAMSEY][81]  
-8pm  
+with [PIETA BROWN & BO RAMSEY][81]   
+ 
 
 * * * * *
 
@@ -60,14 +60,12 @@ with [MATT WALKER][112]
 **Wednesday 14th November 2012**   
 [INTERSOUP][122]   
 Schliemannstr. 31, BERLIN.  
-with [MATT WALKER][112]  
-show starts 9pm  
+with [MATT WALKER][112]    
 
 **Thursday 15th November 2012**   
 Berlin Folk Society at [ST GAUDY CAFE][123]    
 Gaudystr. 1, BERLIN  
-with [MATT WALKER][112]   
-doors open 8.30pm / show starts 9pm   
+with [MATT WALKER][112]      
 
 **Friday 16th November 2012**   
 [SOFA SALON][124]    
@@ -81,15 +79,13 @@ SOLD OUT!
 [THEATRE de BERENKUIL][125]      
 Biltstraat 166, UTRECHT  
 *Smoked Recordings Label Night*    
-with BIG LOW, MATT WALKER and JEREON KANT  
-3.30pm  
+with BIG LOW, MATT WALKER and JEREON KANT    
 
 **Monday 19th November 2012**    
 [FRITS PHILIL CENTRUM][126]    
 Heuvel Galerie 140, EINDHOVEN   
 *Smoked Recordings Label Night*    
-with BIG LOW, MATT WALKER and JEREON KANT  
-9pm  
+with BIG LOW, MATT WALKER and JEREON KANT    
 
 **ROMANIA**
 
@@ -100,13 +96,11 @@ with DEKANDENS
 
 **Thursday 22nd November 2012**   
 DIANEI   
-Dianei 4, BUCHAREST   
-10pm  
+Dianei 4, BUCHAREST     
 
 **Saturday 24th November 2012**   
 LONDOPHONE     
-Zalomit 2, BUCHAREST   
-8pm  
+Zalomit 2, BUCHAREST     
 
 * * * * *   
 
@@ -124,20 +118,24 @@ Brindabella Mountains.
 **NSW**  
 
 **Wednesday 5th December**  
-HOUSE CONCERT, Cessnock  
+CALEDONIA HOTEL, Cessnock  
 with SHANNA WATSON  
+Doors open 6.30pm    
 
 **Thursday 6th December**  
 GRAND JUNCTION, Maitland  
 with SHANNA WATSON  
+Show starts 8.30pm   
 
-**Friday 7th December**  
-THE MANOR, Newcastle  
-with SHANNA WATSON  
+**Saturday 8th December**  
+THE MANOR, Newcastle   
+with SHANNA WATSON   
+Doors open 7pm  
 
 **Saturday 15th December**  
 THE MURRAH HALL, Murrah  
 with THE ELLIS COLLECTIVE    
+Doors open 7pm 
 
 * * * * *    
 
