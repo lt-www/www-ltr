@@ -1,3 +1,7 @@
+### 1 December 2012 | Southern Summer  
+
+Back in the Southern hemisphere - and straight back on the road! - Lucie plays her first home-coming show this weekend, up in the beautiful Brindabella Mountains, at one of Australia's sweetest festivals; [CORINBANK][99]. Details and more southern summer tour dates [here][14].  
+
 ### 23 November 2012 | Bucharest  
 
 An extra show has just been added to the Romanian leg of the tour!; Lucie plays at [Londophone][117], Zalomit 2, tomorrow night, Saturday 24th Nov, from 8pm.  
