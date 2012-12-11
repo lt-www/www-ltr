@@ -1356,6 +1356,18 @@ RSL, Tamar Valley Folk Festival.
 [111.1]: http://thornburytheatre.oztix.com.au/default.aspx?Event=27515  
 [112]: http://www.mattwalker.com.au/  
 [112.1]: http://www.pbsfm.org.au/node/19074
+[116]: http://burgerweeshuis.nl/
+[117]: http://members.home.nl/pacoplumtrek/
+[118]: http://www.bavart.be/index.html
+[119]: http://www.patronaat.nl/
+[120]: http://www.theaterdewildewereld.nl/nieuws/
+[121]: http://www.gigant.nl/
+[122]: http://www.intersoup.de/
+[123]: http://www.gaudycafe.com/
+[124]: http://www.sofasalon.de/
+[125]: http://www.deberenkuil.nl/info.html
+[126]: http://www.muziekgebouweindhoven.nl
+[127]: http://www.facebook.com/thebridgecastlemaine
 
 if you'd care to know, there are still details of lucie's old shows:
 [2009][2009], [2008][2008], [2007][2007], [2006][2006], [2005][2005],
