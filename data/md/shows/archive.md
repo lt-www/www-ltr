@@ -1,5 +1,132 @@
 ## shows/archive  
 
+**NSW**  
+
+**Saturday 8th December**  
+THE MANOR, Newcastle   
+with SHANNA WATSON    
+
+**Thursday 6th December**  
+GRAND JUNCTION, Maitland  
+with SHANNA WATSON  
+
+**Wednesday 5th December**  
+CALEDONIA HOTEL, Cessnock  
+with SHANNA WATSON 
+
+**ACT**  
+
+**Sunday 2nd December 2012**    
+[CORINBANK FESTIVAL][99]     
+Brindabella Mountains.  
+
+* * * * * 
+**EUROPEAN TOUR 2012**    
+
+**ROMANIA**
+
+**Saturday 24th November 2012**   
+LONDOPHONE     
+Zalomit 2, BUCHAREST   
+
+**Thursday 22nd November 2012**   
+DIANEI   
+Dianei 4, BUCHAREST     
+
+**Wednesday 21st November 2012**   
+PANIC!     
+Strada Academiei 19, BUCHAREST   
+with DEKANDENS  
+ 
+**NETHERLANDS**  
+
+**Monday 19th November 2012**    
+[FRITS PHILIL CENTRUM][126]    
+Heuvel Galerie 140, EINDHOVEN   
+*Smoked Recordings Label Night*    
+with BIG LOW, MATT WALKER and JEREON KANT    
+
+**Sunday 18th November 2012**    
+[THEATRE de BERENKUIL][125]      
+Biltstraat 166, UTRECHT  
+*Smoked Recordings Label Night*    
+with BIG LOW, MATT WALKER and JEREON KANT    
+
+**GERMANY**
+
+**Friday 16th November 2012**   
+[SOFA SALON][124]    
+BERLIN  
+with [MATT WALKER][112]   
+SOLD OUT!  
+
+**Thursday 15th November 2012**   
+Berlin Folk Society at [ST GAUDY CAFE][123]    
+Gaudystr. 1, BERLIN  
+with [MATT WALKER][112]      
+
+**Wednesday 14th November 2012**   
+[INTERSOUP][122]   
+Schliemannstr. 31, BERLIN.  
+with [MATT WALKER][112]    
+
+**NETHERLANDS**  
+
+**Sunday 11th November 2012**     
+[GIGANT][121]    
+Nieuwstraat 377, APPELDOORN.  
+with [MATT WALKER][112]  
+
+**Saturday 10th November 2012**    
+[THEATRE WILDE WERELD][120]  
+Burgtstraat 1, WAGENINGEN  
+*Smoked Recordings Label Night*    
+with BIG LOW, MATT WALKER and JEREON KANT   
+
+**Saturday 3rd November 2012**    
+[PATRONAAT][119]    
+Zijlsingel 2, HAARLEM  
+*Smoked Recordings Label Night*  
+with BIG LOW, MATT WALKER, DAVIE LAWSON and JEREON KANT     
+
+
+**BELGIUM**  
+ 
+**Wednesday 31st October 2012**  
+[BAVART ARTHOUSE][118]    
+Noordstraat 32, GENT    
+
+**Monday 29th October 2012**  
+House Concert, GENT    
+
+**NETHERLANDS**  
+
+**Saturday 27th October 2012**   
+[PACO PLUMTREK][117]    
+Achtzaligheden 2, ALMELO  
+with [MATT WALKER][112]  
+
+**Friday 26th October 2012**    
+JANSEN en JANSEN    
+Oude Markt 10, ENCHEDE  
+with [MATT WALKER][112]  
+  
+**Thursday 25th October 2012**  
+[BURGERWEESHUIS][116]    
+Bagijnenstraat 9, DEVENTER.  
+with [MATT WALKER][112]  
+
+* * * * *   
+
+**USA**    
+
+**Saturday 13th October 2012**  
+THE BLUE SHOP  
+Burlington, IOWA.  
+with [PIETA BROWN & BO RAMSEY][81]  
+
+* * * * *   
+
 **VICTORIA**  
 
 **Sunday 7th October 2012**  
