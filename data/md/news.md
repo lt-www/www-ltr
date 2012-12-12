@@ -1,3 +1,7 @@
+### 12 December 2012 | Murrah  
+  
+Lucie plays her last show of 2012 this Saturday night, December 15th, at one of her very favourite venues in the land; the sweet old Murrah Hall on the NSW far south coast.  This will be an acoustic show (that's right folks, no PA, just the beautiful resonance of this old timber hall), and there's limited space - so we recommend early arrival to ensure a seat x [Details here][14].    
+
 ### 1 December 2012 | Southern Summer  
 
 Back in the Southern hemisphere - and straight back on the road! - Lucie plays her first home-coming show this weekend, up in the beautiful Brindabella Mountains, at one of Australia's sweetest festivals; [CORINBANK][99]. Details and more southern summer tour dates [here][14].  
