@@ -2,7 +2,7 @@
 
 **Saturday 15th December**  
 THE MURRAH HALL, Murrah  
-with THE ELLIS COLLECTIVE    
+with The Ellis Collective      
 Doors open 7pm 
 
 * * * * *    
