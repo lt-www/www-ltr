@@ -3,8 +3,8 @@
 **Saturday 15th December**  
 THE MURRAH HALL, Murrah  
 with The Ellis Collective      
-Doors open 7pm 
-$20/$15  
+Doors open 7pm   
+$20/$15    
 no presales / tickets at the door only   
 Supper available / BYO  
 
