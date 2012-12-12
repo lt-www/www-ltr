@@ -16,6 +16,7 @@ Margate
 **Friday 11th January**  
 FRESH on CHARLES  
 Launceston  
+with Fiona Brown  
 
 * * * * *     
 
