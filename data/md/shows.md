@@ -15,11 +15,13 @@ Supper available / BYO
 **Sunday 6th January**  
 BROOKFIELD WINERY  
 Margate  
+details tba  
 
 **Friday 11th January**  
 FRESH on CHARLES  
 Launceston  
 with Fiona Brown  
+details tba   
 
 * * * * *     
 
@@ -28,10 +30,12 @@ with Fiona Brown
 **Sunday 20th January**  
 FOUR LEAF SESSIONS  
 Melbourne   
+details tba   
 
 **Sunday 17th February**  
 WOLSELEY WINERY  
 Paraparap  
+details tba   
 
 * * * * *     
 
