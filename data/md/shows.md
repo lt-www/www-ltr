@@ -4,6 +4,9 @@
 THE MURRAH HALL, Murrah  
 with The Ellis Collective      
 Doors open 7pm 
+$20/$15  
+no presales / tickets at the door only   
+Supper available / BYO  
 
 * * * * *    
 
@@ -81,15 +84,4 @@ Paraparap
 [114.2]: http://www.noteslive.net.au
 [115]: http://www.cas.org.au
 [115.1]: http://www.heritagehotel.com.au/
-[116]: http://burgerweeshuis.nl/
-[117]: http://members.home.nl/pacoplumtrek/
-[118]: http://www.bavart.be/index.html
-[119]: http://www.patronaat.nl/
-[120]: http://www.theaterdewildewereld.nl/nieuws/
-[121]: http://www.gigant.nl/
-[122]: http://www.intersoup.de/
-[123]: http://www.gaudycafe.com/
-[124]: http://www.sofasalon.de/
-[125]: http://www.deberenkuil.nl/info.html
-[126]: http://www.muziekgebouweindhoven.nl
-[127]: http://www.facebook.com/thebridgecastlemaine
+[1
