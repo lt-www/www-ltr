@@ -1,13 +1,12 @@
-
 **TASMANIA**
 
-**Sunday 6th January**  
+**Sunday 6th January 2013**  
 BROOKFIELD WINERY  
 Margate  
 Show starts 4pm   
 Tickets $15 at the door  
 
-**Friday 11th January**  
+**Friday 11th January 2013**  
 FRESH on CHARLES  
 Launceston  
 with Fiona Brown  
@@ -18,12 +17,12 @@ Tickets $15 at the door
 
 **VICTORIA**  
 
-**Sunday 20th January**  
+**Sunday 20th January 2013**  
 FOUR LEAF SESSIONS  
 Melbourne   
 details tba   
 
-**Sunday 17th February**  
+**Sunday 17th February 2013**  
 WOLSELEY WINERY  
 Paraparap  
 details tba   
