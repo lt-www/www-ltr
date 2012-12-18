@@ -2,6 +2,10 @@
 
 **NSW**  
 
+**Saturday 15th December**  
+THE MURRAH HALL, Murrah  
+with THE ELLIS COLLECTIVE          
+
 **Saturday 8th December**  
 THE MANOR, Newcastle   
 with SHANNA WATSON    
