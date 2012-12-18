@@ -1,3 +1,10 @@
+### 18 December 2012 | Onder Invloed  
+
+While in Holland last month Lucie was invited to record a session for Dutch
+music site [Onder Invloed][118] - where she was asked to perform cover versions
+from some of her favourite songwriters. [This session is now online][118.1] - Lucie playing 3 songs, by Jesse Younan, Pieta Brown and Kim Dellavedova - live
+in the Smoked Recordings rehearsal studio in Wageningen.  
+
 ### 12 December 2012 | Murrah  
   
 Lucie plays her last show of 2012 this Saturday night, December 15th, at one of her very favourite venues in the land; the sweet old Murrah Hall on the NSW far south coast.  This will be an acoustic show (that's right folks, no PA, just the beautiful resonance of this old timber hall), and there's limited space - so we recommend early arrival to ensure a seat x [Details here][14].    
@@ -336,7 +343,8 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [116]: http://www.subjectivisten.nl/caleidoscoop/2012/10/lucie-thorne-bonfires-in-silver-city.html
 [116.1]: http://www.patronaat.nl/
 [117]: http://www.londophone.ro/
-
+[118]: http://www.onderinvloed.com  
+[118.1]: http://onderinvloed.com/home/2012/12/lucie-thorne/
 
 ### old news | archive
 
