@@ -3,7 +3,7 @@
 **Sunday 6th January 2013**  
 BROOKFIELD WINERY  
 Margate  
-Show starts 4pm   
+Show starts 4.30pm   
 Tickets $15 at the door  
 
 **Friday 11th January 2013**  
