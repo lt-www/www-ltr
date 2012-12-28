@@ -13,8 +13,9 @@ Launceston
 with Fiona Brown  
 Doors open 8pm  
 Tickets $15 at the door    
-table bookings: 6331 4299  
-* * * * *     
+table bookings: 6331 4299   
+
+* * * * *      
 
 **VICTORIA**  
 
