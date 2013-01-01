@@ -1,3 +1,9 @@
+### 2 January 2013 | Tasmania   
+
+Lucie's first two shows for 2013 are back in her home state of Tasmania -
+this Sunday 6th in Margate and Friday 11th in Launceston. [Details here][14].    
+
+
 ### 18 December 2012 | Onder Invloed  
 
 While in Holland last month Lucie was invited to record a session for Dutch
