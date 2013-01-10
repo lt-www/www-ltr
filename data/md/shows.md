@@ -24,6 +24,11 @@ FOUR LEAF SESSIONS
 Melbourne   
 details tba   
 
+**Saturday 16th February 2013**  
+THE CUDA BAR    
+Lorne    
+details tba   
+
 **Sunday 17th February 2013**  
 WOLSELEY WINERY  
 Paraparap  
