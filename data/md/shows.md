@@ -21,18 +21,20 @@ table bookings: 6331 4299
 
 **Sunday 20th January 2013**  
 FOUR LEAF SESSIONS  
-Melbourne   
-details tba   
+House Concert, Northcote, Melbourne   
+6pm  
+for bookings / to get address info etc contact:  
+the.four.leaf.sessions@live.com     
 
 **Saturday 16th February 2013**  
 THE CUDA BAR    
 Lorne    
-details tba   
+7pm     
 
 **Sunday 17th February 2013**  
 WOLSELEY WINERY  
 Paraparap  
-details tba   
+4pm    
 
 * * * * *     
 
