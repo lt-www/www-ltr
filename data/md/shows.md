@@ -1,21 +1,4 @@
-**TASMANIA**
-
-**Sunday 6th January 2013**  
-BROOKFIELD WINERY  
-Margate  
-Show starts 4.30pm   
-Tickets $15 at the door  
-table bookings: 6267 2880  
-
-**Friday 11th January 2013**  
-FRESH on CHARLES  
-Launceston  
-with Fiona Brown  
-Doors open 8pm  
-Tickets $15 at the door    
-table bookings: 6331 4299   
-
-* * * * *      
+   
 
 **VICTORIA**  
 
