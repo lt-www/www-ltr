@@ -1,5 +1,18 @@
 ## shows/archive  
 
+**TASMANIA**
+
+**Friday 11th January 2013**  
+FRESH on CHARLES  
+Launceston  
+with FIONA BROWN   
+
+**Sunday 6th January 2013**  
+BROOKFIELD WINERY  
+Margate  
+
+* * * * *     
+
 **NSW**  
 
 **Saturday 15th December**  
