@@ -1,6 +1,4 @@
-   
-
-**VICTORIA**  
+**VICTORIA**    
 
 **Sunday 20th January 2013**  
 FOUR LEAF SESSIONS  
@@ -21,6 +19,19 @@ Paraparap
 
 * * * * *     
 
+**NSW**    
+
+**Friday 15th March 2013**  
+THE COURTHOUSE      
+Mullumbimby      
+details tba      
+
+**Saturday 16th March 2013**  
+5 CHURCH STREET    
+Bellingen      
+details tba       
+
+* * * * *    
 
 [past shows][archive]
 
