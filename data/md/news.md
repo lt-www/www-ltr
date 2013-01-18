@@ -1,3 +1,7 @@
+### 18 January 2013 | Four Leaf Sessions  
+
+Lucie is the featured artist for the next Four Leaf Sessions concert, happening this Sunday 20th January. A twilight summer house concert series in Northcote Melbourne, Lucie will play two sets, in a beautiful outdoor setting. Gates open 6pm, show starts 7pm, and bookings are essential. For bookings contact the.four.leaf.sessions@live.com   
+
 ### 2 January 2013 | Tasmania   
 
 Lucie's first two shows for 2013 are back in her home state of Tasmania -
