@@ -7,6 +7,16 @@ House Concert, Northcote, Melbourne
 for bookings / to get address info etc contact:  
 the.four.leaf.sessions@live.com     
 
+**ACT**    
+
+**Sunday 10th February 2013**  
+THE FRONT    
+Canberra  
+with The Ellis Collective    
+4pm    
+
+**VICTORIA**    
+
 **Saturday 16th February 2013**  
 THE CUDA BAR    
 Lorne    
@@ -15,6 +25,14 @@ Lorne
 **Sunday 17th February 2013**  
 WOLSELEY WINERY  
 Paraparap  
+4pm    
+
+**ACT**    
+
+**Sunday 24th February 2013**  
+THE FRONT    
+Canberra  
+with The Ellis Collective    
 4pm    
 
 * * * * *     
