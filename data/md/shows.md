@@ -45,15 +45,15 @@ with The Ellis Collective
 
 **NSW**    
 
-**Friday 15th March 2013**  
-THE COURTHOUSE      
-Mullumbimby      
-details tba      
-
 **Saturday 16th March 2013**  
 5 CHURCH STREET    
 Bellingen      
 details tba       
+
+**Sunday 17th March 2013**  
+THE COURTHOUSE      
+Mullumbimby      
+details tba      
 
 * * * * *    
 
