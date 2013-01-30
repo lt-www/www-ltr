@@ -1,14 +1,3 @@
-**VICTORIA**    
-
-**Sunday 20th January 2013**  
-FOUR LEAF SESSIONS  
-House Concert, Northcote, Melbourne   
-6pm  
-for bookings / to get address info etc contact:  
-the.four.leaf.sessions@live.com     
-
-* * * * *     
-
 **ACT**    
 
 **Sunday 10th February 2013**  
@@ -45,15 +34,15 @@ with The Ellis Collective
 
 **NSW**    
 
+**Thursday 14th March 2013**  
+THE COURTHOUSE      
+Mullumbimby      
+details tba   
+
 **Saturday 16th March 2013**  
 5 CHURCH STREET    
 Bellingen      
-details tba       
-
-**Sunday 17th March 2013**  
-THE COURTHOUSE      
-Mullumbimby      
-details tba      
+details tba          
 
 * * * * *    
 
