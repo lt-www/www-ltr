@@ -1,3 +1,7 @@
+### 4 February 2013 | February shows  
+
+This month Lucie performs two Sunday afternoon concerts in Canberra, on Feb 10th and 24th, as part of The Ellis Collective's Summer Residency at The Front. She'll also be returning to Victoria's beautiful Otways region for two concerts in Lorne and Paraparap on Feb 16th and 17th. [Details here][14].    
+
 ### 18 January 2013 | Four Leaf Sessions  
 
 Lucie is the featured artist for the next Four Leaf Sessions concert, happening this Sunday 20th January. A twilight summer house concert series in Northcote Melbourne, Lucie will play two sets, in a beautiful outdoor setting. Gates open 6pm, show starts 7pm, and bookings are essential. For bookings contact the.four.leaf.sessions@live.com   
