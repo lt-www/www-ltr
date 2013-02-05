@@ -44,6 +44,11 @@ details tba
 Bellingen      
 details tba          
 
+**Thursday 21st March 2013**  
+BRAIDWOOD FOLK CLUB        
+Braidwood        
+details tba   
+
 * * * * *    
 
 [past shows][archive]
