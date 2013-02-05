@@ -1,6 +1,6 @@
 ### 4 February 2013 | February shows  
 
-This month Lucie performs two Sunday afternoon concerts in Canberra, on Feb 10th and 24th, as part of The Ellis Collective's Summer Residency at The Front. She'll also be returning to Victoria's beautiful Otways region for two concerts in Lorne and Paraparap on Feb 16th and 17th. [Details here][14].    
+This month Lucie performs two Sunday afternoon concerts in Canberra, on Feb 10th and 24th, as part of The Ellis Collective's Summer Residency at The Front. She'll also be returning to Victoria's beautiful Otways region for concerts in Lorne and Paraparap on Feb 16th and 17th. [Details here][14].    
 
 ### 18 January 2013 | Four Leaf Sessions  
 
