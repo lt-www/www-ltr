@@ -2,7 +2,7 @@
 
 **Sunday 10th February 2013**  
 THE FRONT    
-Canberra  
+Wattle Place, Lyneham, CANBERRA  
 with The Ellis Collective    
 4pm    
 
@@ -12,12 +12,12 @@ with The Ellis Collective
 
 **Saturday 16th February 2013**  
 THE CUDA BAR    
-Lorne    
+Mountjoy Parade, LORNE      
 7pm     
 
 **Sunday 17th February 2013**  
 WOLSELEY WINERY  
-Paraparap  
+Hendy Main Road, PARAPARAP    
 4pm    
 
 * * * * *     
@@ -26,7 +26,7 @@ Paraparap
 
 **Sunday 24th February 2013**  
 THE FRONT    
-Canberra  
+Wattle Place, Lyneham, CANBERRA 
 with The Ellis Collective    
 4pm    
 
@@ -34,20 +34,26 @@ with The Ellis Collective
 
 **NSW**    
 
+**Sunday 10th March 2013**  
+HOUSE CONCERT  
+Bronte, SYDNEY    
+*with Hamish Stuart*  
+
 **Thursday 14th March 2013**  
 THE COURTHOUSE      
-Mullumbimby      
-details tba   
+Cnr Dalley and Burringbar Streets, MULLUMBIMBY        
+8pm    
 
 **Saturday 16th March 2013**  
 5 CHURCH STREET    
-Bellingen      
-details tba          
+Church Street, BELLINGEN        
+7pm  
+Bookings: 02 6655 0155  
 
 **Thursday 21st March 2013**  
 BRAIDWOOD FOLK CLUB        
 Braidwood        
-details tba   
+details tba       
 
 * * * * *    
 
