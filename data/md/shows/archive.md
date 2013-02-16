@@ -1,5 +1,14 @@
 ## shows/archive  
 
+**ACT**    
+
+**Sunday 10th February 2013**  
+THE FRONT    
+Wattle Place, Lyneham, CANBERRA    
+with The Ellis Collective      
+
+* * * * *     
+
 **VICTORIA**    
 
 **Sunday 20th January 2013**  
