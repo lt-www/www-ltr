@@ -57,6 +57,24 @@ details tba
 
 * * * * *    
 
+**NSW**    
+
+**Saturday 13th April 2013**   
+CANDELO VILLAGE FESTIVAL   
+Candelo  
+details tba    
+
+* * * * *    
+
+**VICTORIA**      
+
+**Saturday 27th April 2013**   
+THE VELVET ROOM, THORNBURY THEATRE     
+High Street, Thornbury, MELBOURNE  
+details tba    
+
+* * * * *  
+
 [past shows][archive]
 
 [archive]: shows/archive/
