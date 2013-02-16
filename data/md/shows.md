@@ -16,7 +16,7 @@ Hendy Main Road, PARAPARAP
 
 **Sunday 24th February 2013**  
 THE FRONT    
-Wattle Place, Lyneham, CANBERRA 
+Wattle Place, Lyneham, CANBERRA   
 with The Ellis Collective    
 4pm    
 
