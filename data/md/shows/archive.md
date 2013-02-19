@@ -1,5 +1,18 @@
 ## shows/archive  
 
+**VICTORIA**    
+
+**Sunday 17th February 2013**  
+WOLSELEY WINERY  
+Hendy Main Road, PARAPARAP    
+with Victoriana Gaye   
+
+**Saturday 16th February 2013**  
+THE CUDA BAR    
+Mountjoy Parade, LORNE      
+
+* * * * *     
+
 **ACT**    
 
 **Sunday 10th February 2013**  
