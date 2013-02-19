@@ -1,17 +1,3 @@
-**VICTORIA**    
-
-**Saturday 16th February 2013**  
-THE CUDA BAR    
-Mountjoy Parade, LORNE      
-7pm     
-
-**Sunday 17th February 2013**  
-WOLSELEY WINERY  
-Hendy Main Road, PARAPARAP    
-4pm    
-
-* * * * *     
-
 **ACT**    
 
 **Sunday 24th February 2013**  
