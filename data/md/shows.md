@@ -13,7 +13,7 @@ with The Ellis Collective
 **Sunday 10th March 2013**  
 HOUSE CONCERT  
 Bronte, SYDNEY    
-*with Hamish Stuart*  
+*with HAMISH STUART*  
 
 **Thursday 14th March 2013**  
 THE COURTHOUSE      
@@ -48,7 +48,8 @@ details tba
 **Saturday 27th April 2013**   
 THE VELVET ROOM, THORNBURY THEATRE     
 High Street, Thornbury, MELBOURNE  
-details tba    
+with JO JO SMITH  
+tickets onsale 1st March       
 
 * * * * *  
 
