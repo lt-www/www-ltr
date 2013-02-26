@@ -24,7 +24,7 @@ Presale tickets available through [Mullum Music][116]
 **Saturday 16th March 2013**  
 5 CHURCH STREET    
 Church Street, BELLINGEN        
-7pm  
+dinner from 6pm / show from 7.30pm  
 Bookings: 02 6655 0155  
 
 **Thursday 21st March 2013**  
@@ -39,7 +39,7 @@ details tba
 **Saturday 13th April 2013**   
 CANDELO VILLAGE FESTIVAL   
 Candelo  
-details tba    
+[festival line-up and tickets available here][117]      
 
 * * * * *    
 
@@ -102,3 +102,4 @@ tickets onsale 1st March
 [115]: http://www.cas.org.au
 [115.1]: http://www.heritagehotel.com.au/
 [116]: http://mullummusic.com/
+[117]: http://www.candelovillagefestival.org
