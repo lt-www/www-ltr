@@ -55,8 +55,8 @@ details tba
 THE VELVET ROOM, THORNBURY THEATRE     
 High Street, Thornbury, MELBOURNE  
 with JO JO SMITH  
-tickets onsale 1st March  
-/(nb - show rescheduled from Sat 27th April)/        
+tickets onsale 1st March   
+*(nb - show rescheduled from Sat 27th April)*          
 
 **Saturday 1st June 2013**   
 THE OLD FLOUR MILL       
