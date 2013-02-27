@@ -1,13 +1,3 @@
-**ACT**    
-
-**Sunday 24th February 2013**  
-THE FRONT    
-Wattle Place, Lyneham, CANBERRA   
-with The Ellis Collective    
-4pm    
-
-* * * * *     
-
 **NSW**    
 
 **Sunday 10th March 2013**  
