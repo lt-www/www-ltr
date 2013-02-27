@@ -3,7 +3,8 @@
 **Sunday 10th March 2013**  
 HOUSE CONCERT  
 Bronte, SYDNEY    
-*with HAMISH STUART*  
+*with HAMISH STUART*   
+2.30pm  
 
 **Thursday 14th March 2013**  
 THE COURTHOUSE      
@@ -33,13 +34,35 @@ Candelo
 
 * * * * *    
 
+**SOUTH AUSTRALIA**     
+ 
+**Saturday 18th May 2013**   
+THE WHEATSHEAF HOTEL   
+George St, Thebarton, ADELAIDE  
+details tba     
+
+**Friday 24th May 2013**   
+THE SINGING GALLERY     
+Main Rd, McCLAREN VALE    
+with SARAH CARROLL  
+details tba     
+
+* * * * *    
+
 **VICTORIA**      
 
-**Saturday 27th April 2013**   
+**Friday 31st May 2013**   
 THE VELVET ROOM, THORNBURY THEATRE     
 High Street, Thornbury, MELBOURNE  
 with JO JO SMITH  
-tickets onsale 1st March       
+tickets onsale 1st March  
+/(nb - show rescheduled from Sat 27th April)/        
+
+**Saturday 1st June 2013**   
+THE OLD FLOUR MILL       
+Kirkland Ave, EUROA    
+with JO JO SMITH   
+details tba  
 
 * * * * *  
 
