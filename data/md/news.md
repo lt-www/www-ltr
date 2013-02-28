@@ -1,3 +1,8 @@
+### 1 March 2013 | Autumn touring  
+
+Lucie will be playing shows across NSW, Victoria and South Australia this Autumn; many of these dates are up now on the [tour page][14] - with more to be announced soon. Shows this month include Sydney, Mullumbimby, Bellingen and Braidwood. [Details here][14].  
+
+
 ### 4 February 2013 | February shows  
 
 This month Lucie performs two Sunday afternoon concerts in Canberra, on Feb 10th and 24th, as part of The Ellis Collective's Summer Residency at The Front. She'll also be returning to Victoria's beautiful Otways region for concerts in Lorne and Paraparap on Feb 16th and 17th. [Details here][14].    
