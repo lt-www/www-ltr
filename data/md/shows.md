@@ -20,9 +20,9 @@ Bookings: 02 6655 0155
 
 **Thursday 21st March 2013**  
 BRAIDWOOD FOLK CLUB        
-Braidwood        
-details tba       
-
+Anglican Hall, Wilson Street, BRAIDWOOD        
+7.30pm   
+      
 * * * * *    
 
 **NSW**    
