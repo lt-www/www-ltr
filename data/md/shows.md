@@ -34,6 +34,16 @@ Candelo
 
 * * * * *    
 
+**Victoria**    
+
+**Sunday 14th April 2013**   
+THE RETREAT HOTEL   
+Sydney Rd, Brunswick, MELBOURNE     
+with Raised By Eagles.  
+7.30pm  
+
+* * * * *    
+
 **SOUTH AUSTRALIA**     
  
 **Saturday 18th May 2013**   
