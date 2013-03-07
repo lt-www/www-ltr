@@ -6,6 +6,11 @@ Bronte, SYDNEY
 *with HAMISH STUART*   
 2.30pm  
 
+**Wednesday 13th March 2013**   
+interview and Live to Air performance on *The Morning Show*   
+Northern Rivers ABC radio.    
+10.30am    
+
 **Thursday 14th March 2013**  
 THE COURTHOUSE      
 Cnr Dalley and Burringbar Streets, MULLUMBIMBY        
