@@ -65,8 +65,8 @@ details tba
 THE VELVET ROOM, THORNBURY THEATRE     
 High Street, Thornbury, MELBOURNE  
 with JO JO SMITH  
-tickets onsale 8th March   
-*(nb - show rescheduled from Sat 27th April)*          
+[tickets onsale now][118]       
+       
 
 **Saturday 1st June 2013**   
 THE OLD FLOUR MILL       
@@ -126,3 +126,4 @@ details tba
 [115.1]: http://www.heritagehotel.com.au/
 [116]: http://mullummusic.com/
 [117]: http://www.candelovillagefestival.org
+[118]: http://thethornburytheatre.com/event/lucie-thorne-plus-special-guest-jo-jo-smith-2/
