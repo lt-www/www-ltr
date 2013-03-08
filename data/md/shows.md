@@ -58,7 +58,7 @@ details tba
 
 **Friday 24th May 2013**   
 THE SINGING GALLERY     
-Main Rd, McCLAREN VALE    
+Main Rd, McLAREN VALE    
 with SARAH CARROLL  
 details tba     
 
