@@ -5,6 +5,7 @@ import qualified Text.XML.Light as X {- xml -}
 import System.FilePath {- filepath -}
 import qualified WWW.Minus.CGI as W {- hwww-minus -}
 import qualified WWW.Minus.CGI.Editor as E
+import qualified WWW.Minus.RSS.News as R {- www-minus -}
 
 import qualified Img as I
 import qualified LTR as L
@@ -110,7 +111,7 @@ require_verified e y = do
 rss_news :: L.Config -> W.Result
 rss_news cf = do
   s <- C.liftIO (L.read_file_or "" "data/md/news.md")
-  let n = N.parse s
+  let n = R.parse s
       f = L.lt_markdown_to_html (non_rel . add_prefix cf)
       x = N.rss_s f n
   W.utf8_ct_output "application/rss+xml" x
@@ -118,9 +119,9 @@ rss_news cf = do
 news_d :: L.Config -> String -> W.Result
 news_d cf d = do
   s <- C.liftIO (L.read_file_or "" "data/md/news.md")
-  let (e,md) = N.parse s
-      m = case N.entry_by_date_s d e of
-            Just e' -> N.n_entry_md md e'
+  let (e,md) = R.parse s
+      m = case R.entry_by_date_s d e of
+            Just e' -> R.n_entry_md md e'
             Nothing -> "No news today"
       f = L.lt_markdown_to_html (add_prefix cf)
       h = L.lt_std_html cf ["?n="++d] (H.cdata_raw (f m))
