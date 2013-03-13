@@ -101,12 +101,10 @@ photos_post e cf = do
   C.liftIO (L.lt_img_reductions cf)
   return r
 
-require_verified :: E.Config -> W.Result -> W.Result
-require_verified e y = do
+require_verified :: E.Config -> W.Query -> W.Result -> W.Result
+require_verified e q y = do
   v <- E.validated e
-  let l = "?o=login"
-      n = E.message_link "require_verified" "un-verified" l
-  if v then y else E.output_html n
+  if v then y else E.login_get (("o","login"):q)
 
 rss_news :: L.Config -> W.Result
 rss_news cf = do
@@ -131,7 +129,7 @@ news_d cf d = do
 dispatch :: L.Config -> W.Parameters -> W.Result
 dispatch cf (m,p,q) =
     let e = e_config
-        v = require_verified e
+        v = require_verified e q
     in case (m,p,q) of
          ("GET",_,[("p",d)]) -> d_page cf (splitDirectories d)
          ("GET",_,[("e","photos")]) -> v (E.edit_get "data/config/photos.hs")
@@ -140,8 +138,8 @@ dispatch cf (m,p,q) =
          ("POST",_,[("e",d)]) -> v (E.edit_post e ("?p=" ++ d))
          ("GET",_,[("n","rss")]) -> rss_news cf
          ("GET",_,[("n",d)]) -> news_d cf d
-         ("GET",_,[("o","login")]) -> E.login_get
-         ("POST",_,[("o","login")]) -> E.login_post e
+         ("GET",_,[("o","login")]) -> E.login_get q
+         ("POST",_,("o","login"):q') -> E.login_post e q'
          ("GET",_,[("o","logout")]) -> E.logout_get e
          ("GET",_,[("o","upload")]) -> v E.upload_get
          ("POST",_,[("o","upload")]) -> v (E.upload_post e)
