@@ -54,13 +54,20 @@ with Raised By Eagles.
 **Saturday 18th May 2013**   
 THE WHEATSHEAF HOTEL   
 George St, Thebarton, ADELAIDE  
-details tba     
+9pm       
+
+**Friday 24th May 2013**   
+THE GRACE EMILY       
+Waymouth St, ADELAIDE      
+with SARAH CARROLL  
+8.30pm       
 
 **Friday 24th May 2013**   
 THE SINGING GALLERY     
 Main Rd, McLAREN VALE    
 with SARAH CARROLL  
-details tba     
+7.30pm  
+Bookings: 0413 358 618       
 
 * * * * *    
 
