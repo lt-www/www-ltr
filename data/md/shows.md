@@ -56,7 +56,7 @@ THE WHEATSHEAF HOTEL
 George St, Thebarton, ADELAIDE  
 9pm       
 
-**Friday 24th May 2013**   
+**Thursday 23rd May 2013**   
 THE GRACE EMILY       
 Waymouth St, ADELAIDE      
 with SARAH CARROLL  
