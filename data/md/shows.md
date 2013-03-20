@@ -39,7 +39,7 @@ Candelo
 
 * * * * *    
 
-**Victoria**    
+**VICTORIA**    
 
 **Sunday 14th April 2013**   
 THE RETREAT HOTEL   
