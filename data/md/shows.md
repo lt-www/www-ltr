@@ -15,7 +15,7 @@ Sydney Rd, Brunswick, MELBOURNE
 with Raised By Eagles.  
 7.30pm  
 
-* * * * *    
+* * * * *     
 
 **SOUTH AUSTRALIA**     
  
@@ -45,8 +45,7 @@ Bookings: 0413 358 618
 THE VELVET ROOM, THORNBURY THEATRE     
 High Street, Thornbury, MELBOURNE  
 with JO JO SMITH  
-[tickets onsale now][118]       
-       
+[tickets onsale now][118]              
 
 **Saturday 1st June 2013**   
 THE OLD FLOUR MILL       
