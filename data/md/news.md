@@ -1,3 +1,7 @@
+### 26 March 2013 | More Tour Dates  
+
+More Australian shows have been announced for April, May & June, with tickets for many of these now on sale. Visit the [tour page][14] for details.
+
 ### 1 March 2013 | Autumn touring  
 
 Lucie will be playing shows across NSW, Victoria and South Australia this Autumn; many of these dates are up now on the [tour page][14] - with more to be announced soon. Shows this month include Sydney, Mullumbimby, Bellingen and Braidwood. [Details here][14].  
