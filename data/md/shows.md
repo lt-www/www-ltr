@@ -1,37 +1,5 @@
 **NSW**    
 
-**Sunday 10th March 2013**  
-HOUSE CONCERT  
-Bronte, SYDNEY    
-*with HAMISH STUART*   
-2.30pm  
-
-**Wednesday 13th March 2013**   
-interview and Live to Air performance on *The Morning Show*   
-Northern Rivers ABC radio.    
-10.30am    
-
-**Thursday 14th March 2013**  
-THE COURTHOUSE      
-Cnr Dalley and Burringbar Streets, MULLUMBIMBY        
-8pm    
-Presale tickets available through [Mullum Music][116]    
-
-**Saturday 16th March 2013**  
-5 CHURCH STREET    
-Church Street, BELLINGEN        
-dinner from 6pm / show from 7.30pm  
-Bookings: 02 6655 0155  
-
-**Thursday 21st March 2013**  
-BRAIDWOOD FOLK CLUB        
-Anglican Hall, Wilson Street, BRAIDWOOD        
-7.30pm   
-      
-* * * * *    
-
-**NSW**    
-
 **Saturday 13th April 2013**   
 CANDELO VILLAGE FESTIVAL   
 Candelo  
