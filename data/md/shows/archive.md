@@ -1,5 +1,30 @@
 ## shows/archive  
 
+**NSW**    
+
+**Thursday 21st March 2013**  
+BRAIDWOOD FOLK CLUB        
+Anglican Hall, Wilson Street, BRAIDWOOD  
+
+**Saturday 16th March 2013**  
+5 CHURCH STREET    
+Church Street, BELLINGEN  
+
+**Thursday 14th March 2013**  
+THE COURTHOUSE      
+Cnr Dalley and Burringbar Streets, MULLUMBIMBY        
+
+**Wednesday 13th March 2013**   
+interview and Live to Air performance on *The Morning Show*   
+Northern Rivers ABC radio.          
+      
+**Sunday 10th March 2013**  
+HOUSE CONCERT  
+Bronte, SYDNEY    
+*with HAMISH STUART*   
+
+* * * * *   
+
 **ACT**    
 
 **Sunday 24th February 2013**  
