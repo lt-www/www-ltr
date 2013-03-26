@@ -21,7 +21,7 @@ Northern Rivers ABC radio.
 **Sunday 10th March 2013**  
 HOUSE CONCERT  
 Bronte, SYDNEY    
-*with HAMISH STUART*   
+*duet show with [Hamish Stuart][97]*      
 
 * * * * *   
 
