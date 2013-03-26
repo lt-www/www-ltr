@@ -60,7 +60,7 @@ with The Ellis Collective
 
 **Sunday 20th January 2013**  
 FOUR LEAF SESSIONS  
-House Concert, Northcote, Melbourne    
+House Concert, Northcote, MELBOURNE      
 
 * * * * *     
 
@@ -68,12 +68,12 @@ House Concert, Northcote, Melbourne
 
 **Friday 11th January 2013**  
 FRESH on CHARLES  
-Launceston  
+Charles St, LAUNCESTON    
 with FIONA BROWN   
 
 **Sunday 6th January 2013**  
 BROOKFIELD WINERY  
-Margate  
+Channel Hwy, MARGATE    
 
 * * * * *     
 
