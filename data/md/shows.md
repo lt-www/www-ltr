@@ -62,7 +62,7 @@ details tba
 THE FRONT    
 Wattle Place, Lyneham, CANBERRA    
 *duet show with [Hamish Stuart][97]*      
-details tba   
+8pm     
 
 **NSW**
 
@@ -70,14 +70,13 @@ details tba
 THE COMMERCIAL HOTEL    
 Princes Hwy, MILTON    
 *duet show with [Hamish Stuart][97]*      
-details tba   
+8.30pm     
 
 **Sunday 16th June 2013**  
 THE TATHRA HOTEL    
 Bega St, TATHRA    
 *duet show with [Hamish Stuart][97]*      
-details tba   
-
+3pm     
 
 * * * * *    
 
