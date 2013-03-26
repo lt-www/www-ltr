@@ -56,6 +56,28 @@ details tba
 
 * * * * *  
 
+**ACT**
+      
+**Friday 14th June 2013**  
+THE FRONT    
+Wattle Place, Lyneham, CANBERRA    
+*with HAMISH STUART*   
+details tba   
+
+**NSW**
+
+**Saturday 15th June 2013**  
+THE COMMERCIAL HOTEL    
+Princes Hwy, MILTON    
+*with HAMISH STUART*   
+details tba   
+
+**Sunday 16th June 2013**  
+THE TATHRA HOTEL    
+Bega St, TATHRA    
+*with HAMISH STUART*   
+details tba   
+
 [past shows][archive]
 
 [archive]: shows/archive/
