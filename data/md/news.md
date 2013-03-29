@@ -297,7 +297,8 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [13]: press
 [13.1]: http://www.abc.net.au/local/stories/2008/06/10/2270378.htm
 [14]: shows
-[14.4]: http://www.darebin.vic.gov.au/Page/page.asp?Page_Id=878&h=1[15]:  http://www.myspace.com/wot90
+[14.4]: http://www.darebin.vic.gov.au/Page/page.asp?Page_Id=878&h=1
+[15]:  http://www.myspace.com/wot90
 [15.1]: songs/the-upfield-line
 [16]: albums/black-across-the-field
 [16.1]: http://www.myspace.com/luciethornemusic
