@@ -10,7 +10,7 @@ import qualified System.IO.UTF8 as U {- utf8-string -}
 import qualified Text.HTML.Light as H {- html-minimalist -}
 import qualified Text.HTML.Light.Composite as H
 import qualified Text.HTML.Light.Composite.Menu as H
-import qualified Text.Pandoc as P {- pandoc -}
+import qualified Text.Pandoc.Minus as P {- pandoc-minus -}
 import Text.Printf
 import qualified Text.XML.Light as X {- xml -}
 

@@ -42,7 +42,7 @@ executable ltr-cgi
                    filepath,
                    html-minimalist,
                    old-locale,
-                   pandoc,
+                   pandoc-minus,
                    process,
                    split,
                    time,
