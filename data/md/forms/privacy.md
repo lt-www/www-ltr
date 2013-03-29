@@ -8,4 +8,4 @@ lucie's mailouts are pretty infrequent
 if you want to be taken off lucie's mailing list, you can
 [unsubscribe][8]
 
-  [8]: forms/unsubscribe
+  [8]: ?p=forms/unsubscribe

@@ -24,16 +24,16 @@ made the art for the cover.
 -   [the bud][20]
 
   [10]: data/image/cover/the-bud-vinyl.jpg
-  [11]: songs/before-the-cold
-  [12]: songs/evie-and-i
-  [13]: songs/made-a-lie
-  [14]: songs/quiet-island
-  [15]: songs/flood
-  [16]: songs/for-wanting
-  [17]: songs/night-walking
-  [18]: songs/making-the-space
-  [19]: songs/in-between
-  [20]: songs/the-bud
+  [11]: ?p=songs/before-the-cold
+  [12]: ?p=songs/evie-and-i
+  [13]: ?p=songs/made-a-lie
+  [14]: ?p=songs/quiet-island
+  [15]: ?p=songs/flood
+  [16]: ?p=songs/for-wanting
+  [17]: ?p=songs/night-walking
+  [18]: ?p=songs/making-the-space
+  [19]: ?p=songs/in-between
+  [20]: ?p=songs/the-bud
 
 ### credits
 

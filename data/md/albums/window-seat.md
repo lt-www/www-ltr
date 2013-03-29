@@ -8,10 +8,10 @@
 -   [your shelter][12]
 
   [8]: data/image/cover/window-seat.jpg
-  [9]: songs/window-seat
-  [10]: songs/lack-of-light
-  [11]: songs/untitled
-  [12]: songs/your-shelter
+  [9]: ?p=songs/window-seat
+  [10]: ?p=songs/lack-of-light
+  [11]: ?p=songs/untitled
+  [12]: ?p=songs/your-shelter
 
 ### credits
 
@@ -31,4 +31,4 @@ limited edition ep no longer available.
 
 Find out about [buying cds][13]
 
-  [13]: shop
+  [13]: ?p=shop

@@ -17,19 +17,19 @@
 -   [song for zoe][21]
 
 [8]: data/image/cover/botticelli-blue-eyes.jpg
-[9]: songs/big-decision
-[10]: songs/stubborn
-[11]: songs/left-standing
-[12]: songs/window-seat
-[13]: songs/lack-of-light
-[14]: songs/these-hands
-[15]: songs/somewhere-around
-[16]: songs/botticelli-blue-eyes
-[17]: songs/different-postcodes
-[18]: songs/untitled
-[19]: songs/not-grown-ups
-[20]: songs/your-shelter
-[21]: songs/song-for-zoe
+[9]: ?p=songs/big-decision
+[10]: ?p=songs/stubborn
+[11]: ?p=songs/left-standing
+[12]: ?p=songs/window-seat
+[13]: ?p=songs/lack-of-light
+[14]: ?p=songs/these-hands
+[15]: ?p=songs/somewhere-around
+[16]: ?p=songs/botticelli-blue-eyes
+[17]: ?p=songs/different-postcodes
+[18]: ?p=songs/untitled
+[19]: ?p=songs/not-grown-ups
+[20]: ?p=songs/your-shelter
+[21]: ?p=songs/song-for-zoe
 
 ### credits
 
@@ -60,4 +60,4 @@ reserved.
 
 Find out about [buying cds][24]
 
-[24]: shop
+[24]: ?p=shop

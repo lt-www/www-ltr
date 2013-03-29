@@ -21,12 +21,12 @@ or you can send a cheque or money order to the address below.
 -   [Vitamin Digital][8]
 -   [iTunes][9]
 
-   [1]: albums/where-night-birds-call
-   [2]: albums/the-bud
-   [3]: albums/botticelli-blue-eyes
-   [4]: albums/black-across-the-field
+   [1]: ?p=albums/where-night-birds-call
+   [2]: ?p=albums/the-bud
+   [3]: ?p=albums/botticelli-blue-eyes
+   [4]: ?p=albums/black-across-the-field
    [5]: http://www.vitamin.net.au
    [6]: http://www.smokedrecordings.com/
-   [7]: albums/bonfires-in-silver-city
+   [7]: ?p=albums/bonfires-in-silver-city
    [8]: http://www.vitamin.net.au/albumdefault.asp?ai=471
    [9]: http://itunes.apple.com/au/album/great-wave/id455221727?i=455221736&ign-mpt=uo%3D4

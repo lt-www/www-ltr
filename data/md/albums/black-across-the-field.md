@@ -16,16 +16,16 @@
 -   [Open Sky][18]
 
   [8]: data/image/cover/black-across-the-field.jpg
-  [9]: songs/as-you-find-it
-  [10]: songs/alice
-  [11]: songs/when-the-lights-go-down
-  [12]: songs/northern-town
-  [13]: songs/under-the-night
-  [14]: songs/over-in-threes
-  [15]: songs/please-dont-lets-begin
-  [16]: songs/the-basic-rules
-  [17]: songs/before-the-cold
-  [18]: songs/open-sky
+  [9]: ?p=songs/as-you-find-it
+  [10]: ?p=songs/alice
+  [11]: ?p=songs/when-the-lights-go-down
+  [12]: ?p=songs/northern-town
+  [13]: ?p=songs/under-the-night
+  [14]: ?p=songs/over-in-threes
+  [15]: ?p=songs/please-dont-lets-begin
+  [16]: ?p=songs/the-basic-rules
+  [17]: ?p=songs/before-the-cold
+  [18]: ?p=songs/open-sky
 
 ### credits
 

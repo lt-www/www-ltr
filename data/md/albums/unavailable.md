@@ -9,7 +9,7 @@ released august 2001.
 [details][9]
 
   [8]: rgen/cover/r-80/reels-and-roads.jpg
-  [9]: albums/reels-and-roads/
+  [9]: ?p=albums/reels-and-roads/
 
 [![window seat][10]][11]
 *window seat*  
@@ -18,7 +18,7 @@ released june 2000.
 [details][11]
 
   [10]: rgen/cover/r-80/window-seat.jpg
-  [11]: albums/window-seat/
+  [11]: ?p=albums/window-seat/
 
 [![little secret rockstars][12]][13]
 *little secret rockstars*  
@@ -27,4 +27,4 @@ released november 1998.
 [details][13]
 
   [12]: rgen/cover/r-80/little-secret-rockstars.jpg
-  [13]: albums/little-secret-rockstars/
+  [13]: ?p=albums/little-secret-rockstars/

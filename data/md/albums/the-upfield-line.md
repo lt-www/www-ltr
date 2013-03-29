@@ -7,8 +7,8 @@ coast, with additional recording by rohan drape and steph o'hara in
 melbourne, and by tom hall in cambridge.  *the upfield line* is only
 available at [shows][8], or by [direct mail order][9] from lucie.
 
-  [8]: shows
-  [9]: shop/direct
+  [8]: ?p=shows
+  [9]: ?p=shop/direct
 
 ![the upfield line][10]
 
@@ -17,9 +17,9 @@ available at [shows][8], or by [direct mail order][9] from lucie.
 -   [walking late][13]
 
   [10]: data/image/cover/the-upfield-line.jpg
-  [11]: songs/the-upfield-line
-  [12]: songs/the-movies
-  [13]: songs/walking-late
+  [11]: ?p=songs/the-upfield-line
+  [12]: ?p=songs/the-movies
+  [13]: ?p=songs/walking-late
 
 ### credits
 

@@ -163,8 +163,8 @@ more dates and details.
 you can now also stream a bunch of songs from [where nights birds call][10.2]
 at lucie's new [myspace page][10.3]. 
 
-[10.1]: shows/
-[10.2]: albums/where-night-birds-call/
+[10.1]: ?p=shows/
+[10.2]: ?p=albums/where-night-birds-call/
 [10.3]: http://www.myspace.com/luciethornemusic
 ### 11th july 2007
 
@@ -182,7 +182,7 @@ more dates and ticketing details announced soon.
 in other news, 'the upfield line' is now available for streaming
 via the abc's [oztrax][9.2] website.
 
-[9.1]: shows/
+[9.1]: ?p=shows/
 [9.2]: http://www.abc.net.au/oztrax/stories/s1864830.htm
 
 ### 8th may 2007
@@ -191,9 +191,9 @@ via the abc's [oztrax][9.2] website.
 press lately - you can check out what's being said on the new [press
 page][8.2]. there are also some new snaps up on the new [photos page][8.3].
 
-[8.1]: albums/where-night-birds-call/
-[8.2]: press/
-[8.3]: photos/
+[8.1]: ?p=albums/where-night-birds-call/
+[8.2]: ?p=press/
+[8.3]: ?p=photos/
 
 ### 24th april 2007
 
@@ -217,10 +217,10 @@ national folk festival in canberra this weekend. details are up on the
 [shows][6.5] page.
 
 [6.1]: http://www.vitamin.net.au/
-[6.2]: albums/where-night-birds-call/
-[6.3]: albums/the-bud/
-[6.4]: albums/botticelli-blue-eyes/
-[6.5]: shows/
+[6.2]: ?p=albums/where-night-birds-call/
+[6.3]: ?p=albums/the-bud/
+[6.4]: ?p=albums/botticelli-blue-eyes/
+[6.5]: ?p=shows/
 
 ### 28th march 2007
 
@@ -232,8 +232,8 @@ some photos from the night here soon.
 in other news, tickets for the canberra launch show at tilleys are now
 on sale.  check the [shows page][5.2] for booking details.
 
-[5.1]: albums/where-night-birds-call/
-[5.2]: shows/
+[5.1]: ?p=albums/where-night-birds-call/
+[5.2]: ?p=shows/
 
 ### 5th march 2007
 
@@ -261,10 +261,10 @@ in other news, there are now a bunch of album launch dates up on the
 
 [3.1]: http://www.abc.net.au/rn/hindsight/stories/2007/1843166.htm
 [3.2]: http://www.abc.net.au/rn/hindsight/
-[3.3]: songs/home-sized-town/
-[3.4]: songs/i-have-been-a-soldier-too/
-[3.5]: albums/where-night-birds-call/
-[3.6]: shows/
+[3.3]: ?p=songs/home-sized-town/
+[3.4]: ?p=songs/i-have-been-a-soldier-too/
+[3.5]: ?p=albums/where-night-birds-call/
+[3.6]: ?p=shows/
 
 ### 16th january 2007
 
@@ -277,10 +277,10 @@ album launch shows, with a whole host of very special guests,
 throughout march and april. details of the launch tour will be added
 to the [shows][2.4] page soon.
 
-[2.1]: albums/where-night-birds-call
+[2.1]: ?p=albums/where-night-birds-call
 [2.2]: http://www.vitamin.net.au/
-[2.3]: shop/direct/
-[2.4]: shows/
+[2.3]: ?p=shop/direct/
+[2.4]: ?p=shows/
 
 ### 19th august 2006
 
@@ -561,61 +561,62 @@ lucie is working on a [new record][42] due out in june 2004. this
 news page is also new, you can check here to find out about changes
 to lucies site.
 
-[10.1]: shows/
+[10.1]: ?p=shows/
 [11.1]: http://www.myspace.com/clairejenkins
 [11.2]: http://www.myspace.com/citychariot
 [11.3]: http://www.corinbank.com
-[8]:  news/
+[8]: ?p=news/
 [9]: http://www.vitamin.net.au/
-[10]: shows/
-[11]: photos/
+[10]: ?p=shows/
+[11]: ?p=photos/
 [12]: http://luciethorne.com/shows/
-[13]:  http://www.kimdellavedova.com
-[14.4]:  http://www.thegreatescape.net.au/home/
-[15]:  http://www.jackiemarshall.com/
-[16]:  http://simenugent.com/
-[17]:  shows/
-[18]:  press/
-[19]:  press/051010.pdf
-[20]:  press/051010.txt
-[21]:  http://www.cornerhotel.com/
-[22]:  http://www.pbsfm.org.au
-[23]:  http://www.unfoundsound.com/themillerstale/
-[24]:  press
-[25]:  press/050911.pdf
-[26]:  press/050911.txt
-[27]:  press/050726.pdf
-[28]:  press/050726.txt
-[29]:  shop/
-[30]:  photos/
-[31]:  forms/mailing-list/
-[32]:  http://www.cockatooisland.net
-[33]:  http://www.radioio.com/radioioacoustic.php
-[34]:  reviews.html
-[35]:  albums/the-bud/
-[36]:  contact/
-[37]:  press-releases.html
-[38]:  songs/before-the-cold/
-[39]:  reviews/
-[40]:  about/
-[41]:  songs/
-[42]:  albums/
+[13]: http://www.kimdellavedova.com
+[14.4]: http://www.thegreatescape.net.au/home/
+[15]: http://www.jackiemarshall.com/
+[16]: http://simenugent.com/
+[17]: ?p=shows/
+[18]: ?p=press/
+[19]: press/051010.pdf
+[20]: press/051010.txt
+[21]: http://www.cornerhotel.com/
+[22]: http://www.pbsfm.org.au
+[23]: http://www.unfoundsound.com/themillerstale/
+[24]: ?p=press
+[25]: press/050911.pdf
+[26]: press/050911.txt
+[27]: press/050726.pdf
+[28]: press/050726.txt
+[29]: ?p=shop/
+[30]: ?p=photos/
+[31]: ?p=forms/mailing-list/
+[32]: http://www.cockatooisland.net
+[33]: http://www.radioio.com/radioioacoustic.php
+[34]: ?p=reviews
+[35]: ?p=albums/the-bud/
+[36]: ?p=contact
+[37]: press-releases.html
+[38]: ?p=songs/before-the-cold/
+[39]: ?p=reviews/
+[40]: ?p=about/
+[41]: ?p=songs/
+[42]: ?p=albums/
 [43]: http://www.luciethorne.com/
 [14.1]: camera/press-photos/2781/
 [14.2]: http://www.myspace.com/theyearlings
 [14.3]: http://www.myspace.com/katefagan
 [11.4]: http://www.myspace.com/jackiemarshall
-[11.5]: albums/
+[11.5]: ?p=albums/
 [11.6]: http://www.australianmusicprize.com.au/about.php
 [12.0]: http://www.luciethorne.com/camera/bimbaya/4142/
-[13]: press/
+[13]: ?p=press/
 [13.1]: http://www.abc.net.au/local/stories/2008/06/10/2270378.htm
-[14]: shows/
-[14.4]: http://www.darebin.vic.gov.au/Page/page.asp?Page_Id=878&h=1[15]:  http://www.myspace.com/wot90
-[15.1]: songs/the-upfield-line/  
-[16]: albums/black-across-the-field
+[14]: ?p=shows/
+[14.4]: http://www.darebin.vic.gov.au/Page/page.asp?Page_Id=878&h=1
+[15]: http://www.myspace.com/wot90
+[15.1]: ?p=songs/the-upfield-line/  
+[16]: ?p=albums/black-across-the-field
 [16.1]: http://www.myspace.com/luciethornemusic
-[16.2]: photos
+[16.2]: ?p=photos
 [17]: http://www.vitamin.net.au
 [18]: http://www.vitamin.net.au/pages/review.asp?i=567
 [19]: http://www.abc.net.au/local/videos/2009/03/26/2525973.htm

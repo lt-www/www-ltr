@@ -42,4 +42,4 @@ limited edition pressing. no longer available.
 
 Find out about [buying cds][9]
 
-[9]: shop
+[9]: ?p=shop

@@ -22,16 +22,16 @@ cover.
 -   [the bud][20]
 
   [10]: data/image/cover/the-bud.jpg
-  [11]: songs/before-the-cold
-  [12]: songs/evie-and-i
-  [13]: songs/made-a-lie
-  [14]: songs/quiet-island
-  [15]: songs/flood
-  [16]: songs/for-wanting
-  [17]: songs/night-walking
-  [18]: songs/making-the-space
-  [19]: songs/in-between
-  [20]: songs/the-bud
+  [11]: ?p=songs/before-the-cold
+  [12]: ?p=songs/evie-and-i
+  [13]: ?p=songs/made-a-lie
+  [14]: ?p=songs/quiet-island
+  [15]: ?p=songs/flood
+  [16]: ?p=songs/for-wanting
+  [17]: ?p=songs/night-walking
+  [18]: ?p=songs/making-the-space
+  [19]: ?p=songs/in-between
+  [20]: ?p=songs/the-bud
 
 ### credits
 
@@ -62,10 +62,10 @@ reserved.
 
 Find out about [buying cds][25]
 
-  [25]: shop
+  [25]: ?p=shop
 
 There is also a very limited edition pressing of the bud
 [on vinyl][21].
 
-  [21]: albums/the-bud-vinyl
+  [21]: ?p=albums/the-bud-vinyl
 

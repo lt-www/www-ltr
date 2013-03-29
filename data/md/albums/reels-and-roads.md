@@ -8,8 +8,8 @@
 -   praise
 
   [8]: data/image/cover/reels-and-roads.jpg
-  [9]: songs/evie-and-i/
-  [10]: songs/flood/
+  [9]: ?p=songs/evie-and-i/
+  [10]: ?p=songs/flood/
 
 ### credits
 
@@ -37,4 +37,4 @@ limited edition ep no longer available.
 
 Find out about [buying cds][11]
 
-  [11]: shop
+  [11]: ?p=shop

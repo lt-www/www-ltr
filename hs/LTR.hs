@@ -127,14 +127,6 @@ lt_std_html cf p t =
 
 -- * Markdown
 
-revise_ln :: (P.Target -> P.Target) -> P.Pandoc -> P.Pandoc
-revise_ln f =
-    let g x = case x of
-                P.Link m t -> P.Link m (f t)
-                P.Image m t -> P.Image m (f t)
-                _ -> x
-    in P.processWith g {- pandoc-1.8.1.1 == P.bottomUp -}
-
 read_file_or :: String -> FilePath -> IO String
 read_file_or s f = do
   x <- doesFileExist f
@@ -146,16 +138,15 @@ lt_no_file =
             ,"we might have moved it a little?"
             ,"please try finding it using the menu."]
 
-lt_markdown_to_html :: (P.Target -> P.Target) -> String -> String
-lt_markdown_to_html tf s =
+lt_markdown_to_html :: String -> String
+lt_markdown_to_html s =
     let p = P.defaultParserState {P.stateSmart = True}
         d = P.readMarkdown p (s ++ "\n")
-        d' = revise_ln tf d
-    in P.writeHtmlString P.defaultWriterOptions d'
+    in P.writeHtmlString P.defaultWriterOptions d
 
-lt_markdown_to_html_io :: (P.Target -> P.Target) -> FilePath -> IO String
-lt_markdown_to_html_io tf fn =
-    let f = lt_markdown_to_html tf
+lt_markdown_to_html_io :: FilePath -> IO String
+lt_markdown_to_html_io fn =
+    let f = lt_markdown_to_html
     in fmap f (read_file_or lt_no_file fn)
 
 -- | Special case for the 'home' file.
@@ -272,3 +263,27 @@ lt_redirects d = do
   let mdf = map joinPath (md_flatten md)
       f p = printf "Redirect permanent /%s /?p=%s" p p
   return (map f mdf)
+
+-- * Renaming
+
+-- > map is_non_rel ["./shows","shows","?p=shows"] == [False,False,False]
+-- > is_non_rel "http://luciethorne.com/?p=shows" == True
+is_non_rel :: String -> Bool
+is_non_rel = isPrefixOf "http://"
+
+-- > to_non_rel "?p=shows" == "http://luciethorne.com/?p=shows"
+-- > let u = "http://luciethorne.com/?p=shows" in u == to_non_rel u
+to_non_rel :: String -> FilePath
+to_non_rel x = if is_non_rel x then x else lt_site </> x
+
+add_prefix :: Config -> (String,String) -> (String,String)
+add_prefix c (d,t) =
+    if "http://" `isPrefixOf` d
+    then (d,t)
+    else if head (splitDirectories d) `elem` lt_data_dirs
+         then (lt_root c </> d,t)
+         else (lt_base c d,t)
+
+-- non-relative (for rss etc.)
+non_rel :: (String,String) -> (String,String)
+non_rel (i,j) = (to_non_rel i,to_non_rel j)

@@ -1397,7 +1397,7 @@ RSL, Tamar Valley Folk Festival.
 [70]: http://www.cultureelpodium.nl   
 [70.2]: http://www.myspace.com/acousticmoonclub
 [80.1]: http://www.dedoelen.nl/concertgebouw/index.php?go=agenda.showAgendaDetail&idnr=5401
-[81]:  http://www.pietabrown.com  
+[81]: http://www.pietabrown.com  
 [82]: http://www.amsterdamfm.nl
 [83]: http://www.musicbythesea.com.au  
 [85]: http://www.thethornburytheatre.com/index.htm
@@ -1455,11 +1455,11 @@ if you'd care to know, there are still details of lucie's old shows:
 [2009][2009], [2008][2008], [2007][2007], [2006][2006], [2005][2005],
 [2004][2004], [2003][2003] & [2002][2002]
 
-  [2009]: shows/archive/2009/
-  [2008]: shows/archive/2008/
-  [2007]: shows/archive/2007/
-  [2006]: shows/archive/2006/
-  [2005]: shows/archive/2005/
-  [2004]: shows/archive/2004/
-  [2003]: shows/archive/2003/
-  [2002]: shows/archive/2002/
+  [2009]: ?p=shows/archive/2009/
+  [2008]: ?p=shows/archive/2008/
+  [2007]: ?p=shows/archive/2007/
+  [2006]: ?p=shows/archive/2006/
+  [2005]: ?p=shows/archive/2005/
+  [2004]: ?p=shows/archive/2004/
+  [2003]: ?p=shows/archive/2003/
+  [2002]: ?p=shows/archive/2002/

@@ -28,9 +28,9 @@
 you can [join lucie's mailing list][9], visit [lucie's myspace page][10], 
 visit [lucie's facebook page][23], or [send lucie a message][11] online.
 
-  [9]: forms/mailing-list/
-  [10]: http://www.myspace.com/luciethornemusic  
-  [11]: forms/send-message/  
+  [9]: ?p=forms/mailing-list
+  [10]: http://www.myspace.com/luciethornemusic
+  [11]: ?p=forms/send-message
   [22]: http://www.abc.net.au/triplej/homeandhosed/blog/s2551581.htm
   [23]: http://www.facebook.com/lucie.thorne#!/lucie.thorne
-  
+

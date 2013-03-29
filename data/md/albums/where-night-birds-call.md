@@ -14,16 +14,16 @@
 -   [winter sun][18]
 
   [8]: data/image/cover/where-night-birds-call.jpg
-  [9]: songs/the-upfield-line
-  [10]: songs/the-movies
-  [11]: songs/great-wave
-  [12]: songs/home-sized-town
-  [13]: songs/walking-late
-  [14]: songs/five-years
-  [15]: songs/night-drive
-  [16]: songs/shot-in-the-dark
-  [17]: songs/i-have-been-a-soldier-too
-  [18]: songs/winter-sun
+  [9]: ?p=songs/the-upfield-line
+  [10]: ?p=songs/the-movies
+  [11]: ?p=songs/great-wave
+  [12]: ?p=songs/home-sized-town
+  [13]: ?p=songs/walking-late
+  [14]: ?p=songs/five-years
+  [15]: ?p=songs/night-drive
+  [16]: ?p=songs/shot-in-the-dark
+  [17]: ?p=songs/i-have-been-a-soldier-too
+  [18]: ?p=songs/winter-sun
 
 ### credits
 

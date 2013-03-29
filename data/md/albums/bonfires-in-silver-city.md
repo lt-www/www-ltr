@@ -59,14 +59,14 @@ exclusive license to Vitamin Records.
 [Media Release][20] for Bonfires In Silver City, August 2011.  
 
    [8]: data/image/cover/bonfires-in-silver-city.jpg
-   [9]: songs/falling
-  [10]: songs/till-the-season
-  [11]: songs/cant-sleep-for-dreaming
-  [12]: songs/great-wave
-  [14]: songs/already-gone
-  [15]: songs/sweet-turnaround
-  [16]: songs/big-news
-  [17]: songs/noir
-  [18]: songs/when-i-get-there
+   [9]: ?p=songs/falling
+  [10]: ?p=songs/till-the-season
+  [11]: ?p=songs/cant-sleep-for-dreaming
+  [12]: ?p=songs/great-wave
+  [14]: ?p=songs/already-gone
+  [15]: ?p=songs/sweet-turnaround
+  [16]: ?p=songs/big-news
+  [17]: ?p=songs/noir
+  [18]: ?p=songs/when-i-get-there
   [19]: http://milkymoondesign.com
   [20]: data/pr/LucieThorneBISCAugustMediaRelease.pdf

@@ -12,32 +12,10 @@ import qualified LTR as L
 import qualified News as N
 import qualified Pwd as P
 
--- > is_non_rel "?p=shows" == False
--- > is_non_rel "http://luciethorne.com/?p=shows" == True
-is_non_rel :: String -> Bool
-is_non_rel = isPrefixOf "http://"
-
--- > to_non_rel "?p=shows" == "http://luciethorne.com/?p=shows"
--- > let u = "http://luciethorne.com/?p=shows" in u == to_non_rel u
-to_non_rel :: String -> FilePath
-to_non_rel x = if is_non_rel x then x else L.lt_site </> x
-
-add_prefix :: L.Config -> (String,String) -> (String,String)
-add_prefix c (d,t) =
-    if "http://" `isPrefixOf` d
-    then (d,t)
-    else if head (splitDirectories d) `elem` L.lt_data_dirs
-         then (L.lt_root c </> d,t)
-         else (L.lt_base c d,t)
-
--- non-relative (for rss etc.)
-non_rel :: (String,String) -> (String,String)
-non_rel (i,j) = (to_non_rel i,to_non_rel j)
-
 md_page :: L.Config -> [FilePath] -> W.Result
 md_page cf p = do
   let p' = L.lt_markdown_file_name p
-  h <- C.liftIO (L.lt_markdown_to_html_io (add_prefix cf) p')
+  h <- C.liftIO (L.lt_markdown_to_html_io p')
   let h' = L.lt_std_html cf p (H.cdata_raw h)
   W.utf8_html_output (H.renderHTML5 h')
 
@@ -107,10 +85,10 @@ require_verified e q y = do
   if v then y else E.login_get (("o","login"):q)
 
 rss_news :: L.Config -> W.Result
-rss_news cf = do
+rss_news _ = do
   s <- C.liftIO (L.read_file_or "" "data/md/news.md")
   let n = R.parse s
-      f = L.lt_markdown_to_html (non_rel . add_prefix cf)
+      f = L.lt_markdown_to_html
       x = N.rss_s f n
   W.utf8_ct_output "application/rss+xml" x
 
@@ -121,7 +99,7 @@ news_d cf d = do
       m = case R.entry_by_date_s d e of
             Just e' -> R.n_entry_md md e'
             Nothing -> "No news today"
-      f = L.lt_markdown_to_html (add_prefix cf)
+      f = L.lt_markdown_to_html
       h = L.lt_std_html cf ["?n="++d] (H.cdata_raw (f m))
   W.utf8_html_output (H.renderHTML5 h)
 

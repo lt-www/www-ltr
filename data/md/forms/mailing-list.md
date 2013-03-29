@@ -2,7 +2,7 @@
 
 you can join using this form, or by [writing][8] to us
 
-  [8]: contact/
+  [8]: ?p=contact
 
 <form method="post" action="http://formmail.dreamhost.com/cgi-bin/formmail.cgi">
 <p>
@@ -24,8 +24,8 @@ everything is optional, [of course][9], but if you let us know where
 you are you won't get information about shows too far from your part
 of the world
 
-  [9]: forms/privacy/
+  [9]: ?p=forms/privacy
 
 if you want to be taken off the list, you can [unsubscribe][10]
 
-  [10]: forms/unsubscribe/
+  [10]: ?p=forms/unsubscribe

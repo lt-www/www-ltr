@@ -8,5 +8,5 @@ or you can send a cheque or money order to the address below.
 > Australia
 
 
-  [1]: contact
+  [1]: ?p=contact
   [2]: http://www.vitamin.net.au/albumdefault.asp?ai=471&album=Bonfires_In_Silver_City&artist=Lucie_Thorne

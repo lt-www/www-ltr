@@ -10,10 +10,10 @@ and Munich/V2 distribution.
 And for those of you in other parts of the world, Vitamin also do
 direct mail order - visit [their site][5] to find out how...
 
-   [1]: albums/where-night-birds-call
-   [2]: albums/the-bud
-   [3]: albums/botticelli-blue-eyes
-   [4]: albums/black-across-the-field
+   [1]: ?p=albums/where-night-birds-call
+   [2]: ?p=albums/the-bud
+   [3]: ?p=albums/botticelli-blue-eyes
+   [4]: ?p=albums/black-across-the-field
    [5]: http://www.vitamin.net.au
    [6]: http://www.smokedrecordings.com/
-   [7]: albums/bonfires-in-silver-city
+   [7]: ?p=albums/bonfires-in-silver-city

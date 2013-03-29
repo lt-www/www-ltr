@@ -292,15 +292,15 @@ In the meantime - [Radio National][30] will be airing an hour-long feature conce
 And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and includes Lucie's 'As You Find It', from Black Across The Field. This double CD features a whole host of great local music (including Paul Kelly, Ross Wilson, Jeff Lang...) and can be [bought online here.][30.1]
 
 [11.4]: http://www.myspace.com/jackiemarshall
-[11.5]: albums
+[11.5]: ?p=albums
 [11.6]: http://www.australianmusicprize.com.au/about.php
-[13]: press
+[13]: ?p=press
 [13.1]: http://www.abc.net.au/local/stories/2008/06/10/2270378.htm
-[14]: shows
+[14]: ?p=shows
 [14.4]: http://www.darebin.vic.gov.au/Page/page.asp?Page_Id=878&h=1
 [15]:  http://www.myspace.com/wot90
-[15.1]: songs/the-upfield-line
-[16]: albums/black-across-the-field
+[15.1]: ?p=songs/the-upfield-line
+[16]: ?p=albums/black-across-the-field
 [16.1]: http://www.myspace.com/luciethornemusic
 [17]: http://www.vitamin.net.au
 [18]: http://www.vitamin.net.au/pages/review.asp?i=567
@@ -313,14 +313,14 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [25.1]: http://www.youtube.com/watch?v=Uo_KrFU6F-8
 [25.2]: http://www.youtube.com/watch?v=26R7jTl7DvY
 [26]: http://www.youtube.com/watch?v=xbO8nk_jeSY
-[27]: contact
+[27]: ?p=contact
 [28]: http://www.youtube.com/watch?v=jtLUuo2ownc
 [29]: http://viewmorepics.myspace.com/index.cfm?fuseaction=user.viewPicture&friendID=210219295&albumId=1936342
 [30]: http://www.abc.net.au/rn/musicdeli/stories/2009/2730724.htm
 [30.1]: http://www.waterfrontrecords.com/orders/shop.asp?Action=AddItem&ProductID=74410&Qty=1
 [34.1]: http://www.mullummusicfestival.com/artists.html
 [36]: http://www.australianmusicprize.com.au/
-[36.1]: songs/when-the-lights-go-down
+[36.1]: ?p=songs/when-the-lights-go-down
 [37]: http://noteslive.net.au/
 [37.1]: http://northcotesocialclub.com/
 [38]: http://www.smokedrecordings.com
@@ -329,7 +329,7 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [40]: http://www.subjectivisten.nl/caleidoscoop/2010/10/lucie-thorne-black-across-the-field.html
 [41]: http://www.writteninmusic.com/pop/lucie-thorne-black-across-the-field/lang/nl/
 [46]: http://www.mullummusicfestival.com/
-[81]:  http://www.pietabrown.com
+[81]: http://www.pietabrown.com
 [82]: data/image/photos/pr-hm.jpg
 [83]: http://www.musicbythesea.com.au
 [85]: http://www.thethornburytheatre.com/index.htm
@@ -337,11 +337,11 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [87]: http://megaphon.com.au/gallery/lucie-thorne-2011-session
 [88]: http://czb.ro/articol/930/
 [88.1]: http://www.theatreroyal.info/
-[89]: albums/bonfires-in-silver-city
-[89.1]: home
-[90]: photos/fence
+[89]: ?p=albums/bonfires-in-silver-city
+[89.1]: ?p=home
+[90]: ?p=photos/fence
 [91]: http://www.milkymoondesign.com/
-[92]: forms/mailing-list/
+[92]: ?p=forms/mailing-list/
 [92.1]: http://www.abc.net.au/rn/breakfast/
 [92.2]: http://www.abc.net.au/radionational/programs/breakfast/album-of-the-week-bonfires-in-silver-city--amy/2925112
 [93.1]: http://www.vitamin.net.au/albumdefault.asp?ai=471
@@ -349,14 +349,14 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [95]: http://www.abc.net.au/local/videos/2011/09/22/3323241.htm
 [95.1]: http://www.youtube.com/luciethorne
 [96]: http://www.abc.net.au/rn/musicdeli/
-[97]: data/image/photos/pr-rs.jpg
+[97]: ?p=data/image/photos/pr-rs.jpg
 [97.1]: http://www.abc.net.au/local/videos/2011/10/18/3342676.htm
 [98.1]: http://www.tathrahotel.com.au/Tathra_Hotel/News.html
 [99]: http://www.corinbank.com/
 [99.1]: http://www.portfairyfolkfestival.com/?p=1400#more-1400
 [100]: http://www.sbs.com.au/ondemand/video/2174982667/RocKwiz-S9-Ep124-Lucie-Thorn-Ronnie-Charles
 [101]: http://www.sbs.com.au/ondemand/video/2174968428/RocKwiz-S9-Ep124-Lucie-Thorn-Solo-Performance
-[102]: video  
+[102]: ?p=video
 [103]: http://www.takesomethingbeautiful.com/
 [103.1]: http://www.abc.net.au/radionational/programs/breakfast/aotw-jesse-younan/4003926
 [112.1]: http://www.pbsfm.org.au/node/19074 
@@ -374,5 +374,5 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 
 if you care to know it, there is still all of the [old news][1.1]...
 
-[1.1]: news/archive
+[1.1]: ?p=news/archive
 [2]: http://blogs.myspace.com/luciethornemusic

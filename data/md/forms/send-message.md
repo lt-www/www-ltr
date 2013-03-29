@@ -17,9 +17,9 @@
 everything is optional, [of course][8], but if you want a reply
 make sure to leave an address.
 
-  [8]: forms/privacy/
+  [8]: ?p=forms/privacy
 
 if you want to join lucie's mailing list there is a
 [different form][9].
 
-  [9]: forms/mailing-list/
+  [9]: ?p=forms/mailing-list
