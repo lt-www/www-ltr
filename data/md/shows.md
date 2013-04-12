@@ -1,9 +1,10 @@
 **NSW**    
 
 **Saturday 13th April 2013**   
-CANDELO VILLAGE FESTIVAL   
+[CANDELO VILLAGE FESTIVAL][117]     
 Candelo  
-[festival line-up and tickets available here][117]      
+*12.30 - 1.30pm - Main Stage - Showcase*      
+*8.15 - 9.15pm - St Peters - Feature concert with guest appearances by Jay McMahon, Kade Brown and Kate Burke.*          
 
 * * * * *    
 
