@@ -1,3 +1,9 @@
+### 12 April 2013 | Candelo & Brunswick this weekend  
+
+Back on the beautiful NSW far-south coast, Lucie performs at the Candelo Village Festival tomorrow, Saturday 13th April. And during her evening feature concert (from 8.15pm at St Peters) she'll by joined by cameo appearances from local treasures Jay McMahon, Kade Brown and Kate Burke xx 
+On Sunday evening it's back to Melbourne where Lucie plays an early solo set at Brunswick's Retreat Hotel. [More details here][14]    
+
+
 ### 26 March 2013 | More Tour Dates  
 
 More Australian shows have been announced for April, May & June, with tickets for many of these now on sale. Visit the [tour page][14] for details.
