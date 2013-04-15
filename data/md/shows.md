@@ -32,7 +32,7 @@ with SARAH CARROLL
 8.30pm       
 
 **Friday 24th May 2013**   
-THE SINGING GALLERY     
+[THE SINGING GALLERY][119]       
 Main Rd, McLAREN VALE    
 with SARAH CARROLL  
 7.30pm  
@@ -130,3 +130,4 @@ Bega St, TATHRA
 [116]: http://mullummusic.com/
 [117]: http://www.candelovillagefestival.org
 [118]: http://thethornburytheatre.com/event/lucie-thorne-plus-special-guest-jo-jo-smith-2/
+[119]: http://www.singinggallery.com.au/coming%20events.htm
