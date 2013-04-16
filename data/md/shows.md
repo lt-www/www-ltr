@@ -52,7 +52,53 @@ with JO JO SMITH
 THE OLD FLOUR MILL       
 Kirkland Ave, EUROA    
 with JO JO SMITH   
-details tba  
+ [Description]
+	
+*Saturday 13th April 2013*
+CANDELO VILLAGE FESTIVAL
+Candelo, NSW
+festival line up and tickets here:
+http://www.candelovillagefestival.org/
+LT plays 8pm, St Peters Church.
+*with some special guest appearances by local treasures
+Jay McMahon, Kade Brown, and Kate Burke*
+
+*Sunday 14th April 2013*
+THE RETREAT HOTEL
+Sydney Rd, Brunswick, MELBOURNE, VIC
+with Raised By Eagles.
+*LT on stage 7.30pm*
+
+*Saturday 18th May 2013*
+THE WHEATSHEAF HOTEL
+George St, Thebarton, ADELAIDE, SA
+9pm
+
+*Thursday 23rd May 2013*
+THE GRACE EMILY
+Waymouth St, ADELAIDE, SA
+with SARAH CARROLL
+8.30pm
+
+*Friday 24th May 2013*
+THE SINGING GALLERY
+Main Rd, McLAREN VALE, SA
+with SARAH CARROLL
+7.30pm
+Bookings: 0413 358 618
+
+*Friday 31st May 2013*
+THE VELVET ROOM, THORNBURY THEATRE
+High Street, Thornbury, MELBOURNE, VIC
+with JO JO SMITH
+tickets on sale now:
+http://thethornburytheatre.com/
+
+*Saturday 1st June 2013*
+THE OLD FLOUR MILL
+Kirkland Ave, EUROA  
+with JO JO SMITH  
+Bookings: (03) 5795 2772   
 
 * * * * *  
 
