@@ -1,3 +1,7 @@
+### 20 April 2013 | Back in the Heartland...   
+
+Currently in the US working on an exciting new project which we'll be telling you more about soon! ... Lucie plays two intimate shows in the Midwest over the next couple of weeks; Sunday 21st April at Severson Dells Nature Centre, Illinois; and a House Concert in Riverside, Iowa, Saturday 4th May. [More details here][14]      
+
 ### 12 April 2013 | Candelo & Brunswick this weekend  
 
 Back on the beautiful NSW far-south coast, Lucie performs at the Candelo Village Festival tomorrow, Saturday 13th April. And during her evening feature concert (from 8.15pm at St Peters) she'll by joined by cameo appearances from local treasures Jay McMahon, Kade Brown and Kate Burke xx 
