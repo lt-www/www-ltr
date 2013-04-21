@@ -1,3 +1,18 @@
+**USA**    
+
+**Sunday 21st April 2013**   
+[SEVERSON DELL NATURE CENTRE][120]         
+Rockford, ILLINOIS  
+1.30pm    
+Reservations: 815-335-2915  
+
+**Saturday 4th May 2013**   
+HOUSE CONCERT            
+Riverside, IOWA      
+6.30pm   
+ 
+* * * * *    
+
 **SOUTH AUSTRALIA**     
  
 **Saturday 18th May 2013**   
@@ -111,3 +126,4 @@ Bega St, TATHRA
 [117]: http://www.candelovillagefestival.org
 [118]: http://thethornburytheatre.com/event/lucie-thorne-plus-special-guest-jo-jo-smith-2/
 [119]: http://www.singinggallery.com.au/coming%20events.htm
+[120]: http://seversondells.com/programs-2/
