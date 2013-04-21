@@ -1,5 +1,23 @@
 ## shows/archive  
 
+**VICTORIA**    
+
+**Sunday 14th April 2013**   
+THE RETREAT HOTEL   
+Sydney Rd, Brunswick, MELBOURNE     
+with Raised By Eagles.  
+
+* * * * *    
+
+**NSW**    
+
+**Saturday 13th April 2013**   
+CANDELO VILLAGE FESTIVAL  
+Candelo  
+*12.30 - 1.30pm - Main Stage - Showcase*      
+*8.15 - 9.15pm - St Peters - Feature concert with guest appearances by Jay McMahon, Kade Brown and Kate Burke.*          
+
+* * * * *     
 **NSW**    
 
 **Thursday 21st March 2013**  
