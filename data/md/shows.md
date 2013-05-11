@@ -40,13 +40,15 @@ Bookings: 0413 358 618
 **Friday 31st May 2013**   
 THE VELVET ROOM, THORNBURY THEATRE     
 High Street, Thornbury, MELBOURNE  
-with JO JO SMITH  
+with JO JO SMITH   
+8pm  
 [tickets onsale now][118]              
 
 **Saturday 1st June 2013**   
 THE OLD FLOUR MILL       
 Kirkland Ave, EUROA    
 with JO JO SMITH   
+7.30pm  
 Bookings: 03 5795 2772  
 
 * * * * *     
