@@ -3,7 +3,7 @@
 **Saturday 18th May 2013**   
 THE WHEATSHEAF HOTEL   
 George St, Thebarton, ADELAIDE  
-9pm       
+two sets from 9pm       
 
 **Thursday 23rd May 2013**   
 THE GRACE EMILY       
