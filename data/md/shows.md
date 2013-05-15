@@ -18,6 +18,12 @@ with SARAH CARROLL
 7.30pm  
 Bookings: 0413 358 618       
 
+**Sunday 26th May 2013**   
+THE WHEATSHEAF HOTEL   
+George St, Thebarton, ADELAIDE  
+with KIM DELLAVEDOVA, SUZANNAH ESPIE and SARAH CARROLL    
+4pm         
+
 * * * * *    
 
 **VICTORIA**      
