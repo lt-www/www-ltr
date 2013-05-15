@@ -1,18 +1,3 @@
-**USA**    
-
-**Sunday 21st April 2013**   
-[SEVERSON DELLS NATURE CENTRE][120]         
-Rockford, ILLINOIS  
-1.30pm    
-Reservations: 815-335-2915  
-
-**Saturday 4th May 2013**   
-HOUSE CONCERT            
-Riverside, IOWA      
-6.30pm   
- 
-* * * * *    
-
 **SOUTH AUSTRALIA**     
  
 **Saturday 18th May 2013**   
