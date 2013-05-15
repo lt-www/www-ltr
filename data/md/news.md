@@ -1,3 +1,7 @@
+### 15 May 2013 | South Australia  
+
+Lucie returns to sunny South Australia this month, for a selection of shows in Adelaide and McLaren Vale. [Details here][14]   
+
 ### 20 April 2013 | Back in the Heartland...   
 
 Currently in the US working on an exciting new project which we'll be telling you more about soon! ... Lucie plays two intimate shows in the Midwest over the next couple of weeks; Sunday 21st April at Severson Dells Nature Centre, Illinois; and a House Concert in Riverside, Iowa, Saturday 4th May. [More details here][14]      
