@@ -66,6 +66,20 @@ Bega St, TATHRA
 *duet show with [Hamish Stuart][97]*      
 3pm     
 
+**Thursday 20th June 2013**  
+[CAMELOT LOUNGE][90]        
+Marrickville Rd, SYDNEY      
+with MIC CONWAY'S NATIONAL JUNK BAND        
+Doors open 7pm   
+[Tickets on sale now][122.1]       
+
+**Friday 21st June 2013**  
+[CLARENDON GUESTHOUSE][91]        
+Lurline St, KATOOMBA        
+with MIC CONWAY'S NATIONAL JUNK BAND        
+Doors open 7pm   
+Bookings: (02) 4782 1322 
+
 * * * * *    
 
 [past shows][archive]
@@ -120,3 +134,4 @@ Bega St, TATHRA
 [118]: http://thethornburytheatre.com/event/lucie-thorne-plus-special-guest-jo-jo-smith-2/
 [119]: http://www.singinggallery.com.au/coming%20events.htm
 [120]: http://seversondells.com/programs-2/
+[122.1]: http://www.stickytickets.com.au/11638/mic_conways_national_junk_band__lucie_thorne_%40_camelot_lounge.aspx
