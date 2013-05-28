@@ -1,31 +1,3 @@
-**SOUTH AUSTRALIA**     
- 
-**Saturday 18th May 2013**   
-THE WHEATSHEAF HOTEL   
-George St, Thebarton, ADELAIDE  
-two sets from 9pm       
-
-**Thursday 23rd May 2013**   
-THE GRACE EMILY       
-Waymouth St, ADELAIDE      
-with SARAH CARROLL  
-8.30pm       
-
-**Friday 24th May 2013**   
-[THE SINGING GALLERY][119]       
-Main Rd, McLAREN VALE    
-with SARAH CARROLL  
-7.30pm  
-Bookings: 0413 358 618       
-
-**Sunday 26th May 2013**   
-THE WHEATSHEAF HOTEL   
-George St, Thebarton, ADELAIDE  
-with KIM DELLAVEDOVA, SUZANNAH ESPIE and SARAH CARROLL    
-4pm         
-
-* * * * *    
-
 **VICTORIA**      
 
 **Friday 31st May 2013**   
@@ -67,6 +39,8 @@ Bega St, TATHRA
 3pm     
 
 * * * * *      
+
+**NSW** 
 
 **Thursday 20th June 2013**  
 [CAMELOT LOUNGE][90]        
