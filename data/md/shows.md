@@ -1,5 +1,10 @@
 **VICTORIA**      
 
+**Thursday 30th May 2013**   
+Interview and guest DJ on *The Breakfast Spread*  
+3PBS radio 106.7fm         
+8.30am    
+
 **Friday 31st May 2013**   
 THE VELVET ROOM, THORNBURY THEATRE     
 High Street, Thornbury, MELBOURNE  
