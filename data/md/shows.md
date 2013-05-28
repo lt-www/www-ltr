@@ -108,6 +108,5 @@ Bookings: (02) 4782 1322
 [116]: http://mullummusic.com/
 [117]: http://www.candelovillagefestival.org
 [118]: http://thethornburytheatre.com/event/lucie-thorne-plus-special-guest-jo-jo-smith-2/
-[119]: http://www.singinggallery.com.au/coming%20events.htm
 [120]: http://seversondells.com/programs-2/
 [122.1]: http://www.stickytickets.com.au/11638/mic_conways_national_junk_band__lucie_thorne_%40_camelot_lounge.aspx
