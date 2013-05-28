@@ -1,5 +1,28 @@
 ## shows/archive  
 
+**SOUTH AUSTRALIA**     
+ 
+**Sunday 26th May 2013**   
+THE WHEATSHEAF HOTEL   
+George St, Thebarton, ADELAIDE  
+with KIM DELLAVEDOVA, SUZANNAH ESPIE and SARAH CARROLL    
+
+**Friday 24th May 2013**   
+[THE SINGING GALLERY][119.1]       
+Main Rd, McLAREN VALE    
+with SARAH CARROLL        
+
+**Thursday 23rd May 2013**   
+THE GRACE EMILY       
+Waymouth St, ADELAIDE      
+with SARAH CARROLL 
+
+**Saturday 18th May 2013**   
+THE WHEATSHEAF HOTEL   
+George St, Thebarton, ADELAIDE   
+
+* * * * *    
+
 **USA**    
 
 **Saturday 4th May 2013**   
