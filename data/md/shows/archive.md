@@ -1495,6 +1495,7 @@ RSL, Tamar Valley Folk Festival.
 [117]: http://members.home.nl/pacoplumtrek/
 [118]: http://www.bavart.be/index.html
 [119]: http://www.patronaat.nl/
+[119.1]: http://www.singinggallery.com.au/coming%20events.htm
 [120]: http://www.theaterdewildewereld.nl/nieuws/
 [120.1]: http://seversondells.com/programs-2/
 [121]: http://www.gigant.nl/
