@@ -49,7 +49,7 @@ Bookings: 03 5795 2772
 **Friday 14th June 2013**  
 THE FRONT    
 Wattle Place, Lyneham, CANBERRA    
-*duet show with [Hamish Stuart][97]*      
+*duet show with [HAMISH STUART][97]*      
 8pm     
 
 **NSW**
@@ -57,14 +57,16 @@ Wattle Place, Lyneham, CANBERRA
 **Saturday 15th June 2013**  
 THE COMMERCIAL HOTEL    
 Princes Hwy, MILTON    
-*duet show with [Hamish Stuart][97]*      
+*duet show with [HAMISH STUART][97]*      
 8.30pm     
 
 **Sunday 16th June 2013**  
 THE TATHRA HOTEL    
 Bega St, TATHRA    
-*duet show with [Hamish Stuart][97]*      
+*duet show with [HAMISH STUART][97]*      
 3pm     
+
+* * * * *      
 
 **Thursday 20th June 2013**  
 [CAMELOT LOUNGE][90]        
