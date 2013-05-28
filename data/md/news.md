@@ -1,3 +1,7 @@
+### 28 May 2013 | PBS & Jo Jo Smith  
+
+Tune in to Melbourne's 3PBS 'Breakfast Spread' this Thursday morning to hear Lucie guest-DJ some favourite songs. And then - speaking of favourites! -  Lucie plays two shows this weekend - Friday 31st May at The Thornbury Theatre and Saturday 1st June at The Old Flour Mill in Euroa - both with the fabulous Jo Jo Smith! [Bookings info here][14]  
+
 ### 15 May 2013 | South Australia  
 
 Lucie returns to sunny South Australia this month, for a selection of shows in Adelaide and McLaren Vale. [Details here][14]   
