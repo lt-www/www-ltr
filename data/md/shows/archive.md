@@ -257,7 +257,7 @@ with [MATT WALKER][112]
 **Saturday 13th October 2012**  
 THE BLUE SHOP  
 Burlington, IOWA.  
-with [PIETA BROWN & BO RAMSEY][81]  
+with [PIETA BROWN & BO RAMSEY](http://love-over-gold.com)  
 
 * * * * *   
 
