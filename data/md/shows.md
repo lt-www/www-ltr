@@ -43,13 +43,10 @@ Bega St, TATHRA
 *duet show with [HAMISH STUART][97]*      
 3pm     
 
-* * * * *      
-
-**NSW** 
-
 **Thursday 20th June 2013**  
 [CAMELOT LOUNGE][90]        
 Marrickville Rd, SYDNEY      
+*duet show with [HAMISH STUART][97]*     
 with MIC CONWAY'S NATIONAL JUNK BAND        
 Doors open 7pm   
 [Tickets on sale now][122.1]       
@@ -57,6 +54,7 @@ Doors open 7pm
 **Friday 21st June 2013**  
 [CLARENDON GUESTHOUSE][91]        
 Lurline St, KATOOMBA        
+*duet show with [HAMISH STUART][97]*     
 with MIC CONWAY'S NATIONAL JUNK BAND        
 Doors open 7pm   
 Bookings: (02) 4782 1322 
