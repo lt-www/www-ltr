@@ -4,7 +4,7 @@
 > phone: + 61 (0) 418 192 524  
 > email: claremcg at bigpond dot net dot au    
 
-**for distribution and publishing enquiries contact Vitamin Records:**  
+**for distribution enquiries in Australia contact Vitamin Records:**  
 
 > phone: +61 2 6684 6633  
 > email: vitamin at vitamin dot net dot au
