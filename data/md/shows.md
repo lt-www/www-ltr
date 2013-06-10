@@ -1,23 +1,5 @@
-**VICTORIA**      
 
-**Thursday 30th May 2013**   
-Interview and guest DJ on *The Breakfast Spread*  
-3PBS radio 106.7fm         
-8.30am    
 
-**Friday 31st May 2013**   
-THE VELVET ROOM, THORNBURY THEATRE     
-High Street, Thornbury, MELBOURNE  
-with JO JO SMITH   
-8pm  
-[tickets onsale now][118]              
-
-**Saturday 1st June 2013**   
-THE OLD FLOUR MILL       
-Kirkland Ave, EUROA    
-with JO JO SMITH   
-7.30pm  
-Bookings: 03 5795 2772  
 
 * * * * *     
 
