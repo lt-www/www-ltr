@@ -1,5 +1,23 @@
 ## shows/archive  
 
+**VICTORIA**      
+
+**Saturday 1st June 2013**   
+THE OLD FLOUR MILL       
+Kirkland Ave, EUROA    
+with JO JO SMITH   
+
+**Friday 31st May 2013**   
+THE VELVET ROOM, THORNBURY THEATRE     
+High Street, Thornbury, MELBOURNE  
+with JO JO SMITH              
+
+**Thursday 30th May 2013**   
+Interview and guest DJ on *The Breakfast Spread*  
+3PBS radio 106.7fm      
+
+* * * * *    
+
 **SOUTH AUSTRALIA**     
  
 **Sunday 26th May 2013**   
