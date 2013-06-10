@@ -1,3 +1,7 @@
+### 10 June 2013 | Duet shows with Hamish Stuart   
+
+Lucie has shows coming up in Canberra, Milton, Tathra, Sydney and Katoomba over the next two weeks, all in duet with the one and only Hamish Stuart! [Details here.][14]    
+
 ### 28 May 2013 | PBS & Jo Jo Smith  
 
 Tune in to Melbourne's 3PBS 'Breakfast Spread' this Thursday morning to hear Lucie guest-DJ some favourite songs. And then - speaking of favourites! -  Lucie plays two shows this weekend - Friday 31st May at The Thornbury Theatre and Saturday 1st June at The Old Flour Mill in Euroa - both with the fabulous Jo Jo Smith! [Bookings info here][14]  
