@@ -1,15 +1,10 @@
-
-
-
-* * * * *     
-
 **ACT**
       
 **Friday 14th June 2013**  
 THE FRONT    
 Wattle Place, Lyneham, CANBERRA    
 *duet show with [HAMISH STUART][97]*      
-8pm     
+two sets from 8pm / tickets at the door        
 
 **NSW**
 
@@ -17,13 +12,14 @@ Wattle Place, Lyneham, CANBERRA
 THE COMMERCIAL HOTEL    
 Princes Hwy, MILTON    
 *duet show with [HAMISH STUART][97]*      
-8.30pm     
+plus Roddy Reason.   
+8.30pm / free entry       
 
 **Sunday 16th June 2013**  
 THE TATHRA HOTEL    
 Bega St, TATHRA    
 *duet show with [HAMISH STUART][97]*      
-3pm     
+two sets from 3pm / free entry      
 
 **Thursday 20th June 2013**  
 [CAMELOT LOUNGE][90]        
@@ -31,7 +27,7 @@ Marrickville Rd, SYDNEY
 *duet show with [HAMISH STUART][97]*     
 with MIC CONWAY'S NATIONAL JUNK BAND        
 Doors open 7pm   
-[Tickets on sale now][122.1]       
+[Tickets on sale here][122.1]       
 
 **Friday 21st June 2013**  
 [CLARENDON GUESTHOUSE][91]        
