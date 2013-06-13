@@ -21,6 +21,11 @@ Bega St, TATHRA
 *duet show with [HAMISH STUART][97]*      
 two sets from 3pm / free entry      
 
+**Wednesday 19th June 2013**    
+interview and live-to-air performance on   
+[Sideways Through Sound][123] with Mark Ward.   
+2SER radio. 8pm  
+
 **Thursday 20th June 2013**  
 [CAMELOT LOUNGE][90]        
 Marrickville Rd, SYDNEY      
@@ -91,3 +96,4 @@ Bookings: (02) 4782 1322
 [118]: http://thethornburytheatre.com/event/lucie-thorne-plus-special-guest-jo-jo-smith-2/
 [120]: http://seversondells.com/programs-2/
 [122.1]: http://www.stickytickets.com.au/11638/mic_conways_national_junk_band__lucie_thorne_%40_camelot_lounge.aspx
+[123]: http://sidewaysthroughsound.blogspot.com.au/2013/06/june-19-2013-steve-gunn-interview-black.html
