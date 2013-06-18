@@ -1,5 +1,25 @@
 ## shows/archive  
 
+**NSW**
+
+**Sunday 16th June 2013**  
+THE TATHRA HOTEL    
+Bega St, TATHRA    
+*duet show with [HAMISH STUART][97]*    
+
+**Saturday 15th June 2013**  
+THE COMMERCIAL HOTEL    
+Princes Hwy, MILTON    
+*duet show with [HAMISH STUART][97]*      
+plus Roddy Reason.        
+
+**ACT**
+      
+**Friday 14th June 2013**  
+THE FRONT    
+Wattle Place, Lyneham, CANBERRA    
+*duet show with [HAMISH STUART][97]*           
+
 **VICTORIA**      
 
 **Saturday 1st June 2013**   
