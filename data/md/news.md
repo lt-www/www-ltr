@@ -1,7 +1,7 @@
 ### 18 June 2013 | 2SER and a second Sydney show  
 
 Tune in to Sydney's 2SER radio tomorrow night from 8pm to hear Lucie play some
-new songs over the airwaves and chat with 'Sideways Through Sound' host Mark Ward.  And - just announced - in addition to their set at the Camelot Lounge on Thursday 20th, Lucie and Hamish will also be making a little cameo appearance at the Soda Factory Folk Club, Wed 19th, from 10pm. [Details here.][14]    
+new songs over the airwaves and chat with [Sideways Through Sound][123] host Mark Ward.  And - just announced - in addition to their set at the Camelot Lounge on Thursday 20th, Lucie and Hamish will also be making a little cameo appearance at the Soda Factory Folk Club, Wed 19th, from 10pm. [Details here.][14]    
 
 ### 10 June 2013 | Duet shows with Hamish Stuart   
 
@@ -396,7 +396,7 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [117]: http://www.londophone.ro/
 [118]: http://www.onderinvloed.com  
 [118.1]: http://onderinvloed.com/home/2012/12/lucie-thorne/
-
+[123]: http://sidewaysthroughsound.blogspot.com.au/2013/06/june-19-2013-steve-gunn-interview-black.html  
 ### old news | archive
 
 if you care to know it, there is still all of the [old news][1.1]...
