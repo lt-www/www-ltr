@@ -1,3 +1,8 @@
+### 18 June 2013 | 2SER and a second Sydney show  
+
+Tune in to Sydney's 2SER radio tomorrow night from 8pm to hear Lucie play some
+new songs over the airwaves and chat with 'Sideways Through Sound' host Mark Ward.  And - just announced - in addition to their set at the Camelot Lounge on Thursday 20th, Lucie and Hamish will also be making a little cameo appearance at the Soda Factory Folk Club, Wed 19th, from 10pm. [Details here.][14]    
+
 ### 10 June 2013 | Duet shows with Hamish Stuart   
 
 Lucie has shows coming up in Canberra, Milton, Tathra, Sydney and Katoomba over the next two weeks, all in duet with the one and only Hamish Stuart! [Details here.][14]    
