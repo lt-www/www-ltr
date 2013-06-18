@@ -5,6 +5,12 @@ interview and live-to-air performance on
 [Sideways Through Sound][123] with Mark Ward.   
 2SER radio. 8pm  
 
+**Wednesday 19th June 2013**    
+FOLK CLUB at THE SODA FACTORY   
+Wentworth St, SURRY HILLS  
+*duet show with [HAMISH STUART][97]*    
+10pm  
+
 **Thursday 20th June 2013**  
 [CAMELOT LOUNGE][90]        
 Marrickville Rd, SYDNEY      
@@ -22,6 +28,38 @@ Doors open 7pm
 Bookings: (02) 4782 1322 
 
 * * * * *    
+
+**VICTORIA**  
+ 
+**Thursday 8th August 2013**  
+ARARAT LIVE   
+Red Room, ARARAT HOTEL          
+details tba 
+
+**Friday 9th August 2013**    
+PIZZA & WINE CLUB    
+High St, KYNETON  
+details tba  
+
+**Saturday 10th August 2013**    
+BENDIGO WRITERS FESTIVAL  
+details tba   
+
+**Sunday 11th August 2013**    
+BENDIGO WRITERS FESTIVAL   
+details tba     
+
+**Saturday 17th August 2013**    
+HARVESTER MOON   
+Portarlington Rd, BELLARINE  
+with SUZANNAH ESPIE, KIM DELLAVEDOVA and SARAH CARROLL  
+details tba    
+
+**Sunday 18th August 2013**    
+THE SPOTTED MALLARD  
+Sydney Rd, BRUNSWICK  
+with SUZANNAH ESPIE, KIM DELLAVEDOVA and SARAH CARROLL  
+details tba    
 
 [past shows][archive]
 
