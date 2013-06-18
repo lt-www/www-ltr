@@ -1,25 +1,4 @@
-**ACT**
-      
-**Friday 14th June 2013**  
-THE FRONT    
-Wattle Place, Lyneham, CANBERRA    
-*duet show with [HAMISH STUART][97]*      
-two sets from 8pm / tickets at the door        
-
-**NSW**
-
-**Saturday 15th June 2013**  
-THE COMMERCIAL HOTEL    
-Princes Hwy, MILTON    
-*duet show with [HAMISH STUART][97]*      
-plus Roddy Reason.   
-8.30pm / free entry       
-
-**Sunday 16th June 2013**  
-THE TATHRA HOTEL    
-Bega St, TATHRA    
-*duet show with [HAMISH STUART][97]*      
-two sets from 3pm / free entry      
+**NSW**  
 
 **Wednesday 19th June 2013**    
 interview and live-to-air performance on   
