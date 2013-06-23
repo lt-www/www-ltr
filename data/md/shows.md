@@ -25,7 +25,8 @@ Lurline St, KATOOMBA
 *duet show with [HAMISH STUART][97]*     
 with MIC CONWAY'S NATIONAL JUNK BAND        
 Doors open 7pm   
-Bookings: (02) 4782 1322 
+Bookings: (02) 4782 1322  
+SOLD OUT   
 
 * * * * *    
 
