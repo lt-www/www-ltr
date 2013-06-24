@@ -40,7 +40,8 @@ Red Room, ARARAT HOTEL
 **Friday 9th August 2013**    
 PIZZA & WINE CLUB    
 High St, KYNETON  
-details tba  
+7.30pm  
+Bookings: 03 5422 6007    
 
 **Saturday 10th August 2013**    
 BENDIGO WRITERS FESTIVAL  
