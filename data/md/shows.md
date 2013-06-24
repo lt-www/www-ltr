@@ -33,9 +33,9 @@ SOLD OUT
 **VICTORIA**  
  
 **Thursday 8th August 2013**  
-ARARAT LIVE   
+[ARARAT LIVE][124]     
 Red Room, ARARAT HOTEL          
-details tba 
+8pm  
 
 **Friday 9th August 2013**    
 PIZZA & WINE CLUB    
@@ -51,10 +51,11 @@ BENDIGO WRITERS FESTIVAL
 details tba     
 
 **Saturday 17th August 2013**    
-HARVESTER MOON   
+[HARVESTER MOON][125]     
 Portarlington Rd, BELLARINE  
 with SUZANNAH ESPIE, KIM DELLAVEDOVA and SARAH CARROLL  
-details tba    
+7pm  
+Bookings: 03 5259 3200  
 
 **Sunday 18th August 2013**    
 THE SPOTTED MALLARD  
@@ -115,3 +116,5 @@ details tba
 [120]: http://seversondells.com/programs-2/
 [122.1]: http://www.stickytickets.com.au/11638/mic_conways_national_junk_band__lucie_thorne_%40_camelot_lounge.aspx
 [123]: http://sidewaysthroughsound.blogspot.com.au/2013/06/june-19-2013-steve-gunn-interview-black.html
+[124]: http://www.davidsmedia.com/Ararat_Live.html
+[125]: http://www.harvestermoon.com.au/live-music/  
