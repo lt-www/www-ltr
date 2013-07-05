@@ -44,12 +44,16 @@ High St, KYNETON
 Bookings: 03 5422 6007    
 
 **Saturday 10th August 2013**    
-BENDIGO WRITERS FESTIVAL  
-details tba   
+[BENDIGO WRITERS FESTIVAL][126]    
+at The Capital, View Street, BENDIGO  
+[*Write On Song*][126.2] panel with Shane Howard, David Bridie, Sal Kimber, Charles Jenkins and Geoffrey Williams.  
+7.30pm    
 
 **Sunday 11th August 2013**    
-BENDIGO WRITERS FESTIVAL   
-details tba     
+[BENDIGO WRITERS FESTIVAL][126]    
+at The Capital, View Street, BENDIGO  
+[*The Best Song Ever Written*][126.1] panel with Sal Kimber, Marcie Jones, Colin Thompson and Tony Wilson.  
+3.45pm    
 
 **Saturday 17th August 2013**    
 [HARVESTER MOON][125]     
@@ -119,3 +123,6 @@ details tba
 [123]: http://sidewaysthroughsound.blogspot.com.au/2013/06/june-19-2013-steve-gunn-interview-black.html
 [124]: http://www.davidsmedia.com/Ararat_Live.html
 [125]: http://www.harvestermoon.com.au/live-music/  
+[126]: http://www.bendigowritersfestival.com.au/Home
+[126.1]: http://www.bendigowritersfestival.com.au/Whats_On/The_Best_Song_Ever_Written 
+[126.2]: http://www.bendigowritersfestival.com.au/Whats_On/Write_on_Song
