@@ -13,7 +13,7 @@
   ,("haircut","")
   ])
 ,("Tour"
- ,[("Barossa1a","setting up in Tanunda, Barossa Valley, Australia")
+ ,[("barossa","setting up in Tanunda, Barossa Valley, Australia")
   ,("murrah","with Hamish Stuart, Murrah Hall, Australia")
   ,("hansbeke","Arscene, Hansbeke, Belgium")
   ,("truckstop","Bremerhaven Truckstop, Germany")
