@@ -72,6 +72,7 @@ img_neighbours is (a,x) =
         Just r = find (\(_,(x',_),_) -> x' == x) s'
     in r
 
+-- > img_mk_reduction "/home/rohan/ut/www-ltr" "barossa"
 img_mk_reduction :: FilePath -> String -> IO ()
 img_mk_reduction rt nm = do
   let sz = [60,80,400,450,500]::[Int]

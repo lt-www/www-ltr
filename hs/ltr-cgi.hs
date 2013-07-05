@@ -1,5 +1,6 @@
 import Data.List
 import qualified Network.CGI as C {- cgi -}
+import qualified Network.CGI.Protocol as C {- cgi -}
 import qualified Text.HTML.Light as H {- html-minimalist -}
 import qualified Text.XML.Light as X {- xml -}
 import System.FilePath {- filepath -}
@@ -79,6 +80,12 @@ photos_post e cf = do
   C.liftIO (L.lt_img_reductions cf)
   return r
 
+resize_get :: L.Config -> W.Result
+resize_get cf = do
+  C.liftIO (L.lt_img_reductions cf)
+  return C.CGINothing
+
+
 require_verified :: E.Config -> W.Query -> W.Result -> W.Result
 require_verified e q y = do
   v <- E.validated e
@@ -121,6 +128,7 @@ dispatch cf (m,p,q) =
          ("GET",_,[("o","logout")]) -> E.logout_get e
          ("GET",_,[("o","upload")]) -> v (E.upload_get "data/image/photos" "*/*")
          ("POST",_,[("o","upload")]) -> v (E.upload_post e)
+         ("GET",_,[("o","resize")]) -> v (resize_get cf)
          ("GET",_,[("v",d)]) -> v_page cf d
          ("GET",_,_) -> d_page cf p
          _ -> E.unknown_request (m,p,q)
