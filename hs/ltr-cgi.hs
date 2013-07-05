@@ -119,7 +119,7 @@ dispatch cf (m,p,q) =
          ("GET",_,[("o","login")]) -> E.login_get q
          ("POST",_,("o","login"):q') -> E.login_post e q'
          ("GET",_,[("o","logout")]) -> E.logout_get e
-         ("GET",_,[("o","upload")]) -> v (E.upload_get "data" "*/*")
+         ("GET",_,[("o","upload")]) -> v (E.upload_get "data/image/photos" "*/*")
          ("POST",_,[("o","upload")]) -> v (E.upload_post e)
          ("GET",_,[("v",d)]) -> v_page cf d
          ("GET",_,_) -> d_page cf p
