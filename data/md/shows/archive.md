@@ -21,7 +21,7 @@ Wentworth St, SURRY HILLS
 
 **Wednesday 19th June 2013**    
 interview and live-to-air performance on   
-[Sideways Through Sound][123] with Mark Ward.   
+[Sideways Through Sound][123.1] with Mark Ward.   
 2SER radio. 
 
 * * * * *    
@@ -1565,6 +1565,7 @@ RSL, Tamar Valley Folk Festival.
 [121]: http://www.gigant.nl/
 [122]: http://www.intersoup.de/
 [123]: http://www.gaudycafe.com/
+[123.1]: http://sidewaysthroughsound.blogspot.com.au/2013/06/june-19-2013-steve-gunn-interview-black.html
 [124]: http://www.sofasalon.de/
 [125]: http://www.deberenkuil.nl/info.html
 [126]: http://www.muziekgebouweindhoven.nl
