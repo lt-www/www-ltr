@@ -1,4 +1,30 @@
 ## shows/archive  
+**NSW**  
+
+**Friday 21st June 2013**  
+[CLARENDON GUESTHOUSE][91]        
+Lurline St, KATOOMBA        
+*duet show with [HAMISH STUART][97]*     
+with MIC CONWAY'S NATIONAL JUNK BAND        
+SOLD OUT   
+
+**Thursday 20th June 2013**  
+[CAMELOT LOUNGE][90]        
+Marrickville Rd, SYDNEY      
+*duet show with [HAMISH STUART][97]*     
+with MIC CONWAY'S NATIONAL JUNK BAND        
+
+**Wednesday 19th June 2013**    
+FOLK CLUB at THE SODA FACTORY   
+Wentworth St, SURRY HILLS  
+*duet show with [HAMISH STUART][97]*    
+
+**Wednesday 19th June 2013**    
+interview and live-to-air performance on   
+[Sideways Through Sound][123] with Mark Ward.   
+2SER radio. 
+
+* * * * *    
 
 **NSW**
 
