@@ -10,13 +10,15 @@
 > phone: + 61 (0) 421 448 037  
 > email: chas at brightlightagency at gmail dot com  
 
-**Distribution inquiries - Australia: Vitamin Records:**  
+**Distribution inquiries - Australia:**  
 
+> Vitamin Records    
 > phone: +61 2 6684 6633  
 > email: vitamin at vitamin dot net dot au
 
-**Distribution inquiries - Europe: Smoked Recordings:**
+**Distribution inquiries - Europe:**
 
+> Smoked Recordings  
 > email: info at smokedrecordings dot com  
 
   [12]: mailto:vitamin@vitamin.net.au
