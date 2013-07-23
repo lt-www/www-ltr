@@ -13,7 +13,8 @@
   ,("haircut","")
   ])
 ,("Tour"
- ,[("barossa","setting up in Tanunda, Barossa Valley, Australia")
+ ,[("LucieThorneAutumn","at The Front, Canberra, Australia. photo by Geoff Dunn")
+  ,("barossa","setting up in Tanunda, Barossa Valley, Australia")
   ,("murrah","with Hamish Stuart, Murrah Hall, Australia")
   ,("hansbeke","Arscene, Hansbeke, Belgium")
   ,("truckstop","Bremerhaven Truckstop, Germany")
