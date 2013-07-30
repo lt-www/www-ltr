@@ -1,29 +1,12 @@
 /* @ */
-
 @media screen {
- body {
-  margin: 5em;
-  font-size: 10pt;
- }
- div.main {
-  width: 60%;
- }
- h1 {
-  font-size: 3.75em;
- }
+ body {margin: 5em}
+ h1 {font-size: 3.75em}
 }
 
 @media all and (max-width: 800px) {
- body {
-  margin: 1em;
-  font-size: 1em;
- }
- div.main {
-  width: 100%;
- }
- h1 {
-  font-size: 2.25em;
- }
+ body {margin: 1em}
+ h1 {font-size: 2.25em}
 }
 
 @font-face {
@@ -37,94 +20,32 @@
 }
 
 /* plain */
-
-html {
-}
-
-/*
-  bisc design:
-
-    dark blue = 011e48
-    light blue = 53a0a8
-    red = bf1e2e
-    white = fdf5e0
-    fonts = "Betty Noir"
-*/
-
-body {
- background-color: #FFFFF0 /*#212321 #392313 #442922 #53a0a8*/;
- color: #2F4F4F /* #fdf5e0 #fdf5e0*/;
- font-size: 100%;
- font-family: lt-normal, sans-serif;
- text-align: left;
-}
-
-/* basic page layout */
-
-/*
-
-+-----------------------------+  <- main
-+-----------------------------+  <- menu
-+-----------------------------+  <- submenu
-+                             +  <- content
-+                             +
-+                             +
-+                             +
-+                             +
-+                             +
-+-----------------------------+
-+-----------------------------+  <- footer
-
-*/
-
-div.main {
-}
-
-nav.menu, nav.submenu {
- font-family: lt-header, sans-serif;
- margin: 0em;
-}
-
-nav.submenu {padding: 0.5em 0em 0em 0em;}
-
-/* nav_menu_list */
-ul.menu, ul.submenu {margin: 0em; padding: 0em;}
-li.menu, li.submenu {display: inline; padding-right: 1em;}
-
-/* nav_menu_span */
-span.menu, span.submenu {padding-right: 1em;}
-span.menu-separator {display: none;}
-
-footer {
- font-size: 84%;
- font-weight: normal;
- margin-top: 2em;
- margin-bottom: 0.15em;
-}
-
-footer p a img {
- margin: 0px 4px 0px 0px;
-}
-
-p.caption {
- display: none;
-}
-
-/***** Element Selectors *****/
-
-p {
- line-height: 1.15em;
-}
-
-h1, h2 {
- font-family: lt-header, sans-serif;
- clear: both;
-}
-
-h3, h4 {
- font-family: lt-normal, sans-serif;
- clear: both;
-}
+html {}
+body {background-color: #fffff0} /*#212321 #392313 #442922 #53a0a8*/
+body {color: #2f4f4f} /* #fdf5e0 #fdf5e0*/
+body {font-family: lt-normal, sans-serif}
+body {font-size: 1em}
+body {max-width: 45em}
+h1, h2 {font-family: lt-header, sans-serif}
+h3, h4 {font-family: lt-normal, sans-serif}
+h1, h2, h3, h4 {clear: both}
+p {line-height: 1.15em}
+a {color: #2F4F4F;}  /* #F3E667 #fefced */
+a:visited {}
+ol {}
+ul {list-style: none;}
+li {margin-top: 0.15em} /* list spacing == line-height (1.25em) */
+footer {font-size: 84%}
+footer {margin: 2em 0em 0.15em 0em}
+footer p a img {margin: 0px 4px 0px 0px}
+img {border: 0px} /* images are never the only link, don't indicate link */
+img {max-width: 100%}
+img {height: auto}
+/* tables for form layout, dl variants take up too much space */
+table {font-size: 100%} /* IE */
+th {text-align: right}
+th {font-weight: normal}
+td {}
 
 h1 {
  font-weight: normal;
@@ -154,19 +75,6 @@ blockquote {
  border-width: 0px;
 }
 
-a {color: #2F4F4F;}  /* #F3E667 #fefced */
-
-a:visited {}
-
-ol {}
-
-ul {list-style: none;}
-
-/* make list spacing equal to line-height (1.25em) */
-li {
- margin-top: 0.15em;
-}
-
 hr {
  width: 100%;
  height: 1px;
@@ -175,54 +83,26 @@ hr {
  background-color: #2F4F4F; /* #fdf5e0 */
 }
 
-/* Images are _never_ the only link, don't indicate link status. */
-img {
- border: 0px;
-}
 
-/* Tables are used for form layout, there are alternate dl/dt/dd
-   versions but they take up a lot of space... */
-table {
- font-size: 100%; /* IE */
-}
-
-th {
- text-align: right;
- font-weight: normal;
-}
-
-td {
-}
-
-/***** Element.Class Selectors *****/
-
-div.content ul li:before {
- content: "\00BB \0020";
-}
-
-img.tag {
- display: none;
-}
-
-body.photos div.main h1 {
- margin: 0em 0em -0.25em 0em;
-}
+/* classes */
+div.main {}
+nav.menu, nav.submenu {font-family: lt-header, sans-serif}
+nav.submenu {padding: 0.5em 0em 0em 0em}
+ul.menu, ul.submenu {margin: 0em; padding: 0em;} /* nav_menu_list */
+li.menu, li.submenu {display: inline; padding-right: 1em;}
+span.menu, span.submenu {padding-right: 1em;} /* nav_menu_span */
+span.menu-separator {display: none;}
+p.caption {display: none}
+div.content ul li:before {content: "\00BB \0020"}
+img.tag {display: none}
+body.photos div.main h1 {margin: 0em 0em -0.25em 0em}
+img.img-preview {padding-right: 0.5em}
+div.img-preload {display: none}
+span.arrows {padding-left: 2em}
 
 div.img-preview {
  width: 500%; /* stop image previews from wrapping */
  padding-top: 0.5em;
-}
-
-img.img-preview {
- padding-right: 0.5em;
-}
-
-div.img-preload {
- display: none;
-}
-
-span.arrows {
- padding-left: 2em;
 }
 
 div.radio {
@@ -232,38 +112,17 @@ div.radio {
 }
 
 /* a */
+a.here {color: #000} /* #011e48 #2F4F4F */
+a.h1, a.edit, a.edit:visited {text-decoration: none}
 
-a.here {
- color: #000; /* #011e48 #2F4F4F */
-}
-
-a.h1, a.edit, a.edit:visited {
- text-decoration: none;
-}
-
-/***** albums *****/
-
-.albums p {
- clear: both;
-}
-
-.albums img {
- float: left;
- margin: 0px 50px 15px 0px;
-}
-
-.albums div div p {
- margin: 15px 0px 15px 0px;
-}
-
-/* the floats here interact badly with the footer... */
-.albums footer p a img {display: none;}
+/***** albums (overview page) *****/
+.albums p {clear: both}
+.albums div.content img {float: left}
+.albums div.content img {margin: 0px 50px 15px 0px}
+.albums div div p {margin: 15px 0px 15px 0px}
 
 /***** album (singular, ie. actual page) *****/
-
-body.albums div.main div.content div.figure {
- float: right;
-}
+body.albums div.main div.content div.figure {float: right}
 
 body.albums div.main div.content ol {
  margin: 0em 0em 2em 0em;
@@ -271,7 +130,6 @@ body.albums div.main div.content ol {
 }
 
 /***** forms *****/
-
 textarea, input {
  font-size: 100%;
  border-width: 1px;
@@ -287,9 +145,7 @@ input {
  color: #2F4F4F; /* #fefced */
 }
 
-form dl dt {
- display: inline;
-}
+form dl dt {display: inline}
 
 .forms img {
  padding: 0px;
@@ -297,15 +153,32 @@ form dl dt {
 }
 
 /* yt */
+div.yt-entry {clear: both}
+div.yt-img {float: left}
+div.yt-img a img {padding-right: 1em}
 
-div.yt-entry {
- clear: both;
-}
+/*
 
-div.yt-img {
- float: left;
-}
+basic page layout:
 
-div.yt-img a img {
- padding-right: 1em;
-}
+ +-----------------------------+  <- main
+ +-----------------------------+  <- menu
+ +-----------------------------+  <- submenu
+ +                             +  <- content
+ +                             +
+ +                             +
+ +                             +
+ +                             +
+ +                             +
+ +-----------------------------+
+ +-----------------------------+  <- footer
+
+bisc design:
+
+ dark blue = 011e48
+ light blue = 53a0a8
+ red = bf1e2e
+ white = fdf5e0
+ fonts = "Betty Noir"
+
+*/
