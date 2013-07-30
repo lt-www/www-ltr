@@ -1,3 +1,7 @@
+### 30 July 2013  | LOVE OVER GOLD
+
+Delighted to be announcing the news of Lucie's new musical project and new recording! Lucie and US songwriter [Pieta Brown][81] have been working on a new collaboration, and together, they are [LOVE OVER GOLD][124]. And [LOVE OVER GOLD][124] has made it's debut album x It's called *Fall To Rise*, and it'll be released September 9th 2013 on *Little Secret Records* through Vitamin Distribution, with touring to follow! More on all this soon... and in the meantime, check out the new [LOVE OVER GOLD][124] site x
+
 ### 18 June 2013 | 2SER and a second Sydney show  
 
 Tune in to Sydney's 2SER radio tomorrow night from 8pm to hear Lucie play some
@@ -398,6 +402,7 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [118.1]: http://onderinvloed.com/home/2012/12/lucie-thorne/
 [122.1]: http://www.stickytickets.com.au/11638/mic_conways_national_junk_band__lucie_thorne_%40_camelot_lounge.aspx
 [123]: http://sidewaysthroughsound.blogspot.com.au/2013/06/june-19-2013-steve-gunn-interview-black.html  
+[124]: http://love-over-gold.com/
 ### old news | archive
 
 if you care to know it, there is still all of the [old news][1.1]...
