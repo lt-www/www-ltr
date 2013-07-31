@@ -8,7 +8,7 @@
 
 > Chas Jagger  
 > phone: + 61 (0) 421 448 037  
-> email: chas at brightlightagency at gmail dot com  
+> email: chas dot brightlightagency at gmail dot com  
 
 **Distribution inquiries - Australia:**  
 
