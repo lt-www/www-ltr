@@ -38,7 +38,7 @@ details tba
 
 * * * * *
 
-[LOVE OVER GOLD][127] (Lucie Thorne & Pieta Brown) release their album ***Fall To Rise*** on *Little Secret Records* through Vitamin Distribution on **September 9th 2013**, with selected shows across the USA and Australia
+**[LOVE OVER GOLD][127]** (Lucie Thorne & Pieta Brown) release their album ***Fall To Rise*** on *Little Secret Records* through Vitamin Distribution on **September 9th 2013**, with selected shows across the USA and Australia
 throughout October/November.   
 Details announced soon...  
 
