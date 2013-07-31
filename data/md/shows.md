@@ -36,6 +36,12 @@ Sydney Rd, BRUNSWICK
 with SUZANNAH ESPIE, KIM DELLAVEDOVA and SARAH CARROLL  
 details tba    
 
+* * * * *
+
+[LOVE OVER GOLD][127] (Lucie Thorne & Pieta Brown) release their album ***Fall To Rise*** on *Little Secret Records* through Vitamin Distribution on **September 9th 2013**, with selected shows across the USA and Australia
+throughout October/November.   
+Details announced soon...  
+
 [past shows][archive]
 
 [archive]: ?p=shows/archive/
@@ -94,3 +100,4 @@ details tba
 [126]: http://www.bendigowritersfestival.com.au/Home
 [126.1]: http://www.bendigowritersfestival.com.au/Whats_On/The_Best_Song_Ever_Written 
 [126.2]: http://www.bendigowritersfestival.com.au/Whats_On/Write_on_Song
+[127]: http://www.love-over-gold.com 
