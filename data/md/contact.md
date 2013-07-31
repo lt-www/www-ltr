@@ -1,13 +1,14 @@
 **Media inquiries:**
 
-> Clare McGregor  
-> phone: + 61 (0) 418 192 524  
-> email: claremcg at bigpond dot net dot au    
+> Clare McGregor Publicity  
+> + 61 (0) 418 192 524  
+> claremcg at bigpond dot net dot au    
++61 (0) 418 192 524 | <claremcg@bigpond.net.au>
 
 **Bookings:**
 
-> Chas Jagger  
-> phone: + 61 (0) 421 448 037  
+> Chas Jagger - Brightlight Agency  
+> + 61 (0) 421 448 037  
 > email: chas dot brightlightagency at gmail dot com  
 
 **Distribution inquiries - Australia:**  
