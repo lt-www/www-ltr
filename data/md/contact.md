@@ -1,26 +1,22 @@
 **Media inquiries:**
 
 > Clare McGregor Publicity  
-> + 61 (0) 418 192 524  
-> claremcg at bigpond dot net dot au    
-+61 (0) 418 192 524 | <claremcg@bigpond.net.au>
+> +61 (0) 418 192 524 | <claremcg@bigpond.net.au>
 
 **Bookings:**
 
 > Chas Jagger - Brightlight Agency  
-> + 61 (0) 421 448 037  
-> email: chas dot brightlightagency at gmail dot com  
+> +61 (0) 421 448 037 | <chas.brightlightagency@gmail.com>
 
 **Distribution inquiries - Australia:**  
 
 > [Vitamin Records][1]    
-> phone: +61 2 6684 6633  
-> email: vitamin at vitamin dot net dot au
+> +61 (0) 2 6684 6633 | <vitamin@vitamin.net.au>
 
 **Distribution inquiries - Europe:**
 
 > Smoked Recordings  
-> email: info at smokedrecordings dot com  
+> <info@smokedrecordings.com>
 
   [12]: mailto:vitamin@vitamin.net.au
 
