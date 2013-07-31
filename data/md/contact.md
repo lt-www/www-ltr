@@ -29,7 +29,7 @@
 > Bimbaya, via Candelo  
 > NSW 2550  
 > Australia  
-> email: lucie at luciethorne dot com  
+> lucie at luciethorne dot com  
 
   [8]: mailto:lucie@luciethorne.com
 
