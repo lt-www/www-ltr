@@ -31,10 +31,11 @@ with SUZANNAH ESPIE, KIM DELLAVEDOVA and SARAH CARROLL
 Bookings: 03 5259 3200  
 
 **Friday 23rd August 2013**    
-THE SPOTTED MALLARD  
+[THE SPOTTED MALLARD][128]  
 Sydney Rd, BRUNSWICK  
 with SUZANNAH ESPIE, KIM DELLAVEDOVA and SARAH CARROLL  
-details tba    
+8.30pm    
+[Tickets on sale][128.1]    
 
 * * * * *
 
@@ -101,3 +102,5 @@ Details announced soon...
 [126.1]: http://www.bendigowritersfestival.com.au/Whats_On/The_Best_Song_Ever_Written 
 [126.2]: http://www.bendigowritersfestival.com.au/Whats_On/Write_on_Song
 [127]: http://www.love-over-gold.com 
+[128]: http://www.spottedmallard.com/events/suzannah-espie/
+[128.1}: http://www.trybooking.com/Booking/BookingEventSummary.aspx?eid=58060
