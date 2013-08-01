@@ -103,4 +103,4 @@ Details announced soon...
 [126.2]: http://www.bendigowritersfestival.com.au/Whats_On/Write_on_Song
 [127]: http://www.love-over-gold.com 
 [128]: http://www.spottedmallard.com/events/suzannah-espie/
-[128.1}: http://www.trybooking.com/Booking/BookingEventSummary.aspx?eid=58060
+[128.1]: http://www.trybooking.com/Booking/BookingEventSummary.aspx?eid=58060
