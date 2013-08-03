@@ -99,6 +99,7 @@ body.photos div.main h1 {margin: 0em 0em -0.25em 0em}
 img.img-preview {padding-right: 0.5em}
 div.img-preload {display: none}
 span.arrows {padding-left: 2em}
+.contact code {font-family: lt-normal,sans-serif}
 
 div.img-preview {
  width: 500%; /* stop image previews from wrapping */

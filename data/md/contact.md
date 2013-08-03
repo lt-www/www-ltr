@@ -1,27 +1,25 @@
 **Media inquiries:**
 
-> Clare McGregor Publicity    
-> +61 (0) 418 192 524   
-> claremcg at bigpond dot net dot au   
+> Clare McGregor Publicity  
+> +61 (0) 418 192 524  
+> <claremcg@bigpond.net.au>
 
 **Bookings:**
 
 > Chas Jagger - Brightlight Agency  
-> +61 (0) 421 448 037   
-> chas dot brightlightagency at gmail dot com  
+> +61 (0) 421 448 037  
+> <chas.brightlightagency@gmail.dot.com>
 
 **Distribution inquiries - Australia:**  
 
-> [Vitamin Records][1]    
-> +61 (0) 2 6684 6633   
-> vitamin at vitamin dot net dot au  
+> [Vitamin Records][1]  
+> +61 (0) 2 6684 6633  
+> <vitamin@vitamin.net.au>
 
 **Distribution inquiries - Europe:**
 
 > Smoked Recordings  
-> info at smokedrecordings dot com   
-
-  [12]: mailto:vitamin@vitamin.net.au
+> <info@smokedrecordings.com>
 
 **write to Lucie:**
 
@@ -29,9 +27,7 @@
 > Bimbaya, via Candelo  
 > NSW 2550  
 > Australia  
-> lucie at luciethorne dot com  
-
-  [8]: mailto:lucie@luciethorne.com
+> <lucie@luciethorne.com>
 
 you can [join lucie's mailing list][9], visit [lucie's myspace page][10], 
 visit [lucie's facebook page][23], or [send lucie a message][11] online.
