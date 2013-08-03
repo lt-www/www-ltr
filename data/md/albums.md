@@ -1,3 +1,13 @@
+[![Fall To Rise][8.1]][8.2]
+*Fall To Rise* by [LOVE OVER GOLD](http://love-over-gold.com)  
+(Lucie Thorne & [Pieta Brown](http://pietabrown.com))  
+rrp cd au$25.  
+release date: 9th september 2013.  
+[details][8.2]
+
+  [8.1]: rgen/cover/r-80/fall-to-rise.jpg
+  [8.2]: ?p=albums/fall-to-rise
+
 [![Bonfires In Silver City][7.1]][7.2]
 *Bonfires In Silver City*  
 rrp cd au$25.  
@@ -6,7 +16,6 @@ released 8th august 2011.
 
   [7.1]: rgen/cover/r-80/bonfires-in-silver-city.jpg
   [7.2]: ?p=albums/bonfires-in-silver-city
-
 
 [![black across the field][6.1]][6.2]
 *black across the field*  

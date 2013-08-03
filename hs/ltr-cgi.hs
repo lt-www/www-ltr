@@ -85,7 +85,6 @@ resize_get cf = do
   C.liftIO (L.lt_img_reductions cf)
   return C.CGINothing
 
-
 require_verified :: E.Config -> W.Query -> W.Result -> W.Result
 require_verified e q y = do
   v <- E.validated e
