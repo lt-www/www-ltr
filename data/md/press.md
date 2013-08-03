@@ -1,4 +1,4 @@
-- Lucie Thorne [Biography][27] (pdf)    
+- Lucie Thorne [Biography][28] (pdf)    
 
 ### Bonfires In Silver City   
 
@@ -172,3 +172,4 @@ predecessor, _The Bud_." **_David Curry, The Canberra Times_**
    [25]: data/pr/LucieThorneBioOctober2011.pdf
    [26]: http://upstreamwhispers.wordpress.com/2011/09/09/lucie-thorne-bonfires-in-silver-city/  
    [27]: data/pr/LucieThorneBioFeb2013.pdf
+   [28]: data/pr/LucieThorneBioJuly2013.pdf
