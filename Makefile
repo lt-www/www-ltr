@@ -7,6 +7,9 @@ build-cabal:
 	cp dist/build/ltr-cgi/ltr-cgi index.cgi
 	strip -s index.cgi
 
+resize-genera:
+	sh sh/cover.sh
+
 clean:
 	cabal clean
 	(cd hs ; make clean)
@@ -23,4 +26,4 @@ add-remote-sp:
 	git remote add sp ssh://rd@slavepianos.org/~rd/ut/www-ltr.git
 
 remote-update:
-	ssh lucie@luciethorne.com "(cd luciethorne.com;make pull-sp;make build-ghc)"
+	ssh lucie@luciethorne.com "(cd luciethorne.com;make pull-sp resize-genera build-ghc)"
