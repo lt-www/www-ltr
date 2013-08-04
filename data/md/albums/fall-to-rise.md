@@ -2,8 +2,6 @@
 
 Release date: 9th September 2013
 
-***Audio stream coming soon!***
-
 ![](data/image/cover/fall-to-rise.jpg)
 
 1. Then We Were Flying
@@ -32,7 +30,7 @@ Produced by Pieta Brown & Lucie Thorne
 
 Photography & Design by Mei-Ling Shaw Williams
 
-© Pieta Brown & Lucie Thorne 2013, *Little Secret Records*  
+Â© Pieta Brown & Lucie Thorne 2013, *Little Secret Records*  
 Distributed in Australia by Vitamin Records
 
 ![](data/image/ground/lsr-35.png)
