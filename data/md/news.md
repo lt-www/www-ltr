@@ -1,6 +1,6 @@
 ### 6 August 2013  | PreOrder Fall To Rise by LOVE OVER GOLD    
 
-You can now [pre-order][]125] your copy of [LOVE OVER GOLD][]124]'s album [Fall To Rise][125]! And you'll receive a complimentary download of the first song from the album, *Then We Were Flying*, when you purchase x Limited offer includes free shipping world-wide! Your CD will be mailed out to you at the end of August x  
+You can now [pre-order][125] your copy of [LOVE OVER GOLD][124]'s album [Fall To Rise][125]! And you'll receive a complimentary download of the first song from the album, *Then We Were Flying*, when you purchase. Limited offer includes free shipping world-wide! Your CD will be mailed out to you at the end of August x  
 
 And in other [LOVE OVER GOLD][124] news; their Australian November tour dates
 have just been announced! Tickets will go on sale next week. Details on the [shows page][14].   
