@@ -39,9 +39,34 @@ with SUZANNAH ESPIE, KIM DELLAVEDOVA and SARAH CARROLL
 
 * * * * *
 
-**[LOVE OVER GOLD][127]** (Lucie Thorne & Pieta Brown) release their album ***Fall To Rise*** on *Little Secret Records* through Vitamin Distribution on **September 9th 2013**, with select tour dates across the USA and Australia
-throughout October/November.   
-Details announced soon...  
+**[LOVE OVER GOLD][127]** (Lucie Thorne & Pieta Brown) will be touring select tour dates across the USA in October 2013. Details announced soon.  
+
+**[LOVE OVER GOLD][127]** **Australian Tour November 2013**.  
+*Tickets on sale Monday 12th August*  
+
+**Thursday 14th November 2013**  
+**THE BASEMENT**  
+Sydney, NSW  
+details tba  
+
+**Friday 15th November 2013**  
+**THE STREET THEATRE**  
+Canberra, ACT  
+details tba  
+
+**Saturday 16th November 2013**  
+**THE TOWN HALL**  
+Candelo, NSW  
+details tba  
+
+**Wednesday 20th November**  
+**THE THORNBURY THEATRE**  
+Melbourne, VIC  
+details tba  
+
+**Thursday 21st - Sunday 24th November 2013**  
+**MULLUM MUSIC FESTIVAL**  
+Mullumbimby, NSW  
 
 [past shows][archive]
 
