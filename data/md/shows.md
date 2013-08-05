@@ -39,7 +39,9 @@ with SUZANNAH ESPIE, KIM DELLAVEDOVA and SARAH CARROLL
 
 * * * * *
 
-**[LOVE OVER GOLD][127]** (Lucie Thorne & Pieta Brown) will be touring select tour dates across the USA in October 2013. Details announced soon.  
+**[LOVE OVER GOLD][127]** (Lucie Thorne & Pieta Brown)   
+will be touring select tour dates across the USA in October 2013.    
+Details announced soon.    
 
 **[LOVE OVER GOLD][127]** **Australian Tour November 2013**.  
 *Tickets on sale Monday 12th August*  
