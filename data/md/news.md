@@ -1,3 +1,10 @@
+### 6 August 2013  | PreOrder Fall To Rise by LOVE OVER GOLD    
+
+You can now [pre-order][]125] your copy of [LOVE OVER GOLD][]124]'s album [Fall To Rise][125]! And you'll receive a complimentary download of the first song from the album, *Then We Were Flying*, when you purchase x Limited offer includes free shipping world-wide! Your CD will be mailed out to you at the end of August x  
+
+And in other [LOVE OVER GOLD][124] news; their Australian November tour dates
+have just been announced! Tickets will go on sale next week. Details on the [shows page][14].   
+
 ### 30 July 2013  | LOVE OVER GOLD
 
 Delighted to be announcing the news of Lucie's new musical project and new recording! Lucie and US songwriter [Pieta Brown][81] have been working on a new collaboration, and together, they are [LOVE OVER GOLD][124]. And [LOVE OVER GOLD][124] has made it's debut album x It's called *Fall To Rise*, and it'll be released September 9th 2013 on *Little Secret Records* through Vitamin Distribution, with touring to follow! More on all this soon... and in the meantime, check out the new [LOVE OVER GOLD][124] site x
@@ -403,6 +410,8 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [122.1]: http://www.stickytickets.com.au/11638/mic_conways_national_junk_band__lucie_thorne_%40_camelot_lounge.aspx
 [123]: http://sidewaysthroughsound.blogspot.com.au/2013/06/june-19-2013-steve-gunn-interview-black.html  
 [124]: http://love-over-gold.com/
+[125]: http://love-over-gold.com/?p=fall-to-rise  
+
 ### old news | archive
 
 if you care to know it, there is still all of the [old news][1.1]...
