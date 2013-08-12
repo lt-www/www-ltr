@@ -1590,9 +1590,9 @@ RSL, Tamar Valley Folk Festival.
 [123]: http://www.gaudycafe.com/
 [123.1]: http://sidewaysthroughsound.blogspot.com.au/2013/06/june-19-2013-steve-gunn-interview-black.html
 [124]: http://www.sofasalon.de/
+[124.2]: http://www.davidsmedia.com/Ararat_Live.html
 [125]: http://www.deberenkuil.nl/info.html
 [126]: http://www.muziekgebouweindhoven.nl
-[127]: http://www.facebook.com/thebridgecastlemaine
 [126.3]: http://www.bendigowritersfestival.com.au/Home
 [126.1]: http://www.bendigowritersfestival.com.au/Whats_On/The_Best_Song_Ever_Written 
 [126.2]: http://www.bendigowritersfestival.com.au/Whats_On/Write_on_Song
