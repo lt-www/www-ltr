@@ -23,7 +23,7 @@ interview on *The Grapevine*
 Sydney Rd, BRUNSWICK  
 with SUZANNAH ESPIE, KIM DELLAVEDOVA and SARAH CARROLL  
 8.30pm    
-[Tickets on sale][128.1]    
+[Tickets on sale now][128.1]    
 
 * * * * *
 
