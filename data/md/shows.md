@@ -1,5 +1,12 @@
 **VICTORIA**  
 
+
+**Thursday 15th August 2013**    
+interview on *The Breakfast Spread*    
+3PBS radio.    
+with Suzannah Espie    
+8am       
+
 **Saturday 17th August 2013**    
 [HARVESTER MOON][125]     
 Portarlington Rd, BELLARINE  
@@ -7,6 +14,11 @@ with SUZANNAH ESPIE, KIM DELLAVEDOVA and SARAH CARROLL
 7pm  
 Bookings: 03 5259 3200  
 
+**Monday 19th August 2013**    
+interview on *The Grapevine*      
+3RRR radio.    
+11am          
+  
 **Friday 23rd August 2013**    
 [THE SPOTTED MALLARD][128]  
 Sydney Rd, BRUNSWICK  
