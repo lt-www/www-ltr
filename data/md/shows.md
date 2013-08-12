@@ -36,20 +36,20 @@ Details announced soon.
 
 **Thursday 14th November 2013**  
 **[THE BASEMENT][3.2]**  
-Sydney, NSW  
+**Sydney**, NSW  
 8.30pm    
 [Tickets on sale now][140]     
  
 **Friday 15th November 2013**  
 **[THE STREET THEATRE][141]**  
-Canberra, ACT  
+**Canberra**, ACT  
 *plus special guest Alice Cottee*      
 8pm  
 [Tickets on sale now][141.1]    
 
 **Saturday 16th November 2013**  
 **THE TOWN HALL**  
-Candelo, NSW  
+**Candelo**, NSW  
 *plus special guest Kate Burke*      
 7.30pm   
 [Tickets on sale now][142]    
@@ -57,7 +57,7 @@ Candelo, NSW
 
 **Wednesday 20th November**  
 **[THE THORNBURY THEATRE][111]**  
-Melbourne, VIC  
+**Melbourne**, VIC  
 *plus special guest Matt Walker*        
 8pm    
 [Tickets on sale now][143]   
