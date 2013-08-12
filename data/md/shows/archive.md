@@ -1,4 +1,27 @@
 ## shows/archive  
+
+**VICTORIA**    
+
+**Sunday 11th August 2013**    
+[BENDIGO WRITERS FESTIVAL][126]    
+at The Capital, View Street, BENDIGO  
+[*The Best Song Ever Written*][126.1] panel with Sal Kimber, Marcie Jones, Colin Thompson and Tony Wilson.   
+
+**Saturday 10th August 2013**    
+[BENDIGO WRITERS FESTIVAL][126]    
+at The Capital, View Street, BENDIGO  
+[*Write On Song*][126.2] panel with Shane Howard, David Bridie, Sal Kimber, Charles Jenkins and Geoffrey Williams.    
+
+**Friday 9th August 2013**    
+PIZZA & WINE CLUB    
+High St, KYNETON    
+
+**Thursday 8th August 2013**  
+[ARARAT LIVE][124]     
+Red Room, ARARAT HOTEL         
+
+* * * * *    
+
 **NSW**  
 
 **Friday 21st June 2013**  
