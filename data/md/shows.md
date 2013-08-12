@@ -1,6 +1,5 @@
 **VICTORIA**  
 
-
 **Thursday 15th August 2013**    
 interview on *The Breakfast Spread*    
 3PBS radio.    
@@ -34,31 +33,62 @@ Details announced soon.
 * * * * *  
 
 **[LOVE OVER GOLD][127]** **Australian Tour November 2013**.  
-*Tickets on sale Monday 12th August*  
 
 **Thursday 14th November 2013**  
-**THE BASEMENT**  
+**[THE BASEMENT][3.2]**  
 Sydney, NSW  
-details tba  
-
+8.30pm    
+[Tickets on sale now][140]     
+ 
 **Friday 15th November 2013**  
-**THE STREET THEATRE**  
+**[THE STREET THEATRE][141]**  
 Canberra, ACT  
-details tba  
+*plus special guest Alice Cottee*      
+8pm  
+[Tickets on sale now][141.1]    
 
 **Saturday 16th November 2013**  
 **THE TOWN HALL**  
 Candelo, NSW  
-details tba  
+*plus special guest Kate Burke*      
+7.30pm   
+[Tickets on sale now][142]    
+*presented by the Candelo Arts Society*       
 
 **Wednesday 20th November**  
-**THE THORNBURY THEATRE**  
+**[THE THORNBURY THEATRE][111]**  
 Melbourne, VIC  
-details tba  
+*plus special guest Matt Walker*        
+8pm    
+[Tickets on sale now][143]   
 
-**Thursday 21st - Sunday 24th November 2013**  
-**MULLUM MUSIC FESTIVAL**  
-Mullumbimby, NSW  
+**Thursday 21st November 2013**  
+**[MULLUM MUSIC FESTIVAL][145]**    
+**LOVE OVER GOLD** at the Opening Night Concert, Civic Hall  
+Mullumbimby, NSW    
+6pm  
+[Festival tickets on sale now][144]  
+
+**Friday 22nd November 2013**  
+**[MULLUM MUSIC FESTIVAL][145]**    
+**LOVE OVER GOLD** at The Ex Services Club  
+Mullumbimby, NSW    
+8.30pm    
+[Festival tickets on sale now][144]  
+
+**Sunday 24th November 2013**  
+**[MULLUM MUSIC FESTIVAL][145]**    
+**LUCIE THORNE & HAMISH STUART** at The Drill Hall   
+Mullumbimby, NSW    
+1.45pm    
+[Festival tickets on sale now][144]  
+
+**Sunday 24th November 2013**  
+**[MULLUM MUSIC FESTIVAL][145]**    
+**LOVE OVER GOLD** at The Bowlo   
+Mullumbimby, NSW    
+5.30pm    
+[Festival tickets on sale now][144]  
 
 * * * * *  
 
@@ -123,3 +153,10 @@ Mullumbimby, NSW
 [127]: http://www.love-over-gold.com 
 [128]: http://www.spottedmallard.com/events/suzannah-espie/
 [128.1]: http://www.trybooking.com/Booking/BookingEventSummary.aspx?eid=58060
+[140]: http://www.moshtix.com.au/event.aspx?id=67412&caller=CAL&noadd=true&skin=291
+[141]: http://www.thestreet.org.au/  
+[141.1]: https://www.patronbase.com/_ST/Productions/LOOG/Performances
+[142]: http://www.trybooking.com/DINO  
+[143]: http://thethornburytheatre.com/event/love-over-gold-pieta-brown-lucie-thorne-fall-to-rise-album-launch/
+[144]: http://www.mullummusicfestival.com/local_tickets.asp?i=5&a=view
+[145]: http://www.mullummusicfestival.com 
