@@ -3,12 +3,12 @@
 **VICTORIA**    
 
 **Sunday 11th August 2013**    
-[BENDIGO WRITERS FESTIVAL][126]    
+[BENDIGO WRITERS FESTIVAL][126.3]    
 at The Capital, View Street, BENDIGO  
 [*The Best Song Ever Written*][126.1] panel with Sal Kimber, Marcie Jones, Colin Thompson and Tony Wilson.   
 
 **Saturday 10th August 2013**    
-[BENDIGO WRITERS FESTIVAL][126]    
+[BENDIGO WRITERS FESTIVAL][126.3]    
 at The Capital, View Street, BENDIGO  
 [*Write On Song*][126.2] panel with Shane Howard, David Bridie, Sal Kimber, Charles Jenkins and Geoffrey Williams.    
 
@@ -17,7 +17,7 @@ PIZZA & WINE CLUB
 High St, KYNETON    
 
 **Thursday 8th August 2013**  
-[ARARAT LIVE][124]     
+[ARARAT LIVE][124.2]     
 Red Room, ARARAT HOTEL         
 
 * * * * *    
@@ -1593,6 +1593,9 @@ RSL, Tamar Valley Folk Festival.
 [125]: http://www.deberenkuil.nl/info.html
 [126]: http://www.muziekgebouweindhoven.nl
 [127]: http://www.facebook.com/thebridgecastlemaine
+[126.3]: http://www.bendigowritersfestival.com.au/Home
+[126.1]: http://www.bendigowritersfestival.com.au/Whats_On/The_Best_Song_Ever_Written 
+[126.2]: http://www.bendigowritersfestival.com.au/Whats_On/Write_on_Song
 
 
 if you'd care to know, there are still details of lucie's old shows:
