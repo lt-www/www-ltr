@@ -103,7 +103,7 @@ Mullumbimby, NSW
 [120]: http://seversondells.com/programs-2/
 [122.1]: http://www.stickytickets.com.au/11638/mic_conways_national_junk_band__lucie_thorne_%40_camelot_lounge.aspx
 [123]: http://sidewaysthroughsound.blogspot.com.au/2013/06/june-19-2013-steve-gunn-interview-black.html
-[124]: http://www.davidsmedia.com/Ararat_Live.html
+[124.2]: http://www.davidsmedia.com/Ararat_Live.html
 [125]: http://www.harvestermoon.com.au/live-music/  
 [126]: http://www.bendigowritersfestival.com.au/Home
 [126.1]: http://www.bendigowritersfestival.com.au/Whats_On/The_Best_Song_Ever_Written 
