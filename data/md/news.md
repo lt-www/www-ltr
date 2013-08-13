@@ -1,3 +1,8 @@
+
+### 13 August 2013  | Two new songs available now!    
+
+In addition to [pre-ordering][125] a physical copy of [Fall To Rise][125], there are now two [LOVE OVER GOLD][124] songs available to purchase as digital downloads - *Then We Were Flying* and *Coming Up Crimson* - through [Vitamin][126] and [iTunes][127].  
+
 ### 6 August 2013  | PreOrder Fall To Rise by LOVE OVER GOLD    
 
 You can now [pre-order][125] your copy of Lucie's new album with [Pieta Brown][81]; [Fall To Rise][125] by [LOVE OVER GOLD][124] - and you'll receive a complimentary download of the first song from the album, *Then We Were Flying*, when you purchase. Limited offer includes free shipping world-wide! Your CD will be mailed out to you at the end of August x  
@@ -411,6 +416,8 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [123]: http://sidewaysthroughsound.blogspot.com.au/2013/06/june-19-2013-steve-gunn-interview-black.html  
 [124]: http://love-over-gold.com/
 [125]: http://love-over-gold.com/?p=fall-to-rise  
+[126]: http://vitamin.net.au/albumdefault.asp?ai=597
+[127]: https://itunes.apple.com/au/album/then-we-were-flying-single/id686341094?ls=
 
 ### old news | archive
 
