@@ -43,7 +43,7 @@ Details announced soon.
 **Friday 15th November 2013**  
 **[THE STREET THEATRE][141]**  
 **Canberra**, ACT  
-*plus special guest Alice Cottee*      
+*plus special guest Alice Cottee (No Hausfrau)*      
 8pm  
 [Tickets on sale now][141.1]    
 
