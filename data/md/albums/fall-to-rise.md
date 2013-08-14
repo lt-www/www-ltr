@@ -24,13 +24,13 @@ All songs performed by Pieta Brown & Lucie Thorne
 
 Recorded by John Svec, Earth Tone Studio, Iowa City  
 Mixed by Adam Krinsky, Bellows Studio, Minneapolis  
-Mastered by Alex McCollough, Yes Master, Nashville  
+Mastered by Alex McCollough, Yes Master, Nashville
 
-Produced by Pieta Brown & Lucie Thorne  
+Produced by Pieta Brown & Lucie Thorne
 
 Photography & Design by Mei-Ling Shaw Williams
 
-Â© Pieta Brown & Lucie Thorne 2013, *Little Secret Records*  
+&copy; Pieta Brown & Lucie Thorne 2013, *Little Secret Records*  
 Distributed in Australia by Vitamin Records
 
 ![](data/image/ground/lsr-35.png)
