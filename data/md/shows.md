@@ -36,7 +36,8 @@ Details announced soon.
 
 **Thursday 14th November 2013**  
 **[THE BASEMENT][3.2]**  
-**Sydney**, NSW  
+**Sydney**, NSW    
+*plus special guest Jack Carty*      
 8.30pm    
 [Tickets on sale now][140]     
  
@@ -58,7 +59,7 @@ Details announced soon.
 **Wednesday 20th November**  
 **[THE THORNBURY THEATRE][111]**  
 **Melbourne**, VIC  
-*plus special guest Matt Walker*        
+*plus special guests Matt Walker & Shane Reilly*        
 8pm    
 [Tickets on sale now][143]   
 
