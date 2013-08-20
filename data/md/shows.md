@@ -32,53 +32,53 @@ with SUZANNAH ESPIE, KIM DELLAVEDOVA and SARAH CARROLL
 
 **Tuesday 1st October 2013**  
 [VAUDIVILLE MEWS][146]     
-212 4th Street, DES MOINES, Iowa
+212 4th Street, DES MOINES, IA  
 
 **Wednesday 2nd October**  
 [CSPS Legion Arts Hall][147]    
-1103 Third St SE, CEDAR RAPIDS, Iowa  
+1103 Third St SE, CEDAR RAPIDS, IA    
 
 **Thursday 3rd October**  
 [ROUTE 20 OUTHOUSE][148]  
-14001 Washington Ave, STURTEVANT, Wisconsin  
-supporting MASON JENNINGS       
+14001 Washington Ave, STURTEVANT, WI    
+supporting [MASON JENNINGS][157]     
 
 **Friday 4th October**  
 [OLD TOWN SCHOOL OF FOLK MUSIC][149]  
-4544 N. Lincoln Avenue, CHICAGO, Illinois  
-supporting MASON JENNINGS    
+4544 N. Lincoln Avenue, CHICAGO, IL   
+supporting [MASON JENNINGS][157]      
 *two shows - early & late*  
 
 **Saturday 5th October**    
 [THE ENGLERT THEATRE][150]    
-221 East Washington Street, IOWA CITY, Iowa  
-supporting MASON JENNINGS    
+221 East Washington Street, IOWA CITY, IA    
+supporting [MASON JENNINGS][157]      
 *Lucie Thorne - solo*  
 
 **Wednesday 9th October**  
 [THE BELFRY][151]  
-302 E. Main Street, SISTERS, Oregon  
-supporting GREG BROWN    
+302 E. Main Street, SISTERS, OR  
+supporting [GREG BROWN][156]      
 
 **Thursday 10th October**  
 [THE ROGUE THEATRE][152]  
-143 SE H Street, GRANTS PASS, Oregon  
-supporting GREG BROWN  
+143 SE H Street, GRANTS PASS, OR    
+supporting [GREG BROWN][156]    
 
 **Friday 11 October**  
 Jaqua Concert Hall, [THE SHEDD INSTITUTE][153]  
-285 E Broadway, EUGENE, Oregon  
-supporting GREG BROWN   
+285 E Broadway, EUGENE, OR    
+supporting [GREG BROWN][156]     
 
 **Saturday 12 October**  
 [THE TREE HOUSE][154]  
-4569 Lynwood Center Rd, BAINBRIDGE ISLAND, Washington  
-supporting GREG BROWN    
+4569 Lynwood Center Rd, BAINBRIDGE ISLAND, WA    
+supporting [GREG BROWN][156]        
 
 **Sunday 13 October**    
 [THE TRIPLE DOOR][155]    
-216 Union Street, SEATTLE, Washington  
-supporting GREG BROWN   
+216 Union Street, SEATTLE, WA    
+supporting [GREG BROWN][156]     
 
 * * * * *  
 
@@ -223,3 +223,5 @@ Dalley Street, MULLUMBIMBY, NSW
 [153]: http://www.ofam.org/
 [154]: http://www.treehousebainbridge.com/
 [155]: http://www.thetripledoor.net/
+[156]: http://gregbrownmusic.org/  
+[157]: http://masonjennings.com/
