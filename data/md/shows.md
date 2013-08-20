@@ -1,23 +1,16 @@
 **VICTORIA**  
 
-**Thursday 15th August 2013**    
-interview on *The Breakfast Spread*    
-3PBS radio.    
-with Suzannah Espie    
-8am       
-
-**Saturday 17th August 2013**    
-[HARVESTER MOON][125]     
-Portarlington Rd, BELLARINE  
-with SUZANNAH ESPIE, KIM DELLAVEDOVA and SARAH CARROLL  
-7pm  
-Bookings: 03 5259 3200  
-
 **Monday 19th August 2013**    
 interview on *The Grapevine*      
 3RRR radio.    
 11am          
   
+**Thursday 22nd August 2013**    
+interview on *Acid Country*    
+3PBS radio.    
+with Suzannah Espie    
+4pm        
+
 **Friday 23rd August 2013**    
 [THE SPOTTED MALLARD][128]  
 Sydney Rd, BRUNSWICK  
@@ -199,7 +192,6 @@ Dalley Street, MULLUMBIMBY, NSW
 [122.1]: http://www.stickytickets.com.au/11638/mic_conways_national_junk_band__lucie_thorne_%40_camelot_lounge.aspx
 [123]: http://sidewaysthroughsound.blogspot.com.au/2013/06/june-19-2013-steve-gunn-interview-black.html
 [124.2]: http://www.davidsmedia.com/Ararat_Live.html
-[125]: http://www.harvestermoon.com.au/live-music/  
 [126]: http://www.bendigowritersfestival.com.au/Home
 [126.1]: http://www.bendigowritersfestival.com.au/Whats_On/The_Best_Song_Ever_Written 
 [126.2]: http://www.bendigowritersfestival.com.au/Whats_On/Write_on_Song
