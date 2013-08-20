@@ -2,6 +2,16 @@
 
 **VICTORIA**    
 
+**Saturday 17th August 2013**    
+[HARVESTER MOON][125.1]     
+Portarlington Rd, BELLARINE  
+with SUZANNAH ESPIE, KIM DELLAVEDOVA and SARAH CARROLL  
+
+**Thursday 15th August 2013**    
+interview on *The Breakfast Spread*    
+3PBS radio.    
+with Suzannah Espie    
+
 **Sunday 11th August 2013**    
 [BENDIGO WRITERS FESTIVAL][126.3]    
 at The Capital, View Street, BENDIGO  
@@ -1592,6 +1602,7 @@ RSL, Tamar Valley Folk Festival.
 [124]: http://www.sofasalon.de/
 [124.2]: http://www.davidsmedia.com/Ararat_Live.html
 [125]: http://www.deberenkuil.nl/info.html
+[125.1]: http://www.harvestermoon.com.au/live-music/  
 [126]: http://www.muziekgebouweindhoven.nl
 [126.3]: http://www.bendigowritersfestival.com.au/Home
 [126.1]: http://www.bendigowritersfestival.com.au/Whats_On/The_Best_Song_Ever_Written 
