@@ -31,52 +31,52 @@ with SUZANNAH ESPIE, KIM DELLAVEDOVA and SARAH CARROLL
 **USA Tour - October 2013**        
 
 **Tuesday 1st October 2013**  
-[VAUDEVILLE MEWS][146]     
+**[VAUDEVILLE MEWS][146]**       
 212 4th Street, DES MOINES, IA  
 
 **Wednesday 2nd October**  
-[CSPS Legion Arts Hall][147]    
+**[CSPS Legion Arts Hall][147]**      
 1103 Third St SE, CEDAR RAPIDS, IA    
 
 **Thursday 3rd October**  
-[ROUTE 20 OUTHOUSE][148]  
+**[ROUTE 20 OUTHOUSE][148]**    
 14001 Washington Ave, STURTEVANT, WI    
 supporting [MASON JENNINGS][157]     
 
 **Friday 4th October**  
-[OLD TOWN SCHOOL OF FOLK MUSIC][149]  
+**[OLD TOWN SCHOOL OF FOLK MUSIC][149]**    
 4544 N. Lincoln Avenue, CHICAGO, IL   
 supporting [MASON JENNINGS][157]      
 *two shows - early & late*  
 
 **Saturday 5th October**    
-[THE ENGLERT THEATRE][150]    
+**[THE ENGLERT THEATRE][150]**      
 221 East Washington Street, IOWA CITY, IA    
 supporting [MASON JENNINGS][157]      
 *Lucie Thorne - solo*  
 
 **Wednesday 9th October**  
-[THE BELFRY][151]  
+**[THE BELFRY][151]**    
 302 E. Main Street, SISTERS, OR  
 supporting [GREG BROWN][156]      
 
 **Thursday 10th October**  
-[THE ROGUE THEATRE][152]  
+**[THE ROGUE THEATRE][152]**    
 143 SE H Street, GRANTS PASS, OR    
 supporting [GREG BROWN][156]    
 
 **Friday 11 October**  
-Jaqua Concert Hall, [THE SHEDD INSTITUTE][153]  
+Jaqua Concert Hall, **[THE SHEDD INSTITUTE][153]**    
 285 E Broadway, EUGENE, OR    
 supporting [GREG BROWN][156]     
 
 **Saturday 12 October**  
-[THE TREE HOUSE][154]  
+**[THE TREE HOUSE][154]**    
 4569 Lynwood Center Rd, BAINBRIDGE ISLAND, WA    
 supporting [GREG BROWN][156]        
 
 **Sunday 13 October**    
-[THE TRIPLE DOOR][155]    
+**[THE TRIPLE DOOR][155]**      
 216 Union Street, SEATTLE, WA    
 supporting [GREG BROWN][156]     
 
