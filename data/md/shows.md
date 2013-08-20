@@ -31,7 +31,7 @@ with SUZANNAH ESPIE, KIM DELLAVEDOVA and SARAH CARROLL
 **USA Tour - October 2013**        
 
 **Tuesday 1st October 2013**  
-[VAUDIVILLE MEWS][146]     
+[VAUDEVILLE MEWS][146]     
 212 4th Street, DES MOINES, IA  
 
 **Wednesday 2nd October**  
