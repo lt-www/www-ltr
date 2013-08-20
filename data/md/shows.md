@@ -53,7 +53,8 @@ Details announced soon.
 **Candelo**, NSW  
 *plus special guest Kate Burke*      
 7.30pm   
-[Tickets on sale now][142]    
+[Tickets on sale now][142]  
+Tickets also available through Magpie Music, Bega  
 *presented by the Candelo Arts Society*       
 
 **Wednesday 20th November**  
