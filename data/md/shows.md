@@ -34,48 +34,48 @@ with SUZANNAH ESPIE, KIM DELLAVEDOVA and SARAH CARROLL
 **[VAUDEVILLE MEWS][146]**       
 212 4th Street, DES MOINES, IA  
 
-**Wednesday 2nd October**  
+**Wednesday 2nd October 2013**   
 **[CSPS Legion Arts Hall][147]**      
 1103 Third St SE, CEDAR RAPIDS, IA    
 
-**Thursday 3rd October**  
+**Thursday 3rd October 2013**  
 **[ROUTE 20 OUTHOUSE][148]**    
 14001 Washington Ave, STURTEVANT, WI    
 supporting [MASON JENNINGS][157]     
 
-**Friday 4th October**  
+**Friday 4th October 2013**  
 **[OLD TOWN SCHOOL OF FOLK MUSIC][149]**    
 4544 N. Lincoln Avenue, CHICAGO, IL   
 supporting [MASON JENNINGS][157]      
 *two shows - early & late*  
 
-**Saturday 5th October**    
+**Saturday 5th October 2013**    
 **[THE ENGLERT THEATRE][150]**      
 221 East Washington Street, IOWA CITY, IA    
 supporting [MASON JENNINGS][157]      
 *Lucie Thorne - solo*  
 
-**Wednesday 9th October**  
+**Wednesday 9th October 2013**  
 **[THE BELFRY][151]**    
 302 E. Main Street, SISTERS, OR  
 supporting [GREG BROWN][156]      
 
-**Thursday 10th October**  
+**Thursday 10th October 2013**  
 **[THE ROGUE THEATRE][152]**    
 143 SE H Street, GRANTS PASS, OR    
 supporting [GREG BROWN][156]    
 
-**Friday 11 October**  
+**Friday 11 October 2013**  
 **[THE SHEDD INSTITUTE][153]**    
 285 E Broadway, EUGENE, OR    
 supporting [GREG BROWN][156]     
 
-**Saturday 12 October**  
+**Saturday 12 October 2013**  
 **[THE TREE HOUSE][154]**    
 4569 Lynwood Center Rd, BAINBRIDGE ISLAND, WA    
 supporting [GREG BROWN][156]        
 
-**Sunday 13 October**    
+**Sunday 13 October 2013**    
 **[THE TRIPLE DOOR][155]**      
 216 Union Street, SEATTLE, WA    
 supporting [GREG BROWN][156]     
