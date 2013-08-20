@@ -27,12 +27,61 @@ with SUZANNAH ESPIE, KIM DELLAVEDOVA and SARAH CARROLL
 
 * * * * *
 
-**[LOVE OVER GOLD][127]** (Lucie Thorne & Pieta Brown) will be touring select dates across the **USA in October 2013**.    
-Details announced soon.    
+**[LOVE OVER GOLD][127]** **USA Tour - October 2013**.    
+
+**Tuesday 1st October 2013**  
+[VAUDIVILLE MEWS][146]     
+212 4th Street, DES MOINES, Iowa
+
+**Wednesday 2nd October**  
+[CSPS Legion Arts Hall][147]    
+1103 Third St SE, CEDAR RAPIDS, Iowa  
+
+**Thursday 3rd October**  
+[ROUTE 20 OUTHOUSE][148]
+14001 Washington Ave, STURTEVANT, Wisconsin  
+supporting MASON JENNINGS       
+
+**Friday 4th October**
+[OLD TOWN SCHOOL OF FOLK MUSIC][149]  
+4544 N. Lincoln Avenue, CHICAGO, Illinois
+supporting MASON JENNINGS    
+*two shows - early & late*  
+
+**Saturday 5th October**    
+[THE ENGLERT THEATRE][150]    
+221 East Washington Street, IOWA CITY, Iowa  
+supporting MASON JENNINGS    
+*Lucie Thorne - solo*  
+
+**Wednesday 9th October**  
+[THE BELFRY][151]  
+302 E. Main Street, SISTERS, Oregon  
+supporting GREG BROWN    
+
+**Thursday 10th October**  
+[THE ROGUE THEATRE][152]  
+143 SE H Street, GRANTS PASS, Oregon  
+supporting GREG BROWN  
+
+**Friday 11 October**  
+Jaqua Concert Hall, [THE SHEDD INSTITUTE][153]  
+285 E Broadway, EUGENE, Oregon  
+supporting GREG BROWN   
+
+**Saturday 12 October**  
+[THE TREE HOUSE][154]  
+4569 Lynwood Center Rd, BAINBRIDGE ISLAND, Washington
+supporting GREG BROWN    
+
+**Sunday 13 October**    
+[THE TRIPLE DOOR][155]    
+216 Union Street, SEATTLE, Washington  
+supporting GREG BROWN   
 
 * * * * *  
 
-**[LOVE OVER GOLD][127]** **Australian Tour November 2013**.  
+**[LOVE OVER GOLD][127]** **Australian Tour - November 2013**.  
 
 **Thursday 14th November 2013**  
 **[THE BASEMENT][3.2]**  
@@ -54,7 +103,7 @@ Details announced soon.
 *plus special guest Kate Burke*      
 7.30pm   
 [Tickets on sale now][142]  
-Tickets also available through Magpie Music, Bega  
+Tickets also now available through Magpie Music, Bega  
 *presented by the Candelo Arts Society*       
 
 **Wednesday 20th November**  
@@ -162,3 +211,13 @@ Mullumbimby, NSW
 [143]: http://thethornburytheatre.com/event/love-over-gold-pieta-brown-lucie-thorne-fall-to-rise-album-launch/
 [144]: http://www.mullummusicfestival.com/local_tickets.asp?i=5&a=view
 [145]: http://www.mullummusicfestival.com 
+[146]: http://www.vaudevillemews.com/
+[147]: http://www.legionarts.org
+[148]: http://www.route20outhouse.com/
+[149]: http://www.oldtownschool.org/concerts/
+[150]: http://www.englert.org  
+[151]: http://www.belfryevents.com/  
+[152]: http://www.roguetheatre.com
+[153]: http://www.ofam.org/
+[154]: http://www.treehousebainbridge.com/
+[155]: http://www.thetripledoor.net/
