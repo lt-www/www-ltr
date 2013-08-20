@@ -45,7 +45,7 @@ supporting MASON JENNINGS
 
 **Friday 4th October**  
 [OLD TOWN SCHOOL OF FOLK MUSIC][149]  
-4544 N. Lincoln Avenue, CHICAGO, Illinois
+4544 N. Lincoln Avenue, CHICAGO, Illinois  
 supporting MASON JENNINGS    
 *two shows - early & late*  
 
@@ -87,21 +87,21 @@ supporting GREG BROWN
 
 **Thursday 14th November 2013**  
 **[THE BASEMENT][3.2]**  
-**Sydney**, NSW    
+Macquarie Place, SYDNEY, NSW    
 *plus special guest Jack Carty*      
 8.30pm    
 [Tickets on sale now][140]     
  
 **Friday 15th November 2013**  
 **[THE STREET THEATRE][141]**  
-**Canberra**, ACT  
+Childers Street, CANBERRA, ACT  
 *plus special guest Alice Cottee (No Hausfrau)*      
 8pm  
 [Tickets on sale now][141.1]    
 
 **Saturday 16th November 2013**  
 **THE TOWN HALL**  
-**Candelo**, NSW  
+William Street, CANDELO, NSW  
 *plus special guest Kate Burke*      
 7.30pm   
 [Tickets on sale now][142]  
@@ -110,7 +110,7 @@ Tickets also now available through Magpie Music, Bega
 
 **Wednesday 20th November**  
 **[THE THORNBURY THEATRE][111]**  
-**Melbourne**, VIC  
+High Street, MELBOURNE, VIC  
 *plus special guests Matt Walker & Shane Reilly*        
 8pm    
 [Tickets on sale now][143]   
@@ -118,28 +118,28 @@ Tickets also now available through Magpie Music, Bega
 **Thursday 21st November 2013**  
 **[MULLUM MUSIC FESTIVAL][145]**    
 **LOVE OVER GOLD** at the Opening Night Concert, Civic Hall  
-Mullumbimby, NSW    
+Dalley Street, MULLUMBIMBY, NSW    
 6pm  
 [Festival tickets on sale now][144]  
 
 **Friday 22nd November 2013**  
 **[MULLUM MUSIC FESTIVAL][145]**    
 **LOVE OVER GOLD** at The Ex Services Club  
-Mullumbimby, NSW    
+Dalley Street, MULLUMBIMBY, NSW      
 8.30pm    
 [Festival tickets on sale now][144]  
 
 **Sunday 24th November 2013**  
 **[MULLUM MUSIC FESTIVAL][145]**    
 **LUCIE THORNE & HAMISH STUART** at The Drill Hall   
-Mullumbimby, NSW    
+Dalley Street, MULLUMBIMBY, NSW    
 1.45pm    
 [Festival tickets on sale now][144]  
 
 **Sunday 24th November 2013**  
 **[MULLUM MUSIC FESTIVAL][145]**    
 **LOVE OVER GOLD** at The Bowlo   
-Mullumbimby, NSW    
+Dalley Street, MULLUMBIMBY, NSW    
 5.30pm    
 [Festival tickets on sale now][144]  
 
