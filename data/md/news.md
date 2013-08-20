@@ -1,6 +1,6 @@
 ### 20 August 2013  | USA Tour Dates Announced    
 
-Lucie's new collaboration with [Pieta Brown][81] - [LOVE OVER GOLD][124] - have just announced their [American tour dates][14] for October 2013.  Tickets for all these shows - as well as for all their [Australian shows][14] in November - are on sale now!    
+The [American tour dates][14] for [LOVE OVER GOLD][124] - Lucie's new collaboration with [Pieta Brown][81] - have just been announced.  Tickets for all these October [shows][14] - as well as for all their Australian [shows][14] in November - are on sale now!    
 
 ### 13 August 2013  | Two new songs available now!    
 
