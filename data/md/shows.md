@@ -27,7 +27,8 @@ with SUZANNAH ESPIE, KIM DELLAVEDOVA and SARAH CARROLL
 
 * * * * *
 
-**[LOVE OVER GOLD][127]** **USA Tour - October 2013**.    
+**[LOVE OVER GOLD][127]**  (Lucie Thorne & Pieta Brown)   
+**USA Tour - October 2013**        
 
 **Tuesday 1st October 2013**  
 [VAUDIVILLE MEWS][146]     
@@ -81,7 +82,8 @@ supporting GREG BROWN
 
 * * * * *  
 
-**[LOVE OVER GOLD][127]** **Australian Tour - November 2013**.  
+**[LOVE OVER GOLD][127]** (Lucie Thorne & Pieta Brown)     
+**Australian Tour - November 2013**  
 
 **Thursday 14th November 2013**  
 **[THE BASEMENT][3.2]**  
