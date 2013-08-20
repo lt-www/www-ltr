@@ -66,7 +66,7 @@ supporting [GREG BROWN][156]
 supporting [GREG BROWN][156]    
 
 **Friday 11 October**  
-Jaqua Concert Hall, **[THE SHEDD INSTITUTE][153]**    
+**[THE SHEDD INSTITUTE][153]**    
 285 E Broadway, EUGENE, OR    
 supporting [GREG BROWN][156]     
 
