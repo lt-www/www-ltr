@@ -38,11 +38,11 @@ with SUZANNAH ESPIE, KIM DELLAVEDOVA and SARAH CARROLL
 1103 Third St SE, CEDAR RAPIDS, Iowa  
 
 **Thursday 3rd October**  
-[ROUTE 20 OUTHOUSE][148]
+[ROUTE 20 OUTHOUSE][148]  
 14001 Washington Ave, STURTEVANT, Wisconsin  
 supporting MASON JENNINGS       
 
-**Friday 4th October**
+**Friday 4th October**  
 [OLD TOWN SCHOOL OF FOLK MUSIC][149]  
 4544 N. Lincoln Avenue, CHICAGO, Illinois
 supporting MASON JENNINGS    
@@ -71,7 +71,7 @@ supporting GREG BROWN
 
 **Saturday 12 October**  
 [THE TREE HOUSE][154]  
-4569 Lynwood Center Rd, BAINBRIDGE ISLAND, Washington
+4569 Lynwood Center Rd, BAINBRIDGE ISLAND, Washington  
 supporting GREG BROWN    
 
 **Sunday 13 October**    
