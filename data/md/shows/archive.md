@@ -2,6 +2,10 @@
 
 **VICTORIA**    
 
+**Monday 19th August 2013**    
+interview and live-to-air performance on *The Grapevine*      
+3RRR radio.             
+
 **Saturday 17th August 2013**    
 [HARVESTER MOON][125.1]     
 Portarlington Rd, BELLARINE  
