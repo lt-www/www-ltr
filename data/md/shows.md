@@ -1,16 +1,5 @@
 **VICTORIA**  
-
-**Monday 19th August 2013**    
-interview and live-to-air performance on *The Grapevine*      
-3RRR radio.    
-11am          
   
-**Thursday 22nd August 2013**    
-interview and live-to-air performance on *Acid Country*    
-3PBS radio.    
-with Suzannah Espie    
-4pm        
-
 **Friday 23rd August 2013**    
 [THE SPOTTED MALLARD][128]  
 Sydney Rd, BRUNSWICK  
