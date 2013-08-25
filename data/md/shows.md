@@ -9,7 +9,7 @@ with SUZANNAH ESPIE, KIM DELLAVEDOVA and SARAH CARROLL
 
 * * * * *
 
-**[LOVE OVER GOLD][127]**  (Lucie Thorne & Pieta Brown)   
+**[LOVE OVER GOLD][127]**  
 **USA Tour - October 2013**        
 
 **Tuesday 1st October 2013**  
