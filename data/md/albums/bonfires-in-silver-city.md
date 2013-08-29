@@ -68,5 +68,5 @@ exclusive license to Vitamin Records.
   [16]: ?p=songs/big-news
   [17]: ?p=songs/noir
   [18]: ?p=songs/when-i-get-there
-  [19]: http://milkymoondesign.com
+  [19]: http://rachelstone.com
   [20]: data/pr/LucieThorneBISCAugustMediaRelease.pdf
