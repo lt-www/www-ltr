@@ -1,3 +1,7 @@
+### 9 September 2013  | Fall To Rise OUT NOW!  
+
+Lucie's new collaborative album with US songwriter Pieta Brown, as LOVE OVER GOLD, is released today! [Fall To Rise][125] is on the shelves at your local friendly record store (if youâre in Australia) courtesy of the good folk at [Vitamin][126]. And if youâre elsewhere in the world, you can order your copy either from the [Vitamin site][126] or direct from [LOVE OVER GOLD][125]. Digital downloads of the album are also available to purchase from [iTunes][130].   
+
 ### 3 September 2013  | Early praise for Fall To Rise!  
 
 LOVE OVER GOLD's [Fall To Rise][125] is this week's Feature Album on [PBSfm][128]! And the September edition of [Rhythms Magazine][129] includes a review of the album, describing it as *"Warm, rich, intimate. Their combination takes them somewhere neither has been before. A triumphant alliance."* [Fall To Rise][125] will be out September 9th!      
@@ -427,6 +431,7 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [127]: https://itunes.apple.com/au/album/then-we-were-flying-single/id686341094?ls=
 [128]: http://pbs.org.au/node/28842
 [129]: http://rhythms.com.au  
+[130]: https://itunes.apple.com/au/album/fall-to-rise/id686368656
 
 ### old news | archive
 
