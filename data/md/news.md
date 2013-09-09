@@ -1,6 +1,6 @@
 ### 9 September 2013  | Fall To Rise OUT NOW!  
 
-Lucie's new collaborative album with US songwriter Pieta Brown, as LOVE OVER GOLD, is released today! [Fall To Rise][125] is on the shelves at your local friendly record store (if youâre in Australia) courtesy of the good folk at [Vitamin][126]. And if youâre elsewhere in the world, you can order your copy either from the [Vitamin site][126] or direct from [LOVE OVER GOLD][125]. Digital downloads of the album are also available to purchase from [iTunes][130].   
+Lucie's new collaborative album with US songwriter Pieta Brown, as LOVE OVER GOLD, is released today! [Fall To Rise][125] is on the shelves at your local friendly record store (if you're in Australia) courtesy of the good folk at [Vitamin][126]. And if you're elsewhere in the world, you can order your copy either from the [Vitamin site][126] or direct from [LOVE OVER GOLD][125]. Digital downloads of the album are also available to purchase from [iTunes][130].   
 
 ### 3 September 2013  | Early praise for Fall To Rise!  
 
