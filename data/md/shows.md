@@ -1,16 +1,4 @@
-**VICTORIA**  
-  
-**Friday 23rd August 2013**    
-[THE SPOTTED MALLARD][128]  
-Sydney Rd, BRUNSWICK  
-with SUZANNAH ESPIE, KIM DELLAVEDOVA and SARAH CARROLL  
-8.30pm    
-[Tickets on sale now][128.1]    
-
-* * * * *
-
-**[LOVE OVER GOLD][127]** (Lucie Thorne & Pieta Brown)  
-**USA Tour - October 2013**        
+**[LOVE OVER GOLD][127]** - **USA Tour 2013**        
 
 **Tuesday 1st October 2013**  
 **[VAUDEVILLE MEWS][146]**       
