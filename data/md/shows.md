@@ -52,8 +52,7 @@ supporting [GREG BROWN][156]
 
 * * * * *  
 
-**[LOVE OVER GOLD][127]** (Lucie Thorne & Pieta Brown)     
-**Australian Tour - November 2013**  
+**[LOVE OVER GOLD][127]** - **Australian Tour 2013**  
 
 **Thursday 14th November 2013**  
 **[THE BASEMENT][3.2]**  
