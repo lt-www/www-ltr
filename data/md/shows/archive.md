@@ -3,8 +3,8 @@
 **VICTORIA**    
   
 **Friday 23rd August 2013**    
-THE SPOTTED MALLARD
-Sydney Rd, BRUNSWICK  
+THE SPOTTED MALLARD  
+Sydney Rd, BRUNSWICK    
 with SUZANNAH ESPIE, KIM DELLAVEDOVA and SARAH CARROLL  
 
 **Monday 19th August 2013**    
