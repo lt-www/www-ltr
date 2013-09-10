@@ -1,5 +1,9 @@
 **[LOVE OVER GOLD][127]** - **USA Tour 2013**        
 
+**Saturday 28th September 2013**    
+[KNUCKLEHEADS][158]    
+2715 Rochester Ave, KANSAS CITY, MO  
+
 **Tuesday 1st October 2013**  
 **[VAUDEVILLE MEWS][146]**       
 212 4th Street, DES MOINES, IA  
@@ -193,3 +197,4 @@ Dalley Street, MULLUMBIMBY, NSW
 [155]: http://www.thetripledoor.net/
 [156]: http://gregbrownmusic.org/  
 [157]: http://masonjennings.com/
+[158]: http://www.knuckleheadshonkytonk.com  
