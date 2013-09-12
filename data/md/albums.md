@@ -32,7 +32,7 @@ released 5th march 2007.
   [5.2]: ?p=albums/where-night-birds-call
 
 [![the upfield line][4.1]][4.2]
-*the upfield line*  
+*The Upfield Line*  
 three track single, *out of print*.    
 released 26th september 2006.  
 [details][4.2]
