@@ -1,7 +1,6 @@
 [![Fall To Rise][8.1]][8.2]
 *Fall To Rise* by [LOVE OVER GOLD](http://love-over-gold.com)  
 (Lucie Thorne & [Pieta Brown](http://pietabrown.com))  
-rrp cd au$25.  
 release date: 9th september 2013.  
 [details][8.2]
 
@@ -10,7 +9,6 @@ release date: 9th september 2013.
 
 [![Bonfires In Silver City][7.1]][7.2]
 *Bonfires In Silver City*  
-rrp cd au$25.  
 released 8th august 2011.  
 [details][7.2]
 
@@ -19,7 +17,6 @@ released 8th august 2011.
 
 [![black across the field][6.1]][6.2]
 *black across the field*  
-rrp cd au$25.  
 released 2nd march 2009.  
 [details][6.2]
 
@@ -28,7 +25,6 @@ released 2nd march 2009.
 
 [![where night birds call][5.1]][5.2]
 *where night birds call*  
-rrp cd au$25.  
 released 5th march 2007.  
 [details][5.2]
 
@@ -37,7 +33,7 @@ released 5th march 2007.
 
 [![the upfield line][4.1]][4.2]
 *the upfield line*  
-three track single, rrp cdr au$10.  
+three track single, *out of print*.    
 released 26th september 2006.  
 [details][4.2]
 
@@ -46,7 +42,7 @@ released 26th september 2006.
 
 [![the bud][3.1]][3.2]
 *the bud*  
-rrp cd au$25, [limited edition lp][3.3] au$30.  
+[limited edition lp][3.3] *LP out of print*.  
 released june 2004.  
 [details][3.2]
 
@@ -56,7 +52,6 @@ released june 2004.
 
 [![botticelli blue eyes][2.1]][2.2]
 *botticelli blue eyes*  
-rrp cd au$25.  
 released april 2002.  
 [details][2.2]
 
