@@ -16,7 +16,7 @@ released 8th august 2011.
   [7.2]: ?p=albums/bonfires-in-silver-city
 
 [![black across the field][6.1]][6.2]
-*black across the field*  
+*Black Across The Field*  
 released 2nd march 2009.  
 [details][6.2]
 
@@ -24,7 +24,7 @@ released 2nd march 2009.
   [6.2]: ?p=albums/black-across-the-field
 
 [![where night birds call][5.1]][5.2]
-*where night birds call*  
+*Where Night Birds Call*  
 released 5th march 2007.  
 [details][5.2]
 
