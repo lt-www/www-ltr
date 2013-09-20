@@ -33,8 +33,8 @@ Released 5th March 2007. [Details][5.2]
 
 [![the upfield line][4.1]][4.2]
 *The Upfield Line*  
-three track single, *out of print*.    
-Released 26th September 2006. [Details][4.2]
+Released 26th September 2006. [Details][4.2]  
+three track single, *out of print*.   
 
   [4.1]: rgen/cover/r-80/the-upfield-line.jpg
   [4.2]: ?p=albums/the-upfield-line
