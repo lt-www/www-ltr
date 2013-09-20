@@ -1,8 +1,8 @@
 [![Fall To Rise][8.1]][8.2]
 *Fall To Rise* by [LOVE OVER GOLD](http://love-over-gold.com)  
 (Lucie Thorne & [Pieta Brown](http://pietabrown.com))  
-Release date: 9th September 2013.  
-[details][8.2]
+Release date: 9th September 2013. [Details][8.2]  
+**CD**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RC8JZQ9B8W5ME">AUS & USA $25AUD</a> <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5UJDWPZY3NK94">WORLD $28AUD</a>  (Includes shipping)  
 
   [8.1]: rgen/cover/r-80/fall-to-rise.jpg
   [8.2]: ?p=albums/fall-to-rise
