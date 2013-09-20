@@ -22,6 +22,8 @@ released 8th august 2011.
 released 2nd march 2009.  
 [details][6.2]
 
+**CD**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BQ48Q67F7BJVY">AUS $25AUD</a> <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F75K6NDBMFD6C">WORLD $28AUD</a>  (Includes shipping)  
+
   [6.1]: rgen/cover/r-80/black-across-the-field.jpg
   [6.2]: ?p=albums/black-across-the-field
 
