@@ -26,4 +26,7 @@ add-remote-sp:
 	git remote add sp ssh://rd@slavepianos.org/~rd/ut/www-ltr.git
 
 remote-update:
+	ssh lucie@luciethorne.com "(cd luciethorne.com;make pull-sp)"
+
+remote-rebuild:
 	ssh lucie@luciethorne.com "(cd luciethorne.com;make pull-sp resize-genera build-ghc)"

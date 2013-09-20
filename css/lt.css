@@ -162,17 +162,19 @@ div.yt-img a img {padding-right: 1em}
 a.purchase {
  text-decoration:none;
  color: #000;
- padding:2px 8px;
- background-color:#6BC4D9; /* 6BC4D9 DCAFDA */
+ font-family: "Arial", sans-serif;
+ font-size: 0.85em;
+ padding: 0px 2px;
+ background-color:#DCAFDA; /* 6BC4D9 DCAFDA */
  -moz-border-radius:10px;
  border-radius:10px;
  vertical-align:middle;
- border: 1px #999 solid;
+ border: 1px #999 dotted;
 }
 
 a.purchase:hover{
  text-decoration:none;
- background-color:#5FADBF; /* 5FADBF BF9BBE */
+ background-color:#BF9BBE; /* 5FADBF BF9BBE */
 }
 
 /*
