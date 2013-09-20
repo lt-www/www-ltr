@@ -32,6 +32,8 @@ released 2nd march 2009.
 released 5th march 2007.  
 [details][5.2]
 
+**CD**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FJSQG7ANKLKYS">AUS $25AUD</a> <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=47WAUMKHTPLDJ">WORLD $28AUD</a>  (Includes shipping)  
+
   [5.1]: rgen/cover/r-80/where-night-birds-call.jpg
   [5.2]: ?p=albums/where-night-birds-call
 
