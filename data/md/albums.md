@@ -11,7 +11,6 @@ release date: 9th september 2013.
 *Bonfires In Silver City*  
 released 8th august 2011.  
 [details][7.2]  
-
 **CD**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6XBR57QDRS9MA">AUS $25AUD</a> <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5K3HNC7NCW49L">WORLD $28AUD</a>  (Includes shipping)
 
   [7.1]: rgen/cover/r-80/bonfires-in-silver-city.jpg
@@ -62,6 +61,8 @@ released june 2004.
 *botticelli blue eyes*  
 released april 2002.  
 [details][2.2]
+
+**CD**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M2RSJSQB6GJG2">AUS $25AUD</a> <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2VFSGZ339MKA2">WORLD $28AUD</a>  (Includes shipping)  
 
   [2.1]: rgen/cover/r-80/botticelli-blue-eyes.jpg
   [2.2]: ?p=albums/botticelli-blue-eyes
