@@ -1,6 +1,6 @@
 <!--| ## Black Across The Field |-->
 
-[Media Release][25] for Black Across The Field, March 2009.  
+**CD**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BQ48Q67F7BJVY">AUS $25AUD</a> <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F75K6NDBMFD6C">WORLD $28AUD</a>  (Includes shipping)
 
 ![Black Across The Field][8]
 
@@ -53,6 +53,8 @@ Artwork by [Rachel Stone][19].
 
 \(c) & (p) [Lucienne Thorne][24] / little secret records 2009, under
 exclusive license to Vitamin Records.  Made in Australia.
+
+[Media Release][25] for Black Across The Field, March 2009.  
 
   [24]: http://www.luciethorne.com
   [25]: data/pr/LucieThorneBATFMediaRelease.pdf

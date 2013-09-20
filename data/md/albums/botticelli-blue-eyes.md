@@ -1,5 +1,7 @@
 <!--| ## botticelli blue eyes |-->
 
+**CD**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M2RSJSQB6GJG2">AUS $25AUD</a> <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2VFSGZ339MKA2">WORLD $28AUD</a>  (Includes shipping)
+
 ![botticelli blue eyes][8]
 
 1.  [big decision][9]

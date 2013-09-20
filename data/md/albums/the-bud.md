@@ -1,12 +1,6 @@
 <!--| ## the bud |-->
 
-the bud was recorded on and off over 8 months in 2003-2004 at a
-house by the ocean south of Melbourne (by lucie and rohan), and in
-London by [Tom Hall][8]. [Rachel Stone][9] made the art for the
-cover.
-
-  [8]: http://www.ludions.com/
-  [9]: http://www.rachelstone.com
+**CD**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V9G3J7CTWC8YA">AUS $25AUD</a> <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=75VMCCAP3ZX3S">WORLD $28AUD</a>  (Includes shipping)
 
 ![the bud][10]
 
@@ -32,6 +26,14 @@ cover.
   [18]: ?p=songs/making-the-space
   [19]: ?p=songs/in-between
   [20]: ?p=songs/the-bud
+
+the bud was recorded on and off over 8 months in 2003-2004 at a
+house by the ocean south of Melbourne (by lucie and rohan), and in
+London by [Tom Hall][8]. [Rachel Stone][9] made the art for the
+cover.
+
+  [8]: http://www.ludions.com/
+  [9]: http://www.rachelstone.com
 
 ### credits
 

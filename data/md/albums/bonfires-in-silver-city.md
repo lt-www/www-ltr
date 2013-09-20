@@ -3,6 +3,8 @@
 
 **release date: 8th August 2011**
 
+**CD**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6XBR57QDRS9MA">AUS $25AUD</a> <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5K3HNC7NCW49L">WORLD $28AUD</a>  (Includes shipping)
+
 ![Bonfires In Silver City][8]
 
 1.  [Falling][9]

@@ -1,5 +1,7 @@
 <!--| ## where night birds call |-->
 
+**CD**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FJSQG7ANKLKYS">AUS $25AUD</a> <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=47WAUMKHTPLDJ">WORLD $28AUD</a>  (Includes shipping)
+
 ![where night birds call][8]
 
 1.  [the upfield line][9]
