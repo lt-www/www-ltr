@@ -41,9 +41,9 @@ three track single, *out of print*.
 
 [![the bud][3.1]][3.2]
 *the bud*  
-[limited edition lp][3.3] *LP out of print*.  
 Released June 2004. [Details][3.2]  
-**CD**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V9G3J7CTWC8YA">AUS $25AUD</a> <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=75VMCCAP3ZX3S">WORLD $28AUD</a>  (Includes shipping)  
+**CD**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V9G3J7CTWC8YA">AUS $25AUD</a> <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=75VMCCAP3ZX3S">WORLD $28AUD</a>  (Includes shipping)    
+[limited edition LP][3.3] also released. *Vinyl out of print*.  
 
   [3.1]: rgen/cover/r-80/the-bud.jpg
   [3.2]: ?p=albums/the-bud
