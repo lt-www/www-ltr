@@ -10,7 +10,9 @@ release date: 9th september 2013.
 [![Bonfires In Silver City][7.1]][7.2]
 *Bonfires In Silver City*  
 released 8th august 2011.  
-[details][7.2]
+[details][7.2]  
+
+**CD**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6XBR57QDRS9MA">AUS $25AUD</a> <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5K3HNC7NCW49L">WORLD $28AUD</a>  (Includes shipping)
 
   [7.1]: rgen/cover/r-80/bonfires-in-silver-city.jpg
   [7.2]: ?p=albums/bonfires-in-silver-city
