@@ -52,6 +52,8 @@ released 26th september 2006.
 released june 2004.  
 [details][3.2]
 
+**CD**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V9G3J7CTWC8YA">AUS $25AUD</a> <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=75VMCCAP3ZX3S">WORLD $28AUD</a>  (Includes shipping)  
+
   [3.1]: rgen/cover/r-80/the-bud.jpg
   [3.2]: ?p=albums/the-bud
   [3.3]: ?p=albums/the-bud-vinyl
