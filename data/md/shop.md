@@ -8,9 +8,9 @@ And if they're not on the shelf at yr local, ask 'em t o order it in!
 **MAIL ORDER:**  
 
 Direct from [Vitamin Records][8] /   
-via paypal or with your credit card [direct from us][10]
+via paypal or with your credit card [direct from us][10]  
 or you can send a cheque or money order to the address below.  
-(AU$25 per CD / plus AU$2 p+h for 1-2 cds / AU$5 p+h for 3+ cds)
+(AU$25 per CD includes postage / plus AU$5 p+h for 3+ cds)
 
 > Little Secret Records  
 > C/ - Bimbaya, via Candelo  
