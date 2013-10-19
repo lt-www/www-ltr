@@ -4,9 +4,9 @@ these records are no longer available...
 
 [![reels & roads][8]][9]
 *reels & roads*   
-*out of print*    
 limited edition ep.  
 released august 2001.   
+*out of print*    
 [details][9]
 
   [8]: rgen/cover/r-80/reels-and-roads.jpg
