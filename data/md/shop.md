@@ -7,7 +7,8 @@ And if they're not on the shelf at yr local, ask 'em t o order it in!
 
 **MAIL ORDER:**  
 
-Direct from [Vitamin Records][8] /  
+Direct from [Vitamin Records][8] /   
+via paypal or with your credit card [direct from us][10]
 or you can send a cheque or money order to the address below.  
 (AU$25 per CD / plus AU$2 p+h for 1-2 cds / AU$5 p+h for 3+ cds)
 
@@ -30,3 +31,4 @@ or you can send a cheque or money order to the address below.
    [7]: ?p=albums/bonfires-in-silver-city
    [8]: http://www.vitamin.net.au/albumdefault.asp?ai=471
    [9]: http://itunes.apple.com/au/album/great-wave/id455221727?i=455221736&ign-mpt=uo%3D4
+   [10]: ?p=albums
