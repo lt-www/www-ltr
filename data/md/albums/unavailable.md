@@ -1,11 +1,12 @@
 <!--| ## albums - unavailable |-->
 
-these records are no longer available, at least not from us.
+these records are no longer available...
 
 [![reels & roads][8]][9]
-*reels & roads*  
-rrp au$12. limited edition ep.  
-released august 2001.  
+*reels & roads*   
+*out of print*    
+limited edition ep.  
+released august 2001.   
 [details][9]
 
   [8]: rgen/cover/r-80/reels-and-roads.jpg
@@ -13,8 +14,9 @@ released august 2001.
 
 [![window seat][10]][11]
 *window seat*  
-rrp au$12. limited edition ep.  
-released june 2000.  
+limited edition ep.  
+released june 2000.   
+*out of print*  
 [details][11]
 
   [10]: rgen/cover/r-80/window-seat.jpg
@@ -22,8 +24,8 @@ released june 2000.
 
 [![little secret rockstars][12]][13]
 *little secret rockstars*  
-rrp au$20.  
 released november 1998.  
+*out of print*   
 [details][13]
 
   [12]: rgen/cover/r-80/little-secret-rockstars.jpg
