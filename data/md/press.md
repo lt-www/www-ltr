@@ -1,22 +1,24 @@
 - Lucie Thorne [Biography][28] (pdf)    
 
-### Fall To Rise by LOVE OVER GOLD (Lucie Thorne & Pieta Brown)      
+* * * * * 
+
+### Fall To Rise by [LOVE OVER GOLD][29] (Lucie Thorne & Pieta Brown)      
 
 "Warm, rich, intimate. Their combination takes them somewhere neither has been before. A triumphant alliance." **_Rhythms Magazine_**  
 
 "Rooted deep within the spacious confines of Americana, it's an album which is a stark as it is beguiling, the vocal harmonies conjured up by the duo magical and haunting. This is a gem." **** **_Rolling Stone Magazine_**  
 
-"Listening to Fall To Rise is like hearing two souls occupy the same space" **_The Total Scene, Chicago_**  
+"Listening to _Fall To Rise_ is like hearing two souls occupy the same space" **_The Total Scene, Chicago_**  
 
-"Locates a mood between early Cowboy Junkies and Neil Young at his gentlest. Thereâs a hint of Joni Mitchell in Thorne's voice. Both voices combine beautifully... swooning above the low rumble of an electric guitar" **_Uncut Magazine, UK_**  
+"Locates a mood between early Cowboy Junkies and Neil Young at his gentlest. There's a hint of Joni Mitchell in Thorne's voice. Both voices combine beautifully... swooning above the low rumble of an electric guitar" **_Uncut Magazine, UK_**  
 
 "This is an exquisitely fragile piece of work. There's an easy chemistry in their voices, Thorne's deep and mournful, Brown's a sweeter, higher counterpoint. A country roots gem with sumptuous harmonies... where guitars and voices effortlessly intertwine. Intimate, ethereal... irresistible" **** **_The Weekend Australian_**  
 
 "...two angelic voices that harmonize beautifully. This is an album for lovers." **_Alternative Media Group_**  
 
-"Brown's voice is light and just hinting at crumbling; Thorne's is lower and thicker in flow. In this low-lit room their voices speak to each other. The songs walk between country, folk and bluesâ¦ picking up both a low level spirituality and a clear frankness of humanity." **_Sydney Morning Herald_** 
+"Brown's voice is light and just hinting at crumbling; Thorne's is lower and thicker in flow. In this low-lit room their voices speak to each other. The songs walk between country, folk and blues; picking up both a low level spirituality and a clear frankness of humanity." **_Sydney Morning Herald_** 
 
-"Teaming up with Australian singer Lucie Thorne, it's like Brown has found her long-lost sister to complete a musical circle. The softness of the way each approaches a song makes a quiet power come alive, and captures all that is good in vocal collaborations. An inspired creation." The Morton Report
+"Teaming up with Australian singer Lucie Thorne, it's like Brown has found her long-lost sister to complete a musical circle. The softness of the way each approaches a song makes a quiet power come alive, and captures all that is good in vocal collaborations. An inspired creation." **_The Morton Report_**  
 
 * * * * * 
 
@@ -193,3 +195,4 @@ predecessor, _The Bud_." **_David Curry, The Canberra Times_**
    [26]: http://upstreamwhispers.wordpress.com/2011/09/09/lucie-thorne-bonfires-in-silver-city/  
    [27]: data/pr/LucieThorneBioFeb2013.pdf
    [28]: data/pr/LucieThorneBioJuly2013.pdf
+   [29]: http://www.love-over-gold.com
