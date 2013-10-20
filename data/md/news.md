@@ -1,3 +1,15 @@
+### 20 October 2013 | Thanks folks!
+
+Thanks to all the new friends and fans [LOVE OVER GOLD][124] has made over these past few weeks on the road across the USA. What an amazing tour! And the reviews for *Fall To Rise* keep rolling in, and glowing! ...including Four Stars in Rolling Stone Magazine and The Weekend Australian. You can read a selection of these [album reviews here][13]...
+
+### 9 October 2013 | The US tour continues...  
+
+Huge thanks to all who came out to the Midwest shows!! What an amazing couple of weeks its been for [LOVE OVER GOLD][124]! Five more dates on the US tour - out in the North West, and all opening for the one and only Greg Brown! [Details here][14].  
+
+### 28 September 2013 | US Tour starts now!
+
+The first show of the [LOVE OVER GOLD Tour][14] is tonight! In Kansas City! And on Sunday afternoon you can tune in your radios - or internets - to hear LOVE OVER GOLD live in Studio One on [Iowa Public Radio][131]!   
+
 ### 9 September 2013  | Fall To Rise OUT NOW!  
 
 Lucie's new collaborative album with US songwriter Pieta Brown, as LOVE OVER GOLD, is released today! [Fall To Rise][125] is on the shelves at your local friendly record store (if you're in Australia) courtesy of the good folk at [Vitamin][126]. And if you're elsewhere in the world, you can order your copy either from the [Vitamin site][126] or direct from [LOVE OVER GOLD][125]. Digital downloads of the album are also available to purchase from [iTunes][130].   
@@ -431,7 +443,8 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [127]: https://itunes.apple.com/au/album/then-we-were-flying-single/id686341094?ls=
 [128]: http://pbs.org.au/node/28842
 [129]: http://rhythms.com.au  
-[130]: https://itunes.apple.com/au/album/fall-to-rise/id686368656
+[130]: https://itunes.apple.com/au/album/fall-to-rise/id686368656  
+[131]: http://iowapublicradio.org/post/pieta-brown-and-lucie-thorne-live-folk-tree-join-us
 
 ### old news | archive
 
