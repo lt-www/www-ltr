@@ -18,7 +18,9 @@
 
 "Brown's voice is light and just hinting at crumbling; Thorne's is lower and thicker in flow. In this low-lit room their voices speak to each other. The songs walk between country, folk and blues; picking up both a low level spirituality and a clear frankness of humanity." **_Sydney Morning Herald_** 
 
-"Teaming up with Australian singer Lucie Thorne, it's like Brown has found her long-lost sister to complete a musical circle. The softness of the way each approaches a song makes a quiet power come alive, and captures all that is good in vocal collaborations. An inspired creation." **_The Morton Report_**  
+"Teaming up with Australian singer Lucie Thorne, it's like Brown has found her long-lost sister to complete a musical circle. The softness of the way each approaches a song makes a quiet power come alive, and captures all that is good in vocal collaborations. An inspired creation." **_The Morton Report_**   
+
+"...reminiscent of Emmylou Harris and Gillian Welch...these two beautiful voices have come together to create something which is wonderfully sweet and beguiling. A thing of quiet joy." **_Readings Monthly_**    
 
 * * * * * 
 
