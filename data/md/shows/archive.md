@@ -1678,6 +1678,21 @@ RSL, Tamar Valley Folk Festival.
 [126.3]: http://www.bendigowritersfestival.com.au/Home
 [126.1]: http://www.bendigowritersfestival.com.au/Whats_On/The_Best_Song_Ever_Written 
 [126.2]: http://www.bendigowritersfestival.com.au/Whats_On/Write_on_Song
+[146]: http://www.vaudevillemews.com/
+[147]: http://www.legionarts.org
+[148]: http://www.route20outhouse.com/
+[149]: http://www.oldtownschool.org/concerts/
+[150]: http://www.englert.org  
+[151]: http://www.belfryevents.com/  
+[152]: http://www.roguetheatre.com
+[153]: http://www.ofam.org/
+[154]: http://www.treehousebainbridge.com/
+[155]: http://www.thetripledoor.net/
+[156]: http://gregbrownmusic.org/  
+[157]: http://masonjennings.com/
+[158]: http://www.knuckleheadshonkytonk.com    
+[159]: http://iowapublicradio.org/post/pieta-brown-and-lucie-thorne-live-folk-tree-join-us  
+[160]: http://www.publicbroadcasting.net/ipr/events.eventsmain?action=showEvent&eventID=1428595  
 
 
 if you'd care to know, there are still details of lucie's old shows:
