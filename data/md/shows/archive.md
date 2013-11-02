@@ -1,5 +1,67 @@
 ## shows/archive  
+**[LOVE OVER GOLD][127]** - **USA Tour 2013**        
 
+**Sunday 13 October 2013**    
+**[THE TRIPLE DOOR][155]**      
+216 Union Street, SEATTLE, WA    
+supporting [GREG BROWN][156] 
+
+**Saturday 12 October 2013**  
+**[THE TREE HOUSE][154]**    
+4569 Lynwood Center Rd, BAINBRIDGE ISLAND, WA    
+supporting [GREG BROWN][156]   
+
+**Friday 11 October 2013**  
+**[THE SHEDD INSTITUTE][153]**    
+285 E Broadway, EUGENE, OR    
+supporting [GREG BROWN][156]    
+
+**Thursday 10th October 2013**  
+**[THE ROGUE THEATRE][152]**    
+143 SE H Street, GRANTS PASS, OR    
+supporting [GREG BROWN][156]    
+
+**Wednesday 9th October 2013**  
+**[THE BELFRY][151]**    
+302 E. Main Street, SISTERS, OR  
+supporting [GREG BROWN][156]      
+
+**Saturday 5th October 2013**    
+**[THE ENGLERT THEATRE][150]**      
+221 East Washington Street, IOWA CITY, IA    
+supporting [MASON JENNINGS][157]      
+*Lucie Thorne - solo*  
+
+**Friday 4th October 2013**  
+**[OLD TOWN SCHOOL OF FOLK MUSIC][149]**    
+4544 N. Lincoln Avenue, CHICAGO, IL   
+supporting [MASON JENNINGS][157]      
+*two shows - early & late*  
+
+**Thursday 3rd October 2013**  
+**[ROUTE 20 OUTHOUSE][148]**    
+14001 Washington Ave, STURTEVANT, WI    
+supporting [MASON JENNINGS][157]     
+
+**Wednesday 2nd October 2013**   
+**[CSPS Legion Arts Hall][147]**      
+1103 Third St SE, CEDAR RAPIDS, IA    
+
+**Tuesday 1st October 2013**  
+**[VAUDEVILLE MEWS][146]**       
+212 4th Street, DES MOINES, IA    
+*Live Recording for [Java Blend][160] with Ben Kieffer*    
+
+**Sunday 29th September 2013**  
+[STUDIO ONE][159]  
+Interview and live-to-air performance  
+Iowa Public Radio         
+
+**Saturday 28th September 2013**    
+[KNUCKLEHEADS][158]    
+2715 Rochester Ave, KANSAS CITY, MO  
+
+* * * * *  
 **VICTORIA**    
   
 **Friday 23rd August 2013**    
