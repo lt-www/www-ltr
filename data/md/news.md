@@ -1,3 +1,7 @@
+### 2 November 2013 | Rhythms Feature!  
+
+[LOVE OVER GOLD][124] grace the cover of this month's issue of Australian roots music magazine [Rhythms][132]! ...with a feature article inside. Pick up a copy folks x  
+
 ### 20 October 2013 | Thanks folks!
 
 Thanks to all the new friends and fans [LOVE OVER GOLD][124] has made over these past few weeks on the road across the USA. What a great tour! And the reviews for *Fall To Rise* keep rolling in, and glowing! ...including Four Stars in *Rolling Stone Magazine* and *The Weekend Australian*. You can read a selection of these [album reviews here][13]...
@@ -445,6 +449,7 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [129]: http://rhythms.com.au  
 [130]: https://itunes.apple.com/au/album/fall-to-rise/id686368656  
 [131]: http://iowapublicradio.org/post/pieta-brown-and-lucie-thorne-live-folk-tree-join-us
+[132]: https://rhythms.com.au/
 
 ### old news | archive
 
