@@ -4,9 +4,15 @@
 [KNUCKLEHEADS][158]    
 2715 Rochester Ave, KANSAS CITY, MO  
 
+**Sunday 29th September 2013**  
+[STUDIO ONE][159]  
+Interview and live-to-air performance  
+Iowa Public Radio    
+
 **Tuesday 1st October 2013**  
 **[VAUDEVILLE MEWS][146]**       
-212 4th Street, DES MOINES, IA  
+212 4th Street, DES MOINES, IA    
+*Live Recording for [Java Blend][160] with Ben Kieffer*  
 
 **Wednesday 2nd October 2013**   
 **[CSPS Legion Arts Hall][147]**      
@@ -197,4 +203,6 @@ Dalley Street, MULLUMBIMBY, NSW
 [155]: http://www.thetripledoor.net/
 [156]: http://gregbrownmusic.org/  
 [157]: http://masonjennings.com/
-[158]: http://www.knuckleheadshonkytonk.com  
+[158]: http://www.knuckleheadshonkytonk.com    
+[159]: http://iowapublicradio.org/post/pieta-brown-and-lucie-thorne-live-folk-tree-join-us  
+[160]: http://www.publicbroadcasting.net/ipr/events.eventsmain?action=showEvent&eventID=1428595
