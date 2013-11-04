@@ -1,5 +1,4 @@
-
-**[LOVE OVER GOLD][127]** - **Australian Tour 2013**  
+**[LOVE OVER GOLD][127]** (Lucie Thorne & Pieta Brown)- **Australian *Fall To Rise* Tour 2013**  
 
 **Thursday 14th November 2013**  
 **[THE BASEMENT][3.2]**  
