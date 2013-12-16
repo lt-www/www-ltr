@@ -1,64 +1,71 @@
-**[LOVE OVER GOLD][127]** (Lucie Thorne & Pieta Brown)- **Australian *Fall To Rise* Tour**  
+**TASMANIA**  
 
-**Thursday 14th November 2013**  
-**[THE BASEMENT][3.2]**  
-Macquarie Place, SYDNEY, NSW    
-*plus special guest Jack Carty*      
-8.30pm    
-[Tickets on sale now][140]     
- 
-**Friday 15th November 2013**  
-**[THE STREET THEATRE][141]**  
-Childers Street, CANBERRA, ACT  
-*plus special guest Alice Cottee (No Hausfrau)*      
-8pm  
-[Tickets on sale now][141.1]    
+**Thursday 9th January 2014**  
+**[FRESH ON CHARLES][162]**, Launceston  
+*Duet show with HAMISH STUART*     
+7.30pm / Bookings: 03 6331 4299  
 
-**Saturday 16th November 2013**  
-**THE TOWN HALL**  
-William Street, CANDELO, NSW  
-*plus special guest Kate Burke*      
-7.30pm   
-[Tickets on sale now][142] and also available
-through Magpie Music, Bega.  
-*presented by the Candelo Arts Society*       
+**Friday 10th - Sunday 12th January 2014**  
+**[CYGNET FOLK FESTIVAL][163]**, Cygnet    
+*Duet shows with HAMISH STUART*            
 
-**Wednesday 20th November**  
-**[THE THORNBURY THEATRE][111]**  
-High Street, MELBOURNE, VIC  
-*plus special guests Matt Walker & Shane Reilly*        
-8pm    
-[Tickets on sale now][143]   
+**Saturday 18th January 2014**    
+**HOUSE CONCERT**, Devonport     
+with 'Halfway to Fourth'  
+For bookings & inquiries email: thelizottes@aanet.com.au       
 
-**Thursday 21st November 2013**  
-**[MULLUM MUSIC FESTIVAL][145]**    
-**LOVE OVER GOLD** at the Opening Night Concert, Civic Hall  
-Dalley Street, MULLUMBIMBY, NSW    
-6pm  
-[Festival tickets on sale now][144]  
+**Friday 24th January 2014**    
+**THE ROSNY BARN**, Hobart   
+with THE YEARLINGS    
+7.30pm / [Tickets on sale now][164]  
 
-**Friday 22nd November 2013**  
-**[MULLUM MUSIC FESTIVAL][145]**    
-**LOVE OVER GOLD** at The Ex Services Club  
-Dalley Street, MULLUMBIMBY, NSW      
-8.30pm    
-[Festival tickets on sale now][144]  
+**Saturday 25th January 2014**   
+**THE LITTLE THEATRE**, Deloraine  
+with THE YEARLINGS     
+7.30pm / Tickets at the door         
 
-**Sunday 24th November 2013**  
-**[MULLUM MUSIC FESTIVAL][145]**    
-**LUCIE THORNE & HAMISH STUART** at The Drill Hall   
-Dalley Street, MULLUMBIMBY, NSW    
-1.45pm    
-[Festival tickets on sale now][144]  
+* * * * *   
 
-**Sunday 24th November 2013**  
-**[MULLUM MUSIC FESTIVAL][145]**    
-**LOVE OVER GOLD** at The Bowlo   
-Dalley Street, MULLUMBIMBY, NSW    
-5.30pm    
-[Festival tickets on sale now][144]  
+**VICTORIA**   
+
+**Thursday 30th January 2014**    
+**Pizza & Wine Club**, Kyneton    
+details tba    
+
+**Saturday 1st February 2014**   
+**LOT 19**, Castlemaine    
+details tba    
 
 * * * * *  
+
+**WESTERN AUSTRALIA**     
+
+**Wednesday 26th February 2014**  
+**HOUSE CONCERT**, Fremantle    
+*Duet show with HAMISH STUART*     
+details tba  
+
+**Thursday 27th February 2014**  
+**ELLINGTONS JAZZ CLUB**, Perth  
+*Duet show with HAMISH STUART*     
+details tba  
+
+**Friday 28th February 2014**  
+**SEAGARDENS**, Prevelly  
+*Duet show with HAMISH STUART*     
+details tba    
+
+**Saturday 1st March 2014**  
+**NANNUP MUSIC FESTIVAL**, Nannup    
+*Duet shows with HAMISH STUART*     
+details tba    
+
+**Sunday 2nd March 2014**  
+**SETTLERS TAVERN**, Margaret River      
+*Duet show with HAMISH STUART*     
+details tba    
+
+* * * * *    
 
 [past shows][archive]
 
@@ -142,3 +149,7 @@ Dalley Street, MULLUMBIMBY, NSW
 [158]: http://www.knuckleheadshonkytonk.com    
 [159]: http://iowapublicradio.org/post/pieta-brown-and-lucie-thorne-live-folk-tree-join-us  
 [160]: http://www.publicbroadcasting.net/ipr/events.eventsmain?action=showEvent&eventID=1428595
+[161]: http://www.artsmallacoota.org/page2.htm
+[162]: http://www.freshoncharles.com.au/event/lucie-thorne-live-at-fresh  
+[163]: http://www.cygnetfolkfestival.org/
+[164]: http://www.trybooking.com/EAAF
