@@ -34,6 +34,7 @@ details tba
 
 **Saturday 1st February 2014**   
 **LOT 19**, Castlemaine    
+with KIM DELLAVEDOVA  
 details tba    
 
 * * * * *  
@@ -67,6 +68,16 @@ details tba
 
 * * * * *    
 
+**VICTORIA**     
+
+**Friday 7th - Monday 10th March 2014**  
+**[PORT FAIRY FOLK FESTIVAL][99.1]**    
+[LOVE OVER GOLD][127] (Lucie Thorne & Pieta Brown)  
+details tba          
+
+*more [LOVE OVER GOLD][127] tour dates announced soon...*  
+
+* * * * *  
 [past shows][archive]
 
 [archive]: ?p=shows/archive/
