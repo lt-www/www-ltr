@@ -1,4 +1,62 @@
 ## shows/archive  
+
+**VICTORIA**  
+
+**Sunday 1st December 2013**    
+**MUDBRICK PAVILLION**, Mallacoota     
+
+* * * * *    
+
+**[LOVE OVER GOLD][127]** (Lucie Thorne & Pieta Brown)- **Australian *Fall To Rise* Tour**  
+
+**Sunday 24th November 2013**  
+**[MULLUM MUSIC FESTIVAL][34.1]**    
+***Pieta Brown & Lucie Thorne together as LOVE OVER GOLD***  
+The Bowlo, Dalley Street, MULLUMBIMBY, NSW      
+ 
+**Sunday 24th November 2013**  
+**[MULLUM MUSIC FESTIVAL][34.1]**    
+**LUCIE THORNE & HAMISH STUART**   
+The Drill Hall, Dalley Street, MULLUMBIMBY, NSW   
+
+**Friday 22nd November 2013**  
+**[MULLUM MUSIC FESTIVAL][34.1]**    
+***Pieta Brown & Lucie Thorne together as LOVE OVER GOLD***   
+The Ex Services Club, Dalley Street, MULLUMBIMBY, NSW       
+
+**Thursday 21st November 2013**  
+**[MULLUM MUSIC FESTIVAL][34.1]**    
+***Pieta Brown & Lucie Thorne together as LOVE OVER GOLD***   
+Opening Night Concert, Civic Hall  
+Dalley Street, MULLUMBIMBY, NSW  
+
+**Wednesday 20th November**  
+**[THE THORNBURY THEATRE][111]**  
+High Street, MELBOURNE, VIC  
+***Pieta Brown & Lucie Thorne together as LOVE OVER GOLD***   
+*plus special guests Matt Walker & Shane Reilly*        
+
+**Saturday 16th November 2013**  
+**THE TOWN HALL**  
+William Street, CANDELO, NSW  
+***nb: Lucie will now be performing solo for this show***    
+*plus special guest Kate Burke*      
+*presented by the Candelo Arts Society*       
+
+**Friday 15th November 2013**  
+**THE STREET THEATRE**  
+Childers Street, CANBERRA, ACT  
+***nb: Lucie will now be performing solo for this show***  
+*plus special guest Alice Cottee (No Hausfrau)*      
+
+**Thursday 14th November 2013**  
+**[THE BASEMENT][3.2]**  
+Macquarie Place, SYDNEY, NSW    
+***nb: Lucie will now be performing solo for this show***  
+*plus special guest Jack Carty*      
+
+* * * * *    
+
 **[LOVE OVER GOLD][127]** - **USA Tour 2013**        
 
 **Sunday 13 October 2013**    
