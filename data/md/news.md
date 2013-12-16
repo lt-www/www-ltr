@@ -1,3 +1,21 @@
+### 16 December 2013 | Summer touring...
+
+Lucie will be back on the road early in the new year, starting with shows in Tasmania - including duet performances with Hamish Stuart in Launceston and at the Cygnet Folk Festival, and two shows with The Yearlings in Hobart and Deloraine. Other summer dates include some solo performances around Victoria, a duet tour of Western Australia with Hamish Stuart, and then in March LOVE OVER GOLD return to play Port Fairy! Details on the [tour page][14], more announced soon... 
+
+### 29 November 2013 | Thanks x  
+
+Love and thanks to all who came out to these first-ever Australian LOVE OVER GOLD shows this past week! What a week!! Stay tuned for [LOVE OVER GOLD][124]'s 2014 tour-dates announcement coming soon!    
+
+Lucie will be playing her last show for the year this Sunday 1st December at the beautiful Mudbrick Pavilion in Mallacoota. [Details here][14].    
+
+### 19 November 2013 | LOVE OVER GOLD Re-United!  
+
+[LOVE OVER GOLD][124] re-unite in Melbourne! playing tomorrow night at the Velvet Room of the Thornbury Theatre. Today Lucie & Pieta will be singing over the airwaves together on pbsfm at 8am, Radio Australia at 10am, and ABC 774 at 3pm...  
+
+### 12 November 2013 | Changes...  
+
+Sad news just in - due to a death in her family Pieta Brown will not be able to make it out to Australia for the first week of these [Love Over Gold][124] shows. She will be there to join Lucie for their Melbourne (Wed 20 Nov - Thornbury Theatre) and Mullum Music Festival (21-24 Nov - Mullumbimby) shows as planned, and Lucie will proceed with solo performances for this week's shows in Sydney (Thur 14 Nov - The Basement), Canberra (Fri 15 Nov - Street Theatre) and Candelo (Sat 16 Nov - Town Hall).     
+
 ### 2 November 2013 | Rhythms Feature!  
 
 [LOVE OVER GOLD][124] grace the cover of this month's issue of Australian roots music magazine [Rhythms][132]! ...with a feature article inside. Pick up a copy folks x  
