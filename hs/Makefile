@@ -1,13 +1,16 @@
+HS_OPT = -Wall -fwarn-tabs -O2
+STATIC_OPT = -static -optc-static -optl-static -optl-pthread
+
 build-ghc:
-	ghc -Wall -fwarn-tabs --make ltr-cgi.hs -o ltr-cgi
+	ghc $(HS_OPT) --make ltr-cgi.hs -o ltr-cgi
 	strip -s ltr-cgi
 	cp ltr-cgi ../index.cgi
 
 build-ghc-static:
-	ghc -O2 --make -static -optc-static -optl-static -optl-pthread ltr-cgi.hs
-	strip -s ltr-cgi
-	cp ltr-cgi ../index.cgi
+	ghc $(HS_OPT) $(STATIC_OPT) --make ltr-cgi.hs -o ltr-cgi-static
+	strip -s ltr-cgi-static
+	cp ltr-cgi-static ../index.static.cgi
 
 clean:
 	rm -f *.hi *.o
-	rm -f ltr-cgi
+	rm -f ltr-cgi ltr-cgi-static
