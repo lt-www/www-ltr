@@ -28,15 +28,14 @@ with THE YEARLINGS
 
 **VICTORIA**   
 
-**Thursday 30th January 2014**    
-**Pizza & Wine Club**, Kyneton    
-details tba    
-
 **Saturday 1st February 2014**   
 **LOT 19**, Castlemaine    
 with KIM DELLAVEDOVA  
 details tba    
 
+**Thursday 20th February 2014**    
+**Pizza & Wine Club**, Kyneton    
+details tba  
 * * * * *  
 
 **WESTERN AUSTRALIA**     
