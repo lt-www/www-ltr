@@ -35,8 +35,9 @@ details tba
 
 **Thursday 20th February 2014**    
 **Pizza & Wine Club**, Kyneton    
-details tba  
-* * * * *  
+details tba    
+
+* * * * *    
 
 **WESTERN AUSTRALIA**     
 
