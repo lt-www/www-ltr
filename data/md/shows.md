@@ -29,13 +29,14 @@ with THE YEARLINGS
 **VICTORIA**   
 
 **Saturday 1st February 2014**   
-**LOT 19**, Castlemaine    
+**[LOT 19][165]**  
+Langslow Street, CASTLEMAINE      
 with KIM DELLAVEDOVA  
-details tba    
+7pm      
 
 **Thursday 20th February 2014**    
 **Pizza & Wine Club**, Kyneton    
-details tba    
+7pm      
 
 * * * * *    
 
@@ -164,3 +165,4 @@ details tba
 [162]: http://www.freshoncharles.com.au/event/lucie-thorne-live-at-fresh  
 [163]: http://www.cygnetfolkfestival.org/
 [164]: http://www.trybooking.com/EAAF
+[165]: http://www.lot19art.com/
