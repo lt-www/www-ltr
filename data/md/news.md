@@ -1,6 +1,6 @@
 ### 14 January 2014 | Love Over Gold return in March  
 
-Lucie's side project with Pieta Brown - [LOVE OVER GOLD][124] - has been announced as part of the lie up for three Australian music festivals in March; Port Fairy Folk Festival, Brunswick Music Festival, and the Blue Mountains Music Festival. Tickets for each of these are on sale now, see the [tour page][14] for details.  
+Lucie's side project with Pieta Brown - [LOVE OVER GOLD][124] - has been announced as part of the line up for three Australian music festivals in March; [Port Fairy Folk Festival][133], [Brunswick Music Festival][134], and the [Blue Mountains Music Festival][135]. Tickets for each of these are on sale now, see the [shows page][14] for details.  
 
 ### 16 December 2013 | Summer touring...
 
@@ -471,7 +471,10 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [129]: http://rhythms.com.au  
 [130]: https://itunes.apple.com/au/album/fall-to-rise/id686368656  
 [131]: http://iowapublicradio.org/post/pieta-brown-and-lucie-thorne-live-folk-tree-join-us
-[132]: https://rhythms.com.au/
+[132]: https://rhythms.com.au/  
+[133]: http://www.portfairyfolkfestival.com/
+[134]: http://www.brunswickmusicfestival.com.au/program-love-over-gold.htm
+[135]: http://www.bmff.org.au
 
 ### old news | archive
 
