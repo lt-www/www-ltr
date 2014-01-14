@@ -63,14 +63,26 @@ with KIM DELLAVEDOVA
 
 * * * * *    
 
-**VICTORIA**     
+**[LOVE OVER GOLD][127] (Lucie Thorne & Pieta Brown) - AUSTRALIAN TOUR MARCH 2014**    
 
-**Friday 7th - Monday 10th March 2014**  
+**Friday 7th - Monday 10th March 2014**    
+[LOVE OVER GOLD][127]   
 **[PORT FAIRY FOLK FESTIVAL][99.1]**    
-[LOVE OVER GOLD][127] (Lucie Thorne & Pieta Brown)  
-details tba          
+Port Fairy, Victoria.  
+[Tickets on sale now][99.1]  
 
-*more [LOVE OVER GOLD][127] tour dates announced soon...*  
+**Wednesday 12th March 2014**  
+**[BRUNSWICK MUSIC FESTIVAL][168]**    
+[LOVE OVER GOLD][127]   
+*Mechanics Institute Performing Arts Centre*.   
+Sydney Road, Melbourne, Victoria.  
+[Tickets on sale now][168]        
+
+**Friday 14th - Sunday 16th March 2014**   
+[LOVE OVER GOLD][127]   
+**[BLUE MOUNTAINS MUSIC FESTIVAL][169]**    
+Katoomba, NSW.    
+[Tickets on sale now][169]  
 
 * * * * *  
 [past shows][archive]
@@ -161,4 +173,6 @@ details tba
 [164]: http://www.trybooking.com/EAAF
 [165]: http://www.lot19art.com/  
 [166]: http://www.ellingtonjazz.com.au/  
-[167]: http://www.nannupmusicfestival.org/
+[167]: http://www.nannupmusicfestival.org/  
+[168]: http://www.brunswickmusicfestival.com.au/program-love-over-gold.htm    
+[169]: http://www.bmff.org.au    
