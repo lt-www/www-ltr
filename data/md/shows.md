@@ -44,28 +44,22 @@ with KIM DELLAVEDOVA
 
 **Wednesday 26th February 2014**  
 **HOUSE CONCERT**, Fremantle    
-*Duet show with HAMISH STUART*     
-details tba  
+*Duet show with HAMISH STUART*       
 
 **Thursday 27th February 2014**  
-**ELLINGTONS JAZZ CLUB**, Perth  
+**[ELLINGTONS JAZZ CLUB][166]**, Perth  
 *Duet show with HAMISH STUART*     
-details tba  
-
-**Friday 28th February 2014**  
-**SEAGARDENS**, Prevelly  
-*Duet show with HAMISH STUART*     
-details tba    
+7.30pm / [Tickets on sale now][166]       
 
 **Saturday 1st March 2014**  
-**NANNUP MUSIC FESTIVAL**, Nannup    
+**[NANNUP MUSIC FESTIVAL][167]**, Nannup    
 *Duet shows with HAMISH STUART*     
-details tba    
+[Tickets on sale now][167]        
 
 **Sunday 2nd March 2014**  
 **SETTLERS TAVERN**, Margaret River      
 *Duet show with HAMISH STUART*     
-details tba    
+3pm     
 
 * * * * *    
 
@@ -165,4 +159,6 @@ details tba
 [162]: http://www.freshoncharles.com.au/event/lucie-thorne-live-at-fresh  
 [163]: http://www.cygnetfolkfestival.org/
 [164]: http://www.trybooking.com/EAAF
-[165]: http://www.lot19art.com/
+[165]: http://www.lot19art.com/  
+[166]: http://www.ellingtonjazz.com.au/  
+[167]: http://www.nannupmusicfestival.org/
