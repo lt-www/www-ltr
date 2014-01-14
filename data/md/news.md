@@ -1,3 +1,7 @@
+### 14 January 2014 | Love Over Gold return in March  
+
+Lucie's side project with Pieta Brown - [LOVE OVER GOLD][124] - has been announced as part of the lie up for three Australian music festivals in March; Port Fairy Folk Festival, Brunswick Music Festival, and the Blue Mountains Music Festival. Tickets for each of these are on sale now, see the [tour page][14] for details.  
+
 ### 16 December 2013 | Summer touring...
 
 Lucie will be back on the road early in the new year, starting with shows in Tasmania - including duet performances with Hamish Stuart in Launceston and at the Cygnet Folk Festival, and two shows with The Yearlings in Hobart and Deloraine. Other summer dates include some solo performances around Victoria, a duet tour of Western Australia with Hamish Stuart, and then in March LOVE OVER GOLD return to play Port Fairy! Details on the [tour page][14], more announced soon... 
