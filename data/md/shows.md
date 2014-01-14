@@ -49,7 +49,7 @@ with KIM DELLAVEDOVA
 **Thursday 27th February 2014**  
 **[ELLINGTONS JAZZ CLUB][166]**, Perth  
 *Duet show with HAMISH STUART*     
-7.30pm / [Tickets on sale now][166]       
+7.30pm / [Tickets on sale now][166.1]       
 
 **Saturday 1st March 2014**  
 **[NANNUP MUSIC FESTIVAL][167]**, Nannup    
@@ -173,6 +173,7 @@ Katoomba, NSW.
 [164]: http://www.trybooking.com/EAAF
 [165]: http://www.lot19art.com/  
 [166]: http://www.ellingtonjazz.com.au/  
+[166.1]: http://www.ellingtonjazz.com.au/index.php/schedule/month/02/show/3012
 [167]: http://www.nannupmusicfestival.org/  
 [168]: http://www.brunswickmusicfestival.com.au/program-love-over-gold.htm    
 [169]: http://www.bmff.org.au    
