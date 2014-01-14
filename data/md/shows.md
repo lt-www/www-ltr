@@ -72,8 +72,8 @@ Port Fairy, Victoria.
 [Tickets on sale now][99.1]  
 
 **Wednesday 12th March 2014**  
-**[BRUNSWICK MUSIC FESTIVAL][168]**    
 [LOVE OVER GOLD][127]   
+**[BRUNSWICK MUSIC FESTIVAL][168]**    
 *Mechanics Institute Performing Arts Centre*.   
 Sydney Road, Melbourne, Victoria.  
 [Tickets on sale now][168]        
