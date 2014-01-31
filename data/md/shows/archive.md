@@ -1777,6 +1777,8 @@ RSL, Tamar Valley Folk Festival.
 [158]: http://www.knuckleheadshonkytonk.com    
 [159]: http://iowapublicradio.org/post/pieta-brown-and-lucie-thorne-live-folk-tree-join-us  
 [160]: http://www.publicbroadcasting.net/ipr/events.eventsmain?action=showEvent&eventID=1428595  
+[162]: http://www.freshoncharles.com.au/event/lucie-thorne-live-at-fresh  
+[163]: http://www.cygnetfolkfestival.org/
 
 
 if you'd care to know, there are still details of lucie's old shows:
