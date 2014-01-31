@@ -1,5 +1,30 @@
 ## shows/archive  
 
+**TASMANIA**  
+
+**Saturday 25th January 2014**   
+**THE LITTLE THEATRE**, Deloraine  
+with THE YEARLINGS     
+7.30pm / Tickets at the door    
+
+**Friday 24th January 2014**    
+**THE ROSNY BARN**, Hobart   
+with THE YEARLINGS      
+
+**Saturday 18th January 2014**    
+**HOUSE CONCERT**, Devonport     
+with 'Halfway to Fourth'          
+
+**Friday 10th - Sunday 12th January 2014**  
+**[CYGNET FOLK FESTIVAL][163]**, Cygnet    
+*Duet shows with HAMISH STUART*            
+
+**Thursday 9th January 2014**  
+**[FRESH ON CHARLES][162]**, Launceston  
+*Duet show with HAMISH STUART*   
+
+* * * * *     
+
 **VICTORIA**  
 
 **Sunday 1st December 2013**    
