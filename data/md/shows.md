@@ -1,15 +1,3 @@
-**VICTORIA**   
-
-**Saturday 1st February 2014**   
-**[LOT 19][165]**  
-Langslow Street, CASTLEMAINE      
-with KIM DELLAVEDOVA  
-7pm      
-
-**Thursday 20th February 2014**    
-**Pizza & Wine Club**, Kyneton    
-7pm      
-
 * * * * *    
 
 **WESTERN AUSTRALIA**     
