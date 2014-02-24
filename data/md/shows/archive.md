@@ -1,5 +1,16 @@
 ## shows/archive  
 
+**VICTORIA**    
+
+**Thursday 20th February 2014**   
+**PIZZA & WINE CLUB**, Kyneton           
+
+**Saturday 1st February 2014**   
+**LOT 19**, Castlemaine    
+with KIM DELLAVEDOVA       
+
+* * * * *     
+
 **TASMANIA**  
 
 **Saturday 25th January 2014**   
