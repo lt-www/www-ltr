@@ -1,3 +1,7 @@
+### 24 February 2014 | Western Australia  
+
+Lucie heads West this week for a run of shows in duet with the one n only Hamish Stuart; in Fremantle, Perth, Nannup and Margaret River. [Details here][14]  
+
 ### 14 January 2014 | Love Over Gold to return in March  
 
 Lucie's side project with [Pieta Brown][81] - [LOVE OVER GOLD][124] - has been announced as part of the line up for three Australian music festivals in March; [Port Fairy Folk Festival][133], [Brunswick Music Festival][134], and the [Blue Mountains Music Festival][135]. Tickets for each of these are on sale now, see the [shows page][14] for details.  
