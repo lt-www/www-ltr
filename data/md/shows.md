@@ -1,3 +1,11 @@
+**VICTORIA**    
+
+**Monday 24th February 2014**    
+interview and live-to-air performance on *Homebrew*    
+3PBSfm. 4pm      
+
+* * * * *    
+
 **WESTERN AUSTRALIA**     
 
 **Wednesday 26th February 2014**  
