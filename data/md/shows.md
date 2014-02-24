@@ -1,5 +1,3 @@
-* * * * *    
-
 **WESTERN AUSTRALIA**     
 
 **Wednesday 26th February 2014**  
@@ -36,6 +34,7 @@ Port Fairy, Victoria.
 **[BRUNSWICK MUSIC FESTIVAL][168]**    
 *Mechanics Institute Performing Arts Centre*.   
 Sydney Road, Melbourne, Victoria.  
+*early show* - 7pm  
 [Tickets on sale now][168]        
 
 **Friday 14th - Sunday 16th March 2014**   
