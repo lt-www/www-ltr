@@ -3,17 +3,20 @@
 **Friday 7th March 2014**    
 [LOVE OVER GOLD][127]   
 **[PORT FAIRY FOLK FESTIVAL][99.1]**    
-Stage 4, Port Fairy, Victoria.   
+Stage 4  
+Port Fairy, Victoria.   
 
 **Saturday 8th March 2014**    
 [LOVE OVER GOLD][127]   
 **[PORT FAIRY FOLK FESTIVAL][99.1]**    
-Stage 6, Port Fairy, Victoria.   
+Stage 6  
+Port Fairy, Victoria.   
 
 **Monday 10th March 2014**    
 [LOVE OVER GOLD][127]   
 **[PORT FAIRY FOLK FESTIVAL][99.1]**    
-Stage 4, Port Fairy, Victoria.   
+Stage 4  
+Port Fairy, Victoria.   
 
 **Tuesday 11th March 2014**    
 interview and live-to-air performance on *Evenings* with Lindy Burns.      
@@ -28,12 +31,14 @@ Sydney Road, Melbourne, Victoria.
 **Saturday 15th March 2014**   
 [LOVE OVER GOLD][127]   
 **[BLUE MOUNTAINS MUSIC FESTIVAL][169]**    
-Pavilion Stage, Katoomba, NSW.   
+Pavilion Stage  
+Katoomba, NSW.   
 
 **Sunday 16th March 2014**   
 [LOVE OVER GOLD][127]   
 **[BLUE MOUNTAINS MUSIC FESTIVAL][169]**    
-Bigtop Stage, Katoomba, NSW.     
+Bigtop Stage  
+Katoomba, NSW.     
 
 * * * * *  
 
@@ -42,7 +47,7 @@ Bigtop Stage, Katoomba, NSW.
 **Friday 11th April 2014**    
 The Thornbury Theatre, MELBOURNE  
 with JO JO SMITH - launching her album 'Standing in the Lovelight'   
-Tickets on sale now   
+[Tickets on sale now][170]     
 
 * * * * *  
 
@@ -166,3 +171,4 @@ details tba
 [167]: http://www.nannupmusicfestival.org/  
 [168]: http://www.brunswickmusicfestival.com.au/program-love-over-gold.htm    
 [169]: http://www.bmff.org.au    
+[170]: http://thethornburytheatre.com/event/jo-jo-smith-cd-launch-standing-lovelight/
