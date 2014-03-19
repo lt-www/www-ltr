@@ -1814,6 +1814,9 @@ RSL, Tamar Valley Folk Festival.
 [160]: http://www.publicbroadcasting.net/ipr/events.eventsmain?action=showEvent&eventID=1428595  
 [162]: http://www.freshoncharles.com.au/event/lucie-thorne-live-at-fresh  
 [163]: http://www.cygnetfolkfestival.org/
+[167]: http://www.nannupmusicfestival.org/  
+[168]: http://www.brunswickmusicfestival.com.au/program-love-over-gold.htm    
+[169]: http://www.bmff.org.au    
 
 
 if you'd care to know, there are still details of lucie's old shows:
