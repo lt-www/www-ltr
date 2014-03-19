@@ -36,6 +36,46 @@ Pavilion Stage, Katoomba, NSW.
 Bigtop Stage, Katoomba, NSW.     
 
 * * * * *  
+
+**VICTORIA**  
+
+**Friday 11th April 2014**    
+The Thornbury Theatre, MELBOURNE  
+with JO JO SMITH - launching her album 'Standing in the Lovelight'   
+Tickets on sale now   
+
+* * * * *  
+
+**NSW**   
+
+**Wednesday 23rd April 2014**    
+Sunset Studio, NEWCASTLE  
+duo show with HAMISH STUART  
+7pm  
+
+**Saturday 26th April 2014**    
+Yours & Owls, WOLLONGONG    
+duo show with HAMISH STUART  
+7pm    
+
+* * * * *  
+
+**VICTORIA**    
+
+**Friday 9th May 2014**    
+Martians Cafe, DEANS MARSH    
+details tba  
+
+**Saturday 10th May 2014**    
+Main Bar, BALLARAT      
+details tba  
+ 
+**Sunday 11th May 2014**    
+The Old Hepburn Hotel, HEPBURN SPRINGS        
+details tba      
+
+* * * * *    
+
 [past shows][archive]
 
 [archive]: ?p=shows/archive/
