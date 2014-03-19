@@ -1,55 +1,34 @@
-**VICTORIA**    
-
-**Monday 24th February 2014**    
-interview and live-to-air performance on *Homebrew*    
-3PBSfm. 4pm      
-
-* * * * *    
-
-**WESTERN AUSTRALIA**     
-
-**Wednesday 26th February 2014**  
-**HOUSE CONCERT**, Fremantle    
-*Duet show with HAMISH STUART*       
-
-**Thursday 27th February 2014**  
-**[ELLINGTONS JAZZ CLUB][166]**, Perth  
-*Duet show with HAMISH STUART*     
-7.30pm / [Tickets on sale now][166.1]       
-
-**Saturday 1st March 2014**  
-**[NANNUP MUSIC FESTIVAL][167]**, Nannup    
-*Duet shows with HAMISH STUART*     
-[Tickets on sale now][167]        
-
-**Sunday 2nd March 2014**  
-**SETTLERS TAVERN**, Margaret River      
-*Duet show with HAMISH STUART*     
-3pm     
-
-* * * * *    
-
 **[LOVE OVER GOLD][127] (Lucie Thorne & Pieta Brown) - AUSTRALIAN TOUR MARCH 2014**    
 
-**Friday 7th - Monday 10th March 2014**    
+**Friday 7th March 2014**    
 [LOVE OVER GOLD][127]   
 **[PORT FAIRY FOLK FESTIVAL][99.1]**    
-Port Fairy, Victoria.  
-[Tickets on sale now][99.1]  
+Port Fairy, Victoria.   
+
+**Saturday 8th March 2014**    
+[LOVE OVER GOLD][127]   
+**[PORT FAIRY FOLK FESTIVAL][99.1]**    
+Port Fairy, Victoria.   
+
+**Monday 10th March 2014**    
+[LOVE OVER GOLD][127]   
+**[PORT FAIRY FOLK FESTIVAL][99.1]**    
+Port Fairy, Victoria.   
+
+**Tuesday 11th March 2014**    
+interview and live-to-air performance on *Evenings* with Lindy Burns.      
+ABC radio 774.        
 
 **Wednesday 12th March 2014**  
 [LOVE OVER GOLD][127]   
 **[BRUNSWICK MUSIC FESTIVAL][168]**    
 *Mechanics Institute Performing Arts Centre*.   
-Sydney Road, Melbourne, Victoria.  
-*early show* - 7pm  
-[Tickets on sale now][168]        
+Sydney Road, Melbourne, Victoria.        
 
 **Friday 14th - Sunday 16th March 2014**   
 [LOVE OVER GOLD][127]   
 **[BLUE MOUNTAINS MUSIC FESTIVAL][169]**    
 Katoomba, NSW.    
-[Tickets on sale now][169]  
 
 * * * * *  
 [past shows][archive]
