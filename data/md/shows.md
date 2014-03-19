@@ -3,17 +3,17 @@
 **Friday 7th March 2014**    
 [LOVE OVER GOLD][127]   
 **[PORT FAIRY FOLK FESTIVAL][99.1]**    
-Port Fairy, Victoria.   
+Stage 4, Port Fairy, Victoria.   
 
 **Saturday 8th March 2014**    
 [LOVE OVER GOLD][127]   
 **[PORT FAIRY FOLK FESTIVAL][99.1]**    
-Port Fairy, Victoria.   
+Stage 6, Port Fairy, Victoria.   
 
 **Monday 10th March 2014**    
 [LOVE OVER GOLD][127]   
 **[PORT FAIRY FOLK FESTIVAL][99.1]**    
-Port Fairy, Victoria.   
+Stage 4, Port Fairy, Victoria.   
 
 **Tuesday 11th March 2014**    
 interview and live-to-air performance on *Evenings* with Lindy Burns.      
@@ -25,10 +25,15 @@ ABC radio 774.
 *Mechanics Institute Performing Arts Centre*.   
 Sydney Road, Melbourne, Victoria.        
 
-**Friday 14th - Sunday 16th March 2014**   
+**Saturday 15th March 2014**   
 [LOVE OVER GOLD][127]   
 **[BLUE MOUNTAINS MUSIC FESTIVAL][169]**    
-Katoomba, NSW.    
+Pavilion Stage, Katoomba, NSW.   
+
+**Sunday 16th March 2014**   
+[LOVE OVER GOLD][127]   
+**[BLUE MOUNTAINS MUSIC FESTIVAL][169]**    
+Bigtop Stage, Katoomba, NSW.     
 
 * * * * *  
 [past shows][archive]
@@ -118,8 +123,6 @@ Katoomba, NSW.
 [163]: http://www.cygnetfolkfestival.org/
 [164]: http://www.trybooking.com/EAAF
 [165]: http://www.lot19art.com/  
-[166]: http://www.ellingtonjazz.com.au/  
-[166.1]: http://www.ellingtonjazz.com.au/index.php/schedule/month/02/show/3012
 [167]: http://www.nannupmusicfestival.org/  
 [168]: http://www.brunswickmusicfestival.com.au/program-love-over-gold.htm    
 [169]: http://www.bmff.org.au    
