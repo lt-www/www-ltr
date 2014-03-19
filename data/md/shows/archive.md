@@ -1,7 +1,31 @@
 ## shows/archive  
 
+**WESTERN AUSTRALIA**     
+
+**Sunday 2nd March 2014**  
+**SETTLERS TAVERN**, Margaret River      
+*Duet show with HAMISH STUART*   
+
+**Saturday 1st March 2014**  
+**[NANNUP MUSIC FESTIVAL][167]**, Nannup    
+*Duet shows with HAMISH STUART*       
+     
+**Thursday 27th February 2014**  
+**[ELLINGTONS JAZZ CLUB][102]**, Perth  
+*Duet show with HAMISH STUART*     
+   
+**Wednesday 26th February 2014**  
+**HOUSE CONCERT**, Fremantle    
+*Duet show with HAMISH STUART*  
+
+* * * * *    
+
 **VICTORIA**    
 
+**Monday 24th February 2014**    
+interview and live-to-air performance on *Homebrew*    
+3PBSfm. 4pm      
+ 
 **Thursday 20th February 2014**   
 **PIZZA & WINE CLUB**, Kyneton           
 
