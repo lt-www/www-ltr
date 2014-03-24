@@ -62,6 +62,40 @@ details tba
 
 * * * * *      
 
+**VICTORIA**    
+
+**Saturday 31st May 2014**    
+Harmony Row, Pastoria Valley Vineyard, PASTORIA EAST      
+details tba    
+
+**Wednesday 4th June 2014**    
+The Melbourne Folk Club  
+Bella Union at Trades Hall, MELBOURNE        
+details tba  
+
+* * * * *  
+
+**ACT**   
+
+**Wednesday 18th June 2014**    
+Smiths Bookstore, CANBERRA    
+details tba    
+
+**NSW**  
+
+**Thursday 19th June 2014**    
+The Grand Junction, MAITLAND      
+details tba    
+
+**Friday 20th June 2014**    
+#5 Church Street, BELLINGEN        
+details tba    
+
+**Saturday 21st June 2014**    
+St Martin's Hall, MULLUMBIMBY          
+details tba  
+
+* * * * *  
 [past shows][archive]
 
 [archive]: ?p=shows/archive/
