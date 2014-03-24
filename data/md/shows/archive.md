@@ -1,5 +1,49 @@
 ## shows/archive  
 
+**[LOVE OVER GOLD][127] (Lucie Thorne & Pieta Brown) - AUSTRALIAN TOUR MARCH 2014**    
+
+**Sunday 16th March 2014**   
+[LOVE OVER GOLD][127]   
+**[BLUE MOUNTAINS MUSIC FESTIVAL][169]**    
+Bigtop Stage  
+Katoomba, NSW.   
+
+**Saturday 15th March 2014**   
+[LOVE OVER GOLD][127]   
+**[BLUE MOUNTAINS MUSIC FESTIVAL][169]**    
+Pavilion Stage  
+Katoomba, NSW.   
+
+**Wednesday 12th March 2014**  
+[LOVE OVER GOLD][127]   
+**[BRUNSWICK MUSIC FESTIVAL][168]**    
+*Mechanics Institute Performing Arts Centre*.   
+Sydney Road, Melbourne, Victoria.       
+
+**Tuesday 11th March 2014**    
+interview and live-to-air performance on *Evenings* with Lindy Burns.      
+ABC radio 774.        
+
+**Monday 10th March 2014**    
+[LOVE OVER GOLD][127]   
+**[PORT FAIRY FOLK FESTIVAL][99.1]**    
+Stage 4  
+Port Fairy, Victoria.   
+ 
+**Saturday 8th March 2014**    
+[LOVE OVER GOLD][127]   
+**[PORT FAIRY FOLK FESTIVAL][99.1]**    
+Stage 6  
+Port Fairy, Victoria.   
+
+**Friday 7th March 2014**    
+[LOVE OVER GOLD][127]   
+**[PORT FAIRY FOLK FESTIVAL][99.1]**    
+Stage 4  
+Port Fairy, Victoria.   
+  
+* * * * *  
+
 **WESTERN AUSTRALIA**     
 
 **Sunday 2nd March 2014**  
