@@ -1,48 +1,9 @@
-**[LOVE OVER GOLD][127] (Lucie Thorne & Pieta Brown) - AUSTRALIAN TOUR MARCH 2014**    
-
-**Friday 7th March 2014**    
-[LOVE OVER GOLD][127]   
-**[PORT FAIRY FOLK FESTIVAL][99.1]**    
-Stage 4  
-Port Fairy, Victoria.   
-
-**Saturday 8th March 2014**    
-[LOVE OVER GOLD][127]   
-**[PORT FAIRY FOLK FESTIVAL][99.1]**    
-Stage 6  
-Port Fairy, Victoria.   
-
-**Monday 10th March 2014**    
-[LOVE OVER GOLD][127]   
-**[PORT FAIRY FOLK FESTIVAL][99.1]**    
-Stage 4  
-Port Fairy, Victoria.   
-
-**Tuesday 11th March 2014**    
-interview and live-to-air performance on *Evenings* with Lindy Burns.      
-ABC radio 774.        
-
-**Wednesday 12th March 2014**  
-[LOVE OVER GOLD][127]   
-**[BRUNSWICK MUSIC FESTIVAL][168]**    
-*Mechanics Institute Performing Arts Centre*.   
-Sydney Road, Melbourne, Victoria.        
-
-**Saturday 15th March 2014**   
-[LOVE OVER GOLD][127]   
-**[BLUE MOUNTAINS MUSIC FESTIVAL][169]**    
-Pavilion Stage  
-Katoomba, NSW.   
-
-**Sunday 16th March 2014**   
-[LOVE OVER GOLD][127]   
-**[BLUE MOUNTAINS MUSIC FESTIVAL][169]**    
-Bigtop Stage  
-Katoomba, NSW.     
-
-* * * * *  
-
 **VICTORIA**  
+
+**Friday 4th April 2014**    
+The Theatre Royal, CASTLEMAINE  
+supporting Tex Perkins & Charlie Owen  
+7.30pm     
 
 **Friday 11th April 2014**    
 The Thornbury Theatre, MELBOURNE  
@@ -80,6 +41,26 @@ The Old Hepburn Hotel, HEPBURN SPRINGS
 details tba      
 
 * * * * *    
+
+**SOUTH AUSTRALIA**  
+
+**Friday 16th May 2014**    
+The Wheatsheaf, ADELAIDE      
+*duet show with HAMISH STUART*  
+plus special guests *Halfway To Forth*    
+details tba  
+
+**Saturday 17th May 2014**    
+The Song Room, Barossa Regional Gallery, TANUNDA        
+*duet show with HAMISH STUART*  
+details tba  
+
+**Saturday 23rd May 2014**    
+The Singing Gallery, McLAREN VALE          
+plus special guests *Halfway To Forth*    
+details tba      
+
+* * * * *      
 
 [past shows][archive]
 
