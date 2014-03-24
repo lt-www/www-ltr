@@ -2,12 +2,12 @@
 
 **Friday 4th April 2014**    
 The Theatre Royal, CASTLEMAINE  
-supporting Tex Perkins & Charlie Owen  
+*supporting Tex Perkins & Charlie Owen*  
 7.30pm     
 
 **Friday 11th April 2014**    
 The Thornbury Theatre, MELBOURNE  
-with JO JO SMITH - launching her album 'Standing in the Lovelight'   
+*with JO JO SMITH - launching her album 'Standing in the Lovelight'*     
 [Tickets on sale now][170]     
 
 * * * * *  
@@ -16,12 +16,12 @@ with JO JO SMITH - launching her album 'Standing in the Lovelight'
 
 **Wednesday 23rd April 2014**    
 Sunset Studio, NEWCASTLE  
-duo show with HAMISH STUART  
+*duet show with HAMISH STUART*    
 7pm  
 
 **Saturday 26th April 2014**    
 Yours & Owls, WOLLONGONG    
-duo show with HAMISH STUART  
+*duet show with HAMISH STUART*    
 7pm    
 
 * * * * *  
