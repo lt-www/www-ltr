@@ -22,7 +22,7 @@ Sunset Studio, NEWCASTLE
 **Saturday 26th April 2014**    
 Yours & Owls, WOLLONGONG    
 *duet show with HAMISH STUART*    
-7pm    
+8pm    
 
 * * * * *  
 
