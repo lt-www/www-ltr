@@ -17,6 +17,8 @@ Sunset Studio, NEWCASTLE
 **Saturday 26th April 2014**    
 Rad Bar (formerly Yours & Owls), WOLLONGONG    
 *duet show with HAMISH STUART*    
+with Laurie Whitby    
+[presale tickets available here][171]  
 8pm    
 
 * * * * *  
@@ -25,15 +27,18 @@ Rad Bar (formerly Yours & Owls), WOLLONGONG
 
 **Friday 9th May 2014**    
 Martians Cafe, DEANS MARSH    
-details tba  
+with special guest SAL KIMBER    
+7.30pm  
 
 **Saturday 10th May 2014**    
 Main Bar, BALLARAT      
-details tba  
- 
+with special guest SAL KIMBER   
+7.30pm  
+
 **Sunday 11th May 2014**    
 The Old Hepburn Hotel, HEPBURN SPRINGS        
-details tba      
+with special guest SAL KIMBER   
+4pm     
 
 * * * * *    
 
@@ -182,3 +187,4 @@ details tba
 [168]: http://www.brunswickmusicfestival.com.au/program-love-over-gold.htm    
 [169]: http://www.bmff.org.au    
 [170]: http://thethornburytheatre.com/event/jo-jo-smith-cd-launch-standing-lovelight/
+[171]: https://thelittleboxoffice.com/yoursandowls/event/view/11370
