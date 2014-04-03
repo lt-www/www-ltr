@@ -4,6 +4,7 @@
 The Thornbury Theatre, MELBOURNE  
 *with JO JO SMITH - launching her album 'Standing in the Lovelight'*     
 [Tickets on sale now][170]     
+8pm  
 
 * * * * *  
 
@@ -33,7 +34,7 @@ with special guest SAL KIMBER
 **Saturday 10th May 2014**    
 Main Bar, BALLARAT      
 with special guest SAL KIMBER   
-7.30pm  
+8pm  
 
 **Sunday 11th May 2014**    
 The Old Hepburn Hotel, HEPBURN SPRINGS        
