@@ -93,6 +93,7 @@ details tba
 
 **Saturday 21st June 2014**    
 St Martin's Hall, MULLUMBIMBY          
+plus special guest JIMMY DOWLING  
 details tba  
 
 * * * * *  
