@@ -29,19 +29,19 @@ with Laurie Whitby
 **Friday 9th May 2014**    
 Martians Cafe, DEANS MARSH    
 with special guest SAL KIMBER    
-Bookings: 03 52363350
+Bookings: 03 52363350  
 7.30pm  
 
 **Saturday 10th May 2014**    
 Main Bar, BALLARAT      
 with special guest SAL KIMBER   
-Bookings: 03 5333 7722
+Bookings: 03 5333 7722  
 8pm  
 
 **Sunday 11th May 2014**    
 The Old Hepburn Hotel, HEPBURN SPRINGS        
 with special guest SAL KIMBER   
-Bookings: 03 5348 2207
+Bookings: 03 5348 2207  
 4pm     
 
 * * * * *    
