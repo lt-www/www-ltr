@@ -77,6 +77,11 @@ The Melbourne Folk Club
 Bella Union at Trades Hall, MELBOURNE        
 details tba  
 
+**Saturday 14th June 2014**  
+Baby Black Cafe, BACCHUS MARSH  
+with LIZ STRINGER  
+details tba  
+
 * * * * *  
 
 **ACT**   
