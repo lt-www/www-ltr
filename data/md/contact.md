@@ -2,7 +2,7 @@
 
 > Chas Jagger - Brightlight Agency  
 > +61 (0) 421 448 037  
-> <chas.brightlightagency@gmail.dot.com>
+> <chas@brightlightagency.com.au>  
 
 **Media inquiries:**
 
