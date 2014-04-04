@@ -24,8 +24,9 @@
 **write to Lucie:**
 
 > C/ - Little Secret Records  
-> Bimbaya, via Candelo  
-> NSW 2550  
+> PO Box 204    
+> Pascoe Vale South  
+> Victoria 3044    
 > Australia  
 > <lucie@luciethorne.com>
 
