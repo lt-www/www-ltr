@@ -12,9 +12,11 @@ via paypal or with your credit card [direct from us][10]
 or you can send a cheque or money order to the address below.  
 (AU$25 per CD includes postage within Australia / AU$28 per CD includes shipping to the rest of the world...)  
 
-> Little Secret Records  
-> C/ - Bimbaya, via Candelo  
-> NSW 2550  
+> Lucie Thorne  
+> C/- Little Secret Records  
+> PO Box 204  
+> Pascoe Vale South    
+> Victoria 3044    
 > Australia  
 
 **DIGITAL DOWNLOAD:**    
