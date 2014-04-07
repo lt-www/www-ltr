@@ -52,17 +52,19 @@ Bookings: 03 5348 2207
 The Wheatsheaf, ADELAIDE      
 *duet show with HAMISH STUART*  
 plus special guests *Halfway To Forth*    
-details tba  
+9pm   
 
 **Saturday 17th May 2014**    
 The Song Room, Barossa Regional Gallery, TANUNDA        
 *duet show with HAMISH STUART*  
-details tba  
+Bookings: 0417084191    
+7pm  
 
 **Saturday 23rd May 2014**    
 The Singing Gallery, McLAREN VALE          
 plus special guests *Halfway To Forth*    
-details tba      
+Bookings: 0413 358 618     
+7.30pm  
 
 * * * * *      
 
