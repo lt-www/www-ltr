@@ -60,7 +60,7 @@ The Song Room, Barossa Regional Gallery, TANUNDA
 Bookings: 0417084191    
 7pm  
 
-**Saturday 23rd May 2014**    
+**Friday 23rd May 2014**    
 The Singing Gallery, McLAREN VALE          
 plus special guests *Halfway To Forth*    
 Bookings: 0413 358 618     
