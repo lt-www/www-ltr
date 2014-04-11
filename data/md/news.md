@@ -1,3 +1,11 @@
+### 11 April 2014 | Tonight       
+
+Lucie will be performing tonight at Melbourne's beautiful Thornbury Theatre, warming things up for the fabulous Jo Jo Smith who's launching her new album, 'Standing in the Lovelight'. Show starts 8pm.  
+
+### 7 March 2014 | Port Fairy this weekend     
+
+LOVE OVER GOLD - Lucie's collaboration with US songstress Pieta Brown - is back on the road and playing this weekend at the Port Fairy Folk Festival! Full festival line-up and program available [here][133].    
+
 ### 24 February 2014 | Western Australia  
 
 Lucie heads West this week for a run of shows in duet with the one n only Hamish Stuart; in Fremantle, Perth, Nannup and Margaret River. [Details here][14]  
