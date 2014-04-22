@@ -1,3 +1,7 @@
+### 22 April 2014 | Two Duets  
+
+Lucie will be playing two duet shows with Hamish Stuart this week - tomorrow night in Newcastle, and Saturday night in Wollongong. [Details here][14]      
+
 ### 11 April 2014 | Tonight       
 
 Lucie will be performing tonight at Melbourne's beautiful Thornbury Theatre, warming things up for the fabulous Jo Jo Smith who's launching her new album, 'Standing in the Lovelight'. Show starts 8pm.  
