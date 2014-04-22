@@ -1,13 +1,3 @@
-**VICTORIA**  
-
-**Friday 11th April 2014**    
-The Thornbury Theatre, MELBOURNE  
-*with JO JO SMITH - launching her album 'Standing in the Lovelight'*     
-[Tickets on sale now][170]     
-8pm  
-
-* * * * *  
-
 **NSW**   
 
 **Wednesday 23rd April 2014**    
