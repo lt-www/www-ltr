@@ -1,5 +1,13 @@
 ## shows/archive  
 
+**VICTORIA**  
+
+**Friday 11th April 2014**    
+The Thornbury Theatre, MELBOURNE  
+with JO JO SMITH*     
+   
+* * * * *    
+
 **[LOVE OVER GOLD][127] (Lucie Thorne & Pieta Brown) - AUSTRALIAN TOUR MARCH 2014**    
 
 **Sunday 16th March 2014**   
