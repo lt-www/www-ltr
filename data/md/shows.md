@@ -1,12 +1,12 @@
 **NSW**   
 
 **Wednesday 23rd April 2014**    
-Sunset Studio, NEWCASTLE  
+Sunset Studio, 1-3 Maitland Rd, NEWCASTLE  
 *duet show with HAMISH STUART*    
 7pm  
 
 **Saturday 26th April 2014**    
-Rad Bar (formerly Yours & Owls), WOLLONGONG    
+Rad Bar (formerly Yours & Owls), Crown St, WOLLONGONG    
 *duet show with HAMISH STUART*    
 with Laurie Whitby    
 [presale tickets available here][171]  
