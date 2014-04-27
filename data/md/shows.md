@@ -14,6 +14,7 @@ with Laurie Whitby
 
 **Sunday 27th April 2014**   
 *interview and live-to-air performance on The Morning show with Simon Marnie.*    
+*with HAMISH STUART*   
 ABC Radio Statewide.   
 10.30am  
 
