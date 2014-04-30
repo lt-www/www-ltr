@@ -1,19 +1,19 @@
 **VICTORIA**    
 
 **Friday 9th May 2014**    
-Martians Cafe, DEANS MARSH    
+[Martians Cafe][171], DEANS MARSH    
 with special guest SAL KIMBER    
 Bookings: 03 52363350  
 7.30pm  
 
 **Saturday 10th May 2014**    
-Main Bar, BALLARAT      
+[Main Bar][172], BALLARAT      
 with special guest SAL KIMBER   
 Bookings: 03 5333 7722  
 8pm  
 
 **Sunday 11th May 2014**    
-The Old Hepburn Hotel, HEPBURN SPRINGS        
+[The Old Hepburn Hotel][173], HEPBURN SPRINGS        
 with special guest SAL KIMBER   
 Bookings: 03 5348 2207  
 4pm     
@@ -173,4 +173,6 @@ details tba
 [168]: http://www.brunswickmusicfestival.com.au/program-love-over-gold.htm    
 [169]: http://www.bmff.org.au    
 [170]: http://thethornburytheatre.com/event/jo-jo-smith-cd-launch-standing-lovelight/
-[171]: https://thelittleboxoffice.com/yoursandowls/event/view/11370
+[171]: http://www.martianscafe.com.au/#!Lucie%20Thorne%20%26%20Sal%20Kimber/cye6/hsvjhr3d22  
+[172]: http://www.themainbar.com.au/  
+[173]: http://oldhepburnhotel.com.au/cms/events/bands/lucie-thorne/
