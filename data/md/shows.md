@@ -23,7 +23,7 @@ Bookings: 03 5348 2207
 **SOUTH AUSTRALIA**  
 
 **Friday 16th May 2014**    
-The Wheatsheaf, ADELAIDE      
+[The Wheatsheaf][174], ADELAIDE      
 *duet show with HAMISH STUART*  
 plus special guests *Halfway To Forth*    
 9pm   
@@ -35,7 +35,7 @@ Bookings: 0417084191
 7pm  
 
 **Friday 23rd May 2014**    
-The Singing Gallery, McLAREN VALE          
+[The Singing Gallery][175], McLAREN VALE          
 plus special guests *Halfway To Forth*    
 Bookings: 0413 358 618     
 7.30pm  
@@ -176,3 +176,5 @@ details tba
 [171]: http://www.martianscafe.com.au/#!Lucie%20Thorne%20%26%20Sal%20Kimber/cye6/hsvjhr3d22  
 [172]: http://www.themainbar.com.au/  
 [173]: http://oldhepburnhotel.com.au/cms/events/bands/lucie-thorne/
+[174]: http://wheatsheafhotel.com.au/gigs
+[175]: http://www.singinggallery.com.au/  
