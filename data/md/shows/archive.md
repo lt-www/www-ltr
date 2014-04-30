@@ -1,5 +1,22 @@
 ## shows/archive  
 
+**NSW** 
+  
+**Sunday 27th April 2014**   
+interview and live-to-air performance on *The Morning show with Simon Marnie.*    
+*with HAMISH STUART*   
+ABC Radio Statewide.  
+
+**Wednesday 23rd April 2014**    
+Sunset Studio, 1-3 Maitland Rd, NEWCASTLE  
+*duet show with HAMISH STUART*    
+
+**Saturday 26th April 2014**    
+Rad Bar (formerly Yours & Owls), Crown St, WOLLONGONG    
+*duet show with HAMISH STUART*  
+
+* * * * *    
+
 **VICTORIA**  
 
 **Friday 11th April 2014**    
