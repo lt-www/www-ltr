@@ -28,25 +28,25 @@ Bookings: 03 5348 2207
 plus special guests *Halfway To Forth*    
 9pm   
 
-**Saturday 17th May 2014**    
-The Song Room, Barossa Regional Gallery, TANUNDA        
-*duet show with HAMISH STUART*  
-Bookings: 0417084191    
-7pm  
-
 **Friday 23rd May 2014**    
 [The Singing Gallery][175], McLAREN VALE          
 plus special guests *Halfway To Forth*    
 Bookings: 0413 358 618     
 7.30pm  
 
+**Sunday 25th May 2014**    
+Barossa Valley Brasserie, TANUNDA        
+Bookings:  08 8563 0696  
+2pm  
+ 
 * * * * *      
 
 **VICTORIA**    
 
 **Saturday 31st May 2014**    
-Harmony Row, Pastoria Valley Vineyard, PASTORIA EAST      
-details tba    
+[Harmony Row][176], Pastoria Valley Vineyard, PASTORIA EAST      
+Concert at 2pm / Lunch & Show tickets also available      
+Bookings: 03 54 235 286      
 
 **Wednesday 4th June 2014**    
 The Melbourne Folk Club  
@@ -178,3 +178,4 @@ details tba
 [173]: http://oldhepburnhotel.com.au/cms/events/bands/lucie-thorne/
 [174]: http://wheatsheafhotel.com.au/gigs
 [175]: http://www.singinggallery.com.au/  
+[176]: http://harmonyrow.com.au/concerts-other-events/
