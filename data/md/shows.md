@@ -66,23 +66,27 @@ Bookings: 03 5367 5156
 **ACT**   
 
 **Wednesday 18th June 2014**    
-Smiths Bookstore, CANBERRA    
-details tba    
+[Smiths Alternative Bookstore][179]  
+76 Alinga Street, CANBERRA  
+Doors at 7pm / show starts 8pm  
+[Tickets on sale now][179]      
 
 **NSW**  
 
 **Thursday 19th June 2014**    
 The Grand Junction, MAITLAND      
-details tba    
+8pm    
 
 **Friday 20th June 2014**    
 #5 Church Street, BELLINGEN        
-details tba    
+7pm  
+Bookings: 02 6655 0155      
 
 **Saturday 21st June 2014**    
 St Martin's Hall, MULLUMBIMBY          
 plus special guest JIMMY DOWLING  
-details tba  
+8pm  
+[Tickets on sale now][180]  
 
 * * * * *  
 [past shows][archive]
@@ -184,3 +188,5 @@ details tba
 [176]: http://harmonyrow.com.au/concerts-other-events/  
 [177]: http://www.themelbournefolkclub.com/june-4th/ 
 [178]: http://www.lizstringer.com  
+[179]: http://www.trybooking.com/85864 
+[180]: http://www.mullummusic.com  
