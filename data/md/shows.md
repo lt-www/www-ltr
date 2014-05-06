@@ -57,7 +57,7 @@ Doors at 8pm.
 
 **Saturday 14th June 2014**  
 Baby Black Cafe, BACCHUS MARSH  
-double-bill with LIZ STRINGER    
+double-bill with [LIZ STRINGER][178]      
 early show: starts 7pm  
 Bookings: 03 5367 5156  
 
@@ -183,3 +183,4 @@ details tba
 [175]: http://www.singinggallery.com.au/  
 [176]: http://harmonyrow.com.au/concerts-other-events/  
 [177]: http://www.themelbournefolkclub.com/june-4th/ 
+[178]: http://www.lizstringer.com  
