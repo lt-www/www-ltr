@@ -49,14 +49,17 @@ Concert at 2pm / Lunch & Show tickets also available
 Bookings: 03 54 235 286      
 
 **Wednesday 4th June 2014**    
-The Melbourne Folk Club  
+[The Melbourne Folk Club][177]    
 Bella Union at Trades Hall, MELBOURNE        
-details tba  
+with Jackson McLaren and Luka Lesson.  
+Doors at 8pm.  
+[Bookings/info here][177]  
 
 **Saturday 14th June 2014**  
 Baby Black Cafe, BACCHUS MARSH  
-with LIZ STRINGER  
-details tba  
+double-bill with LIZ STRINGER    
+early show: starts 7pm  
+Bookings: 03 5367 5156  
 
 * * * * *  
 
@@ -178,4 +181,5 @@ details tba
 [173]: http://oldhepburnhotel.com.au/cms/events/bands/lucie-thorne/
 [174]: http://wheatsheafhotel.com.au/gigs
 [175]: http://www.singinggallery.com.au/  
-[176]: http://harmonyrow.com.au/concerts-other-events/
+[176]: http://harmonyrow.com.au/concerts-other-events/  
+[177]: http://www.themelbournefolkclub.com/june-4th/ 
