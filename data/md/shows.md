@@ -88,7 +88,15 @@ plus special guest JIMMY DOWLING
 8pm  
 [Tickets on sale now][180]  
 
-* * * * *  
+* * * * *      
+
+**VICTORIA**    
+**Sunday 29th June 2014**    
+Mudbrick Pavillion, MALLACOOTA        
+5pm      
+
+* * * * *    
+
 [past shows][archive]
 
 [archive]: ?p=shows/archive/
