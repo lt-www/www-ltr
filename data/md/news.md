@@ -1,3 +1,7 @@
+### 9 May 2014 | This weekend with Sal Kimber  
+
+Lucie plays three shows around regional Victoria this weekend - in Dean's Marsh, Ballarat and Hepburn Springs - all of them with local treasure Sal Kimber. [Details here][14]  
+
 ### 22 April 2014 | Two Duets  
 
 Lucie will be playing two duet shows with Hamish Stuart this week - tomorrow night in Newcastle, and Saturday night in Wollongong. [Details here][14]      
