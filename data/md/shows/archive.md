@@ -1,5 +1,21 @@
 ## shows/archive  
 
+**VICTORIA**    
+
+**Sunday 11th May 2014**    
+The Old Hepburn Hotel, HEPBURN SPRINGS        
+with special guest SAL KIMBER    
+
+**Saturday 10th May 2014**    
+Main Bar, BALLARAT      
+with special guest SAL KIMBER   
+
+**Friday 9th May 2014**    
+Martians Cafe, DEANS MARSH    
+with special guest SAL KIMBER   
+
+* * * * *    
+
 **NSW** 
   
 **Sunday 27th April 2014**   
