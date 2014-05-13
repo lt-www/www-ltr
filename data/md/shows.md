@@ -1,25 +1,3 @@
-**VICTORIA**    
-
-**Friday 9th May 2014**    
-[Martians Cafe][171], DEANS MARSH    
-with special guest SAL KIMBER    
-Bookings: 03 52363350  
-7.30pm  
-
-**Saturday 10th May 2014**    
-[Main Bar][172], BALLARAT      
-with special guest SAL KIMBER   
-Bookings: 03 5333 7722  
-8pm  
-
-**Sunday 11th May 2014**    
-[The Old Hepburn Hotel][173], HEPBURN SPRINGS        
-with special guest SAL KIMBER   
-Bookings: 03 5348 2207  
-4pm     
-
-* * * * *    
-
 **SOUTH AUSTRALIA**  
 
 **Friday 16th May 2014**    
