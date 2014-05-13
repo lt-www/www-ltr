@@ -66,6 +66,14 @@ plus special guest JIMMY DOWLING
 8pm  
 [Tickets on sale now][180]  
 
+**Thursday 26th June 2014**    
+House Concert, BLUE MOUNTAINS        
+*stay tuned for details*      
+
+**Friday 27th June 2014**    
+House Concert, KANGAROO VALLEY          
+*stay tuned for details*  
+
 * * * * *      
 
 **VICTORIA**    
