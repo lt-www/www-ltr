@@ -49,6 +49,8 @@ Bookings: 03 5367 5156
 Doors at 7pm / show starts 8pm  
 [Tickets on sale now][179]      
 
+* * * * *        
+
 **NSW**  
 
 **Thursday 19th June 2014**    
