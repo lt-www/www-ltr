@@ -1,3 +1,7 @@
+### 16 May 2014 | South Australia  
+
+Three shows coming up in South Australia - the first of which is tonight, at the beloved Wheaty, in duet with Dr Hamish Stuart. [Details here][14]   
+
 ### 9 May 2014 | This weekend with Sal Kimber  
 
 Lucie plays three shows around regional Victoria this weekend - in Dean's Marsh, Ballarat and Hepburn Springs - all of them with local treasure Sal Kimber. [Details here][14]  
