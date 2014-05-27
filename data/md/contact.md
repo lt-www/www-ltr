@@ -1,9 +1,3 @@
-**Bookings:**
-
-> Chas Jagger - Brightlight Agency  
-> +61 (0) 421 448 037  
-> <chas@brightlightagency.com.au>  
-
 **Media inquiries:**
 
 > Clare McGregor Publicity  
