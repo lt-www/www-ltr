@@ -5,7 +5,7 @@
 </div>
 <div class="yt-txt">
 <a href="?v=mSVKt4RqET0">Butterfly Blues</a> with Pieta Brown<br />
-ABC Radio National, March 2012  
+ABC Radio National   
 </div>
 </div>
 
@@ -16,7 +16,7 @@ ABC Radio National, March 2012
 </div>
 <div class="yt-txt">
 <a href="?v=2DJJfnrM7hw">Can't Sleep for Dreaming</a><br />
-SBS TV 'Rockwiz', December 2011  
+SBS TV 'Rockwiz'   
 </div>
 </div>
 
@@ -27,7 +27,7 @@ SBS TV 'Rockwiz', December 2011
 </div>
 <div class="yt-txt">
 <a href="?v=6wR7JYtz2r8">Till The Season</a><br />
-The Tanja Hall, with Hamish Stuart, ABC Southeast, September 2011  
+The Tanja Hall, with Hamish Stuart, ABC Southeast   
 </div>
 </div>
 
@@ -39,7 +39,7 @@ The Tanja Hall, with Hamish Stuart, ABC Southeast, September 2011
 </div>
 <div class="yt-txt">
 <a href="?v=QKN4qOatpKo">When I Get There</a><br />
-The Guildford Hall, with Hamish Stuart, September 2011  
+The Guildford Hall, with Hamish Stuart   
 </div>
 </div>
 
@@ -51,7 +51,7 @@ The Guildford Hall, with Hamish Stuart, September 2011
 </div>
 <div class="yt-txt">
 <a href="?v=6bx4G2bDbXg">As You Find It</a><br />
-The Guildford Hall, with Hamish Stuart, September 2011  
+The Guildford Hall, with Hamish Stuart  
 </div>
 </div>
 
@@ -63,7 +63,7 @@ The Guildford Hall, with Hamish Stuart, September 2011
 </div>
 <div class="yt-txt">
 <a href="?v=A_r7HWTzuT4">Falling</a><br />
-'Work in progress' with Hamish Stuart, ABC Southeast, Bimbaya, June 2010  
+'Work in progress' with Hamish Stuart, ABC Southeast, Bimbaya   
 </div>
 </div>
 
@@ -74,7 +74,7 @@ The Guildford Hall, with Hamish Stuart, September 2011
 </div>
 <div class="yt-txt">
 <a href="?v=xbO8nk_jeSY">Open Sky</a><br />
-The Basement, Sydney, April 2009  
+The Basement, Sydney   
 </div>
 </div>  
 
