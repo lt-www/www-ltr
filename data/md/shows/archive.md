@@ -1,5 +1,21 @@
 ## shows/archive  
 
+**SOUTH AUSTRALIA**  
+
+**Sunday 25th May 2014**    
+Barossa Valley Brasserie, TANUNDA  
+
+**Friday 23rd May 2014**    
+The Singing Gallery, McLAREN VALE          
+plus special guests *Halfway To Forth*     
+
+**Friday 16th May 2014**    
+[The Wheatsheaf][94], ADELAIDE      
+*duet show with HAMISH STUART*  
+plus special guests *Halfway To Forth*        
+
+* * * * *      
+
 **VICTORIA**    
 
 **Sunday 11th May 2014**    
