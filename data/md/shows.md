@@ -1,13 +1,8 @@
-   
- 
-* * * * *      
-
 **VICTORIA**    
 
 **Saturday 31st May 2014**    
 [Harmony Row][176], Pastoria Valley Vineyard, PASTORIA EAST      
-Concert at 2pm / Lunch & Show tickets also available      
-Bookings: 03 54 235 286      
+*sorry folks, this show has been cancelled*     
 
 **Wednesday 4th June 2014**    
 [The Melbourne Folk Club][177]    
