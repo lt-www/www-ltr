@@ -1,21 +1,4 @@
-**SOUTH AUSTRALIA**  
-
-**Friday 16th May 2014**    
-[The Wheatsheaf][174], ADELAIDE      
-*duet show with HAMISH STUART*  
-plus special guests *Halfway To Forth*    
-9pm   
-
-**Friday 23rd May 2014**    
-[The Singing Gallery][175], McLAREN VALE          
-plus special guests *Halfway To Forth*    
-Bookings: 0413 358 618     
-7.30pm  
-
-**Sunday 25th May 2014**    
-Barossa Valley Brasserie, TANUNDA        
-Bookings:  08 8563 0696  
-2pm  
+   
  
 * * * * *      
 
