@@ -53,7 +53,7 @@ House Concert, BLUE MOUNTAINS
 
 **Friday 27th June 2014**    
 House Concert, KANGAROO VALLEY          
-*contact* <unclejorfy@bigpond.com> *for details/bookings*    
+*contact* unclejorfy@bigpond.com *for details/bookings*    
 
 * * * * *      
 
