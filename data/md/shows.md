@@ -1,5 +1,10 @@
 **VICTORIA**    
 
+**Tuesday 3rd June 2014**     
+*interview and live-to-air performance on the Evening show with Lindy Burns*      
+ABC Radio, 774 Melbourne.     
+9pm    
+
 **Wednesday 4th June 2014**    
 [The Melbourne Folk Club][177]    
 Bella Union at Trades Hall, MELBOURNE        
