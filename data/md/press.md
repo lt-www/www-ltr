@@ -1,4 +1,4 @@
-- Lucie Thorne [Biography][28] (pdf)    
+- Lucie Thorne [Biography][30] (pdf)    
 
 * * * * * 
 
@@ -198,3 +198,4 @@ predecessor, _The Bud_." **_David Curry, The Canberra Times_**
    [27]: data/pr/LucieThorneBioFeb2013.pdf
    [28]: data/pr/LucieThorneBioJuly2013.pdf
    [29]: http://www.love-over-gold.com
+   [30]: data/pr/LucieThorneBioJune2014.pdf
