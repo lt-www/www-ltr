@@ -86,13 +86,15 @@ std_copyright cf p =
         fb_i = mk_i "fb" 14
         ms_i = mk_i "ms" 14
         sc_i = mk_i "sc" 14
+        ig_i = mk_i "ig" 14
     in H.footer
         [H.class' "footer"]
         [H.p []
          [H.a [H.href "?p=news/rss.xml"] [rss_i]
          ,H.a [H.href "http://www.facebook.com/lucie.thorne"] [fb_i]
-         ,H.a [H.href "http://www.myspace.com/luciethornemusic"] [ms_i]
          ,H.a [H.href "http://soundcloud.com/lucie-1-2"] [sc_i]
+         ,H.a [H.href "http://instagram.com/luciennethorne"] [ig_i]
+         ,H.a [H.href "http://www.myspace.com/luciethornemusic"] [ms_i]
          ,H.br []
          ,H.copy
          ,H.a [H.href lt_site] [H.cdata "lucie thorne"]
