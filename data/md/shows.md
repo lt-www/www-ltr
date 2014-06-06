@@ -49,7 +49,7 @@ plus special guest JIMMY DOWLING
 
 **Thursday 26th June 2014**    
 Hotel Blue, KATOOMBA    
-*presented by [Music Hunter]*    
+*presented by [Music Hunter][182]*    
 Doors at 7pm / show 7.15pm - 8.30pm          
 [Tickets on sale now][181]        
 
