@@ -1,3 +1,7 @@
+### 4 June 2014 | Solo in June  
+
+Lucie will be performing a series of intimate solo concerts throughout the month of June, starting tonight in Melbourne at the Bella Union, and then on to Bacchus Marsh, Canberra, Maitland, Bellingen, Mullumbimby, Katoomba, Kangaroo Valley and Mallacoota. [Details here][14]     
+
 ### 16 May 2014 | South Australia  
 
 Three shows coming up in South Australia - the first of which is tonight, at the beloved Wheaty, in duet with Dr Hamish Stuart. [Details here][14]   
