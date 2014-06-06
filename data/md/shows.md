@@ -48,8 +48,9 @@ plus special guest JIMMY DOWLING
 [Tickets on sale now][180]  
 
 **Thursday 26th June 2014**    
-House Concert, BLUE MOUNTAINS        
-*stay tuned for details*      
+Hotel Blue, KATOOMBA    
+Doors at 7pm / show 7.15pm - 8.30pm          
+[Tickets on sale now][181]        
 
 **Friday 27th June 2014**    
 House Concert, KANGAROO VALLEY          
@@ -165,3 +166,4 @@ Mudbrick Pavillion, MALLACOOTA
 [178]: http://www.lizstringer.com  
 [179]: http://www.trybooking.com/85864 
 [180]: http://www.mullummusic.com  
+[181]: http://www.trybooking.com/90311
