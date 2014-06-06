@@ -49,6 +49,7 @@ plus special guest JIMMY DOWLING
 
 **Thursday 26th June 2014**    
 Hotel Blue, KATOOMBA    
+*presented by [Music Hunter]*    
 Doors at 7pm / show 7.15pm - 8.30pm          
 [Tickets on sale now][181]        
 
@@ -168,3 +169,4 @@ Mudbrick Pavillion, MALLACOOTA
 [179]: http://www.trybooking.com/85864 
 [180]: http://www.mullummusic.com  
 [181]: http://www.trybooking.com/90311
+[182]: http://www.musichunterprojects.com/node/32
