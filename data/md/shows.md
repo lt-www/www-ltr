@@ -1,71 +1,46 @@
-**VICTORIA**    
+**NORTHERN TERRITORY**  
 
-**Tuesday 3rd June 2014**     
-*interview and live-to-air performance on the Evening show with Lindy Burns*      
-ABC Radio, 774 Melbourne.     
-9pm    
+**Friday 11th July 2014**    
+*interview and live-to-air performance on Drive*    
+ABC Radio 783 Alice Springs            
+4.30pm    
 
-**Wednesday 4th June 2014**    
-[The Melbourne Folk Club][177]    
-Bella Union at Trades Hall, MELBOURNE        
-with Jackson McLaren and Luka Lesson.  
-Doors at 8pm.  
-[Bookings/info here][177]  
+**Sunday 13th July 2014**    
+Montes, ALICE SPRINGS          
+4pm       
 
-**Saturday 14th June 2014**  
-Baby Black Cafe, BACCHUS MARSH  
-double-bill with [LIZ STRINGER][178]      
-early show: starts 7pm  
-Bookings: 03 5367 5156  
-
-* * * * *  
-
-**ACT**   
-
-**Wednesday 18th June 2014**    
-[Smiths Alternative Bookstore][179]  
-76 Alinga Street, CANBERRA  
-Doors at 7pm / show starts 8pm  
-[Tickets on sale now][179]      
-
-* * * * *        
-
-**NSW**  
-
-**Thursday 19th June 2014**    
-The Grand Junction, MAITLAND      
-8pm    
-
-**Friday 20th June 2014**    
-#5 Church Street, BELLINGEN        
-7pm  
-Bookings: 02 6655 0155      
-
-**Saturday 21st June 2014**    
-St Martin's Hall, MULLUMBIMBY          
-plus special guest JIMMY DOWLING  
-8pm  
-[Tickets on sale now][180]  
-
-**Thursday 26th June 2014**    
-Hotel Blue, KATOOMBA    
-*presented by [Music Hunter][182]*    
-Doors at 7pm / show 7.15pm - 8.30pm          
-[Tickets on sale now][181]        
-
-**Friday 27th June 2014**    
-House Concert, KANGAROO VALLEY          
-*contact* unclejorfy@bigpond.com *for details/bookings*    
-
-* * * * *      
-
-**VICTORIA**    
-
-**Sunday 29th June 2014**    
-Mudbrick Pavillion, MALLACOOTA        
-5pm      
+**Wednesday 16th July 2014**    
+Epilogue, ALICE SPRINGS          
+7pm       
 
 * * * * *    
+
+**VICTORIA**    
+
+**Friday 8th August 2014**    
+Community House, YEA          
+7.30pm   
+bookings: 03 5797 3070       
+
+**Friday 15th August 2014**    
+The Bridge Hotel, CASTLEMAINE            
+*duet show with HAMISH STUART*    
+plus very special guest SUZANNAH ESPIE  
+[tickets on sale now][183]  
+8.30pm  
+
+**Saturday 16th August 2014**    
+[The Velvet Room][184.1], Thornbury Theatre, MELBOURNE              
+*duet show with HAMISH STUART*    
+plus very special guest SUZANNAH ESPIE    
+[tickets on sale now][184]   
+8pm   
+
+**Saturday 23rd August 2014**  
+Memorial Hall, DOOKIE  
+details tba  
+    
+* * * * *      
 
 [past shows][archive]
 
@@ -170,3 +145,6 @@ Mudbrick Pavillion, MALLACOOTA
 [180]: http://www.mullummusic.com  
 [181]: http://www.trybooking.com/90311
 [182]: http://www.musichunterprojects.com/node/32
+[183]: http://www.trybooking.com/91475
+[184]: http://thornburytheatre.oztix.com.au/?Event=44753
+[184.1]: http://thethornburytheatre.com/event/lucie-thorne-hamish-stuart-plus-special-guest-suzannah-espie/
