@@ -1,3 +1,11 @@
+### 9 July 2014 | Alice    
+
+Lucie plays in Alice Springs for the first time ever this week - starting with an interview and live-to-air performance on Alice ABC Radio this Friday 11th, an afternoon show at Montes on Sunday 13th, and an early evening show at Epilogue on Wednesday 16th. [Details here][14]  
+
+### 16 June 2014 | Winter  
+
+More winter tour dates have just been announced - including Lucie's debut performance in Alice Springs, and some duet shows with Hamish Stuart in Melbourne and Castlemaine.  [Details here][14] 
+
 ### 4 June 2014 | Solo in June  
 
 Lucie will be performing a series of intimate solo concerts throughout the month of June, starting tonight in Melbourne at the Bella Union, and then on to Bacchus Marsh, Canberra, Maitland, Bellingen, Mullumbimby, Katoomba, Kangaroo Valley and Mallacoota. [Details here][14]     
