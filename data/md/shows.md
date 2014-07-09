@@ -23,7 +23,7 @@ Community House, YEA
 bookings: 03 5797 3070       
 
 **Friday 15th August 2014**    
-The Bridge Hotel, CASTLEMAINE            
+[The Bridge Hotel][185], CASTLEMAINE            
 *duet show with HAMISH STUART*    
 plus very special guest SUZANNAH ESPIE  
 [tickets on sale now][183]  
@@ -149,3 +149,4 @@ Bookings/info: dookieemporium@bigpond.com
 [183]: http://www.trybooking.com/91475
 [184]: http://thornburytheatre.oztix.com.au/?Event=44753
 [184.1]: http://thethornburytheatre.com/event/lucie-thorne-hamish-stuart-plus-special-guest-suzannah-espie/
+[185]: http://bridgehotelcastlemaine.com/gigs/
