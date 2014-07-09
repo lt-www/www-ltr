@@ -38,7 +38,8 @@ plus very special guest SUZANNAH ESPIE
 
 **Saturday 23rd August 2014**  
 Memorial Hall, DOOKIE  
-7pm / Bookings/info: dookieemporium@bigpond.com    
+7pm  
+Bookings/info: dookieemporium@bigpond.com    
     
 * * * * *      
 
