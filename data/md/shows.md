@@ -7,11 +7,11 @@ ABC Radio 783 Alice Springs
 
 **Sunday 13th July 2014**    
 Montes, ALICE SPRINGS          
-4pm       
+4pm / free entry  
 
 **Wednesday 16th July 2014**    
 Epilogue, ALICE SPRINGS          
-7pm       
+7pm / free entry         
 
 * * * * *    
 
@@ -38,7 +38,7 @@ plus very special guest SUZANNAH ESPIE
 
 **Saturday 23rd August 2014**  
 Memorial Hall, DOOKIE  
-details tba  
+7pm / Bookings/info: dookieemporium@bigpond.com    
     
 * * * * *      
 
