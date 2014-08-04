@@ -1,26 +1,10 @@
-**NORTHERN TERRITORY**  
-
-**Friday 11th July 2014**    
-*interview and live-to-air performance on Drive*    
-ABC Radio 783 Alice Springs            
-4.30pm    
-
-**Sunday 13th July 2014**    
-Montes, ALICE SPRINGS          
-4pm / free entry  
-
-**Wednesday 16th July 2014**    
-Epilogue, ALICE SPRINGS          
-7pm / free entry         
-
-* * * * *    
-
 **VICTORIA**    
 
 **Friday 8th August 2014**    
 Community House, YEA          
 7.30pm   
-bookings: 03 5797 3070       
+bookings: 03 5797 3070    
+*SOLD OUT*       
 
 **Friday 15th August 2014**    
 [The Bridge Hotel][185], CASTLEMAINE            
@@ -38,10 +22,55 @@ plus very special guest SUZANNAH ESPIE
 
 **Saturday 23rd August 2014**  
 Memorial Hall, DOOKIE  
-7pm  
+double-bill with JO JO SMITH  
+7.30pm  
 Bookings/info: dookieemporium@bigpond.com    
-    
+
+**Sunday 24th August 2014**  
+The Old Church on the Hill, BENDIGO   
+*presented by the Bendigo Blues & Roots Music Festival*   
+double-bill with JO JO SMITH    
+5pm    
+
 * * * * *      
+
+*Lucie will be playing in various parts of the northern hemisphere throughout September and October, including **Romania**, **Germany**, **The Netherlands**, **Belgium** and the **United States** ...dates and details announced soon*   
+
+* * * * *      
+
+**SOUTH AUSTRALIA**    
+
+**Saturday 8th November 2014**  
+Woodlands Run Festival   
+FINNISS
+
+* * * * *      
+
+**VICTORIA**     
+
+**Friday 14th November 2014**  
+[Healesville Music Festival][186]    
+HEALESVILLE  
+
+**Saturday 15th November 2014**  
+[Healesville Music Festival][186]   
+HEALESVILLE  
+
+**Sunday 16th November 2014**  
+Old Hepburn Hotel  
+HEPBURN SPRINGS  
+
+**Saturday 22nd November 2014**  
+Harvester Moon  
+BELLARINE  
+*duet show with HAMISH STUART*    
+
+**Sunday 23rd November 2014**  
+The Shed  
+MARYKNOLL    
+*duet show with HAMISH STUART*    
+
+* * * * *        
 
 [past shows][archive]
 
@@ -150,3 +179,4 @@ Bookings/info: dookieemporium@bigpond.com
 [184]: http://thornburytheatre.oztix.com.au/?Event=44753
 [184.1]: http://thethornburytheatre.com/event/lucie-thorne-hamish-stuart-plus-special-guest-suzannah-espie/
 [185]: http://bridgehotelcastlemaine.com/gigs/
+[186]: http://www.healesvillemusicfestival.com.au/artists.html
