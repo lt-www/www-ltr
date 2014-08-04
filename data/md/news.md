@@ -1,3 +1,9 @@
+### 4 August 2014 | Yea
+
+Tickets for Lucie's show this Friday night at the Yea Community House show have now sold out folks. Thanks Yea xx There are several other shows coming up around Victoria this month; in Castlemaine, Melbourne, Dookie and Bendigo. [Details here][14]    
+
+In other news, Lucie will be playing in various parts of the northern hemisphere throughout September and October. Tour dates for Romania, Germany, Netherlands and Belgium will be announced soon for starters...   
+
 ### 9 July 2014 | Alice    
 
 Lucie plays in Alice Springs for the first time ever this week - starting with an interview and live-to-air performance on Alice ABC Radio this Friday 11th, an afternoon show at Montes on Sunday 13th, and an early evening show at Epilogue on Wednesday 16th. [Details here][14]  
