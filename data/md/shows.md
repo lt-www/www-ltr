@@ -1,33 +1,38 @@
 **VICTORIA**    
 
 **Friday 8th August 2014**    
-Community House, YEA          
+COMMUNITY HOUSE  
+15 The Semi Circle, YEA          
 7.30pm   
 bookings: 03 5797 3070    
 *SOLD OUT*       
 
 **Friday 15th August 2014**    
-[The Bridge Hotel][185], CASTLEMAINE            
+[THE BRIDGE HOTEL][185]   
+Walker St, CASTLEMAINE            
 *duet show with HAMISH STUART*    
 plus very special guest SUZANNAH ESPIE  
 [tickets on sale now][183]  
 8.30pm  
 
 **Saturday 16th August 2014**    
-[The Velvet Room][184.1], Thornbury Theatre, MELBOURNE              
+[THE VELVET ROOM][184.1], Thornbury Theatre  
+High Street, Thornbury, MELBOURNE              
 *duet show with HAMISH STUART*    
 plus very special guest SUZANNAH ESPIE    
 [tickets on sale now][184]   
 8pm   
 
 **Saturday 23rd August 2014**  
-Memorial Hall, DOOKIE  
+MEMORIAL HALL  
+Queen St, DOOKIE  
 double-bill with JO JO SMITH  
 7.30pm  
 Bookings/info: dookieemporium@bigpond.com    
 
 **Sunday 24th August 2014**  
-The Old Church on the Hill, BENDIGO   
+THE OLD CHURCH ON THE HILL   
+Cnr Harkness & Russell St, BENDIGO   
 *presented by the Bendigo Blues & Roots Music Festival*   
 double-bill with JO JO SMITH    
 5pm    
