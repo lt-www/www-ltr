@@ -61,14 +61,14 @@ details tba
  
 **Sunday 14th September 2014**        
 CULTURE CONTAINER         
-HolzmarktstraÃÆÃÂ¸e 25, BERLIN      
+Holzmarktstr. 25, BERLIN      
 *duet show with HAMISH STUART*       
 plus LIZ STRINGER & VAN WALKER       
 9pm     
 
 **Wednesday 17th September 2014**        
 PRINZ WILLY   
-Lutherstrasse 9, KIEL    
+Lutherstr. 9, KIEL    
 *duet show with HAMISH STUART*    
 8pm     
 
