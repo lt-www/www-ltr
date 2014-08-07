@@ -47,6 +47,8 @@ double-bill with JO JO SMITH
 **European Tour 2014**    
 *more dates and details announced soon*     
 
+* * * * *        
+
 **ROMANIA**  
 
 **4th - 10th September 2014**     
@@ -59,7 +61,7 @@ details tba
  
 **Sunday 14th September 2014**        
 CULTURE CONTAINER         
-HolzmarktstraÃe 25, BERLIN      
+HolzmarktstraÃÅ¸e 25, BERLIN      
 *duet show with HAMISH STUART*       
 plus LIZ STRINGER & VAN WALKER       
 9pm     
@@ -82,7 +84,7 @@ Bergstr. 2 BERLIN
 plus James Cruickshank  
 9pm     
  
-* * * * *
+* * * * *  
 
 **NETHERLANDS**   
 
@@ -91,11 +93,15 @@ Roots in't Groen
 Heuvel 23, GELDROP    
 8pm   
 
+* * * * *  
+
 **BELGIUM**     
 **Saturday 4th October 2014**    
 House Concert   
 LANAKEN     
  
+* * * * *  
+
 **NETHERLANDS** 
 
 **Sunday 5th October 2014**    
@@ -118,6 +124,10 @@ Burgtstraat 1, WAGENINGEN
 with DAN TUFFY    
 
 * * * * *      
+
+*...more dates in the northern hemisphere announced soon...*  
+
+* * * * *    
 
 **SOUTH AUSTRALIA**    
 
