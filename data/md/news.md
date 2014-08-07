@@ -1,3 +1,7 @@
+### 8 August 2014 | Northern Hemisphere  
+
+Some of Lucie's northern [tour dates][14] have just been announced!    
+
 ### 4 August 2014 | Yea
 
 Tickets for Lucie's show this Friday night at the Yea Community House show have now sold out. Thanks Yea xx There are several other shows coming up around Victoria this month; in Castlemaine, Melbourne, Dookie and Bendigo. [Details here][14]    
