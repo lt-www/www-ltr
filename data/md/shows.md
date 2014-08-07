@@ -93,9 +93,10 @@ Roots in't Groen
 Heuvel 23, GELDROP    
 8pm   
 
-* * * * *  
+* * * * *    
 
-**BELGIUM**     
+**BELGIUM**       
+
 **Saturday 4th October 2014**    
 House Concert   
 LANAKEN     
@@ -125,7 +126,7 @@ with DAN TUFFY
 
 * * * * *      
 
-*...more dates in the northern hemisphere announced soon...*  
+*...more tour dates in the northern hemisphere announced soon...*  
 
 * * * * *    
 
