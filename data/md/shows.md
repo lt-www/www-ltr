@@ -115,9 +115,9 @@ DE VASIM
 Winselingseweg 41, **NIJMEGEN**      
 
 **Friday 10th October 2014**      
-**ROTTERDAM**      
-with DAN TUFFY     
-details tba   
+NU MOON LABS at the World Music and Dance Centre  
+Pieter de hoochweg 12, **ROTTERDAM**      
+with DAN TUFFY        
 
 **Sunday 12th October 2014**      
 Theatre de Wilde Wereld    
@@ -134,7 +134,7 @@ with DAN TUFFY
 
 **Saturday 8th November 2014**  
 Woodlands Run Festival   
-FINNISS
+**FINNISS**  
 
 * * * * *      
 
@@ -142,24 +142,24 @@ FINNISS
 
 **Friday 14th November 2014**  
 [Healesville Music Festival][186]    
-HEALESVILLE  
+**HEALESVILLE**    
 
 **Saturday 15th November 2014**  
 [Healesville Music Festival][186]   
-HEALESVILLE  
+**HEALESVILLE**    
 
 **Sunday 16th November 2014**  
 Old Hepburn Hotel  
-HEPBURN SPRINGS  
+**HEPBURN SPRINGS**      
 
 **Saturday 22nd November 2014**  
 Harvester Moon  
-BELLARINE  
+**BELLARINE**    
 *duet show with HAMISH STUART*    
 
 **Sunday 23rd November 2014**  
 The Shed  
-MARYKNOLL    
+**MARYKNOLL**      
 *duet show with HAMISH STUART*    
 
 * * * * *        
