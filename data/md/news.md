@@ -1,6 +1,6 @@
 ### 4 August 2014 | Yea
 
-Tickets for Lucie's show this Friday night at the Yea Community House show have now sold out folks. Thanks Yea xx There are several other shows coming up around Victoria this month; in Castlemaine, Melbourne, Dookie and Bendigo. [Details here][14]    
+Tickets for Lucie's show this Friday night at the Yea Community House show have now sold out. Thanks Yea xx There are several other shows coming up around Victoria this month; in Castlemaine, Melbourne, Dookie and Bendigo. [Details here][14]    
 
 In other news, Lucie will be playing in various parts of the northern hemisphere throughout September and October. Tour dates for Romania, Germany, Netherlands and Belgium will be announced soon for starters...   
 
