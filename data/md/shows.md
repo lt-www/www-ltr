@@ -111,8 +111,8 @@ Keizerstraat 101, BREDA
 4.30pm   
 
 **Tuesday 7th October 2014**    
-De Vasim
-Winselingseweg 41, NIJMEGEN  
+DE VASIM  
+Winselingseweg 41, NIJMEGEN    
 
 **Friday 10th October 2014**      
 ROTTERDAM    
