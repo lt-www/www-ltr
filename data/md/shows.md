@@ -52,7 +52,7 @@ double-bill with JO JO SMITH
 **ROMANIA**  
 
 **4th - 10th September 2014**     
-*shows in BUCAHREST, CRAIOVA, PITESTI and CLUJ*       
+*shows in BUCHAREST, CRAIOVA, PITESTI and CLUJ*       
 details tba   
 
 * * * * * 
@@ -61,7 +61,7 @@ details tba
  
 **Sunday 14th September 2014**        
 CULTURE CONTAINER         
-HolzmarktstraÃÅ¸e 25, BERLIN      
+HolzmarktstraÃÆÃÂ¸e 25, BERLIN      
 *duet show with HAMISH STUART*       
 plus LIZ STRINGER & VAN WALKER       
 9pm     
