@@ -44,7 +44,78 @@ double-bill with JO JO SMITH
 
 * * * * *      
 
-*Lucie will be playing in various parts of the northern hemisphere throughout September and October, including **Romania**, **Germany**, **The Netherlands**, **Belgium** and the **United States** ...dates and details announced soon*   
+**European Tour 2014**    
+*more dates and details announced soon*     
+
+**ROMANIA**  
+
+**4th - 10th September 2014**     
+*shows in BUCAHREST, CRAIOVA, PITESTI and CLUJ*       
+details tba   
+
+* * * * * 
+
+**GERMANY**   
+ 
+**Sunday 14th September 2014**        
+CULTURE CONTAINER         
+HolzmarktstraÃe 25, BERLIN      
+*duet show with HAMISH STUART*       
+plus LIZ STRINGER & VAN WALKER       
+9pm     
+
+**Wednesday 17th September 2014**        
+PRINZ WILLY   
+Lutherstrasse 9, KIEL    
+*duet show with HAMISH STUART*    
+8pm     
+
+**Friday 19th September 2014**        
+SOFA SALON    
+BERLIN    
+*duet show with HAMISH STUART*         
+details tba   
+
+**Sunday 21st September 2014**    
+Z-BAR   
+Bergstr. 2 BERLIN  
+plus James Cruickshank  
+9pm     
+ 
+* * * * *
+
+**NETHERLANDS**   
+
+**Wednesday 1st October 2014**    
+Roots in't Groen  
+Heuvel 23, GELDROP    
+8pm   
+
+**BELGIUM**     
+**Saturday 4th October 2014**    
+House Concert   
+LANAKEN     
+ 
+**NETHERLANDS** 
+
+**Sunday 5th October 2014**    
+[Terrasconcert, MEZZ][187]    
+Keizerstraat 101, BREDA  
+4.30pm   
+
+**Tuesday 7th October 2014**    
+De Vasim
+Winselingseweg 41, NIJMEGEN  
+
+**Friday 10th October 2014**      
+ROTTERDAM    
+with DAN TUFFY     
+details tba   
+
+**Sunday 12th October 2014**      
+Theatre de Wilde Wereld    
+Burgtstraat 1, WAGENINGEN    
+with DAN TUFFY    
 
 * * * * *      
 
@@ -190,3 +261,4 @@ MARYKNOLL
 [184.1]: http://thethornburytheatre.com/event/lucie-thorne-hamish-stuart-plus-special-guest-suzannah-espie/
 [185]: http://bridgehotelcastlemaine.com/gigs/
 [186]: http://www.healesvillemusicfestival.com.au/artists.html
+[187]: http://www.mezz.nl/programma/Lucie-Thorne-(AU)/28681  
