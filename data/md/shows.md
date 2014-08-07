@@ -7,14 +7,14 @@
   
 **Friday 8th August 2014**    
 COMMUNITY HOUSE  
-15 The Semi Circle, YEA          
+15 The Semi Circle, **YEA**            
 7.30pm   
 bookings: 03 5797 3070    
 *SOLD OUT*       
 
 **Friday 15th August 2014**    
 [THE BRIDGE HOTEL][185]   
-Walker St, CASTLEMAINE            
+Walker St, **CASTLEMAINE**              
 *duet show with HAMISH STUART*    
 plus very special guest SUZANNAH ESPIE  
 [tickets on sale now][183]  
@@ -22,7 +22,7 @@ plus very special guest SUZANNAH ESPIE
 
 **Saturday 16th August 2014**    
 [THE VELVET ROOM][184.1], Thornbury Theatre  
-High Street, Thornbury, MELBOURNE              
+High Street, Thornbury, **MELBOURNE**                
 *duet show with HAMISH STUART*    
 plus very special guest SUZANNAH ESPIE    
 [tickets on sale now][184]   
@@ -30,14 +30,14 @@ plus very special guest SUZANNAH ESPIE
 
 **Saturday 23rd August 2014**  
 MEMORIAL HALL  
-Queen St, DOOKIE  
+Queen St, **DOOKIE**    
 double-bill with JO JO SMITH  
 7.30pm  
 Bookings/info: dookieemporium@bigpond.com    
 
 **Sunday 24th August 2014**  
 THE OLD CHURCH ON THE HILL   
-Cnr Harkness & Russell St, BENDIGO   
+Cnr Harkness & Russell St, **BENDIGO**     
 *presented by the Bendigo Blues & Roots Music Festival*   
 double-bill with JO JO SMITH    
 5pm    
@@ -52,7 +52,7 @@ double-bill with JO JO SMITH
 **ROMANIA**  
 
 **4th - 10th September 2014**     
-*shows in BUCHAREST, CRAIOVA, PITESTI and CLUJ*       
+*shows in **BUCHAREST**, **CRAIOVA**, **PITESTI** and **CLUJ***       
 details tba   
 
 * * * * * 
@@ -61,26 +61,26 @@ details tba
  
 **Sunday 14th September 2014**        
 CULTURE CONTAINER         
-Holzmarktstr. 25, BERLIN      
+Holzmarktstr. 25, **BERLIN**        
 *duet show with HAMISH STUART*       
 plus LIZ STRINGER & VAN WALKER       
 9pm     
 
 **Wednesday 17th September 2014**        
 PRINZ WILLY   
-Lutherstr. 9, KIEL    
+Lutherstr. 9, **KIEL**      
 *duet show with HAMISH STUART*    
 8pm     
 
 **Friday 19th September 2014**        
 SOFA SALON    
-BERLIN    
+**BERLIN**      
 *duet show with HAMISH STUART*         
 details tba   
 
 **Sunday 21st September 2014**    
 Z-BAR   
-Bergstr. 2 BERLIN  
+Bergstr. 2 **BERLIN**    
 plus James Cruickshank  
 9pm     
  
@@ -90,7 +90,7 @@ plus James Cruickshank
 
 **Wednesday 1st October 2014**    
 Roots in't Groen  
-Heuvel 23, GELDROP    
+Heuvel 23, **GELDROP**      
 8pm   
 
 * * * * *    
@@ -99,7 +99,7 @@ Heuvel 23, GELDROP
 
 **Saturday 4th October 2014**    
 House Concert   
-LANAKEN     
+**LANAKEN**       
  
 * * * * *  
 
@@ -107,21 +107,21 @@ LANAKEN
 
 **Sunday 5th October 2014**    
 [Terrasconcert, MEZZ][187]    
-Keizerstraat 101, BREDA  
+Keizerstraat 101, **BREDA**    
 4.30pm   
 
 **Tuesday 7th October 2014**    
 DE VASIM  
-Winselingseweg 41, NIJMEGEN    
+Winselingseweg 41, **NIJMEGEN**      
 
 **Friday 10th October 2014**      
-ROTTERDAM    
+**ROTTERDAM**      
 with DAN TUFFY     
 details tba   
 
 **Sunday 12th October 2014**      
 Theatre de Wilde Wereld    
-Burgtstraat 1, WAGENINGEN    
+Burgtstraat 1, **WAGENINGEN**      
 with DAN TUFFY    
 
 * * * * *      
