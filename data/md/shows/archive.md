@@ -1,5 +1,86 @@
 ## shows/archive  
 
+**VICTORIA**   
+
+**Friday 8th August 2014**    
+COMMUNITY HOUSE  
+15 The Semi Circle, **YEA**     
+
+**Thursday 7th August 2014**     
+*interview on The Breakfast Club*    
+94.9 MainFM    
+              
+* * * * *    
+ 
+**NORTHERN TERRITORY**  
+
+**Sunday 20th July 2014**    
+*feature interview and live-to-air performance on A Little Bit Country*        
+8ccc Community Radio, Alice Springs   
+           
+**Wednesday 16th July 2014**    
+Epilogue, ALICE SPRINGS 
+
+**Sunday 13th July 2014**    
+Montes, ALICE SPRINGS           
+                           
+**Friday 11th July 2014**    
+*interview and live-to-air performance on Drive*    
+ABC Radio 783 Alice Springs 
+
+* * * * *    
+
+**VICTORIA**    
+
+**Sunday 29th June 2014**    
+Mudbrick Pavillion, MALLACOOTA    
+
+* * * * *        
+
+**NSW**  
+      
+**Friday 27th June 2014**    
+House Concert, KANGAROO VALLEY   
+
+**Thursday 26th June 2014**    
+Hotel Blue, KATOOMBA     
+ 
+**Saturday 21st June 2014**    
+St Martin's Hall, MULLUMBIMBY          
+plus special guest JIMMY DOWLING      
+       
+**Friday 20th June 2014**    
+#5 Church Street, BELLINGEN  
+
+**Thursday 19th June 2014**    
+The Grand Junction, MAITLAND   
+
+**ACT**   
+
+**Wednesday 18th June 2014**    
+Smiths Alternative Bookstore  
+76 Alinga Street, CANBERRA  
+
+* * * * *    
+
+**VICTORIA**    
+
+**Saturday 14th June 2014**  
+Baby Black Cafe, BACCHUS MARSH  
+double-bill with [LIZ STRINGER][178]      
+ 
+**Wednesday 4th June 2014**    
+[The Melbourne Folk Club][177]    
+Bella Union at Trades Hall, MELBOURNE        
+with Jackson McLaren and Luka Lesson.  
+
+**Tuesday 3rd June 2014**     
+*interview and live-to-air performance on the Evening show with Lindy Burns*      
+ABC Radio, 774 Melbourne.     
+9pm    
+
+* * * * *    
+
 **SOUTH AUSTRALIA**  
 
 **Sunday 25th May 2014**    
@@ -1918,6 +1999,8 @@ RSL, Tamar Valley Folk Festival.
 [167]: http://www.nannupmusicfestival.org/  
 [168]: http://www.brunswickmusicfestival.com.au/program-love-over-gold.htm    
 [169]: http://www.bmff.org.au    
+[177]: http://www.themelbournefolkclub.com/june-4th/ 
+[178]: http://www.lizstringer.com  
 
 
 if you'd care to know, there are still details of lucie's old shows:
@@ -1932,3 +2015,5 @@ if you'd care to know, there are still details of lucie's old shows:
   [2004]: ?p=shows/archive/2004/
   [2003]: ?p=shows/archive/2003/
   [2002]: ?p=shows/archive/2002/
+
+
