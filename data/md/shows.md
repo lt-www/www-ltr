@@ -1,17 +1,5 @@
 **VICTORIA**    
-
-**Thursday 7th August 2014**     
-*interview on The Breakfast Club*    
-94.9 MainFM    
-8am   
-  
-**Friday 8th August 2014**    
-COMMUNITY HOUSE  
-15 The Semi Circle, **YEA**            
-7.30pm   
-bookings: 03 5797 3070    
-*SOLD OUT*       
-
+     
 **Friday 15th August 2014**    
 [THE BRIDGE HOTEL][185]   
 Walker St, **CASTLEMAINE**              
