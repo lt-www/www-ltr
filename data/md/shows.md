@@ -1,5 +1,10 @@
 **VICTORIA**    
-     
+  
+**Thursday 14th August 2014**      
+interview and live-to-air performance on *The Breakfast Spread*  
+3PBSfm    
+8am  
+   
 **Friday 15th August 2014**    
 [THE BRIDGE HOTEL][185]   
 Walker St, **CASTLEMAINE**              
