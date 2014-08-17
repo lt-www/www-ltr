@@ -108,7 +108,7 @@ DE VASIM
 Winselingseweg 41, **NIJMEGEN**      
 
 **Friday 10th October 2014**      
-NU MOON LABS at the World Music and Dance Centre  
+GROUNDS at the World Music and Dance Centre  
 Pieter de hoochweg 12, **ROTTERDAM**      
 with DAN TUFFY        
 
