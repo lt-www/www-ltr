@@ -10,16 +10,12 @@ interview and live-to-air performance on *The Breakfast Spread*
 Walker St, **CASTLEMAINE**              
 *duet show with HAMISH STUART*    
 plus very special guest SUZANNAH ESPIE  
-[tickets on sale now][183]  
-8.30pm  
 
 **Saturday 16th August 2014**    
 [THE VELVET ROOM][184.1], Thornbury Theatre  
 High Street, Thornbury, **MELBOURNE**                
 *duet show with HAMISH STUART*    
 plus very special guest SUZANNAH ESPIE    
-[tickets on sale now][184]   
-8pm   
 
 **Saturday 23rd August 2014**  
 MEMORIAL HALL  
@@ -35,6 +31,11 @@ Cnr Harkness & Russell St, **BENDIGO**
 double-bill with JO JO SMITH    
 5pm    
 
+**Sunday 31st August 2014**    
+[THE RETREAT][188]    
+Sydney Road, Brunswick **MELBOURNE**  
+7.30pm  
+    
 * * * * *      
 
 **European Tour 2014**    
@@ -107,6 +108,7 @@ Keizerstraat 101, **BREDA**
 **Tuesday 7th October 2014**    
 DE VASIM  
 Winselingseweg 41, **NIJMEGEN**      
+9pm  
 
 **Friday 10th October 2014**      
 GROUNDS at the World Music and Dance Centre  
@@ -267,3 +269,4 @@ The Shed
 [185]: http://bridgehotelcastlemaine.com/gigs/
 [186]: http://www.healesvillemusicfestival.com.au/artists.html
 [187]: http://www.mezz.nl/programma/Lucie-Thorne-(AU)/28681  
+[188]: http://retreathotelbrunswick.com.au/gigs/
