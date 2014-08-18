@@ -2,6 +2,22 @@
 
 **VICTORIA**   
 
+**Saturday 16th August 2014**    
+[THE VELVET ROOM][184.1], Thornbury Theatre  
+High Street, Thornbury, **MELBOURNE**                
+*duet show with HAMISH STUART*    
+plus very special guest SUZANNAH ESPIE    
+   
+**Friday 15th August 2014**    
+[THE BRIDGE HOTEL][185]   
+Walker St, **CASTLEMAINE**              
+*duet show with HAMISH STUART*    
+plus very special guest SUZANNAH ESPIE  
+
+**Thursday 14th August 2014**      
+interview and live-to-air performance on *The Breakfast Spread*  
+3PBSfm    
+
 **Friday 8th August 2014**    
 COMMUNITY HOUSE  
 15 The Semi Circle, **YEA**     
