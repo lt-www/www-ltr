@@ -1,3 +1,7 @@
+### 18 August 2014 | Dookie, Bendigo, Melbourne  
+
+This weekend Lucie will be joining forces with the one n only Jo Jo Smith for two shows in regional Victoria - Sat 22 Aug in Dookie, and Sun 23rd in Bendigo. And, just announced! an extra Melbourne show has been added - Sun 31st August at the Retreat. [Details here][14]    
+
 ### 8 August 2014 | Northern Hemisphere  
 
 Some of Lucie's northern [tour dates][14] have just been announced!    
