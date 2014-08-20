@@ -29,7 +29,7 @@ Sydney Road, Brunswick **MELBOURNE**
 **ROMANIA**  
 
 **4th - 10th September 2014**     
-*shows in **BUCHAREST**, **CRAIOVA**, **PITESTI** and **CLUJ***       
+*shows in **BUCHAREST**, **CRAIOVA**, **PITESTI**         
 details tba   
 
 * * * * * 
