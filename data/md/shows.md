@@ -53,7 +53,8 @@ Lutherstr. 9, **KIEL**
 SOFA SALON    
 **BERLIN**      
 *duet show with HAMISH STUART*         
-details tba   
+plus Lindsay Phillips  
+bookings/inquiries: berlinsofasalon@googlemail.com    
 
 **Sunday 21st September 2014**    
 Z-BAR   
