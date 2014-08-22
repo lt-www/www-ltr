@@ -65,13 +65,13 @@ Lutherstr. 9, **KIEL**
 SOFA SALON    
 **BERLIN**      
 *duet show with HAMISH STUART*         
-plus Lindsay Phillips  
-bookings/inquiries: berlinsofasalon@googlemail.com    
+plus LINDSAY PHILLIPS    
+bookings essential: berlinsofasalon@googlemail.com    
 
 **Sunday 21st September 2014**    
 Z-BAR   
 Bergstr. 2 **BERLIN**    
-plus James Cruickshank  
+plus JAMES CRUICKSHANK    
 9pm     
  
 * * * * *  
