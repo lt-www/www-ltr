@@ -30,19 +30,19 @@ Sydney Road, Brunswick **MELBOURNE**
 
 **Thursday 4th September 2014**      
 UNDERWORLD          
-Strada Coltei 48, BUCHAREST      
+Strada Coltei 48, **BUCHAREST**        
 
 **Friday 5th September 2014**      
 WAVE 84    
-Horia 16, CRAIOVA    
+Horia 16, **CRAIOVA**      
 
 **Saturday 6th September 2014**      
 BAROCK    
-Strada Sfanta Vineri 30, PITESTI      
+Strada Sfanta Vineri 30, **PITESTI**        
 
 **Wednesday 10th September 2014**    
 LONDOPHONE          
-Zalomit 2, BUCHAREST  
+Zalomit 2, **BUCHAREST**    
 
 * * * * * 
 
