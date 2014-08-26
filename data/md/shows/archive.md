@@ -2,6 +2,17 @@
 
 **VICTORIA**   
 
+**Sunday 24th August 2014**  
+THE OLD CHURCH ON THE HILL   
+Cnr Harkness & Russell St, **BENDIGO**     
+*presented by the Bendigo Blues & Roots Music Festival*   
+with JO JO SMITH    
+
+**Saturday 23rd August 2014**  
+MEMORIAL HALL  
+Queen St, **DOOKIE**    
+with JO JO SMITH    
+
 **Saturday 16th August 2014**    
 THE VELVET ROOM, Thornbury Theatre  
 High Street, Thornbury, **MELBOURNE**                
