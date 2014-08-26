@@ -1,19 +1,5 @@
 **VICTORIA**    
 
-**Saturday 23rd August 2014**  
-MEMORIAL HALL  
-Queen St, **DOOKIE**    
-double-bill with JO JO SMITH  
-7.30pm  
-Bookings/info: dookieemporium@bigpond.com    
-
-**Sunday 24th August 2014**  
-THE OLD CHURCH ON THE HILL   
-Cnr Harkness & Russell St, **BENDIGO**     
-*presented by the Bendigo Blues & Roots Music Festival*   
-double-bill with JO JO SMITH    
-5pm    
-
 **Sunday 31st August 2014**    
 [THE RETREAT][188]    
 Sydney Road, Brunswick **MELBOURNE**  
@@ -30,7 +16,8 @@ Sydney Road, Brunswick **MELBOURNE**
 
 **Thursday 4th September 2014**      
 UNDERWORLD          
-Strada Coltei 48, **BUCHAREST**        
+Strada Coltei 48, **BUCHAREST**       
+9pm   
 
 **Friday 5th September 2014**      
 WAVE 84    
