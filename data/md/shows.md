@@ -30,6 +30,7 @@ Strada Sfanta Vineri 30, **PITESTI**
 **Wednesday 10th September 2014**    
 LONDOPHONE          
 Zalomit 2, **BUCHAREST**    
+8pm  
 
 * * * * * 
 
