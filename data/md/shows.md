@@ -131,17 +131,25 @@ Woodlands Run Festival
 **Sunday 16th November 2014**  
 Old Hepburn Hotel  
 **HEPBURN SPRINGS**      
+5pm  
 
 **Saturday 22nd November 2014**  
 Harvester Moon  
 **BELLARINE**    
 *duet show with HAMISH STUART*    
+bookings: 03 52593200  
 
 **Sunday 23rd November 2014**  
 The Shed  
 **MARYKNOLL**      
 *duet show with HAMISH STUART*    
 
+**Wednesday 26th November 2014**  
+Supper Club at The Yarra Hotel    
+**MELBOURNE**    
+*duet show with HAMISH STUART*    
+tickets on sale soon  
+  
 * * * * *        
 
 [past shows][archive]
