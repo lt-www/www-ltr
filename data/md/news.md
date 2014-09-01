@@ -1,3 +1,7 @@
+### 1 September 2014 | Romania  
+
+Lucie's European tour starts this week! with shows in Bucharest, Craiova and Pitesti. [Details here][14]     
+
 ### 18 August 2014 | Dookie, Bendigo, Melbourne  
 
 This weekend Lucie will be joining forces with the one n only Jo Jo Smith for two shows in regional Victoria - Sat 23rd Aug in Dookie, and Sun 24th in Bendigo. And, just announced! an extra Melbourne show has been added - Sun 31st August at the Retreat. [Details here][14]    
