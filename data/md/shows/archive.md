@@ -2,6 +2,10 @@
 
 **VICTORIA**   
 
+**Sunday 31st August 2014**    
+THE RETREAT   
+Sydney Road, Brunswick **MELBOURNE**    
+
 **Sunday 24th August 2014**  
 THE OLD CHURCH ON THE HILL   
 Cnr Harkness & Russell St, **BENDIGO**     
