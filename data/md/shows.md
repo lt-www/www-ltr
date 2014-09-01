@@ -1,15 +1,3 @@
-**VICTORIA**    
-
-**Sunday 31st August 2014**    
-[THE RETREAT][188]    
-Sydney Road, Brunswick **MELBOURNE**  
-7.30pm  
-    
-* * * * *      
-
-**European Tour 2014**    
-*more dates and details announced soon*     
-
 * * * * *        
 
 **ROMANIA**  
