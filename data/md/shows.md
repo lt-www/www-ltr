@@ -48,9 +48,9 @@ plus JAMES CRUICKSHANK
 9pm     
  
 **Saturday 27th September 2014**    
-PPZK Festival     
-**LEIPZIG**     
-details tba  
+PPZK       
+Dessauer Str. 9a **LEIPZIG**     
+*duet show with HAMISH STUART*  
 
 * * * * *  
 
