@@ -7,13 +7,10 @@ UNDERWORLD
 Strada Coltei 48, **BUCHAREST**       
 9pm   
 
-**Friday 5th September 2014**      
-WAVE 84    
-Horia 16, **CRAIOVA**      
-
 **Saturday 6th September 2014**      
 BAROCK    
 Strada Sfanta Vineri 30, **PITESTI**        
+9.30pm  
 
 **Wednesday 10th September 2014**    
 LONDOPHONE          
@@ -50,6 +47,11 @@ Bergstr. 2 **BERLIN**
 plus JAMES CRUICKSHANK    
 9pm     
  
+**Saturday 27th September 2014**    
+PPZK Festival     
+**LEIPZIG**     
+details tba  
+
 * * * * *  
 
 **NETHERLANDS**   
