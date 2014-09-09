@@ -85,9 +85,10 @@ Winselingseweg 41, **NIJMEGEN**
 9pm  
 
 **Friday 10th October 2014**      
-GROUNDS at the World Music and Dance Centre  
+[GROUNDS][189] at the World Music and Dance Centre  
 Pieter de hoochweg 12, **ROTTERDAM**      
-with DAN TUFFY        
+with Karima El Fillali  
+8pm          
 
 **Sunday 12th October 2014**      
 Theatre de Wilde Wereld    
@@ -252,3 +253,4 @@ tickets on sale soon
 [186]: http://www.healesvillemusicfestival.com.au/artists.html
 [187]: http://www.mezz.nl/programma/Lucie-Thorne-(AU)/28681  
 [188]: http://retreathotelbrunswick.com.au/gigs/
+[189]: http://www.grounds.nu/?event=lucie-thorne-support-tba
