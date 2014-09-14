@@ -1,3 +1,7 @@
+### 14 September 2014 | Germany  
+
+The German chapter of the tour starts tonight! with a duo show with Hamish Stuart at Berlin's Culture Container. Also on the bill are Melbourne favourites Liz Stringer & Van Walker! [Details here][14]  
+
 ### 1 September 2014 | Romania  
 
 Lucie's European tour starts this week! with shows in Bucharest, Craiova and Pitesti. [Details here][14]     
