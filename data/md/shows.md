@@ -26,7 +26,7 @@ CULTURE CONTAINER
 Holzmarktstr. 25, **BERLIN**        
 *duet show with HAMISH STUART*       
 plus LIZ STRINGER & VAN WALKER       
-9pm     
+8.30pm     
 
 **Wednesday 17th September 2014**        
 PRINZ WILLY   
@@ -40,6 +40,7 @@ SOFA SALON
 *duet show with HAMISH STUART*         
 plus LINDSAY PHILLIPS    
 bookings essential: berlinsofasalon@googlemail.com    
+7pm  
 
 **Sunday 21st September 2014**    
 Z-BAR   
