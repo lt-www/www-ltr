@@ -41,6 +41,7 @@ SOFA SALON
 plus LINDSAY PHILLIPS    
 bookings essential: berlinsofasalon@googlemail.com    
 7pm  
+SOLD OUT  
 
 **Sunday 21st September 2014**    
 Z-BAR   
