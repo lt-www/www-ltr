@@ -1,6 +1,6 @@
 ### 19 September 2014 | Arhanghel'sk  
 
-While in Bucharest last week Lucie was invited to record backing vocals on a new song - Arhanghel'sk - by fabulous Romanian band [Robin and the Backstabbers][136]. You can hear it and watch the [film clip here][136.1].    
+While in Bucharest last week Lucie was invited to record backing vocals on a beautiful new song - Arhanghel'sk - by Romanian band [Robin and the Backstabbers][136]. You can hear it and watch the [film clip here][136.1].    
 
 In other news, Lucie and Hamish's Sofa Salon show in Berlin tonight has now sold out! Thanks folks xx  
 
