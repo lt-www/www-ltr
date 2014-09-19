@@ -1,3 +1,9 @@
+### 19 September 2014 | Arhanghel'sk  
+
+While in Bucharest last week Lucie was invited to record backing vocals on a new song by fabulous Romanian band [Robin and the Backstabbers][136]. Check out the film clip for the song, [Arhanghel'sk][136.1].    
+
+In other news, Lucie and Hamish's Sofa Salon show in Berlin tonight has now sold out! Thanks folks xx  
+
 ### 14 September 2014 | Germany  
 
 The German chapter of the tour starts tonight! with a duo show with Hamish Stuart at Berlin's Culture Container. Also on the bill are Melbourne favourites Liz Stringer & Van Walker! [Details here][14]  
@@ -532,7 +538,10 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [132]: https://rhythms.com.au/  
 [133]: http://www.portfairyfolkfestival.com/
 [134]: http://www.brunswickmusicfestival.com.au/program-love-over-gold.htm
-[135]: http://www.bmff.org.au
+[135]: http://www.bmff.org.au  
+[136]: https://www.facebook.com/RobinandtheBackstabbers
+[136.1]: http://vimeo.com/106380689
+
 
 ### old news | archive
 
