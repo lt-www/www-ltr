@@ -53,6 +53,7 @@ plus JAMES CRUICKSHANK
 PPZK       
 Dessauer Str. 9a **LEIPZIG**     
 *duet show with HAMISH STUART*  
+7.30pm    
 
 * * * * *  
 
