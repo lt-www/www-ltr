@@ -1,3 +1,7 @@
+### 26 September 2014 | Midwest USA shows announced  
+
+En route home from this European tour, Lucie will be playing just a handful of shows across Midwest USA next month... [Details here][14]    
+
 ### 19 September 2014 | Arhanghel'sk  
 
 While in Bucharest last week Lucie was invited to record backing vocals on a beautiful new song - Arhanghel'sk - by Romanian band [Robin and the Backstabbers][136]. You can hear it and watch the [film clip here][136.1].    
