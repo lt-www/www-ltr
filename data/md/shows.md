@@ -105,20 +105,20 @@ with DAN TUFFY
 **Thursday 16th October 2014**      
 [REAL PHONIC RADIO HOUR][190]        
 80 4th Street West, **St Paul, MN**        
-a [LOVE OVER GOLD][127] show!   
-7pm  
+a [LOVE OVER GOLD][127] show!     
+7pm    
 
-**Thursday 23rd October 2014**      
-[THE MILL][191]          
-120 E. Burlington Street, **Iowa City, IA** 
-with DUSTIN BUSCH  
-8pm  
-
-**Monday 27th October 2014**      
-[THE ASTER][192]            
-125 SE Main Street, **Minneapolis, MN** 
-with ROSSETTO, HUCKFELT, LEWIS & BATES  
+**Thursday 23rd October 2014**        
+[THE MILL][191]            
+120 E. Burlington Street, **Iowa City, IA**   
+with DUSTIN BUSCH    
 8pm      
+
+**Monday 27th October 2014**        
+[THE ASTER][192]              
+125 SE Main Street, **Minneapolis, MN**   
+with ROSSETTO, HUCKFELT, LEWIS & BATES    
+8pm          
 
 * * * * *    
 
