@@ -98,9 +98,27 @@ Theatre de Wilde Wereld
 Burgtstraat 1, **WAGENINGEN**      
 with DAN TUFFY    
 
-* * * * *      
+* * * * *  
 
-*...more tour dates in the northern hemisphere announced soon...*  
+**USA**  
+
+**Thursday 16th October 2014**      
+[REAL PHONIC RADIO HOUR][190]        
+80 4th Street West, **St Paul, MN**        
+a [LOVE OVER GOLD][127] show!   
+7pm  
+
+**Thursday 23rd October 2014**      
+[THE MILL][191]          
+120 E. Burlington Street, **Iowa City, IA** 
+with DUSTIN BUSCH  
+8pm  
+
+**Monday 27th October 2014**      
+[THE ASTER][192]            
+125 SE Main Street, **Minneapolis, MN** 
+with ROSSETTO, HUCKFELT, LEWIS & BATES  
+8pm      
 
 * * * * *    
 
@@ -257,3 +275,6 @@ tickets on sale soon
 [187]: http://www.mezz.nl/programma/Lucie-Thorne-(AU)/28681  
 [188]: http://retreathotelbrunswick.com.au/gigs/
 [189]: http://www.grounds.nu/?event=lucie-thorne-support-tba
+[190]: http://www.realphonic.com/  
+[191]: http://icmill.com/  
+[192]: http://www.astercafe.com/event/lucie-thorne-rossetto-huckfelt-lewis-bates/   
