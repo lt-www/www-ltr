@@ -108,6 +108,16 @@ with DAN TUFFY
 a [LOVE OVER GOLD][127] show!     
 7pm    
 
+**Friday 17th October 2014**      
+STOUGHTON OPERA HOUSE  
+**STOUGHTON, WI**  
+*Lucie will be making a cameo appearance in Pieta Brown's band, launching her beautiful new album Paradise Outlaw*    
+
+**Saturday 18th October 2014**      
+SCHUBA'S    
+**CHICAGO, IL**  
+*Lucie will be making a cameo appearance in Pieta Brown's band, launching her beautiful new album Paradise Outlaw*     
+
 **Thursday 23rd October 2014**        
 [THE MILL][191]            
 120 E. Burlington Street, **IOWA CITY, IA**   
