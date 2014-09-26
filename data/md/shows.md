@@ -94,9 +94,10 @@ with Karima El Fillali
 8pm          
 
 **Sunday 12th October 2014**      
-Theatre de Wilde Wereld    
-Burgtstraat 1, **WAGENINGEN**      
+CAFE LOBURG      
+Molenstraat 6 **WAGENINGEN**      
 with DAN TUFFY    
+8.30pm  
 
 * * * * *  
 
