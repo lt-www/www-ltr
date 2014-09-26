@@ -95,7 +95,7 @@ with Karima El Fillali
 
 **Sunday 12th October 2014**      
 CAFE LOBURG      
-Molenstraat 6 **WAGENINGEN**      
+Molenstraat 6, **WAGENINGEN**      
 with DAN TUFFY    
 8.30pm  
 
