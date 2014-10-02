@@ -1,3 +1,7 @@
+### 1 October 2014 | Benelux    
+
+Lucie's next round of shows are in Holland and Belgium, starting tonight in Geldrop, and then on to Lanakan, Breda, Nijmegen, Rotterdam and Wageningen. [Details here][14]    
+
 ### 26 September 2014 | Midwest USA shows announced  
 
 En route home from this European tour, Lucie will be playing just a handful of shows across Midwest USA next month... [Details here][14]    
