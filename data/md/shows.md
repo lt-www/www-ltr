@@ -167,10 +167,10 @@ The Shed
 *duet show with HAMISH STUART*    
 
 **Wednesday 26th November 2014**  
-Supper Club at The Yarra Hotel    
+The Yarra Hotel    
 **MELBOURNE**    
 *duet show with HAMISH STUART*    
-tickets on sale soon  
+[tickets on sale now][193]    
   
 * * * * *        
 
@@ -288,3 +288,4 @@ tickets on sale soon
 [190]: http://www.realphonic.com/  
 [191]: http://icmill.com/  
 [192]: http://www.astercafe.com/event/lucie-thorne-rossetto-huckfelt-lewis-bates/   
+[193]: http://www.trybooking.com/GBRB
