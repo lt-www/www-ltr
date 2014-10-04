@@ -151,7 +151,7 @@ Woodlands Run Festival
 **HEALESVILLE**    
 
 **Sunday 16th November 2014**  
-Old Hepburn Hotel  
+[Old Hepburn Hotel][194]    
 **HEPBURN SPRINGS**      
 5pm  
 
@@ -165,13 +165,15 @@ bookings: 03 52593200
 The Shed  
 **MARYKNOLL**      
 *duet show with HAMISH STUART*    
+2pm  
 
 **Wednesday 26th November 2014**  
 The Yarra Hotel    
 **MELBOURNE**    
 *duet show with HAMISH STUART*    
 [tickets on sale now][193]    
-  
+8pm  
+
 * * * * *        
 
 [past shows][archive]
@@ -289,3 +291,4 @@ The Yarra Hotel
 [191]: http://icmill.com/  
 [192]: http://www.astercafe.com/event/lucie-thorne-rossetto-huckfelt-lewis-bates/   
 [193]: http://www.trybooking.com/GBRB
+[194]: http://oldhepburnhotel.com.au/cms/events/bands/lucie-thorne/
