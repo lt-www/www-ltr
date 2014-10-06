@@ -135,7 +135,7 @@ with ROSSETTO, HUCKFELT, LEWIS & BATES
 **SOUTH AUSTRALIA**    
 
 **Saturday 8th November 2014**  
-Woodlands Run Festival   
+[Woodlands Run Festival][196]     
 **FINNISS**  
 
 * * * * *      
@@ -294,3 +294,4 @@ The Yarra Hotel
 [194]: http://oldhepburnhotel.com.au/cms/events/bands/lucie-thorne/
 [195]: http://www.harvestermoon.com.au/live-music/
 [195.1]: http://www.trybooking.com/107011
+[196]: http://www.trybooking.com/Booking/BookingEventSummary.aspx?eid=106097
