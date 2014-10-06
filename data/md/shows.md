@@ -120,13 +120,13 @@ SCHUBA'S
 
 **Thursday 23rd October 2014**        
 [THE MILL][191]            
-120 E. Burlington Street, **IOWA CITY, IA**   
+120 E. Burlington Street, **IOWA CITY, IA**     
 with DUSTIN BUSCH    
 8pm      
 
 **Monday 27th October 2014**        
 [THE ASTER][192]              
-125 SE Main Street, **MINNEAPOLIS, MN**   
+125 SE Main Street, **MINNEAPOLIS, MN**     
 with ROSSETTO, HUCKFELT, LEWIS & BATES    
 8pm          
 
@@ -156,10 +156,10 @@ Woodlands Run Festival
 5pm  
 
 **Saturday 22nd November 2014**  
-Harvester Moon  
+[Harvester Moon][195]    
 **BELLARINE**    
 *duet show with HAMISH STUART*    
-bookings: 03 52593200  
+[tickets on sale now][195.1]      
 
 **Sunday 23rd November 2014**  
 The Shed  
@@ -292,3 +292,5 @@ The Yarra Hotel
 [192]: http://www.astercafe.com/event/lucie-thorne-rossetto-huckfelt-lewis-bates/   
 [193]: http://www.trybooking.com/GBRB
 [194]: http://oldhepburnhotel.com.au/cms/events/bands/lucie-thorne/
+[195]: http://www.harvestermoon.com.au/live-music/
+[195.1]: http://www.trybooking.com/107011
