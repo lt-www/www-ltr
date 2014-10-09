@@ -91,7 +91,7 @@ Winselingseweg 41, **NIJMEGEN**
 [GROUNDS][189] at the World Music and Dance Centre  
 Pieter de hoochweg 12, **ROTTERDAM**      
 with Karima El Fillali  
-8pm          
+8.30pm          
 
 **Sunday 12th October 2014**      
 CAFE LOBURG      
