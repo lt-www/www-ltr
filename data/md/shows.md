@@ -78,7 +78,7 @@ House Concert
 **NETHERLANDS** 
 
 **Sunday 5th October 2014**    
-[Terrasconcert, MEZZ][187]    
+[MEZZ][187]    
 Keizerstraat 101, **BREDA**    
 4.30pm   
 
