@@ -1,6 +1,6 @@
 ### 15 October | LOVE OVER GOLD  
 
-Tomorrow night Lucie re-unites with [Pieta Brown][81] as [LOVE OVER GOLD]124] for a very special [Real Phonic Radio Hour][137] performance in St Paul, Minnesota, USA! [Tickets on sale here][138].   
+Tomorrow night Lucie re-unites with [Pieta Brown][81] as [LOVE OVER GOLD][124] for a very special [Real Phonic Radio Hour][137] performance in St Paul, Minnesota, USA! [Tickets on sale here][138].   
 
 
 ### 1 October 2014 | Benelux    
