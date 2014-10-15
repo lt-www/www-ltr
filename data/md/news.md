@@ -1,3 +1,8 @@
+### 15 October | LOVE OVER GOLD  
+
+Tomorrow night Lucie re-unites with [Pieta Brown][81] as [LOVE OVER GOLD]124] for a very special [Real Phonic Radio Hour][137] performance in St Paul, Minnesota, USA! [Tickets on sale here][138].   
+
+
 ### 1 October 2014 | Benelux    
 
 Lucie's next round of shows are in Holland and Belgium, starting tonight in Geldrop, and then on to Lanakan, Breda, Nijmegen, Rotterdam and Wageningen. [Details here][14]    
@@ -549,7 +554,8 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [135]: http://www.bmff.org.au  
 [136]: https://www.facebook.com/RobinandtheBackstabbers
 [136.1]: http://vimeo.com/106380689
-
+[137]: http://www.realphonic.com/
+[138]: http://www.realphonic.com/shop/
 
 ### old news | archive
 
