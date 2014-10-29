@@ -174,6 +174,12 @@ The Yarra Hotel
 [tickets on sale now][193]    
 8pm  
 
+**Sunday 30th November 2014**  
+Lot 19      
+**CASTLEMAINE**   
+with JO JO SMITH      
+3pm   
+
 * * * * *        
 
 [past shows][archive]
