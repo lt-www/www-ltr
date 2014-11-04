@@ -1,135 +1,3 @@
-* * * * *        
-
-**ROMANIA**  
-
-**Thursday 4th September 2014**      
-UNDERWORLD          
-Strada Coltei 48, **BUCHAREST**       
-9pm   
-
-**Saturday 6th September 2014**      
-BAROCK    
-Strada Sfanta Vineri 30, **PITESTI**        
-9.30pm  
-
-**Wednesday 10th September 2014**    
-LONDOPHONE          
-Zalomit 2, **BUCHAREST**    
-8pm  
-
-* * * * * 
-
-**GERMANY**   
- 
-**Sunday 14th September 2014**        
-CULTURE CONTAINER         
-Holzmarktstr. 25, **BERLIN**        
-*duet show with HAMISH STUART*       
-plus LIZ STRINGER & VAN WALKER       
-8.30pm     
-
-**Wednesday 17th September 2014**        
-PRINZ WILLY   
-Lutherstr. 9, **KIEL**      
-*duet show with HAMISH STUART*    
-8pm     
-
-**Friday 19th September 2014**        
-SOFA SALON    
-**BERLIN**      
-*duet show with HAMISH STUART*         
-plus LINDSAY PHILLIPS    
-bookings essential: berlinsofasalon@googlemail.com    
-7pm  
-SOLD OUT  
-
-**Sunday 21st September 2014**    
-Z-BAR   
-Bergstr. 2 **BERLIN**    
-plus JAMES CRUICKSHANK    
-9pm     
- 
-**Saturday 27th September 2014**    
-PPZK       
-Dessauer Str. 9a **LEIPZIG**     
-*duet show with HAMISH STUART*  
-7.30pm    
-
-* * * * *  
-
-**NETHERLANDS**   
-
-**Wednesday 1st October 2014**    
-Roots in't Groen  
-Heuvel 23, **GELDROP**      
-8pm   
-
-* * * * *    
-
-**BELGIUM**       
-
-**Saturday 4th October 2014**    
-House Concert   
-**LANAKEN**       
-4pm  
- 
-* * * * *  
-
-**NETHERLANDS** 
-
-**Sunday 5th October 2014**    
-[MEZZ][187]    
-Keizerstraat 101, **BREDA**    
-4.30pm   
-
-**Tuesday 7th October 2014**    
-DE VASIM  
-Winselingseweg 41, **NIJMEGEN**      
-9pm  
-
-**Friday 10th October 2014**      
-[GROUNDS][189] at the World Music and Dance Centre  
-Pieter de hoochweg 12, **ROTTERDAM**      
-with Karima El Fillali  
-8.30pm          
-
-**Sunday 12th October 2014**      
-CAFE LOBURG      
-Molenstraat 6, **WAGENINGEN**        
-8.30pm  
-
-* * * * *  
-
-**USA**  
-
-**Thursday 16th October 2014**      
-[REAL PHONIC RADIO HOUR][190]        
-80 4th Street West, **St PAUL, MN**        
-a [LOVE OVER GOLD][127] show!     
-7pm    
-
-**Friday 17th October 2014**      
-STOUGHTON OPERA HOUSE  
-**STOUGHTON, WI**  
-*Lucie will be making a cameo appearance in Pieta Brown's band, launching her beautiful new album Paradise Outlaw*    
-
-**Saturday 18th October 2014**      
-SCHUBA'S    
-**CHICAGO, IL**  
-*Lucie will be making a cameo appearance in Pieta Brown's band, launching her beautiful new album Paradise Outlaw*     
-
-**Thursday 23rd October 2014**        
-[THE MILL][191]            
-120 E. Burlington Street, **IOWA CITY, IA**     
-with DUSTIN BUSCH    
-8pm      
-
-**Monday 27th October 2014**        
-[THE ASTER][192]              
-125 SE Main Street, **MINNEAPOLIS, MN**     
-with ROSSETTO, HUCKFELT, LEWIS & BATES    
-8pm          
-
 * * * * *    
 
 **SOUTH AUSTRALIA**    
@@ -145,10 +13,12 @@ with ROSSETTO, HUCKFELT, LEWIS & BATES
 **Friday 14th November 2014**  
 [Healesville Music Festival][186]    
 **HEALESVILLE**    
+8pm  
 
 **Saturday 15th November 2014**  
 [Healesville Music Festival][186]   
 **HEALESVILLE**    
+4pm  
 
 **Sunday 16th November 2014**  
 [Old Hepburn Hotel][194]    
@@ -160,6 +30,7 @@ with ROSSETTO, HUCKFELT, LEWIS & BATES
 **BELLARINE**    
 *duet show with HAMISH STUART*    
 [tickets on sale now][195.1]      
+7.30pm  
 
 **Sunday 23rd November 2014**  
 The Shed  
