@@ -2147,6 +2147,12 @@ RSL, Tamar Valley Folk Festival.
 [169]: http://www.bmff.org.au    
 [177]: http://www.themelbournefolkclub.com/june-4th/ 
 [178]: http://www.lizstringer.com  
+[187]: http://www.mezz.nl/programma/Lucie-Thorne-(AU)/28681  
+[188]: http://retreathotelbrunswick.com.au/gigs/
+[189]: http://www.grounds.nu/?event=lucie-thorne-support-tba
+[190]: http://www.realphonic.com/  
+[191]: http://icmill.com/  
+[192]: http://www.astercafe.com/event/lucie-thorne-rossetto-huckfelt-lewis-bates/   
 
 
 if you'd care to know, there are still details of lucie's old shows:
