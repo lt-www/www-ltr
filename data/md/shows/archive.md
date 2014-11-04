@@ -17,12 +17,12 @@ with DUSTIN BUSCH
 **Saturday 18th October 2014**      
 SCHUBA'S    
 **CHICAGO, IL**  
-*Lucie will be making a cameo appearance in Pieta Brown's band, launching her beautiful new album Paradise Outlaw*     
+*Lucie will be playing in Pieta Brown's band, launching her beautiful new album Paradise Outlaw*     
 
 **Friday 17th October 2014**      
 STOUGHTON OPERA HOUSE  
 **STOUGHTON, WI**  
-*Lucie will be making a cameo appearance in Pieta Brown's band, launching her beautiful new album Paradise Outlaw*           
+*Lucie will be playing in Pieta Brown's band, launching her beautiful new album Paradise Outlaw*           
 
 **Thursday 16th October 2014**      
 [REAL PHONIC RADIO HOUR][190]        
