@@ -1,3 +1,7 @@
+### 5 November 2014 | Woodlands Run  
+
+Lucie lands back home this week, and heads straight back on the road... to Finniss, SA! for the sweet Woodlands Run Festival! [Tickets on sale here][139]      
+
 ### 26 October 2014 | Minneapolis  
 
 Last show in the Northern Hemisphere coming up tomorrow night - at The Aster in Minneapolis, in cahoots with the mighty Rossetto, Huckfelt, Lewis & Bates!  
@@ -560,6 +564,7 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [136.1]: http://vimeo.com/106380689
 [137]: http://www.realphonic.com/
 [138]: http://www.realphonic.com/shop/
+[139]: http://www.trybooking.com/Booking/BookingEventSummary.aspx?eid=106097
 
 ### old news | archive
 
