@@ -1,4 +1,119 @@
-## shows/archive  
+## shows/archive   
+ 
+* * * * *   
+
+**USA**  
+
+**Monday 27th October 2014**        
+[THE ASTER][192]              
+125 SE Main Street, **MINNEAPOLIS, MN**     
+with ROSSETTO, HUCKFELT, LEWIS & BATES   
+
+**Thursday 23rd October 2014**        
+[THE MILL][191]            
+120 E. Burlington Street, **IOWA CITY, IA**     
+with DUSTIN BUSCH   
+
+**Saturday 18th October 2014**      
+SCHUBA'S    
+**CHICAGO, IL**  
+*Lucie will be making a cameo appearance in Pieta Brown's band, launching her beautiful new album Paradise Outlaw*     
+
+**Friday 17th October 2014**      
+STOUGHTON OPERA HOUSE  
+**STOUGHTON, WI**  
+*Lucie will be making a cameo appearance in Pieta Brown's band, launching her beautiful new album Paradise Outlaw*           
+
+**Thursday 16th October 2014**      
+[REAL PHONIC RADIO HOUR][190]        
+80 4th Street West, **St PAUL, MN**        
+a [LOVE OVER GOLD][127] show!               
+
+* * * * *        
+
+**NETHERLANDS** 
+
+**Sunday 12th October 2014**      
+CAFE LOBURG      
+Molenstraat 6, **WAGENINGEN**     
+
+**Friday 10th October 2014**      
+[GROUNDS][189] at the World Music and Dance Centre  
+Pieter de hoochweg 12, **ROTTERDAM**      
+with Karima El Fillali  
+
+**Tuesday 7th October 2014**    
+DE VASIM  
+Winselingseweg 41, **NIJMEGEN**      
+
+**Sunday 5th October 2014**    
+[MEZZ][187]    
+Keizerstraat 101, **BREDA**    
+    
+* * * * *    
+
+**BELGIUM**       
+
+**Saturday 4th October 2014**    
+House Concert   
+**LANAKEN**       
+
+* * * * *   
+**NETHERLANDS**   
+
+**Wednesday 1st October 2014**    
+Roots in't Groen  
+Heuvel 23, **GELDROP**        
+
+* * * * *    
+
+**GERMANY**   
+ 
+**Saturday 27th September 2014**    
+PPZK       
+Dessauer Str. 9a **LEIPZIG**     
+*duet show with HAMISH STUART*  
+
+**Sunday 21st September 2014**    
+Z-BAR   
+Bergstr. 2 **BERLIN**    
+plus JAMES CRUICKSHANK    
+
+**Friday 19th September 2014**        
+SOFA SALON    
+**BERLIN**      
+*duet show with HAMISH STUART*         
+plus LINDSAY PHILLIPS    
+SOLD OUT  
+
+**Wednesday 17th September 2014**        
+PRINZ WILLY   
+Lutherstr. 9, **KIEL**      
+*duet show with HAMISH STUART*    
+ 
+**Sunday 14th September 2014**        
+CULTURE CONTAINER         
+Holzmarktstr. 25, **BERLIN**        
+*duet show with HAMISH STUART*       
+plus LIZ STRINGER & VAN WALKER        
+
+* * * * *  
+
+**ROMANIA**  
+
+**Wednesday 10th September 2014**    
+LONDOPHONE          
+Zalomit 2, **BUCHAREST**    
+
+**Saturday 6th September 2014**      
+BAROCK    
+Strada Sfanta Vineri 30, **PITESTI**        
+
+**Thursday 4th September 2014**      
+UNDERWORLD          
+Strada Coltei 48, **BUCHAREST**    
+
+* * * * *  
 
 **VICTORIA**   
 
