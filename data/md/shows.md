@@ -36,6 +36,7 @@
 The Shed  
 **MARYKNOLL**      
 *duet show with HAMISH STUART*    
+Bookings: 0418 429 025  
 2pm  
 
 **Wednesday 26th November 2014**  
