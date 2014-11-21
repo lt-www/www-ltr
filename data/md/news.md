@@ -1,3 +1,7 @@
+### 21 November 2014 | Duo shows with Hamish Stuart  
+
+Three duo shows with Hamish Stuart coming up this week: Sat 22nd in Bellarine, Sun 23rd in Maryknoll, and Wed 26th in Abbotsford. [Details/bookings info here][14].  
+
 ### 5 November 2014 | Woodlands Run  
 
 Lucie lands back home this week, and heads straight back on the road... to Finniss, SA! for the sweet Woodlands Run Festival! [Tickets on sale here][139]      
