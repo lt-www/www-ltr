@@ -54,6 +54,25 @@ with JO JO SMITH
 
 * * * * *        
 
+**TASMANIA**    
+
+**Friday 9th January 2015**  
+FRESH      
+Charles St, **LAUNCESTON**    
+details tba  
+
+**Friday 23rd January 2015**  
+WILLY SMITH'S APPLE SHED        
+**GROVE**      
+details tba   
+
+**Saturday 24th January 2015**  
+HOUSE CONCERT          
+**NEIKA**        
+details tba   
+
+* * * * *        
+
 [past shows][archive]
 
 [archive]: ?p=shows/archive/
