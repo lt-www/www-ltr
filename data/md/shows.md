@@ -44,13 +44,13 @@ The Yarra Hotel
 **MELBOURNE**    
 *duet show with HAMISH STUART*    
 [tickets on sale now][193]    
-8pm  
+two sets / 8pm  
 
 **Sunday 30th November 2014**  
 Lot 19      
 **CASTLEMAINE**   
 with JO JO SMITH      
-3pm   
+5pm   
 
 * * * * *        
 
