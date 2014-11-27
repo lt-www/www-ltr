@@ -52,6 +52,10 @@ Lot 19
 with JO JO SMITH      
 5pm   
 
+**Saturday 6 & Sunday 7th December 2014**  
+[Folk, Rhythm & Life Festival][197]   
+**ELDORADO**     
+
 * * * * *        
 
 **TASMANIA**    
@@ -192,3 +196,4 @@ details tba
 [195]: http://www.harvestermoon.com.au/live-music/
 [195.1]: http://www.trybooking.com/107011
 [196]: http://www.trybooking.com/Booking/BookingEventSummary.aspx?eid=106097
+[197]: http://frl2014.bilyana.com/
