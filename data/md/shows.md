@@ -52,7 +52,7 @@ Lot 19
 with JO JO SMITH      
 5pm   
 
-**Saturday 6 & Sunday 7th December 2014**  
+**Saturday 6th & Sunday 7th December 2014**  
 [Folk, Rhythm & Life Festival][197]   
 **ELDORADO**     
 
