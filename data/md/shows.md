@@ -62,19 +62,31 @@ with JO JO SMITH
 
 **Friday 9th January 2015**  
 FRESH      
-Charles St, **LAUNCESTON**    
-details tba  
+178 Charles St, **LAUNCESTON**    
+plus special guests Miatta Mu.  
+8pm  
+Bookings: 03 6331 4299    
 
 **Friday 23rd January 2015**  
-WILLY SMITH'S APPLE SHED        
-**GROVE**      
-details tba   
+WILLIE SMITH'S APPLE SHED        
+2064 Huon Highway, **GROVE**      
+6pm     
 
 **Saturday 24th January 2015**  
 HOUSE CONCERT          
 **NEIKA**        
-details tba   
+2pm  
 
+**Sunday 25th January 2015**  
+MONA MARKETS            
+655 Main Road Berriedale, **HOBART**          
+12pm    
+
+**Monday 26th January 2015**  
+MONA MAIN STAGE              
+655 Main Road Berriedale, **HOBART**          
+1pm  
+    
 * * * * *        
 
 [past shows][archive]
