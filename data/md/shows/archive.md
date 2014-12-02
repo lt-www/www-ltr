@@ -41,7 +41,7 @@ Old Hepburn Hotel
 **SOUTH AUSTRALIA**    
 
 **Saturday 8th November 2014**  
-[Woodlands Run Festival][196]     
+Woodlands Run Festival  
 **FINNISS**  
 
 * * * * *   
@@ -2191,6 +2191,7 @@ RSL, Tamar Valley Folk Festival.
 [169]: http://www.bmff.org.au    
 [177]: http://www.themelbournefolkclub.com/june-4th/ 
 [178]: http://www.lizstringer.com  
+[186]: http://www.healesvillemusicfestival.com.au/artists.html
 [187]: http://www.mezz.nl/programma/Lucie-Thorne-(AU)/28681  
 [188]: http://retreathotelbrunswick.com.au/gigs/
 [189]: http://www.grounds.nu/?event=lucie-thorne-support-tba
