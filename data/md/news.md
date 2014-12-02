@@ -1,3 +1,7 @@
+### 1 December 2014 | Southern Summer     
+
+Wrapping up a big year on the road with a performance at [FRL Festival][140] in Eldorado this weekend! Followed by a little summer hiatus... and then some shows around Tassie in the new year x [Details here][14]
+
 ### 21 November 2014 | Duo shows with Hamish Stuart  
 
 Three duo shows with Hamish Stuart coming up this week: Sat 22nd in Bellarine, Sun 23rd in Maryknoll, and Wed 26th in Abbotsford. [Details/bookings info here][14].  
@@ -569,6 +573,7 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [137]: http://www.realphonic.com/
 [138]: http://www.realphonic.com/shop/
 [139]: http://www.trybooking.com/Booking/BookingEventSummary.aspx?eid=106097
+[140]: http://frl2014.bilyana.com/
 
 ### old news | archive
 
