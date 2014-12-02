@@ -1,5 +1,49 @@
 ## shows/archive   
  
+* * * * *      
+
+**VICTORIA**     
+
+**Sunday 30th November 2014**  
+Lot 19      
+**CASTLEMAINE**   
+with JO JO SMITH  
+
+**Wednesday 26th November 2014**  
+The Yarra Hotel    
+**MELBOURNE**    
+*duet show with HAMISH STUART*    
+
+**Sunday 23rd November 2014**  
+The Shed  
+**MARYKNOLL**      
+*duet show with HAMISH STUART*   
+
+**Saturday 22nd November 2014**  
+Harvester Moon  
+**BELLARINE**    
+*duet show with HAMISH STUART*     
+
+**Sunday 16th November 2014**  
+Old Hepburn Hotel   
+**HEPBURN SPRINGS**      
+
+**Saturday 15th November 2014**  
+[Healesville Music Festival][186]   
+**HEALESVILLE**    
+
+**Friday 14th November 2014**  
+[Healesville Music Festival][186]    
+**HEALESVILLE**  
+
+* * * * *    
+
+**SOUTH AUSTRALIA**    
+
+**Saturday 8th November 2014**  
+[Woodlands Run Festival][196]     
+**FINNISS**  
+
 * * * * *   
 
 **USA**  
