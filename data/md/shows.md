@@ -17,6 +17,11 @@ plus special guests Miatta Mu.
 8pm  
 Bookings: 03 6331 4299    
 
+**Saturday 10th January 2015**  
+BAY OF FIRES             
+**BINALONG BAY**        
+details tba    
+
 **Friday 23rd January 2015**  
 WILLIE SMITH'S APPLE SHED        
 2064 Huon Highway, **GROVE**      
