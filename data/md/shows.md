@@ -33,7 +33,7 @@ HOUSE CONCERT
 2pm  
 
 **Sunday 25th January 2015**  
-MONA MARKETS            
+MONA MARKET            
 655 Main Road Berriedale, **HOBART**          
 12pm    
 
