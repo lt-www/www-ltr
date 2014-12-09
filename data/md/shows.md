@@ -3,8 +3,7 @@
 **Sunday 7th December 2014**  
 [Folk, Rhythm & Life Festival][197]   
 **ELDORADO**     
-Hilltop Stage  
-4pm  
+Hilltop Stage    
 
 * * * * *        
 
@@ -18,7 +17,7 @@ plus special guests Miatta Mu.
 Bookings: 03 6331 4299    
 
 **Saturday 10th January 2015**  
-BAY OF FIRES             
+BAY OF FIRES                
 **BINALONG BAY**        
 details tba    
 
