@@ -1,11 +1,12 @@
-import Data.List
+-- import Data.List {- base -}
 import qualified Network.CGI as C {- cgi -}
 import qualified Network.CGI.Protocol as C {- cgi -}
-import qualified Text.HTML.Light as H {- html-minimalist -}
 import qualified Text.XML.Light as X {- xml -}
 import System.FilePath {- filepath -}
-import qualified WWW.Minus.CGI as W {- hwww-minus -}
-import qualified WWW.Minus.CGI.Editor as E
+
+import qualified Text.HTML.Light as H {- html-minimalist -}
+import qualified WWW.Minus.CGI as W {- www-minus -}
+import qualified WWW.Minus.CGI.Editor as E {- www-minus -}
 import qualified WWW.Minus.RSS.News as R {- www-minus -}
 
 import qualified Img as I

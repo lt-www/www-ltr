@@ -1,14 +1,16 @@
 module Img where
 
-import Control.Monad
-import Data.List
-import Data.Maybe
+import Control.Monad {- base -}
+import Data.Char {- base -}
+import Data.List {- base -}
+import Data.Maybe {- base -}
 import System.Directory {- directory -}
 import System.FilePath {- filepath -}
 import System.Process {- process -}
-import qualified Text.HTML.Light as H {- html-minimalist -}
-import qualified Text.HTML.Light.Composite.Menu as H
 import qualified Text.XML.Light as X {- xml -}
+
+import qualified Text.HTML.Light as H {- html-minimalist -}
+import qualified Text.HTML.Light.Composite.Menu as H {- html-minimalist -}
 
 type Area = String
 type Id = String
@@ -55,7 +57,7 @@ img_no_preload = H.div [H.class' "img-preload"] []
 img_submenu :: Renamer -> [Img] -> X.Content
 img_submenu p d =
     let adr i = p ("photos" </> i)
-        f (n,((i,_):_)) = (n,i,Just (adr i))
+        f (n,((i,_):_)) = (map toUpper n,i,Just (adr i))
         f (_,[]) = undefined
     in H.nav_menu_span id "submenu" (map f d) ""
 
