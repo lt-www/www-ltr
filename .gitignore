@@ -1,1 +1,6 @@
+data/png/icon/*.bw.png
+data/png/icon/*.gr.png
+dist
+hs/*.hi
+hs/*.o
 rgen

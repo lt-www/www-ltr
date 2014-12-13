@@ -9,6 +9,7 @@ build-cabal:
 
 resize-genera:
 	sh sh/cover.sh
+	(cd data/png/icon ; make all)
 
 clean:
 	cabal clean

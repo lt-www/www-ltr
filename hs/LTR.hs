@@ -86,7 +86,7 @@ std_copyright :: Config -> FilePath -> X.Content
 std_copyright cf p =
     let rss_v = H.w3_rss_validator lt_site
         mk_i :: String -> Int -> X.Content
-        mk_i nm sz = H.img [H.src (printf "data/png/icon/%s-%d.png" nm sz)
+        mk_i nm sz = H.img [H.src (printf "data/png/icon/%s-%d.gr.png" nm sz)
                            ,H.alt nm]
         rss_i = mk_i "rss" 14
         fb_i = mk_i "fb" 14
@@ -101,7 +101,7 @@ std_copyright cf p =
          ,H.a [H.href "http://soundcloud.com/lucie-1-2"] [sc_i]
          ,H.a [H.href "http://instagram.com/luciennethorne"] [ig_i]
          ,H.a [H.href "http://www.myspace.com/luciethornemusic"] [ms_i]
-         ,H.br []
+         --,H.br []
          ,H.copy
          ,H.a [H.href lt_site] [H.cdata "lucie thorne"]
          ,H.cdata " 2014. " {- 1998- -}
