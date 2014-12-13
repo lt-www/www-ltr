@@ -25,11 +25,17 @@ title_case s =
       [] -> []
       x:xs -> toUpper x : map toLower xs
 
+upper_case :: String -> String
+upper_case = map toUpper
+
 -- * Configuration
 
 data Config = Config {lt_base :: I.Renamer -- ^ menu
                      ,lt_root :: FilePath -- ^ css & data & rgen
                      ,lt_use_preload :: Bool}
+
+lt_file :: FilePath -> FilePath
+lt_file = (</>) "/home/rohan/ut/www-ltr"
 
 lt_css :: Config -> FilePath
 lt_css cf = lt_root cf </> "css/lt.css"
@@ -98,7 +104,7 @@ std_copyright cf p =
          ,H.br []
          ,H.copy
          ,H.a [H.href lt_site] [H.cdata "lucie thorne"]
-         ,H.cdata " 2012. " {- 1998- -}
+         ,H.cdata " 2014. " {- 1998- -}
          ,H.a [H.href H.w3_html_validator] [H.cdata "html"]
          ,H.cdata ", "
          ,H.a [H.href H.w3_css_validator] [H.cdata "css"]
@@ -109,11 +115,11 @@ std_copyright cf p =
 std_menu :: Config -> String -> X.Content
 std_menu cf =
     let f (m,p_) = (m,p_,Just (lt_base cf p_))
-    in H.nav_menu_span id "menu" (map f (lt_menu title_case))
+    in H.nav_menu_span id "menu" (map f (lt_menu upper_case))
 
 lt_h1 :: X.Content
 lt_h1 =
-    let t = H.h1 [H.title' "lucie thorne"] [H.cdata "Lucie Thorne"]
+    let t = H.h1 [H.title' "lucie thorne"] [H.cdata (upper_case "Lucie Thorne")]
     in H.a [H.class' "h1",H.href lt_site] [t]
 
 -- > joinPath ["a","b"] == "a/b"
