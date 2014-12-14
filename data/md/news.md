@@ -1,3 +1,7 @@
+### 14 December 2014 | New Album News!  
+
+Excited to to let you know that there's a new album well on the way folks! Lucie & Hamish recorded most of it while they were in Berlin recently, and are currently putting the finishing touches on it. We'll be telling you a whole lot more about it all in the new year, so stay tuned xx    
+
 ### 1 December 2014 | Southern Summer     
 
 Wrapping up a big year on the road with a performance at [FRL Festival](http://frl2014.bilyana.com) in Eldorado this weekend! Followed by a little summer hiatus... and then some shows around Tassie in the new year x [Details here][shows]
