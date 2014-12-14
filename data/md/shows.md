@@ -8,9 +8,9 @@ plus special guests Miatta Mu.
 Bookings: 03 6331 4299    
 
 **Saturday 10th January 2015**  
-BAY OF FIRES                
+BAY OF FIRES CELEBRATION                  
 **BINALONG BAY**        
-details tba    
+5pm   
 
 **Friday 23rd January 2015**  
 WILLIE SMITH'S APPLE SHED        
