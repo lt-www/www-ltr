@@ -4,6 +4,11 @@
 
 **VICTORIA**     
 
+**Sunday 7th December 2014**  
+Folk, Rhythm & Life Festival    
+**ELDORADO**       
+Hilltop Stage     
+
 **Sunday 30th November 2014**  
 Lot 19      
 **CASTLEMAINE**   
