@@ -1,12 +1,3 @@
-**VICTORIA**   
-
-**Sunday 7th December 2014**  
-[Folk, Rhythm & Life Festival][197]   
-**ELDORADO**     
-Hilltop Stage    
-
-* * * * *        
-
 **TASMANIA**    
 
 **Friday 9th January 2015**  
@@ -41,7 +32,7 @@ MONA MAIN STAGE
 655 Main Road Berriedale, **HOBART**          
 1pm  
     
-* * * * *        
+* * * * *               
 
 [past shows][archive]
 
