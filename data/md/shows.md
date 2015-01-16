@@ -32,7 +32,17 @@ MONA MAIN STAGE
 655 Main Road Berriedale, **HOBART**          
 1pm  
     
-* * * * *               
+* * * * *              
+
+**VICTORIA**    
+
+**Friday 30th January 2015**  
+THE RETREAT HOTEL        
+Sydney Rd, **MELBOURNE**    
+plus Dan Lethbridge.    
+9.30pm   
+
+* * * * *              
 
 [past shows][archive]
 
