@@ -42,6 +42,28 @@ Sydney Rd, **MELBOURNE**
 plus Dan Lethbridge.    
 9.30pm   
 
+**Saturday 28th February 2015**  
+OLD CHURCH ON THE HILL  
+*BENDIGO**  
+with JO JO SMITH  
+details tba  
+
+**20th - 22nd March 2015**  
+YACKANDANDAH FOLK FESTIVAL    
+**YACKANDANDAH**  
+duet shows with HAMISH STUART  
+details tba  
+    
+* * * * *              
+
+**ACT**      
+
+**3rd - 5th April 2015**  
+NATIONAL FOLK FESTIVAL   
+**CANBERRA**  
+duet shows with HAMISH STUART  
+details tba   
+
 * * * * *              
 
 [past shows][archive]
