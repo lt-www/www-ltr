@@ -42,11 +42,21 @@ Sydney Rd, **MELBOURNE**
 plus Dan Lethbridge.    
 9.30pm   
 
+* * * * *         
+
+**VICTORIA**     
+
 **Saturday 28th February 2015**  
 OLD CHURCH ON THE HILL  
-*BENDIGO**  
+**BENDIGO**  
 with JO JO SMITH  
-details tba  
+details tba   
+
+**Sunday 1st March 2015**  
+PIZZA & WINE CLUB    
+**KYNETON**  
+with JO JO SMITH  
+details tba   
 
 **20th - 22nd March 2015**  
 YACKANDANDAH FOLK FESTIVAL    
