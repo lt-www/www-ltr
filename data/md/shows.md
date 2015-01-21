@@ -25,7 +25,7 @@ HOUSE CONCERT
 **Sunday 25th January 2015**  
 MONA MARKET            
 655 Main Road Berriedale, **HOBART**          
-12pm    
+3pm    
 
 **Monday 26th January 2015**  
 MONA MAIN STAGE              
