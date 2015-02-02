@@ -2,9 +2,13 @@
 
 Lucie's new album, [EVERYTHING SINGS TONIGHT][141] will be released on 1st June 2015! And you can pre-order your copy now! Available on both CD and Vinyl, you'll receive a free pre-release download of the first single, *The Rushing Dark* when you [pre-order the album][141] xx  
 
+* * * * *          
+
 ### 14 December 2014 | New Album News!  
 
 Excited to let you know that there's a new album well on the way folks! Lucie & Hamish recorded most of it while they were in Berlin recently, and are currently working on the finishing touches. We'll be telling you a whole lot more about it all in the new year, so stay tuned xx    
+
+* * * * *          
 
 ### 1 December 2014 | Southern Summer     
 
@@ -100,7 +104,9 @@ Lucie heads West this week for a run of shows in duet with the one n only Hamish
 
 ### 14 January 2014 | Love Over Gold to return in March  
 
-Lucie's side project with [Pieta Brown][81] - [LOVE OVER GOLD][124] - has been announced as part of the line up for three Australian music festivals in March; [Port Fairy Folk Festival][133], [Brunswick Music Festival][134], and the [Blue Mountains Music Festival][135]. Tickets for each of these are on sale now, see the [shows page][shows] for details.  
+Lucie's side project with [Pieta Brown][81] - [LOVE OVER GOLD][124] - has been announced as part of the line up for three Australian music festivals in March; [Port Fairy Folk Festival][133], [Brunswick Music Festival][134], and the [Blue Mountains Music Festival][135]. Tickets for each of these are on sale now, see the [shows page][shows] for details.    
+
+* * * * *          
 
 ### old news | archive
 
