@@ -1,13 +1,3 @@
-**VICTORIA**    
-
-**Friday 30th January 2015**  
-THE RETREAT HOTEL        
-Sydney Rd, **MELBOURNE**    
-plus Dan Lethbridge.    
-9.30pm   
-
-* * * * *         
-
 **VICTORIA**     
 
 **Saturday 28th February 2015**  
