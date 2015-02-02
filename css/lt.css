@@ -6,27 +6,27 @@
 
 @media all and (max-width: 800px) {
  body {margin: 0em auto}
- h1 {font-size: 2.25em}
+ h1 {font-size: 3.25em}
 }
 
 @font-face {
   font-family: lt-normal;
-  src: url(../data/font/franklin.ttf) format("truetype");
+  src: url(../data/font/futura.ttf) format("truetype");
 }
 
 @font-face {
   font-family: lt-header;
-  src: url(../data/font/franklin.ttf) format("truetype");
+  src: url(../data/font/futura.ttf) format("truetype");
 }
 
 /* plain */
 html {}
 body {background-color: #101010} /* #060606 #fffff0 #212321 #392313 #442922 #53a0a8*/
 body {color: #f0f0f0} /* #2f4f4f #fdf5e0 #fdf5e0*/
-body {font-family: /* lt-normal, */ "Arial", sans-serif}
+body {font-family: /*lt-normal, "Arial",*/ sans-serif}
 body {font-size: 0.9em}
 body {max-width: 45em}
-h1, h2, h3, h4 {font-family: /* lt-header, */ "Arial Narrow", sans-serif}
+h1, h2, h3, h4 {font-family: /*lt-header, "Arial",*/ sans-serif}
 h1, h2, h3, h4 {clear: both}
 p {line-height: 1.15em}
 a {color: #f0f0f0}  /* #2F4F4F #F3E667 #fefced */
@@ -95,7 +95,7 @@ div.main {}
 div.clear {clear: both}
 nav {font-weight: normal}
 nav a.not-here:hover {color: #060606; background-color: #f0f0f0}
-nav.menu, nav.submenu {font-family: /* lt-normal, */ "Arial Narrow", sans-serif}
+nav.menu, nav.submenu {font-family: /*lt-normal, "Arial",*/ sans-serif}
 nav.submenu {padding: 0.5em 0em 0em 0em}
 .menu a {text-decoration: none}
 .menu a {font-weight: bold}
@@ -111,7 +111,7 @@ body.photos div.main h1 {margin: 0em 0em -0.25em 0em}
 img.img-preview {padding-right: 0.5em}
 div.img-preload {display: none}
 span.arrows {padding-left: 2em}
-.contact code {font-family: /* lt-normal, */ "Arial", sans-serif}
+.contact code {font-family: /*lt-normal, "Arial",*/ sans-serif}
 
 div.img-preview {
  width: 500%; /* stop image previews from wrapping */
@@ -136,6 +136,11 @@ a.h1, a.edit, a.edit:visited {text-decoration: none}
 
 /***** album (singular, ie. actual page) *****/
 body.albums div.main div.content div.figure {float: right}
+
+body.home blockquote {
+    font-size: 115%;
+    text-align: center;
+}
 
 body.albums div.main div.content ol {
  margin: 0em 0em 2em 0em;
@@ -174,7 +179,7 @@ div.yt-img a img {padding-right: 1em}
 a.purchase {
  text-decoration:none;
  color: #000; /* #000 */
- font-family: /* lt-normal, */ "Arial", sans-serif;
+ font-family: /*lt-normal, "Arial",*/ sans-serif;
  font-size: 0.85em;
  padding: 0px 2px;
  background-color:#DCAFDA; /* 6BC4D9 DCAFDA */

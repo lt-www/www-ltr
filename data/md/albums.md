@@ -1,3 +1,15 @@
+[![Everything Sings Tonight][9.1]][9.2]
+*Everything Sings Tonight*  
+Release date: 1st June 2015. [Details][9.2]  
+__PRE-ORDER__ your copy on CD or LP  
+**CD**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H9G7WHRG5LDPA">ALL $25AUD</a>
+**LP**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R77D3AGG9J7P4">AUS $35AUD</a>
+<a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ADRQRFUUCDJCE">WORLD $45AUD</a>
+
+
+  [9.1]: rgen/cover/r-80/everything-sings.jpg
+  [9.2]: ?p=albums/everything-sings-tonight
+
 [![Fall To Rise][8.1]][8.2]
 *Fall To Rise* by [LOVE OVER GOLD](http://love-over-gold.com)  
 (Lucie Thorne & [Pieta Brown](http://pietabrown.com))  
