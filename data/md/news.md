@@ -104,33 +104,49 @@ Lucie plays in Alice Springs for the first time ever this week - starting with a
 
 More winter tour dates have just been announced - including Lucie's debut performance in Alice Springs, and some duet shows with Hamish Stuart in Melbourne and Castlemaine.  [Details here][shows] 
 
+* * * * *          
+
 ### 4 June 2014 | Solo in June  
 
 Lucie will be performing a series of intimate solo concerts throughout the month of June, starting tonight in Melbourne at the Bella Union, and then on to Bacchus Marsh, Canberra, Maitland, Bellingen, Mullumbimby, Katoomba, Kangaroo Valley and Mallacoota. [Details here][shows]     
+
+* * * * *          
 
 ### 16 May 2014 | South Australia  
 
 Three shows coming up in South Australia - the first of which is tonight, at the beloved Wheaty, in duet with Dr Hamish Stuart. [Details here][shows]   
 
+* * * * *          
+
 ### 9 May 2014 | This weekend with Sal Kimber  
 
 Lucie plays three shows around regional Victoria this weekend - in Dean's Marsh, Ballarat and Hepburn Springs - all of them with local treasure Sal Kimber. [Details here][shows]  
+
+* * * * *          
 
 ### 22 April 2014 | Two Duets  
 
 Lucie will be playing two duet shows with Hamish Stuart this week - tomorrow night in Newcastle, and Saturday night in Wollongong. [Details here][shows]      
 
+* * * * *          
+
 ### 11 April 2014 | Standing in the Lovelight         
 
 Lucie will be performing tonight at Melbourne's beautiful Thornbury Theatre, warming things up for the fabulous Jo Jo Smith who's launching her new album, 'Standing in the Lovelight'. Show starts 8pm.  
+
+* * * * *          
 
 ### 7 March 2014 | Port Fairy this weekend     
 
 LOVE OVER GOLD - Lucie's collaboration with US songstress Pieta Brown - is back on the road and playing this weekend at the Port Fairy Folk Festival! Full festival line-up and program available [here][133].    
 
+* * * * *          
+
 ### 24 February 2014 | Western Australia  
 
 Lucie heads West this week for a run of shows in duet with the one n only Hamish Stuart; in Fremantle, Perth, Nannup and Margaret River. [Details here][shows]  
+
+* * * * *          
 
 ### 14 January 2014 | Love Over Gold to return in March  
 
