@@ -28,6 +28,7 @@ THE BRIDGE HOTEL
 duet show with HAMISH STUART  
 plus special guest JIMMY DOWLING  
 8pm    
+[Tickets on sale now][201]  
 
 **Saturday 28th March 2015**  
 *The Rushing Dark* Single Release Show  
@@ -36,6 +37,7 @@ VELVET ROOM, THORNBURY THEATRE
 duet show with HAMISH STUART  
 plus special guest JIMMY DOWLING  
 8pm    
+[Tickets on sale now][202]  
     
 * * * * *              
 
@@ -170,4 +172,6 @@ duet shows with HAMISH STUART
 [197]: http://frl2014.bilyana.com/  
 [198]: http://folkfestival.org.au/  
 [199]: http://www.bendigobluesandroots.com.au/events.php  
-[200]: http://folkfestival.org.au/
+[200]: http://folkfestival.org.au/  
+[201]: http://www.trybooking.com/119595
+[202]: http://thethornburytheatre.com/event/lucie-thorne-hamish-stuart-rushing-dark-single-launch/  
