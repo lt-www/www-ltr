@@ -1,6 +1,34 @@
 ## shows/archive   
+* * * * *  
+
+**TASMANIA**    
+
+**Monday 26th January 2015**  
+MONA MAIN STAGE              
+655 Main Road Berriedale, **HOBART** 
  
-* * * * *      
+**Sunday 25th January 2015**  
+MONA MAIN STAGE              
+655 Main Road Berriedale, **HOBART**          
+
+**Saturday 24th January 2015**  
+HOUSE CONCERT          
+**NEIKA**        
+
+**Friday 23rd January 2015**  
+WILLIE SMITH'S APPLE SHED        
+2064 Huon Highway, **GROVE**       
+
+**Saturday 10th January 2015**  
+BAY OF FIRES CELEBRATION                  
+**BINALONG BAY**       
+
+**Friday 9th January 2015**  
+FRESH      
+178 Charles St, **LAUNCESTON**    
+plus special guests Miatta Mu.  
+
+* * * * *              
 
 **VICTORIA**     
 
