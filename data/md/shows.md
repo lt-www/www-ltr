@@ -47,32 +47,30 @@ plus Dan Lethbridge.
 **VICTORIA**     
 
 **Saturday 28th February 2015**  
-OLD CHURCH ON THE HILL  
+[OLD CHURCH ON THE HILL][199]    
 **BENDIGO**  
 with JO JO SMITH  
-details tba   
+7pm    
 
 **Sunday 1st March 2015**  
 PIZZA & WINE CLUB    
 **KYNETON**  
 with JO JO SMITH  
-details tba   
+2pm     
 
 **20th - 22nd March 2015**  
 YACKANDANDAH FOLK FESTIVAL    
 **YACKANDANDAH**  
-duet shows with HAMISH STUART  
-details tba  
+duet shows with HAMISH STUART    
     
 * * * * *              
 
 **ACT**      
 
 **3rd - 5th April 2015**  
-NATIONAL FOLK FESTIVAL   
+[NATIONAL FOLK FESTIVAL][200]   
 **CANBERRA**  
-duet shows with HAMISH STUART  
-details tba   
+duet shows with HAMISH STUART   
 
 * * * * *              
 
@@ -196,4 +194,6 @@ details tba
 [195.1]: http://www.trybooking.com/107011
 [196]: http://www.trybooking.com/Booking/BookingEventSummary.aspx?eid=106097
 [197]: http://frl2014.bilyana.com/  
-[198]: http://folkfestival.org.au/
+[198]: http://folkfestival.org.au/  
+[199]: http://www.bendigobluesandroots.com.au/events.php  
+[200]: http://folkfestival.org.au/
