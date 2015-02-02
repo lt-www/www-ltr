@@ -1,6 +1,6 @@
 ### 2 February 2015 | Everything Sings Tonight!   
 
-Lucie's new album, EVERYTHING SINGS TONIGHT will be released on 1st June 2015! And you can pre-order your copy now! Available on both CD and Vinyl, you'll receive a free pre-release download of the first single, *The Rushing Dark* when you pre-order the album xx  
+Lucie's new album, [EVERYTHING SINGS TONIGHT][141] will be released on 1st June 2015! And you can pre-order your copy now! Available on both CD and Vinyl, you'll receive a free pre-release download of the first single, *The Rushing Dark* when you [pre-order the album][141] xx  
 
 ### 14 December 2014 | New Album News!  
 
@@ -117,4 +117,5 @@ if you care to know it, there is still all of the [old news](?p=news/archive)...
 [137]: http://www.realphonic.com/
 [138]: http://www.realphonic.com/shop/
 [139]: http://www.trybooking.com/Booking/BookingEventSummary.aspx?eid=106097
-[140]: http://frl2014.bilyana.com/
+[140]: http://frl2014.bilyana.com/  
+[141]: http://luciethorne.com/?p=albums/everything-sings-tonight
