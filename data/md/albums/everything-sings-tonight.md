@@ -34,7 +34,7 @@ Additional recording by John Svec at Earth Tone Studio, Iowa City, USA
 
 Mixed by Shane Fahey at Reaktor, Sydney, Australia  
 
-Cover painting by Yodhi Bergman â Design by Heike Qualitz   
+Cover painting by Yodhi Bergman. Design by Heike Qualitz   
 
 &copy; Lucie Thorne 2015, *Little Secret Records*  
 Distributed in Australia by Vitamin Records
