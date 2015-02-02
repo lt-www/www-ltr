@@ -21,7 +21,7 @@ Release date: 9th September 2013 [[Love Over Gold](http://love-over-gold.com)]
 
 ## CREDITS
 
-All songs performed [_Love Over Gold_](http://love-over-gold.com) (Pieta Brown & Lucie Thorne)  
+All songs performed by [_Love Over Gold_](http://love-over-gold.com) (Pieta Brown & Lucie Thorne)  
 1, 6, 7 and 9 written by Pieta Brown & Lucie Thorne  
 2, 4 and 8 written by Pieta Brown  
 3, 5 and 10 written by Lucie Thorne
