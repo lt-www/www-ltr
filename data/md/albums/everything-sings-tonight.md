@@ -28,7 +28,7 @@ All songs written by Lucie Thorne
 Performed by Lucie Thorne & Hamish Stuart, plus special guests Chris Abrahams, Bo Ramsey, Dave Symes, Greg Brown, Tim Thorne, Chris Parkinson & Pieta Brown   
 
 Recorded by Rainer Robben at AudioCue Studio, Berlin, Germany   
-Assisting engineer Julian Kretschel
+Assisting engineer Julian Kretschel  
 Additional recording by John Svec at Earth Tone Studio, Iowa City, USA     
 *...and also in Maslin Beach, Bronte, Deloraine, and a tour bus in Illinois...*  
 
