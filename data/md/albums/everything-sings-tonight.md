@@ -30,7 +30,11 @@ Performed by Lucie Thorne & Hamish Stuart, plus special guests Chris Abrahams, B
 Recorded by Rainer Robben at AudioCue Studio, Berlin, Germany   
 Assisting engineer Julian Kretschel  
 Additional recording by John Svec at Earth Tone Studio, Iowa City, USA     
-*...and also in Maslin Beach, Bronte, Deloraine, and a tour bus in Illinois...*  
+*...and also in Maslin Beach, Bronte, Deloraine, and a tour bus in Illinois...*    
+
+Mixed by Shane Fahey at Reaktor, Sydney, Australia  
+
+Cover painting by Yodhi Bergman â Design by Heike Qualitz   
 
 &copy; Lucie Thorne 2015, *Little Secret Records*  
 Distributed in Australia by Vitamin Records
