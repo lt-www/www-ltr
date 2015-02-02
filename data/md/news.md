@@ -2,7 +2,7 @@
 
 Lucie's new album, [EVERYTHING SINGS TONIGHT][141] will be released on 1st June 2015! And you can pre-order your copy now! Available on both CD and Vinyl, you'll receive a free pre-release download of the first single, *The Rushing Dark* when you [pre-order the album][141] xx    
 
-The first single, *The Rushing Dark* will be released next month, and tickets for the Single Release [shows][shows] are now on sale.  
+The first single, *The Rushing Dark* will be released next month, and tickets for the Single Release [shows][shows] are now on sale too.  
 
 * * * * *          
 
@@ -16,29 +16,43 @@ Excited to let you know that there's a new album well on the way folks! Lucie & 
 
 Wrapping up a big year on the road with a performance at [FRL Festival](http://frl2014.bilyana.com) in Eldorado this weekend! Followed by a little summer hiatus... and then some shows around Tassie in the new year x [Details here][shows]
 
+* * * * *         
+
 ### 21 November 2014 | Duo shows with Hamish Stuart  
 
 Three duo shows with Hamish Stuart coming up this week: Sat 22nd in Bellarine, Sun 23rd in Maryknoll, and Wed 26th in Abbotsford. [Details/bookings info here][shows].  
+
+* * * * *         
 
 ### 5 November 2014 | Woodlands Run  
 
 Lucie lands back home this week, and heads straight back on the road... to Finniss, SA! for the sweet Woodlands Run Festival! [Tickets on sale here][139]      
 
+* * * * *         
+
 ### 26 October 2014 | Minneapolis  
 
 Last show in the Northern Hemisphere coming up tomorrow night - at The Aster in Minneapolis, in cahoots with the mighty Rossetto, Huckfelt, Lewis & Bates!  
+
+* * * * *         
 
 ### 15 October 2014 | LOVE OVER GOLD  
 
 Tomorrow night Lucie re-unites with [Pieta Brown][81] as [LOVE OVER GOLD][124] for a very special [Real Phonic Radio Hour][137] performance in St Paul, Minnesota, USA! [Tickets on sale here][138].   
 
+* * * * *         
+
 ### 1 October 2014 | Benelux    
 
 Lucie's next round of shows are in Holland and Belgium, starting tonight in Geldrop, and then on to Lanakan, Breda, Nijmegen, Rotterdam and Wageningen. [Details here][shows]    
 
+* * * * *         
+
 ### 26 September 2014 | Midwest USA shows announced  
 
 En route home from this European tour, Lucie will be playing just a handful of shows across Midwest USA next month... [Details here][shows]    
+
+* * * * *         
 
 ### 19 September 2014 | Arhanghel'sk  
 
@@ -46,21 +60,31 @@ While in Bucharest last week Lucie was invited to record backing vocals on a bea
 
 In other news, Lucie and Hamish's Sofa Salon show in Berlin tonight has now sold out! Thanks folks xx  
 
+* * * * *         
+
 ### 14 September 2014 | Germany  
 
 The German chapter of the tour starts tonight! with a duo show with Hamish Stuart at Berlin's Culture Container. Also on the bill are Melbourne favourites Liz Stringer & Van Walker! [Details here][shows]  
+
+* * * * *         
 
 ### 1 September 2014 | Romania  
 
 Lucie's European tour starts this week! with shows in Bucharest, Craiova and Pitesti. [Details here][shows]     
 
+* * * * *         
+
 ### 18 August 2014 | Dookie, Bendigo, Melbourne  
 
 This weekend Lucie will be joining forces with the one n only Jo Jo Smith for two shows in regional Victoria - Sat 23rd Aug in Dookie, and Sun 24th in Bendigo. And, just announced! an extra Melbourne show has been added - Sun 31st August at the Retreat. [Details here][shows]    
 
+* * * * *         
+
 ### 8 August 2014 | Northern Hemisphere  
 
 Some of Lucie's northern [tour dates][shows] have just been announced!    
+
+* * * * *         
 
 ### 4 August 2014 | Yea
 
@@ -68,9 +92,13 @@ Tickets for Lucie's show this Friday night at the Yea Community House show have 
 
 In other news, Lucie will be playing in various parts of the northern hemisphere throughout September and October. Tour dates for Romania, Germany, Netherlands and Belgium will be announced soon for starters...   
 
+* * * * *         
+
 ### 9 July 2014 | Alice    
 
 Lucie plays in Alice Springs for the first time ever this week - starting with an interview and live-to-air performance on Alice ABC Radio this Friday 11th, an afternoon show at Montes on Sunday 13th, and an early evening show at Epilogue on Wednesday 16th. [Details here][shows]  
+
+* * * * *         
 
 ### 16 June 2014 | Winter  
 
