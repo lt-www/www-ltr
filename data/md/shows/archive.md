@@ -1,6 +1,15 @@
 ## shows/archive   
 * * * * *  
 
+**VICTORIA**    
+
+**Friday 30th January 2015**  
+THE RETREAT HOTEL        
+Sydney Rd, **MELBOURNE**    
+plus Dan Lethbridge.    
+
+* * * * *        
+
 **TASMANIA**    
 
 **Monday 26th January 2015**  
