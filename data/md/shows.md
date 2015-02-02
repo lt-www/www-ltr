@@ -1,39 +1,3 @@
-**TASMANIA**    
-
-**Friday 9th January 2015**  
-FRESH      
-178 Charles St, **LAUNCESTON**    
-plus special guests Miatta Mu.  
-8pm  
-Bookings: 03 6331 4299    
-
-**Saturday 10th January 2015**  
-BAY OF FIRES CELEBRATION                  
-**BINALONG BAY**        
-5pm   
-
-**Friday 23rd January 2015**  
-WILLIE SMITH'S APPLE SHED        
-2064 Huon Highway, **GROVE**      
-6pm     
-
-**Saturday 24th January 2015**  
-HOUSE CONCERT          
-**NEIKA**        
-2pm  
-
-**Sunday 25th January 2015**  
-MONA MARKET            
-655 Main Road Berriedale, **HOBART**          
-3pm    
-
-**Monday 26th January 2015**  
-MONA MAIN STAGE              
-655 Main Road Berriedale, **HOBART**          
-1pm  
-    
-* * * * *              
-
 **VICTORIA**    
 
 **Friday 30th January 2015**  
