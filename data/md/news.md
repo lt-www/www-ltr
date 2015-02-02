@@ -105,6 +105,7 @@ if you care to know it, there is still all of the [old news](?p=news/archive)...
 [shows]: http://luciethorne.com/?p=shows
 [81]: http://www.pietabrown.com
 [124]: http://love-over-gold.com/
+[133]: http://www.portfairyfolkfestival.com/
 [134]: http://www.brunswickmusicfestival.com.au/program-love-over-gold.htm
 [135]: http://www.bmff.org.au/
 [136]: https://www.facebook.com/RobinandtheBackstabbers
