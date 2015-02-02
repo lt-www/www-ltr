@@ -15,7 +15,9 @@ with JO JO SMITH
 **20th - 22nd March 2015**  
 YACKANDANDAH FOLK FESTIVAL    
 **YACKANDANDAH**  
-duet shows with HAMISH STUART    
+duet shows with HAMISH STUART     
+
+* * * * *          
 
 **Friday 27th March 2015**  
 THE BRIDGE HOTEL        
