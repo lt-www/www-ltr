@@ -19,7 +19,10 @@ duet shows with HAMISH STUART
 
 * * * * *          
 
+**VICTORIA**     
+
 **Friday 27th March 2015**  
+*The Rushing Dark* Single Release Show   
 THE BRIDGE HOTEL        
 **CASTLEMAINE**    
 duet show with HAMISH STUART  
@@ -27,6 +30,7 @@ plus special guest JIMMY DOWLING
 8pm    
 
 **Saturday 28th March 2015**  
+*The Rushing Dark* Single Release Show  
 VELVET ROOM, THORNBURY THEATRE        
 **MELBOURNE**  
 duet show with HAMISH STUART  
