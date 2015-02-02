@@ -16,6 +16,20 @@ with JO JO SMITH
 YACKANDANDAH FOLK FESTIVAL    
 **YACKANDANDAH**  
 duet shows with HAMISH STUART    
+
+**Friday 27th March 2015**  
+THE BRIDGE HOTEL        
+**CASTLEMAINE**    
+duet show with HAMISH STUART  
+plus special guest JIMMY DOWLING  
+8pm    
+
+**Saturday 28th March 2015**  
+VELVET ROOM, THORNBURY THEATRE        
+**MELBOURNE**  
+duet show with HAMISH STUART  
+plus special guest JIMMY DOWLING  
+8pm    
     
 * * * * *              
 
