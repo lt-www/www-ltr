@@ -38,6 +38,10 @@ duet show with HAMISH STUART
 plus special guest JIMMY DOWLING  
 8pm    
 [Tickets on sale now][202]  
+   
+* * * * *          
+
+**VICTORIA**  
     
 **Sunday 29th March 2015**  
 WOLSELEY WINERY      
