@@ -39,7 +39,14 @@ plus special guest JIMMY DOWLING
 8pm    
 [Tickets on sale now][202]  
     
-* * * * *              
+**Sunday 29th March 2015**  
+WOLSELEY WINERY      
+**PARAPARAP**  
+with MATT WALKER   
+duet show with HAMISH STUART   
+2pm       
+
+* * * * *        
 
 **ACT**      
 
