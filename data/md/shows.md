@@ -1,3 +1,12 @@
+**NSW**  
+
+**Sunday 22nd February 2015**  
+*interview with Simon Marnie on Statewide Mornings*  
+ABC radio    
+10.30am       
+
+* * * * *          
+
 **VICTORIA**     
 
 **Saturday 28th February 2015**  
