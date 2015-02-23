@@ -4,7 +4,7 @@ Lucie's new album, [EVERYTHING SINGS TONIGHT][141] will be released on 1st June 
 
 The first single, *The Rushing Dark* will be released next month, and tickets for the Single Release [shows][shows] are now on sale too.  
 
-![](data/image/cover/everything-sings.jpg)  
+![](data/image/news/EverythingSingsTonightCover1.jpg)  
 
 * * * * *          
 
