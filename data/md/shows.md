@@ -1,7 +1,7 @@
 **NSW**  
 
 **Sunday 22nd February 2015**  
-*interview with Simon Marnie on Weekends Statewide*  
+*interview with Simon Marnie on Statewide Weekends*    
 ABC radio    
 10.30am       
 
