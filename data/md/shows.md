@@ -1,7 +1,7 @@
 **NSW**  
 
 **Sunday 22nd February 2015**  
-*interview with Simon Marnie on Statewide Mornings*  
+*interview with Simon Marnie on Weekends Statewide*  
 ABC radio    
 10.30am       
 
@@ -19,7 +19,7 @@ with JO JO SMITH
 PIZZA & WINE CLUB    
 **KYNETON**  
 with JO JO SMITH  
-2pm     
+1.30pm     
 
 **20th - 22nd March 2015**  
 YACKANDANDAH FOLK FESTIVAL    
