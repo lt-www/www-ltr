@@ -3,4 +3,4 @@ Media download -
 first single from forthcoming album
 [Everything Sings Tonight](?p=albums/everything-sings-tonight)
 
-![](data/image/news/EverythingSingsTonightCover1.jpg)
+![](data/image/news/TheRushingDark.jpg)
