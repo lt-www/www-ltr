@@ -3,6 +3,29 @@
 
 **VICTORIA**    
 
+**Sunday 1st March 2015**  
+PIZZA & WINE CLUB    
+**KYNETON**  
+with JO JO SMITH  
+
+**Saturday 28th February 2015**  
+OLD CHURCH ON THE HILL   
+**BENDIGO**  
+with JO JO SMITH   
+
+* * * * *    
+
+**NSW**  
+
+**Sunday 22nd February 2015**  
+*interview with Simon Marnie on Statewide Weekends*    
+ABC radio    
+10.30am    
+
+* * * * *     
+
+**VICTORIA**    
+
 **Friday 30th January 2015**  
 THE RETREAT HOTEL        
 Sydney Rd, **MELBOURNE**    
