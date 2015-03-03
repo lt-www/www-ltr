@@ -1,34 +1,11 @@
-**NSW**  
-
-**Sunday 22nd February 2015**  
-*interview with Simon Marnie on Statewide Weekends*    
-ABC radio    
-10.30am       
-
-* * * * *          
+       
 
 **VICTORIA**     
-
-**Saturday 28th February 2015**  
-[OLD CHURCH ON THE HILL][199]    
-**BENDIGO**  
-with JO JO SMITH  
-7pm    
-
-**Sunday 1st March 2015**  
-PIZZA & WINE CLUB    
-**KYNETON**  
-with JO JO SMITH  
-1.30pm     
 
 **20th - 22nd March 2015**  
 YACKANDANDAH FOLK FESTIVAL    
 **YACKANDANDAH**  
-duet shows with HAMISH STUART     
-
-* * * * *          
-
-**VICTORIA**     
+duet shows with HAMISH STUART        
 
 **Friday 27th March 2015**  
 *The Rushing Dark* Single Release Show   
@@ -47,10 +24,6 @@ duet show with HAMISH STUART
 plus special guest JIMMY DOWLING  
 8pm    
 [Tickets on sale now][202]  
-   
-* * * * *          
-
-**VICTORIA**  
     
 **Sunday 29th March 2015**  
 WOLSELEY WINERY      
@@ -63,7 +36,7 @@ duet show with HAMISH STUART
 
 **ACT**      
 
-**3rd - 5th April 2015**  
+**3rd - 6th April 2015**  
 [NATIONAL FOLK FESTIVAL][200]   
 **CANBERRA**  
 duet shows with HAMISH STUART   
