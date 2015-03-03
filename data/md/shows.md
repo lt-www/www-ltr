@@ -3,9 +3,13 @@
 **VICTORIA**     
 
 **20th - 22nd March 2015**  
-YACKANDANDAH FOLK FESTIVAL    
+[YACKANDANDAH FOLK FESTIVAL][203]      
 **YACKANDANDAH**  
 duet shows with HAMISH STUART        
+
+* * * * *         
+
+**VICTORIA**       
 
 **Friday 27th March 2015**  
 *The Rushing Dark* Single Release Show   
@@ -24,7 +28,11 @@ duet show with HAMISH STUART
 plus special guest JIMMY DOWLING  
 8pm    
 [Tickets on sale now][202]  
-    
+
+* * * * *         
+
+**VICTORIA**     
+
 **Sunday 29th March 2015**  
 WOLSELEY WINERY      
 **PARAPARAP**  
@@ -167,4 +175,5 @@ duet shows with HAMISH STUART
 [199]: http://www.bendigobluesandroots.com.au/events.php  
 [200]: http://folkfestival.org.au/  
 [201]: http://www.trybooking.com/119595
-[202]: http://thethornburytheatre.com/event/lucie-thorne-hamish-stuart-rushing-dark-single-launch/  
+[202]: http://thethornburytheatre.com/event/lucie-thorne-hamish-stuart-rushing-dark-single-launch/    
+[203]: http://yackfolkfestival.com/  
