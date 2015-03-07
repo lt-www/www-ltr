@@ -7,10 +7,23 @@
 Triple R 102.7fm  
 3.30pm  
 
-**20th - 22nd March 2015**  
+**Friday 20th March 2015**  
 [YACKANDANDAH FOLK FESTIVAL][203]      
-**YACKANDANDAH**  
-duet shows with HAMISH STUART        
+Town Hall, **YACKANDANDAH**  
+duet show with HAMISH STUART        
+7pm   
+
+**Saturday 21st March 2015**  
+[YACKANDANDAH FOLK FESTIVAL][203]      
+Star Hotel, **YACKANDANDAH**  
+duet show with HAMISH STUART        
+3pm   
+
+**Sunday 22nd March 2015**  
+[YACKANDANDAH FOLK FESTIVAL][203]      
+Star Hotel, **YACKANDANDAH**  
+duet show with HAMISH STUART        
+12pm 
 
 * * * * *         
 
