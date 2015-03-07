@@ -2,6 +2,11 @@
 
 **VICTORIA**     
 
+**Sunday 15th March 2015**   
+*interview & live performance on JVG Radio Method*    
+Triple R 102.7fm  
+3.30pm  
+
 **20th - 22nd March 2015**  
 [YACKANDANDAH FOLK FESTIVAL][203]      
 **YACKANDANDAH**  
