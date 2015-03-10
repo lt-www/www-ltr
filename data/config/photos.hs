@@ -4,12 +4,6 @@
   ,("alley","photo by eryca green")
   ,("loretta","photo by eryca green")
   ])
-,("Bimbaya"
- ,[("factory","")
-  ,("studio","")
-  ,("siegling","")
-  ,("haircut","")
-  ])
 ,("Tour"
  ,[("barossa","setting up in Tanunda, Barossa Valley, Australia")
   ,("LucieThorneAutumn","The Front, Canberra, Australia. photo by Geoff Dunn")
@@ -24,7 +18,9 @@
 ,("Archive"
  ,[("green","photo by eryca green")
   ,("diastema","photo by eryca green")
-  ,("polka-dots","photo by eryca green")
+  ,("polka-dots","photo by eryca green") 
+  ,("factory","")
+  ,("studio","")
   ,("angle","photo by eryca green")
   ,("white","photo by eryca green")
   ,("black","photo by eryca green")
