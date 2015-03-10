@@ -28,7 +28,6 @@
   ,("angle","photo by eryca green")
   ,("white","photo by eryca green")
   ,("black","photo by eryca green")
-  ,("field","photo by eryca green")
   ])
 ,("Media Articles"
  ,[("pr-rs","Rolling Stone, Nov. 2011")
