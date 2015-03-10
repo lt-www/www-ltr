@@ -25,7 +25,6 @@
   ])
 ,("Archive"
  ,[("green","photo by eryca green")
-  ,("doorway","photo by eryca green")
   ,("angle","photo by eryca green")
   ,("white","photo by eryca green")
   ,("black","photo by eryca green")
