@@ -30,8 +30,6 @@
   ,("white","photo by eryca green")
   ,("black","photo by eryca green")
   ,("field","photo by eryca green")
-  ,("train","photo by rachel stone")
-  ,("lsr","photo by glendyn ivin")
   ])
 ,("Media Articles"
  ,[("pr-rs","Rolling Stone, Nov. 2011")
