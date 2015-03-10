@@ -12,7 +12,6 @@
   ,("truckstop","Bremerhaven Truckstop, Germany")
   ,("fireclub","The Fireclub, Bucharest, Romania")
   ,("oldenburg","Polyester, Oldenburg, Germany")
-  ,("ulu","with Tom Hall, backstage University of London Union, UK")
   ])
 ,("Archive"
  ,[("studio","")
