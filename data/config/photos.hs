@@ -15,10 +15,10 @@
   ,("ulu","with Tom Hall, backstage University of London Union, UK")
   ])
 ,("Archive"
- ,[("diastema","photo by eryca green")
+ ,[("studio","")
   ,("polka-dots","photo by eryca green") 
+  ,("diastema","photo by eryca green")  
   ,("factory","")
-  ,("studio","")
   ,("green","photo by eryca green")
   ,("angle","photo by eryca green")
   ,("black","photo by eryca green")
