@@ -3,8 +3,6 @@
   ,("tree","photo by eryca green")
   ,("alley","photo by eryca green")
   ,("loretta","photo by eryca green")
-  ,("diastema","photo by eryca green")
-  ,("polka-dots","photo by eryca green")
   ])
 ,("Bimbaya"
  ,[("factory","")
@@ -25,6 +23,8 @@
   ])
 ,("Archive"
  ,[("green","photo by eryca green")
+  ,("diastema","photo by eryca green")
+  ,("polka-dots","photo by eryca green")
   ,("angle","photo by eryca green")
   ,("white","photo by eryca green")
   ,("black","photo by eryca green")
