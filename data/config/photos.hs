@@ -1,8 +1,7 @@
 [("Press Photos"
  ,[("LucieThorneEST1","photo by Heike Qualitz")  
-  ,("fence","photo by eryca green")
-  ,("tree","photo by eryca green")
   ,("alley","photo by eryca green")
+  ,("tree","photo by eryca green")
   ,("loretta","photo by eryca green")
   ])
 ,("Tour"
@@ -15,7 +14,8 @@
   ,("oldenburg","Polyester, Oldenburg, Germany")
   ])
 ,("Archive"
- ,[("studio","")
+ ,[("fence","photo by eryca green")  
+  ,("studio","")
   ,("polka-dots","photo by eryca green") 
   ,("diastema","photo by eryca green")  
   ,("factory","")
