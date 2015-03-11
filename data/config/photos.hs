@@ -1,9 +1,9 @@
 [("Press Photos"
  ,[("LucieThorneEST1","photo by Heike Qualitz")   
   ,("LucieThorneEST4","photo by Kate Atkinson") 
-  ,("alley","photo by eryca green")
-  ,("tree","photo by eryca green")
   ,("loretta","photo by eryca green")
+  ,("tree","photo by eryca green")
+  ,("alley","photo by eryca green")
   ])
 ,("Tour"
  ,[("barossa","setting up in Tanunda, Barossa Valley, Australia")
