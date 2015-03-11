@@ -18,7 +18,6 @@
   ,("studio","")
   ,("polka-dots","photo by eryca green") 
   ,("diastema","photo by eryca green")  
-  ,("factory","")
   ,("green","photo by eryca green")
   ,("angle","photo by eryca green")
   ,("black","photo by eryca green")
