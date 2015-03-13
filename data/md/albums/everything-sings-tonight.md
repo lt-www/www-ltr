@@ -23,18 +23,20 @@ __PRE-ORDER__ your copy of the album now and receive a free pre-release download
 
 ## CREDITS
 
-All songs written by Lucie Thorne  
+All songs written by Lucie Thorne   
+Produced by Lucie Thorne & Hamish Stuart  
 
 Performed by Lucie Thorne & Hamish Stuart, plus special guests Chris Abrahams, Bo Ramsey, Dave Symes, Greg Brown, Tim Thorne, Chris Parkinson & Pieta Brown   
 
 Recorded by Rainer Robben at AudioCue Studio, Berlin, Germany   
 Assisting engineer Julian Kretschel  
 Additional recording by John Svec at Earth Tone Studio, Iowa City, USA     
-*...and also in Maslin Beach, Bronte, Deloraine, and a tour bus in Illinois...*    
+*and also in Maslin Beach, Bronte, Deloraine, and a tour bus across Manitoba and Illinois*    
 
-Mixed by Shane Fahey at Reaktor, Sydney, Australia  
+Mixed by Shane Fahey at Reaktor, Sydney, Australia    
+Mastered by Darren Ziesing at Polybonk, Kairong, Australia  
 
-Cover painting by Yodhi Bergman. Design by Heike Qualitz   
+Cover painting by Yodhi Bergman. Design and Photography by Heike Qualitz   
 
 &copy; Lucie Thorne 2015, *Little Secret Records*  
 Distributed in Australia by Vitamin Records
