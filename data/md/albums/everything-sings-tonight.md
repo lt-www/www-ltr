@@ -2,7 +2,7 @@
 
 Release date: 1st June 2015.
 
-__PRE-ORDER__ your copy of the album now and receive a free pre-release download of the first single, _The Rushing Dark_.
+__PRE-ORDER__ your copy of the album now and receive a free pre-release download of the first single, _The Rushing Dark_. Your copy of Everything Sings Tonight will be lovingly posted to you in May xx    
 
 **CD**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H9G7WHRG5LDPA">ALL\ $25AUD</a>
 **LP**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R77D3AGG9J7P4">AUS\ $35AUD</a>
