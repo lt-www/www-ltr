@@ -1,3 +1,9 @@
+### 17 March 2015 | The Rushing Dark 
+
+The new single - The Rushing Dark - is out now! through [iTunes][142]. And here's [the clip][143] for your viewing/listening pleasure x
+
+![](data/image/news/TheRushingDark_1080.jpg)
+
 ### 3 February 2015 | Everything Sings Tonight!   
 
 Lucie's new album, [EVERYTHING SINGS TONIGHT][141] will be released on 1st June 2015! And you can pre-order your copy now! Available on both CD and Vinyl, you'll receive a free pre-release download of the first single, *The Rushing Dark* when you [pre-order the album][141] xx (and your copy of Everything Sings Tonight will be lovingly mailed to you in May)     
@@ -172,4 +178,6 @@ if you care to know it, there is still all of the [old news](?p=news/archive)...
 [138]: http://www.realphonic.com/shop/
 [139]: http://www.trybooking.com/Booking/BookingEventSummary.aspx?eid=106097
 [140]: http://frl2014.bilyana.com/  
-[141]: http://luciethorne.com/?p=albums/everything-sings-tonight
+[141]: http://luciethorne.com/?p=albums/everything-sings-tonight  
+[142]: https://itunes.apple.com/au/album/rushing-dark-single-rushing/id976471411
+[143]: https://www.youtube.com/watch?v=DxTKUIL_tpI 
