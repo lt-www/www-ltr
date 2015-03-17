@@ -100,7 +100,7 @@ std_copyright cf p =
          ,H.a [H.href "http://www.facebook.com/lucie.thorne"] [fb_i]
          ,H.a [H.href "http://soundcloud.com/lucie-1-2"] [sc_i]
          ,H.a [H.href "http://instagram.com/luciennethorne"] [ig_i]
-         ,H.a [H.href "http://www.myspace.com/luciethornemusic"] [ms_i]
+         --,H.a [H.href "http://www.myspace.com/luciethornemusic"] [ms_i]
          --,H.br []
          ,H.copy
          ,H.a [H.href lt_site] [H.cdata "lucie thorne"]

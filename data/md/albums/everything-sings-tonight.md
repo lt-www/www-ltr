@@ -11,7 +11,7 @@ __PRE-ORDER__ your copy of the album now and receive a free download of the firs
 ![](data/image/cover/everything-sings.jpg)
 
 1. Blackwing
-2. The Rushing Dark
+2. [The Rushing Dark](?p=albums/everything-sings-tonight/texts#the-rushing-dark)
 3. Room to Burn
 4. Darlin If We Could
 5. Everything Sings

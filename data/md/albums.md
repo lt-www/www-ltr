@@ -1,3 +1,12 @@
+[![The Rushing Dark - Single][10.1]][10.2]
+*The Rushing Dark - Single*  
+Release date: 16 March 2015.  [Details][10.2]  
+available through [iTunes][10.3]
+
+  [10.1]: rgen/cover/r-80/the-rushing-dark.jpg
+  [10.2]: ?p=albums/the-rushing-dark
+  [10.3]: https://itunes.apple.com/au/album/rushing-dark-single-rushing/id976471411 
+
 [![Everything Sings Tonight][9.1]][9.2]
 *Everything Sings Tonight*  
 Release date: 1st June 2015. [Details][9.2]  
