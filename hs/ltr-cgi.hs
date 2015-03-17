@@ -48,7 +48,7 @@ d_page cf d =
 
 mk_viewer :: String -> X.Content
 mk_viewer v =
-    let v' = "http://www.youtube.com/v/" ++ v
+    let v' = "https://www.youtube.com/embed/" ++ v
         o_a = [H.width "425", H.height "344"]
         o_c = [H.param [H.name "movie"
                        ,H.value v']
@@ -56,10 +56,11 @@ mk_viewer v =
                        ,H.value "true"]
               ,H.param [H.name "allowscriptaccess"
                        ,H.value "always"]
-              ,H.embed [H.src v'
-                       ,H.type' "application/x-shockwave-flash"
-                       ,H.width "425"
-                       ,H.height "344"]]
+              ,H.iframe [H.src v'
+                        ,H.frameborder "0"
+                        ,H.mk_attr "allowfullscreen" "true"
+                        ,H.width "560"
+                        ,H.height "315"] []]
         o = H.object o_a o_c
     in H.div [H.class' "viewer"] [o]
 
