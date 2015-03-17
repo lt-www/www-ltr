@@ -90,7 +90,7 @@ std_copyright cf p =
                            ,H.alt nm]
         rss_i = mk_i "rss" 14
         fb_i = mk_i "fb" 14
-        ms_i = mk_i "ms" 14
+        --ms_i = mk_i "ms" 14
         sc_i = mk_i "sc" 14
         ig_i = mk_i "ig" 14
     in H.footer
