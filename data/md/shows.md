@@ -30,9 +30,9 @@ plus special guest JIMMY DOWLING
 **Sunday 29th March 2015**  
 WOLSELEY WINERY      
 **PARAPARAP**  
-with MATT WALKER   
+with MATT WALKER's LOST RAGAS  
 duet show with HAMISH STUART   
-2pm       
+4pm       
 
 * * * * *        
 
