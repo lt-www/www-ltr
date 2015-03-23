@@ -1,7 +1,27 @@
 ## shows/archive   
-* * * * *  
+       
 
-**VICTORIA**    
+**VICTORIA**     
+
+**Sunday 22nd March 2015**  
+YACKANDANDAH FOLK FESTIVAL  
+Star Hotel, **YACKANDANDAH**  
+duet show with HAMISH STUART       
+
+**Saturday 21st March 2015**  
+YACKANDANDAH FOLK FESTIVAL     
+Star Hotel, **YACKANDANDAH**  
+duet show with HAMISH STUART           
+
+**Friday 20th March 2015**  
+YACKANDANDAH FOLK FESTIVAL     
+Town Hall, **YACKANDANDAH**  
+duet show with HAMISH STUART        
+
+**Sunday 15th March 2015**   
+*interview & live performance on JVG Radio Method*    
+Triple R 102.7fm  
+3.30pm  
 
 **Sunday 1st March 2015**  
 PIZZA & WINE CLUB    
