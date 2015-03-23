@@ -1,33 +1,9 @@
-       
-
-**VICTORIA**     
-
-**Sunday 15th March 2015**   
-*interview & live performance on JVG Radio Method*    
-Triple R 102.7fm  
-3.30pm  
-
-**Friday 20th March 2015**  
-[YACKANDANDAH FOLK FESTIVAL][203]      
-Town Hall, **YACKANDANDAH**  
-duet show with HAMISH STUART        
-7pm   
-
-**Saturday 21st March 2015**  
-[YACKANDANDAH FOLK FESTIVAL][203]      
-Star Hotel, **YACKANDANDAH**  
-duet show with HAMISH STUART        
-3pm   
-
-**Sunday 22nd March 2015**  
-[YACKANDANDAH FOLK FESTIVAL][203]      
-Star Hotel, **YACKANDANDAH**  
-duet show with HAMISH STUART        
-12pm 
-
-* * * * *         
-
 **VICTORIA**       
+
+**Tuesday 24th March 2015**   
+*interview on The Breakfast Spread*    
+PBS Radio 106.7fm  
+8am    
 
 **Friday 27th March 2015**  
 *The Rushing Dark* Single Release Show   
