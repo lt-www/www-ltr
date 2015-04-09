@@ -25,7 +25,7 @@ double-bill with LIZ STRINGER
 
 * * * * *           
 
-*EVERYTHING SINGS TONIGHT - Australian Winter Tour Dates announced soon*  
+**EVERYTHING SINGS TONIGHT** *Australian Winter Tour Dates announced soon...*  
 
 * * * * *         
 
