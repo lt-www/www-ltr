@@ -4,7 +4,7 @@
 
 **Thursday 21st May 2015**  
 505          
-Sy, **SYDNEY**    
+Cleveland St, **SYDNEY**    
 double-bill with LIZ STRINGER  
 [tickets on sale now][204]
 
