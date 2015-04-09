@@ -1,7 +1,54 @@
 ## shows/archive   
        
+* * * * *        
 
-**VICTORIA**     
+**ACT**      
+
+**Monday 6th April 2015**  
+[NATIONAL FOLK FESTIVAL][200]   
+**CANBERRA**  
+The Marquee Stage, Exhibition Park  
+duet show with HAMISH STUART   
+
+**Sunday 5th April 2015**  
+[NATIONAL FOLK FESTIVAL][200]   
+**CANBERRA**  
+Budawang, Exhibition Park  
+duet show with HAMISH STUART   
+
+**Friday 3rd April 2015**  
+[NATIONAL FOLK FESTIVAL][200]   
+**CANBERRA**  
+The Marquee Stage, Exhibition Park  
+duet show with HAMISH STUART   
+
+* * * * *          
+
+**VICTORIA**      
+
+**Sunday 29th March 2015**  
+WOLSELEY WINERY      
+**PARAPARAP**  
+with MATT WALKER's LOST RAGAS  
+duet show with HAMISH STUART     
+ 
+**Saturday 28th March 2015**  
+*The Rushing Dark* Single Release Show  
+VELVET ROOM, THORNBURY THEATRE        
+**MELBOURNE**  
+duet show with HAMISH STUART  
+plus special guest JIMMY DOWLING    
+
+**Friday 27th March 2015**  
+*The Rushing Dark* Single Release Show   
+THE BRIDGE HOTEL        
+**CASTLEMAINE**    
+duet show with HAMISH STUART  
+plus special guest JIMMY DOWLING  
+
+**Tuesday 24th March 2015**   
+*interview on The Breakfast Spread*    
+PBS Radio 106.7fm  
 
 **Sunday 22nd March 2015**  
 YACKANDANDAH FOLK FESTIVAL  
