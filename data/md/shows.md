@@ -1,5 +1,33 @@
+* * * * *     
 
-* * * * *              
+**NSW**    
+
+**Thursday 21st May 2015**  
+505          
+Sy, **SYDNEY**    
+double-bill with LIZ STRINGER  
+[tickets on sale now][204]
+
+**Friday 22nd May 2015**  
+venue tba          
+**COWRA**    
+double-bill with LIZ STRINGER    
+
+**Saturday 23rd May 2015**  
+Art of Espresso           
+**YOUNG**      
+double-bill with LIZ STRINGER    
+
+**Sunday 24th May 2015**  
+The Block            
+**MARTINSVILLE**      
+double-bill with LIZ STRINGER    
+
+* * * * *           
+
+*EVERYTHING SINGS TONIGHT - Australian Winter Tour Dates announced soon*  
+
+* * * * *         
 
 [past shows][archive]
 
@@ -126,4 +154,5 @@
 [200]: http://folkfestival.org.au/  
 [201]: http://www.trybooking.com/119595
 [202]: http://thethornburytheatre.com/event/lucie-thorne-hamish-stuart-rushing-dark-single-launch/    
-[203]: http://yackfolkfestival.com/  
+[203]: http://yackfolkfestival.com/    
+[204]: http://www.trybooking.com/HMBA
