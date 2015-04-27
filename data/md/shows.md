@@ -377,5 +377,4 @@ duet show with HAMISH STUART
 [211]: http://www.ellingtonjazz.com.au/event/lucie-thorne-hamish-stuart-everything-sings-tonight-australian-winter-tour/   
 [212]: http://www.trybooking.com/HPTK    
 [213]: http://www.trybooking.com/HPXM   
-https://www.stickytickets.com.au/26088
 [214]: https://www.stickytickets.com.au/26088  
