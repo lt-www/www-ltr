@@ -35,7 +35,7 @@ double-bill with LIZ STRINGER
 THE SINGING GALLERY      
 133 Main Rd **McLAREN VALE**   
 duet show with HAMISH STUART     
-plus special guests THE YEARLINGS   
+plus special guests [THE YEARLINGS][96.5]     
 7.30pm   
 [Tickets on sale now][212]    
 
@@ -73,7 +73,7 @@ duet show with HAMISH STUART
 EX-SERVICES CLUB        
 Dalley Street, **MULLUMBIMBY**   
 duet show with HAMISH STUART       
-plus special guest JIMMY DOWLING   
+plus special guest [JIMMY DOWLING][96.2]     
 7.30pm   
 [Tickets on sale now][206]       
 
@@ -81,7 +81,7 @@ plus special guest JIMMY DOWLING
 BLUE MOON LOUNGE          
 115 Main Street, **MURWILLUMBAH**   
 duet show with HAMISH STUART       
-plus special guest JIMMY DOWLING   
+plus special guest [JIMMY DOWLING][96.2]       
 7.30pm     
 
 * * * * *        
@@ -258,7 +258,7 @@ duet show with HAMISH STUART
 [95]: http://www.bellaunion.com.au
 [96]: http://www.jojosmithsoul.com/
 [96.1]: http://www.myspace.com/sweetjeanmusic
-[96.2]: http://www.myspace.com/jimdowling
+[96.2]: http://www.jimmydowling.com/
 [96.3]: http://www.ilonaharker.com
 [96.4]: http://www.mardilumsden.com
 [96.5]: http://www.theyearlings.net
