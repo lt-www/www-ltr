@@ -160,7 +160,7 @@ duet show with HAMISH STUART
 
 **Northern Territory**        
  
-**Friday 12th July 2015**  
+**Friday 17th July 2015**  
 EPILOGUE LOUNGE    
 58 Todd Street, **ALICE SPRINGS**     
 8pm / 08 8953-4206  
