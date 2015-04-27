@@ -41,7 +41,7 @@ plus special guests THE YEARLINGS
 
 **Saturday 20th June 2015**  
 WOODLANDS RUN      
-133 Main Rd **FINISS** 
+133 Main Rd **FINISS**   
 duet show with HAMISH STUART     
 4.30pm   
 [Tickets on sale now][213]   
@@ -58,7 +58,7 @@ duet show with HAMISH STUART
 
 **Tuesday 23rd June 2015**  
 PORT OF BOURKE HOTEL         
-32 Mitchell Street, **BOURKE** 
+32 Mitchell Street, **BOURKE**   
 duet show with HAMISH STUART     
 
 **Wednesday 24th June 2015**  
@@ -91,7 +91,7 @@ plus special guest JIMMY DOWLING
 
 **Sunday 28th June 2015**  
 JUNK BAR            
-215 Waterworks Rd, Ashgrove **BRISBANE** 
+215 Waterworks Rd, Ashgrove **BRISBANE**   
 duet show with HAMISH STUART       
 7pm         
 [Tickets on sale now][207]     
@@ -197,7 +197,7 @@ duet show with HAMISH STUART
 THE PARISH            
 41 Primrose Street , **VIOLET TOWN**   
 duet show with HAMISH STUART     
-7pm / BYO 
+7pm / BYO   
 Bookings: hejeel@mcmedia.com.au   
 
 **Saturday 22nd AUGUST 2015**   
@@ -219,19 +219,19 @@ duet show with HAMISH STUART
 GRAND POOBAH            
 142 Liverpool Street, **HOBART**   
 duet show with HAMISH STUART     
-details tba        
+*details tba*           
 
 **Friday 28th AUGUST 2015**  
 FALMOUTH COMMUNITY CENTRE            
 18 Morrison Street, **FALMOUTH**   
 duet show with HAMISH STUART     
-details tba  
+*details tba*    
    
 **Saturday 29th AUGUST 2015**  
 FRESH              
 178 Charles Street, **LAUNCESTON**   
 duet show with HAMISH STUART     
-detail tba     
+*details tba*        
     
 **Sunday 30th AUGUST 2015**  
 THE LITTLE THEATRE                
