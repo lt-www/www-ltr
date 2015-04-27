@@ -47,9 +47,9 @@ duet show with HAMISH STUART
 [Tickets on sale now][213]   
 
 **Sunday 21st June 2015**   
-THE WHEATSHEAF        
-39 George St, Thebarton **ADELAIDE** 
-duet show with HAMISH STUART     
+THE WHEATSHEAF          
+39 George St, Thebarton **ADELAIDE**   
+duet show with HAMISH STUART       
 4pm     
 
 * * * * *        
@@ -63,8 +63,8 @@ duet show with HAMISH STUART
 
 **Wednesday 24th June 2015**  
 THE CROSSING THEATRE        
-117 Tibbereena Street  **NARRABRI**   
-duet show with HAMISH STUART     
+117 Tibbereena Street  **NARRABRI**     
+duet show with HAMISH STUART       
 6pm     
 *presented by Friends of The Crossing Theatre*   
 Dinner & Show tickets available   
@@ -72,17 +72,17 @@ Dinner & Show tickets available
 
 **Friday 26th June 2015**  
 EX-SERVICES CLUB        
-Dalley Street, **MULLUMBIMBY** 
-duet show with HAMISH STUART     
-plus special guest JIMMY DOWLING 
+Dalley Street, **MULLUMBIMBY**   
+duet show with HAMISH STUART       
+plus special guest JIMMY DOWLING   
 7.30pm   
 [Tickets on sale now][206]       
 
 **Saturday 27th June 2015**  
 BLUE MOON LOUNGE          
-115 Main Street, **MURWILLUMBAH** 
-duet show with HAMISH STUART     
-plus special guest JIMMY DOWLING 
+115 Main Street, **MURWILLUMBAH**   
+duet show with HAMISH STUART       
+plus special guest JIMMY DOWLING   
 7.30pm     
 
 * * * * *        
@@ -92,8 +92,8 @@ plus special guest JIMMY DOWLING
 **Sunday 28th June 2015**  
 JUNK BAR            
 215 Waterworks Rd, Ashgrove **BRISBANE** 
-duet show with HAMISH STUART     
-7pm       
+duet show with HAMISH STUART       
+7pm         
 [Tickets on sale now][207]     
 
 * * * * *        
@@ -101,38 +101,38 @@ duet show with HAMISH STUART
 **NSW**       
 
 **Wednesday 1st July 2015**  
-Old Kirk Concert Series   
-WOOLOWEYAH COMMUNITY HALL        
-Lakes Boulevard, **YAMBA**   
-duet show with HAMISH STUART   
+Old Kirk Concert Series     
+WOOLOWEYAH COMMUNITY HALL          
+Lakes Boulevard, **YAMBA**     
+duet show with HAMISH STUART     
 7pm 
 Bookings: 02 6646-1457        
 
 **Thursday 2nd July 2015**  
 MOTHERS MILK          
-63 First Ave, **SAWTELL**   
-duet show with HAMISH STUART   
-6.30pm 
+63 First Ave, **SAWTELL**     
+duet show with HAMISH STUART     
+6.30pm   
 Bookings: 02 6646-1457      
 
 **Friday 3rd - Sunday 5th July 2015**  
-[BELLO WINTER FESTIVAL][208]              
-**BELLINGEN**   
-duet shows with HAMISH STUART    
+[BELLO WINTER FESTIVAL][208]                
+**BELLINGEN**     
+duet shows with HAMISH STUART      
 [Tickets on sale now][208.1]     
 
 **Thursday 9th July 2015**  
 CAMELOT LOUNGE     
-19 Marrickville Road, Marrickville, **SYDNEY**   
-duet show with HAMISH STUART     
-plus special guest CHRIS ABRAHAMS 
-7.30pm / tickets on sale soon      
+19 Marrickville Road, Marrickville, **SYDNEY**     
+duet show with HAMISH STUART       
+plus special guest CHRIS ABRAHAMS    
+7.30pm / tickets on sale soon        
 
 **Friday 10th July 2015**  
 KINDLEHILL PERFORMANCE SPACE       
-8 Lake Street, **WENTWORTH FALLS**   
-duet show with HAMISH STUART       
-8pm       
+8 Lake Street, **WENTWORTH FALLS**     
+duet show with HAMISH STUART         
+8pm         
 *presented by Music Hunter Projects* 
 [Tickets on sale now][209]     
 
@@ -141,9 +141,9 @@ duet show with HAMISH STUART
 **ACT**        
 
 **Saturday 11th July 2015**  
-WHITE EAGLE POLISH CLUB       
-38 David Street, Turner, **CANBERRA**   
-duet show with HAMISH STUART       
+WHITE EAGLE POLISH CLUB         
+38 David Street, Turner, **CANBERRA**     
+duet show with HAMISH STUART         
 7.30pm     
 *presented by the Canberra Musician's Club* 
 [Tickets on sale now][210]      
