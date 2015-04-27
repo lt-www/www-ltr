@@ -37,14 +37,14 @@ THE SINGING GALLERY
 duet show with HAMISH STUART     
 plus special guests [THE YEARLINGS][96.5]     
 7.30pm   
-[Tickets on sale now][212]    
+[tickets on sale now][212]    
 
 **Saturday 20th June 2015**  
 WOODLANDS RUN      
 133 Main Rd **FINISS**   
 duet show with HAMISH STUART     
 4.30pm   
-[Tickets on sale now][213]   
+[tickets on sale now][213]   
 
 **Sunday 21st June 2015**   
 THE WHEATSHEAF          
@@ -68,14 +68,13 @@ duet show with HAMISH STUART
 6pm / tickets on sale soon     
 *presented by Friends of The Crossing Theatre*     
    
-
 **Friday 26th June 2015**  
 EX-SERVICES CLUB        
 Dalley Street, **MULLUMBIMBY**   
 duet show with HAMISH STUART       
 plus special guest [JIMMY DOWLING][96.2]     
 7.30pm   
-[Tickets on sale now][206]       
+[tickets on sale now][206]       
 
 **Saturday 27th June 2015**  
 BLUE MOON LOUNGE          
@@ -93,7 +92,7 @@ JUNK BAR
 215 Waterworks Rd, Ashgrove **BRISBANE**   
 duet show with HAMISH STUART       
 7pm         
-[Tickets on sale now][207]     
+[tickets on sale now][207]     
 
 * * * * *        
 
@@ -105,20 +104,20 @@ WOOLOWEYAH COMMUNITY HALL
 Lakes Boulevard, **YAMBA**     
 duet show with HAMISH STUART     
 7pm 
-Bookings: 02 6646-1457        
+bookings: 02 6646-1457        
 
 **Thursday 2nd July 2015**  
 MOTHERS MILK          
 63 First Ave, **SAWTELL**     
 duet show with HAMISH STUART     
 6.30pm   
-Bookings: 02 6646-1457      
+bookings: 02 6646-1457      
 
 **Friday 3rd - Sunday 5th July 2015**  
 [BELLO WINTER FESTIVAL][208]                
 **BELLINGEN**     
 duet shows with HAMISH STUART      
-[Tickets on sale now][208.1]     
+[tickets on sale now][208.1]     
 
 **Thursday 9th July 2015**  
 CAMELOT LOUNGE     
@@ -133,7 +132,7 @@ KINDLEHILL PERFORMANCE SPACE
 duet show with HAMISH STUART         
 8pm         
 *presented by Music Hunter Projects*   
-[Tickets on sale now][209]     
+[tickets on sale now][209]     
 
 * * * * *        
 
@@ -145,7 +144,7 @@ WHITE EAGLE POLISH CLUB
 duet show with HAMISH STUART         
 7.30pm     
 *presented by the Canberra Musician's Club*   
-[Tickets on sale now][210]      
+[tickets on sale now][210]      
 
  * * * * *        
 
@@ -164,7 +163,7 @@ duet show with HAMISH STUART
 **Friday 12th July 2015**  
 EPILOGUE LOUNGE    
 58 Todd Street, **ALICE SPRINGS**     
-8pm / (08) 8953-4206  
+8pm / 08 8953-4206  
 
 * * * * *        
 
@@ -175,7 +174,7 @@ THE ELLINGTON JAZZ CLUB
 191 Beaufort Street, **PERTH**   
 duet show with HAMISH STUART       
 7pm   
-[Tickets on sale now][211]       
+[tickets on sale now][211]       
 
 **Saturday 15th AUGUST 2015**  
 TEA HOUSE BOOKS            
@@ -197,7 +196,7 @@ THE PARISH
 41 Primrose Street , **VIOLET TOWN**   
 duet show with HAMISH STUART     
 7pm / BYO   
-Bookings: hejeel@mcmedia.com.au   
+bookings: hejeel@mcmedia.com.au   
 
 **Saturday 22nd AUGUST 2015**   
 **CASTLEMAINE**   
@@ -238,7 +237,6 @@ THE LITTLE THEATRE
 duet show with HAMISH STUART     
 *Matinee Show / details tba*       
   
-
 * * * * *         
 
 [past shows][archive]
