@@ -1,6 +1,6 @@
 ### 27 April 2015 | Australian Winter Tour Announced    
 
-Lucie & Hamish will be touring far and wide to celebrate the June 1st release of [EVERYTHING SINGS TONIGHT][141]. Their [Australian Winter Tour dates][shows] have just been announced, with shows in every State and Territory throughout June, July and August.       
+Lucie & Hamish will be touring far and wide to celebrate the June 1st release of [EVERYTHING SINGS TONIGHT][141]. [Australian Winter Tour dates][shows] have just been announced, with shows in every State and Territory throughout June, July and August.       
 
 * * * * *      
 
