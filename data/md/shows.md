@@ -133,7 +133,7 @@ KINDLEHILL PERFORMANCE SPACE
 8 Lake Street, **WENTWORTH FALLS**     
 duet show with HAMISH STUART         
 8pm         
-*presented by Music Hunter Projects* 
+*presented by Music Hunter Projects*   
 [Tickets on sale now][209]     
 
 * * * * *        
@@ -145,7 +145,7 @@ WHITE EAGLE POLISH CLUB
 38 David Street, Turner, **CANBERRA**     
 duet show with HAMISH STUART         
 7.30pm     
-*presented by the Canberra Musician's Club* 
+*presented by the Canberra Musician's Club*   
 [Tickets on sale now][210]      
 
  * * * * *        
@@ -173,14 +173,14 @@ EPILOGUE LOUNGE
 
 **Thursday 13th AUGUST 2015**  
 THE ELLINGTON JAZZ CLUB          
-63 First Ave, **PERTH**   
-duet show with HAMISH STUART     
+191 Beaufort Street, **PERTH**   
+duet show with HAMISH STUART       
 7pm   
 [Tickets on sale now][211]       
 
 **Saturday 15th AUGUST 2015**  
 TEA HOUSE BOOKS            
-6 Hollings Road , **DENMARK**   
+6 Hollings Road , **DENMARK**     
 duet show with HAMISH STUART     
 
 **Sunday 16th AUGUST 2015**  
