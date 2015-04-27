@@ -103,14 +103,14 @@ Old Kirk Concert Series
 WOOLOWEYAH COMMUNITY HALL          
 Lakes Boulevard, **YAMBA**     
 duet show with HAMISH STUART     
-7pm 
+7pm   
 bookings: 02 6646-1457        
 
 **Thursday 2nd July 2015**  
 MOTHERS MILK          
 63 First Ave, **SAWTELL**     
 duet show with HAMISH STUART     
-6.30pm   
+6.30pm     
 bookings: 02 6646-1457      
 
 **Friday 3rd - Sunday 5th July 2015**  
@@ -124,7 +124,8 @@ CAMELOT LOUNGE
 19 Marrickville Road, Marrickville, **SYDNEY**     
 duet show with HAMISH STUART       
 plus special guest CHRIS ABRAHAMS    
-7.30pm / tickets on sale soon        
+7.30pm  
+[tickets on sale soon][214]          
 
 **Friday 10th July 2015**  
 KINDLEHILL PERFORMANCE SPACE       
@@ -376,3 +377,5 @@ duet show with HAMISH STUART
 [211]: http://www.ellingtonjazz.com.au/event/lucie-thorne-hamish-stuart-everything-sings-tonight-australian-winter-tour/   
 [212]: http://www.trybooking.com/HPTK    
 [213]: http://www.trybooking.com/HPXM   
+https://www.stickytickets.com.au/26088
+[214]: https://www.stickytickets.com.au/26088  
