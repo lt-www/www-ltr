@@ -32,21 +32,19 @@ double-bill with LIZ STRINGER
 **South Australia**      
 
 **Friday 19th June 2015**  
-THE SINGING GALLERY    
-133 Main Rd **McLAREN VALE** 
-duet show with HAMISH STUART   
-plus special guests THE YEARLINGS 
-7.30pm 
-[Tickets on sale now] 
-http://www.trybooking.com/HPTK     
+THE SINGING GALLERY      
+133 Main Rd **McLAREN VALE**   
+duet show with HAMISH STUART     
+plus special guests THE YEARLINGS   
+7.30pm   
+[Tickets on sale now][212]    
 
 **Saturday 20th June 2015**  
 WOODLANDS RUN      
 133 Main Rd **FINISS** 
 duet show with HAMISH STUART     
 4.30pm   
-[Tickets on sale now] 
-http://www.trybooking.com/HPXM 
+[Tickets on sale now][213]   
 
 **Sunday 21st June 2015**   
 THE WHEATSHEAF        
@@ -378,4 +376,6 @@ duet show with HAMISH STUART
 [208.1]: http://www.bellowintermusic.com/db101_element_tickets_1.0.asp  
 [209]: http://www.trybooking.com/HODJ   
 [210]: http://www.trybooking.com/HPXZ    
-[211]: http://www.ellingtonjazz.com.au/event/lucie-thorne-hamish-stuart-everything-sings-tonight-australian-winter-tour/ 
+[211]: http://www.ellingtonjazz.com.au/event/lucie-thorne-hamish-stuart-everything-sings-tonight-australian-winter-tour/   
+[212]: http://www.trybooking.com/HPTK    
+[213]: http://www.trybooking.com/HPXM   
