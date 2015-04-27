@@ -25,7 +25,222 @@ double-bill with LIZ STRINGER
 
 * * * * *           
 
-**EVERYTHING SINGS TONIGHT** Australian Winter Tour *dates announced soon...*  
+**EVERYTHING SINGS TONIGHT** Australian Winter Tour   
+
+* * * * *        
+
+**South Australia**      
+
+**Friday 19th June 2015**  
+THE SINGING GALLERY    
+133 Main Rd **McLAREN VALE** 
+duet show with HAMISH STUART   
+plus special guests THE YEARLINGS 
+7.30pm 
+[Tickets on sale now] 
+http://www.trybooking.com/HPTK     
+
+**Saturday 20th June 2015**  
+WOODLANDS RUN      
+133 Main Rd **FINISS** 
+duet show with HAMISH STUART     
+4.30pm   
+[Tickets on sale now] 
+http://www.trybooking.com/HPXM 
+
+**Sunday 21st June 2015**   
+THE WHEATSHEAF        
+39 George St, Thebarton **ADELAIDE** 
+duet show with HAMISH STUART     
+4pm     
+
+* * * * *        
+
+**NSW**     
+
+**Tuesday 23rd June 2015**  
+PORT OF BOURKE HOTEL         
+32 Mitchell Street, **BOURKE** 
+duet show with HAMISH STUART     
+
+**Wednesday 24th June 2015**  
+THE CROSSING THEATRE        
+117 Tibbereena Street  **NARRABRI**   
+duet show with HAMISH STUART     
+6pm     
+*presented by Friends of The Crossing Theatre*   
+Dinner & Show tickets available   
+[Tickets on sale now][205]   
+
+**Friday 26th June 2015**  
+EX-SERVICES CLUB        
+Dalley Street, **MULLUMBIMBY** 
+duet show with HAMISH STUART     
+plus special guest JIMMY DOWLING 
+7.30pm   
+[Tickets on sale now][206]       
+
+**Saturday 27th June 2015**  
+BLUE MOON LOUNGE          
+115 Main Street, **MURWILLUMBAH** 
+duet show with HAMISH STUART     
+plus special guest JIMMY DOWLING 
+7.30pm     
+
+* * * * *        
+
+**Queensland**         
+
+**Sunday 28th June 2015**  
+JUNK BAR            
+215 Waterworks Rd, Ashgrove **BRISBANE** 
+duet show with HAMISH STUART     
+7pm       
+[Tickets on sale now][207]     
+
+* * * * *        
+
+**NSW**       
+
+**Wednesday 1st July 2015**  
+Old Kirk Concert Series   
+WOOLOWEYAH COMMUNITY HALL        
+Lakes Boulevard, **YAMBA**   
+duet show with HAMISH STUART   
+7pm 
+Bookings: 02 6646-1457        
+
+**Thursday 2nd July 2015**  
+MOTHERS MILK          
+63 First Ave, **SAWTELL**   
+duet show with HAMISH STUART   
+6.30pm 
+Bookings: 02 6646-1457      
+
+**Friday 3rd - Sunday 5th July 2015**  
+[BELLO WINTER FESTIVAL][208]              
+**BELLINGEN**   
+duet shows with HAMISH STUART    
+[Tickets on sale now][208.1]     
+
+**Thursday 9th July 2015**  
+CAMELOT LOUNGE     
+19 Marrickville Road, Marrickville, **SYDNEY**   
+duet show with HAMISH STUART     
+plus special guest CHRIS ABRAHAMS 
+7.30pm / tickets on sale soon      
+
+**Friday 10th July 2015**  
+KINDLEHILL PERFORMANCE SPACE       
+8 Lake Street, **WENTWORTH FALLS**   
+duet show with HAMISH STUART       
+8pm       
+*presented by Music Hunter Projects* 
+[Tickets on sale now][209]     
+
+* * * * *        
+
+**ACT**        
+
+**Saturday 11th July 2015**  
+WHITE EAGLE POLISH CLUB       
+38 David Street, Turner, **CANBERRA**   
+duet show with HAMISH STUART       
+7.30pm     
+*presented by the Canberra Musician's Club* 
+[Tickets on sale now][210]      
+
+ * * * * *        
+
+**NSW**       
+
+**Sunday 12th July 2015**  
+THE TOWN HALL       
+William Street, **CANDELO**   
+duet show with HAMISH STUART       
+*Matinee Show / details tba* 
+     
+* * * * *        
+
+**Northern Territory**        
+ 
+**Friday 12th July 2015**  
+EPILOGUE LOUNGE    
+58 Todd Street, **ALICE SPRINGS**     
+8pm / (08) 8953-4206  
+
+* * * * *        
+
+**Western Australia**       
+
+**Thursday 13th AUGUST 2015**  
+THE ELLINGTON JAZZ CLUB          
+63 First Ave, **PERTH**   
+duet show with HAMISH STUART     
+7pm   
+[Tickets on sale now][211]       
+
+**Saturday 15th AUGUST 2015**  
+TEA HOUSE BOOKS            
+6 Hollings Road , **DENMARK**   
+duet show with HAMISH STUART     
+
+**Sunday 16th AUGUST 2015**  
+THE WHITE STAR            
+72 Stirling Terrace , **ALBANY**   
+duet show with HAMISH STUART     
+5pm   
+
+* * * * *        
+
+**Victoria**        
+
+**Friday 21st AUGUST 2015**  
+THE PARISH            
+41 Primrose Street , **VIOLET TOWN**   
+duet show with HAMISH STUART     
+7pm / BYO 
+Bookings: hejeel@mcmedia.com.au   
+
+**Saturday 22nd AUGUST 2015**   
+**CASTLEMAINE**   
+duet show with HAMISH STUART       
+*details tba*     
+
+**Sunday 23rd AUGUST 2015**  
+NORTHCOTE SOCIAL CLUB              
+High Street, Northcote **MELBOURNE**   
+duet show with HAMISH STUART       
+*Matinee Show / details tba*     
+
+* * * * *        
+
+**Tasmania**   
+
+**Thursday 27th AUGUST 2015**  
+GRAND POOBAH            
+142 Liverpool Street, **HOBART**   
+duet show with HAMISH STUART     
+details tba        
+
+**Friday 28th AUGUST 2015**  
+FALMOUTH COMMUNITY CENTRE            
+18 Morrison Street, **FALMOUTH**   
+duet show with HAMISH STUART     
+details tba  
+   
+**Saturday 29th AUGUST 2015**  
+FRESH              
+178 Charles Street, **LAUNCESTON**   
+duet show with HAMISH STUART     
+detail tba     
+    
+**Sunday 30th AUGUST 2015**  
+THE LITTLE THEATRE                
+17 Barrack Street, **DELORAINE**   
+duet show with HAMISH STUART     
+*Matinee Show / details tba*       
+  
 
 * * * * *         
 
@@ -155,4 +370,12 @@ double-bill with LIZ STRINGER
 [201]: http://www.trybooking.com/119595
 [202]: http://thethornburytheatre.com/event/lucie-thorne-hamish-stuart-rushing-dark-single-launch/    
 [203]: http://yackfolkfestival.com/    
-[204]: http://www.trybooking.com/HMBA
+[204]: http://www.trybooking.com/HMBA  
+[205]: http://www.crossingtheatre.com.au/events/events.html  
+[206]: http://www.mullummusic.com.au   
+[207]: http://www.trybooking.com/HPTZ     
+[208]: http://www.bellowintermusic.com 
+[208.1]: http://www.bellowintermusic.com/db101_element_tickets_1.0.asp  
+[209]: http://www.trybooking.com/HODJ   
+[210]: http://www.trybooking.com/HPXZ    
+[211]: http://www.ellingtonjazz.com.au/event/lucie-thorne-hamish-stuart-everything-sings-tonight-australian-winter-tour/ 
