@@ -170,19 +170,19 @@ EPILOGUE LOUNGE
 
 **Western Australia**       
 
-**Thursday 13th AUGUST 2015**  
+**Thursday 13th August 2015**  
 THE ELLINGTON JAZZ CLUB          
 191 Beaufort Street, **PERTH**   
 duet show with HAMISH STUART       
 7pm   
 [tickets on sale now][211]       
 
-**Saturday 15th AUGUST 2015**  
+**Saturday 15th August 2015**  
 TEA HOUSE BOOKS            
 6 Hollings Road , **DENMARK**     
 duet show with HAMISH STUART     
 
-**Sunday 16th AUGUST 2015**  
+**Sunday 16th August 2015**  
 THE WHITE STAR            
 72 Stirling Terrace , **ALBANY**   
 duet show with HAMISH STUART     
@@ -192,19 +192,19 @@ duet show with HAMISH STUART
 
 **Victoria**        
 
-**Friday 21st AUGUST 2015**  
+**Friday 21st August 2015**  
 THE PARISH            
 41 Primrose Street , **VIOLET TOWN**   
 duet show with HAMISH STUART     
 7pm / BYO   
 bookings: hejeel@mcmedia.com.au   
 
-**Saturday 22nd AUGUST 2015**   
+**Saturday 22nd August 2015**   
 **CASTLEMAINE**   
 duet show with HAMISH STUART       
 *details tba*     
 
-**Sunday 23rd AUGUST 2015**  
+**Sunday 23rd August 2015**  
 NORTHCOTE SOCIAL CLUB              
 High Street, Northcote **MELBOURNE**   
 duet show with HAMISH STUART       
@@ -214,25 +214,25 @@ duet show with HAMISH STUART
 
 **Tasmania**   
 
-**Thursday 27th AUGUST 2015**  
+**Thursday 27th August 2015**  
 GRAND POOBAH            
 142 Liverpool Street, **HOBART**   
 duet show with HAMISH STUART     
 *details tba*           
 
-**Friday 28th AUGUST 2015**  
+**Friday 28th August 2015**  
 FALMOUTH COMMUNITY CENTRE            
 18 Morrison Street, **FALMOUTH**   
 duet show with HAMISH STUART     
 *details tba*    
    
-**Saturday 29th AUGUST 2015**  
+**Saturday 29th August 2015**  
 FRESH              
 178 Charles Street, **LAUNCESTON**   
 duet show with HAMISH STUART     
 *details tba*        
     
-**Sunday 30th AUGUST 2015**  
+**Sunday 30th August 2015**  
 THE LITTLE THEATRE                
 17 Barrack Street, **DELORAINE**   
 duet show with HAMISH STUART     
