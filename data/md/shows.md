@@ -62,13 +62,12 @@ PORT OF BOURKE HOTEL
 duet show with HAMISH STUART     
 
 **Wednesday 24th June 2015**  
-THE CROSSING THEATRE        
+[THE CROSSING THEATRE][205]          
 117 Tibbereena Street  **NARRABRI**     
 duet show with HAMISH STUART       
-6pm     
-*presented by Friends of The Crossing Theatre*   
-Dinner & Show tickets available   
-[Tickets on sale now][205]   
+6pm / tickets on sale soon     
+*presented by Friends of The Crossing Theatre*     
+   
 
 **Friday 26th June 2015**  
 EX-SERVICES CLUB        
