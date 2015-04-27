@@ -125,7 +125,7 @@ CAMELOT LOUNGE
 duet show with HAMISH STUART       
 plus special guest CHRIS ABRAHAMS    
 7.30pm  
-[tickets on sale soon][214]          
+[tickets on sale now][214]            
 
 **Friday 10th July 2015**  
 KINDLEHILL PERFORMANCE SPACE       
