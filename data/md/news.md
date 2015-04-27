@@ -1,3 +1,9 @@
+### 27 April 2015 | Australian Winter Tour Announced    
+
+Lucie & Hamish will be touring far and wide to celebrate the June 1st release of [EVERYTHING SINGS TONIGHT][141]. Their [Australian Winter Tour dates][shows] have just been announced, with shows in every State and Territory throughout June, July and August.       
+
+* * * * *      
+
 ### 17 March 2015 | The Rushing Dark 
 
 The new single - The Rushing Dark - is out now! through [iTunes][142]. And here's [the clip][143] for your viewing/listening pleasure x
