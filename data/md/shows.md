@@ -32,8 +32,8 @@ double-bill with LIZ STRINGER
 **South Australia**      
 
 **Friday 19th June 2015**  
-THE SINGING GALLERY      
-133 Main Rd **McLAREN VALE**   
+[THE SINGING GALLERY][175]        
+133 Main Road, **McLAREN VALE**   
 duet show with HAMISH STUART     
 plus special guests [THE YEARLINGS][96.5]     
 7.30pm   
@@ -41,14 +41,14 @@ plus special guests [THE YEARLINGS][96.5]
 
 **Saturday 20th June 2015**  
 WOODLANDS RUN      
-133 Main Rd **FINISS**   
+713 Signal Flat Road, **FINISS**   
 duet show with HAMISH STUART     
 4.30pm   
 [tickets on sale now][213]   
 
 **Sunday 21st June 2015**   
-THE WHEATSHEAF          
-39 George St, Thebarton **ADELAIDE**   
+[THE WHEATSHEAF][94]            
+39 George Street, Thebarton **ADELAIDE**   
 duet show with HAMISH STUART       
 4pm     
 
@@ -63,7 +63,7 @@ duet show with HAMISH STUART
 
 **Wednesday 24th June 2015**  
 [THE CROSSING THEATRE][205]          
-117 Tibbereena Street  **NARRABRI**     
+117 Tibbereena Street, **NARRABRI**     
 duet show with HAMISH STUART       
 6pm / tickets on sale soon     
 *presented by Friends of The Crossing Theatre*     
@@ -179,12 +179,12 @@ duet show with HAMISH STUART
 
 **Saturday 15th August 2015**  
 TEA HOUSE BOOKS            
-6 Hollings Road , **DENMARK**     
+6 Hollings Road, **DENMARK**     
 duet show with HAMISH STUART     
 
 **Sunday 16th August 2015**  
 THE WHITE STAR            
-72 Stirling Terrace , **ALBANY**   
+72 Stirling Terrace, **ALBANY**   
 duet show with HAMISH STUART     
 5pm   
 
@@ -194,7 +194,7 @@ duet show with HAMISH STUART
 
 **Friday 21st August 2015**  
 THE PARISH            
-41 Primrose Street , **VIOLET TOWN**   
+41 Primrose Street, **VIOLET TOWN**   
 duet show with HAMISH STUART     
 7pm / BYO   
 bookings: hejeel@mcmedia.com.au   
