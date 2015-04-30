@@ -33,7 +33,7 @@ double-bill with LIZ STRINGER
 
 **Friday 19th June 2015**  
 [THE SINGING GALLERY][175]        
-133 Main Road, **McLAREN VALE**   
+133 Main Rd, **McLAREN VALE**   
 duet show with HAMISH STUART     
 plus special guests [THE YEARLINGS][96.5]     
 7.30pm   
@@ -41,14 +41,14 @@ plus special guests [THE YEARLINGS][96.5]
 
 **Saturday 20th June 2015**  
 WOODLANDS RUN      
-713 Signal Flat Road, **FINISS**   
+713 Signal Flat Rd, **FINISS**   
 duet show with HAMISH STUART     
 4.30pm   
 [tickets on sale now][213]   
 
 **Sunday 21st June 2015**   
 [THE WHEATSHEAF][94]            
-39 George Street, Thebarton **ADELAIDE**   
+39 George St, Thebarton **ADELAIDE**   
 duet show with HAMISH STUART       
 4pm     
 
@@ -58,19 +58,20 @@ duet show with HAMISH STUART
 
 **Tuesday 23rd June 2015**  
 PORT OF BOURKE HOTEL         
-32 Mitchell Street, **BOURKE**   
+32 Mitchell St, **BOURKE**   
 duet show with HAMISH STUART     
 
 **Wednesday 24th June 2015**  
 [THE CROSSING THEATRE][205]          
-117 Tibbereena Street, **NARRABRI**     
+117 Tibbereena St, **NARRABRI**     
 duet show with HAMISH STUART       
-6pm / tickets on sale soon     
+6pm   
 *presented by Friends of The Crossing Theatre*     
+[tickets on sale now][205.1]      
    
 **Friday 26th June 2015**  
 EX-SERVICES CLUB        
-Dalley Street, **MULLUMBIMBY**   
+Dalley St, **MULLUMBIMBY**   
 duet show with HAMISH STUART       
 plus special guest [JIMMY DOWLING][96.2]     
 7.30pm   
@@ -78,7 +79,7 @@ plus special guest [JIMMY DOWLING][96.2]
 
 **Saturday 27th June 2015**  
 BLUE MOON LOUNGE          
-115 Main Street, **MURWILLUMBAH**   
+115 Main St, **MURWILLUMBAH**   
 duet show with HAMISH STUART       
 plus special guest [JIMMY DOWLING][96.2]       
 7.30pm     
@@ -121,7 +122,7 @@ duet shows with HAMISH STUART
 
 **Thursday 9th July 2015**  
 CAMELOT LOUNGE     
-19 Marrickville Road, Marrickville, **SYDNEY**     
+19 Marrickville Rd, Marrickville, **SYDNEY**     
 duet show with HAMISH STUART       
 plus special guest CHRIS ABRAHAMS    
 7.30pm  
@@ -129,7 +130,7 @@ plus special guest CHRIS ABRAHAMS
 
 **Friday 10th July 2015**  
 KINDLEHILL PERFORMANCE SPACE       
-8 Lake Street, **WENTWORTH FALLS**     
+8 Lake St, **WENTWORTH FALLS**     
 duet show with HAMISH STUART         
 8pm         
 *presented by Music Hunter Projects*   
@@ -141,7 +142,7 @@ duet show with HAMISH STUART
 
 **Saturday 11th July 2015**  
 WHITE EAGLE POLISH CLUB         
-38 David Street, Turner, **CANBERRA**     
+38 David St, Turner, **CANBERRA**     
 duet show with HAMISH STUART         
 7.30pm     
 *presented by the Canberra Musician's Club*   
@@ -153,7 +154,7 @@ duet show with HAMISH STUART
 
 **Sunday 12th July 2015**  
 THE TOWN HALL       
-William Street, **CANDELO**   
+William St, **CANDELO**   
 duet show with HAMISH STUART       
 *Matinee Show / details tba* 
      
@@ -163,7 +164,7 @@ duet show with HAMISH STUART
  
 **Friday 17th July 2015**  
 EPILOGUE LOUNGE    
-58 Todd Street, **ALICE SPRINGS**     
+58 Todd St, **ALICE SPRINGS**     
 8pm / 08 8953-4206  
 
 * * * * *        
@@ -172,14 +173,14 @@ EPILOGUE LOUNGE
 
 **Thursday 13th August 2015**  
 THE ELLINGTON JAZZ CLUB          
-191 Beaufort Street, **PERTH**   
+191 Beaufort St, **PERTH**   
 duet show with HAMISH STUART       
 7pm   
 [tickets on sale now][211]       
 
 **Saturday 15th August 2015**  
 TEA HOUSE BOOKS            
-6 Hollings Road, **DENMARK**     
+6 Hollings Rd, **DENMARK**     
 duet show with HAMISH STUART     
 
 **Sunday 16th August 2015**  
@@ -194,19 +195,20 @@ duet show with HAMISH STUART
 
 **Friday 21st August 2015**  
 THE PARISH            
-41 Primrose Street, **VIOLET TOWN**   
+41 Primrose St, **VIOLET TOWN**   
 duet show with HAMISH STUART     
 7pm / BYO   
 bookings: hejeel@mcmedia.com.au   
 
 **Saturday 22nd August 2015**   
-**CASTLEMAINE**   
+THE BRIDGE HOTEL    
+Walker St, **CASTLEMAINE**   
 duet show with HAMISH STUART       
 *details tba*     
 
 **Sunday 23rd August 2015**  
 NORTHCOTE SOCIAL CLUB              
-High Street, Northcote **MELBOURNE**   
+High St, Northcote **MELBOURNE**   
 duet show with HAMISH STUART       
 *Matinee Show / details tba*     
 
@@ -216,25 +218,25 @@ duet show with HAMISH STUART
 
 **Thursday 27th August 2015**  
 GRAND POOBAH            
-142 Liverpool Street, **HOBART**   
+142 Liverpool St, **HOBART**   
 duet show with HAMISH STUART     
 *details tba*           
 
 **Friday 28th August 2015**  
 FALMOUTH COMMUNITY CENTRE            
-18 Morrison Street, **FALMOUTH**   
+18 Morrison St, **FALMOUTH**   
 duet show with HAMISH STUART     
 *details tba*    
    
 **Saturday 29th August 2015**  
 FRESH              
-178 Charles Street, **LAUNCESTON**   
+178 Charles St, **LAUNCESTON**   
 duet show with HAMISH STUART     
 *details tba*        
     
 **Sunday 30th August 2015**  
 THE LITTLE THEATRE                
-17 Barrack Street, **DELORAINE**   
+17 Barrack St, **DELORAINE**   
 duet show with HAMISH STUART     
 *Matinee Show / details tba*       
   
@@ -367,7 +369,8 @@ duet show with HAMISH STUART
 [202]: http://thethornburytheatre.com/event/lucie-thorne-hamish-stuart-rushing-dark-single-launch/    
 [203]: http://yackfolkfestival.com/    
 [204]: http://www.trybooking.com/HMBA  
-[205]: http://www.crossingtheatre.com.au/events/events.html  
+[205]: http://www.crossingtheatre.com.au/events/events.html    
+[205.1]: http://www.crossingtheatre.com.au/events/tickets.html  
 [206]: http://www.mullummusic.com.au   
 [207]: http://www.trybooking.com/HPTZ     
 [208]: http://www.bellowintermusic.com 
