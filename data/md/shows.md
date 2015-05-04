@@ -204,13 +204,15 @@ bookings: hejeel@mcmedia.com.au
 THE BRIDGE HOTEL    
 Walker St, **CASTLEMAINE**   
 duet show with HAMISH STUART       
-*details tba*     
+8pm  
+[Tickets on sale now][215]       
 
 **Sunday 23rd August 2015**  
 NORTHCOTE SOCIAL CLUB              
 High St, Northcote **MELBOURNE**   
 duet show with HAMISH STUART       
-*Matinee Show / details tba*     
+1.30pm *Matinee Show*  
+[Tickets on sale now][216]          
 
 * * * * *        
 
@@ -220,25 +222,29 @@ duet show with HAMISH STUART
 GRAND POOBAH            
 142 Liverpool St, **HOBART**   
 duet show with HAMISH STUART     
-*details tba*           
+7.30pm  
+[Tickets on sale now][217]               
 
 **Friday 28th August 2015**  
 FALMOUTH COMMUNITY CENTRE            
 18 Morrison St, **FALMOUTH**   
 duet show with HAMISH STUART     
-*details tba*    
+7.30pm  
+[Tickets on sale now][218]        
    
 **Saturday 29th August 2015**  
 FRESH              
 178 Charles St, **LAUNCESTON**   
 duet show with HAMISH STUART     
-*details tba*        
+7.30pm  
+[Tickets on sale now][219]             
     
 **Sunday 30th August 2015**  
 THE LITTLE THEATRE                
 17 Barrack St, **DELORAINE**   
 duet show with HAMISH STUART     
-*Matinee Show / details tba*       
+3.30pm *Matinee Show*  
+[Tickets on sale now][220]             
   
 * * * * *         
 
@@ -381,3 +387,9 @@ duet show with HAMISH STUART
 [212]: http://www.trybooking.com/HPTK    
 [213]: http://www.trybooking.com/HPXM   
 [214]: https://www.stickytickets.com.au/26088  
+[215]: http://www.trybooking.com/HRWM  
+[216]: https://northcotesc.ticketscout.com.au/gigs/3868-lucie-thorne-hamish-stuart?_ga=1.194478383.340423014.1343744507
+[217]: http://www.trybooking.com/HRYG  
+[218]: http://www.trybooking.com/HRYS  
+[219]: http://www.trybooking.com/HSAA  
+[220]: http://www.trybooking.com/HRZF  
