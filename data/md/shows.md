@@ -182,7 +182,9 @@ duet show with HAMISH STUART
 TEA HOUSE BOOKS            
 6 Hollings Rd, **DENMARK**     
 duet show with HAMISH STUART     
-
+8pm  
+bookings: 08 9848 1801  
+  
 **Sunday 16th August 2015**  
 THE WHITE STAR            
 72 Stirling Terrace, **ALBANY**   
@@ -205,14 +207,14 @@ THE BRIDGE HOTEL
 Walker St, **CASTLEMAINE**   
 duet show with HAMISH STUART       
 8pm  
-[Tickets on sale now][215]       
+[tickets on sale now][215]       
 
 **Sunday 23rd August 2015**  
 NORTHCOTE SOCIAL CLUB              
 High St, Northcote **MELBOURNE**   
 duet show with HAMISH STUART       
 1.30pm *Matinee Show*  
-[Tickets on sale now][216]          
+[tickets on sale now][216]          
 
 * * * * *        
 
@@ -223,28 +225,28 @@ GRAND POOBAH
 142 Liverpool St, **HOBART**   
 duet show with HAMISH STUART     
 7.30pm  
-[Tickets on sale now][217]               
+[tickets on sale now][217]               
 
 **Friday 28th August 2015**  
 FALMOUTH COMMUNITY CENTRE            
 18 Morrison St, **FALMOUTH**   
 duet show with HAMISH STUART     
 7.30pm  
-[Tickets on sale now][218]        
+[tickets on sale now][218]        
    
 **Saturday 29th August 2015**  
 FRESH              
 178 Charles St, **LAUNCESTON**   
 duet show with HAMISH STUART     
 7.30pm  
-[Tickets on sale now][219]             
+[tickets on sale now][219]             
     
 **Sunday 30th August 2015**  
 THE LITTLE THEATRE                
 17 Barrack St, **DELORAINE**   
 duet show with HAMISH STUART     
 3.30pm *Matinee Show*  
-[Tickets on sale now][220]             
+[tickets on sale now][220]             
   
 * * * * *         
 
