@@ -58,8 +58,6 @@ Photos of Lucie by Eryca Green
 \(c) & (p) Lucienne Thorne / little secret records 2011, under
 exclusive license to Vitamin Records.   
 
-[Media Release][20] for Bonfires In Silver City, August 2011.  
-
    [8]: data/image/cover/bonfires-in-silver-city.jpg
    [9]: ?p=songs/falling
   [10]: ?p=songs/till-the-season
