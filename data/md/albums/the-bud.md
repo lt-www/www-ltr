@@ -60,13 +60,7 @@ artwork by [rachel stone][24].
 copyright 2004 by lucienne thorne. made in australia. all rights
 reserved.
 
-### cd purchase
-
-Find out about [buying cds][25]
-
-  [25]: ?p=shop
-
-There is also a very limited edition pressing of the bud
+There was also a very limited edition pressing of the bud
 [on vinyl][21].
 
   [21]: ?p=albums/the-bud-vinyl
