@@ -54,7 +54,6 @@ Artwork by [Rachel Stone][19].
 \(c) & (p) [Lucienne Thorne][24] / little secret records 2009, under
 exclusive license to Vitamin Records.  Made in Australia.
 
-[Media Release][25] for Black Across The Field, March 2009.  
 
   [24]: http://www.luciethorne.com
   [25]: data/pr/LucieThorneBATFMediaRelease.pdf
