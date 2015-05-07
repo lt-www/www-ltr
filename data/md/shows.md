@@ -110,6 +110,7 @@ Old Kirk Concert Series
 WOOLOWEYAH COMMUNITY HALL          
 Lakes Boulevard, **YAMBA**     
 duet show with HAMISH STUART     
+plus special guest [JIMMY DOWLING][96.2]     
 7pm   
 bookings: 02 6646-1457        
 
