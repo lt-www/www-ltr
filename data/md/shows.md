@@ -5,23 +5,29 @@
 **Thursday 21st May 2015**  
 505          
 Cleveland St, **SYDNEY**    
-double-bill with LIZ STRINGER  
-[tickets on sale now][204]
+double-bill with [LIZ STRINGER][221]    
+[tickets on sale now][204]  
+7pm  
 
 **Friday 22nd May 2015**  
-venue tba          
-**COWRA**    
-double-bill with LIZ STRINGER    
+Gooloong Log Cabin            
+**GOOLOOGONG**    
+double-bill with [LIZ STRINGER][221]     
+bookings: 02 63448166  
+6.30pm  
 
 **Saturday 23rd May 2015**  
 Art of Espresso           
-**YOUNG**      
-double-bill with LIZ STRINGER    
+35 Main St, **YOUNG**      
+double-bill with [LIZ STRINGER][221]      
+bookings: 02 6382 1151    
+6.30pm  
 
 **Sunday 24th May 2015**  
-The Block            
+The Block - house Concert             
 **MARTINSVILLE**      
-double-bill with LIZ STRINGER    
+double-bill with [LIZ STRINGER][221]        
+2pm    
 
 * * * * *           
 
@@ -394,4 +400,5 @@ duet show with HAMISH STUART
 [217]: http://www.trybooking.com/HRYG  
 [218]: http://www.trybooking.com/HRYS  
 [219]: http://www.trybooking.com/HSAA  
-[220]: http://www.trybooking.com/HRZF  
+[220]: http://www.trybooking.com/HRZF    
+[221]: http://www.lizstringer.com    
