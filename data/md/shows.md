@@ -24,7 +24,7 @@ bookings: 02 6382 1151
 6.30pm  
 
 **Sunday 24th May 2015**  
-The Block - house Concert             
+The Block - House Concert             
 **MARTINSVILLE**      
 double-bill with [LIZ STRINGER][221]        
 2pm    
