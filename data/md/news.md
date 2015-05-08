@@ -2,6 +2,8 @@
 
 Lucie & Hamish will be touring far and wide to celebrate the June 1st release of [EVERYTHING SINGS TONIGHT][141]. [Australian Winter Tour dates][shows] have just been announced, with shows in every State and Territory throughout June, July and August.       
 
+![](data/image/news/LT_EST_Poster.jpg)  
+
 * * * * *      
 
 ### 17 March 2015 | The Rushing Dark 
