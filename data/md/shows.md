@@ -10,7 +10,7 @@ double-bill with [LIZ STRINGER][221]
 7pm  
 
 **Friday 22nd May 2015**  
-Gooloong Log Cabin            
+Gooloogong Log Cabin            
 **GOOLOOGONG**    
 double-bill with [LIZ STRINGER][221]     
 bookings: 02 63448166  
