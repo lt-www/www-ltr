@@ -1,3 +1,7 @@
+### 19 May 2015 | Pre-orders on their way x  
+
+Huge thanks to all of you who've pre-ordered Everything Sings Tonight!! xx The cd-preorders are now on their way! (and the LPs will be shipped next week).  Fancy one arriving at your place? You can [place an order here][141] xx    
+
 ### 27 April 2015 | Australian Winter Tour Announced    
 
 Lucie & Hamish will be touring far and wide to celebrate the June 1st release of [EVERYTHING SINGS TONIGHT][141]. [Australian Winter Tour dates][shows] have just been announced, with shows in every State and Territory throughout June, July and August.       
