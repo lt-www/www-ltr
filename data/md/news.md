@@ -1,6 +1,6 @@
 ### 19 May 2015 | Pre-orders on their way x  
 
-Huge thanks to all of you who've pre-ordered Everything Sings Tonight!! xx The cd-preorders are now on their way! (and the LPs will be shipped next week).  Fancy one arriving at your place? You can [place an order here][141] xx    
+Huge thanks to all of you who've pre-ordered [Everything Sings Tonight][141]!! xx The cd-preorders are now on their way! (and the LPs will be shipped next week).  Fancy one arriving at your place? You can [place an order here][141] xx    
 
 ### 27 April 2015 | Australian Winter Tour Announced    
 
