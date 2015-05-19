@@ -163,7 +163,8 @@ duet show with HAMISH STUART
 THE TOWN HALL       
 William St, **CANDELO**   
 duet show with HAMISH STUART       
-*Matinee Show / details tba* 
+3pm *matinee show*      
+[tickets on sale now][222] 
      
 * * * * *        
 
@@ -403,3 +404,4 @@ duet show with HAMISH STUART
 [219]: http://www.trybooking.com/HSAA  
 [220]: http://www.trybooking.com/HRZF    
 [221]: http://www.lizstringer.com    
+[222]: http://www.trybooking.com/HUBT  
