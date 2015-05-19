@@ -164,6 +164,7 @@ THE TOWN HALL
 William St, **CANDELO**   
 duet show with HAMISH STUART       
 3pm *matinee show*      
+*presented by the Candelo Arts Society*  
 [tickets on sale now][222] 
      
 * * * * *        
