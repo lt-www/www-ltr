@@ -1,33 +1,4 @@
-* * * * *     
 
-**NSW**    
-
-**Thursday 21st May 2015**  
-505          
-Cleveland St, **SYDNEY**    
-double-bill with [LIZ STRINGER][221]    
-[tickets on sale now][204]  
-7pm  
-
-**Friday 22nd May 2015**  
-Gooloogong Log Cabin            
-**GOOLOOGONG**    
-double-bill with [LIZ STRINGER][221]     
-bookings: 02 63448166  
-6.30pm  
-
-**Saturday 23rd May 2015**  
-Art of Espresso           
-35 Main St, **YOUNG**      
-double-bill with [LIZ STRINGER][221]      
-bookings: 02 6382 1151    
-6.30pm  
-
-**Sunday 24th May 2015**  
-The Block - House Concert             
-**MARTINSVILLE**      
-double-bill with [LIZ STRINGER][221]        
-2pm    
 
 * * * * *           
 
