@@ -1,4 +1,28 @@
 ## shows/archive   
+
+* * * * *     
+
+**NSW**    
+
+**Sunday 24th May 2015**  
+The Block - House Concert             
+**MARTINSVILLE**      
+with LIZ STRINGER  
+
+**Saturday 23rd May 2015**  
+Art of Espresso           
+35 Main St, **YOUNG**      
+with LIZ STRINGER        
+
+**Friday 22nd May 2015**  
+Gooloogong Log Cabin            
+**GOOLOOGONG**    
+with LIZ STRINGER 
+
+**Thursday 21st May 2015**  
+505          
+Cleveland St, **SYDNEY**        
+with LIZ STRINGER            
        
 * * * * *        
 
