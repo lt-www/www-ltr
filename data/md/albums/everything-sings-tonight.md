@@ -2,11 +2,14 @@
 
 Release date: 1st June 2015.
 
-Direct mail-order your copy of Everything Sings Tonight on CD or LP:  
+Direct mail-order your copy of Everything Sings Tonight on CD or LP (Includes shipping):\
 
-**CD**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H9G7WHRG5LDPA">ALL\ $25AUD</a>
-**LP**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R77D3AGG9J7P4">AUS\ $36AUD</a>
-<a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ADRQRFUUCDJCE">WORLD\ $45AUD</a> (Includes shipping)  
+**CD**:
+<a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H9G7WHRG5LDPA">AUS\ $25AUD</a>
+<a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZEYKQFY7C744N">WORLD\ $28AUD</a> \
+**LP**:
+<a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R77D3AGG9J7P4">AUS\ $36AUD</a>
+<a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ADRQRFUUCDJCE">WORLD\ $45AUD</a>
 
 ![](data/image/cover/everything-sings.jpg)
 
