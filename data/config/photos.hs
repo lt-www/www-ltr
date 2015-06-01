@@ -23,10 +23,4 @@
   ,("angle","photo by eryca green")
   ,("black","photo by eryca green")
   ])
-,("Media Articles"
- ,[("pr-rs","Rolling Stone, Nov. 2011")
-  ,("pr-mm","Melbourne Magazine, The Age, Sep. 2011")
-  ,("pr-hm","Heaven Magazine, Nov. 2010")
-  ,("pr-smh","Sydney Morning Herald, Mar. 2009")
-  ])
 ]
