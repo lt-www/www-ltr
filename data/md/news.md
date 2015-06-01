@@ -2,14 +2,12 @@
 
 [Everything Sings Tonight][141] is out now! Available through [iTunes][144], in all fine record stores across Australia through [Vitamin][145], and via direct [mail-order][141] from us xx Happy release day! xx 
 
-![](data/image/news/EverythingSingsTonightCover1.jpg)  
-
 
 * * * * *      
 
 ### 29 May 2015 | Radio National    
 
-Lucie & Hamish will be featured on tomorrow's Music Show on RN. Tune in your  radio waves x  
+Lucie & Hamish will be featured on tomorrow's Music Show on RN. Tune in your  radio waves or [stream it on th internets][146] x  
 
 * * * * *    
 
@@ -213,4 +211,5 @@ if you care to know it, there is still all of the [old news](?p=news/archive)...
 [142]: https://itunes.apple.com/au/album/rushing-dark-single-rushing/id976471411
 [143]: https://www.youtube.com/watch?v=DxTKUIL_tpI   
 [144]: https://itunes.apple.com/au/album/everything-sings-tonight/id998796975
-[145]: https://www.vitamin.net.au/albumdefault.asp?ai=637
+[145]: https://www.vitamin.net.au/albumdefault.asp?ai=637 
+[146]: http://www.abc.net.au/radionational/programs/musicshow/lucie-thorne-26-hamish-stuart/6484124
