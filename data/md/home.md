@@ -1,5 +1,5 @@
-> NEW ALBUM [__EVERYTHING SINGS TONIGHT__][1] OUT 1ST JUNE 2015\
-> [PRE-ORDER NOW][1]
+> NEW ALBUM [__EVERYTHING SINGS TONIGHT__][1] OUT NOW\
+> [Direct mail-order your copy here][1]
 
 > [![Bonfires In Silver City][3]][1]  
 
