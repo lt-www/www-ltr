@@ -1,7 +1,7 @@
 [![Everything Sings Tonight][9.1]][9.2]
 *Everything Sings Tonight*  
 Release date: 1st June 2015. [Details][9.2]  
-Available on CD or LP  
+Available on CD and LP  
 **CD**:
 <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H9G7WHRG5LDPA">AUS\ $25AUD</a>
 <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZEYKQFY7C744N">WORLD\ $28AUD</a> \
