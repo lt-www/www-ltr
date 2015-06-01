@@ -1,11 +1,3 @@
-[![The Rushing Dark - Single][10.1]][10.2]
-*The Rushing Dark - Single*  
-Release date: 16 March 2015.  [Details][10.2]  
-available through [iTunes][10.3]
-
-  [10.1]: rgen/cover/r-80/the-rushing-dark.jpg
-  [10.2]: ?p=albums/the-rushing-dark
-  [10.3]: https://itunes.apple.com/au/album/rushing-dark-single-rushing/id976471411 
 
 [![Everything Sings Tonight][9.1]][9.2]
 *Everything Sings Tonight*  
@@ -18,6 +10,16 @@ __PRE-ORDER__ your copy on CD or LP
 
   [9.1]: rgen/cover/r-80/everything-sings.jpg
   [9.2]: ?p=albums/everything-sings-tonight
+
+[![The Rushing Dark - Single][10.1]][10.2]
+*The Rushing Dark - Single*  
+Release date: 16 March 2015.  [Details][10.2]  
+available through [iTunes][10.3]
+
+  [10.1]: rgen/cover/r-80/the-rushing-dark.jpg
+  [10.2]: ?p=albums/the-rushing-dark
+  [10.3]: https://itunes.apple.com/au/album/rushing-dark-single-rushing/id976471411 
+
 
 [![Fall To Rise][8.1]][8.2]
 *Fall To Rise* by [LOVE OVER GOLD](http://love-over-gold.com)  
