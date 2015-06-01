@@ -1,5 +1,5 @@
 [("Press Photos"
- ,[("LucieThorneEST1","photo by Heike Qualitz")   
+ ,[("LT_EST1","photo by Heike Qualitz")   
   ,("LucieThorneEST4","photo by Kate Atkinson") 
   ,("loretta","photo by eryca green")
   ,("tree","photo by eryca green")
