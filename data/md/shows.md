@@ -1,5 +1,4 @@
 
-
 * * * * *           
 
 **EVERYTHING SINGS TONIGHT** Australian Winter Tour   
@@ -135,7 +134,7 @@ THE TOWN HALL
 William St, **CANDELO**   
 duet show with HAMISH STUART       
 3pm *matinee show*      
-*presented by the Candelo Arts Society*  
+*presented by the [Candelo Arts Society][222.2]*  
 [tickets on sale now][222] 
      
 * * * * *        
@@ -377,3 +376,4 @@ duet show with HAMISH STUART
 [220]: http://www.trybooking.com/HRZF    
 [221]: http://www.lizstringer.com    
 [222]: http://www.trybooking.com/HUBT  
+[222.2]: http://www.candelovillagefestival.org/whats-on/
