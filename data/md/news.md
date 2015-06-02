@@ -1,3 +1,10 @@
+
+### 2 June 2015 | Daily Planet Feature  
+
+[Everything Sings Tonight][141] is the feature album on Lucky Ocean's Daily Planet tonight. [Listen in][147] xx
+
+* * * * *      
+
 ### 1 June 2015 | Release Day!  
 
 [Everything Sings Tonight][141] is out now! Available through [iTunes][144], in all fine record stores across Australia through [Vitamin][145], and via direct [mail-order][141] from us xx Happy release day! xx 
@@ -213,3 +220,4 @@ if you care to know it, there is still all of the [old news](?p=news/archive)...
 [144]: https://itunes.apple.com/au/album/everything-sings-tonight/id998796975
 [145]: https://www.vitamin.net.au/albumdefault.asp?ai=637 
 [146]: http://www.abc.net.au/radionational/programs/musicshow/lucie-thorne-26-hamish-stuart/6484124
+[147]: http://www.abc.net.au/radionational/programs/dailyplanet/lucie-thorne---everything-sings-tonight-daily-planet-abc/6488132
