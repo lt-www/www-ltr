@@ -43,8 +43,7 @@ Mastered by Darren Ziesing at Polybonk, Kairong, Australia
 
 Cover painting by Yodhi Bergman. Design and Photography by Heike Qualitz   
 
-&copy; Lucie Thorne 2015, *Little Secret Records*  
-Distributed in Australia by Vitamin Records
+&copy; Lucie Thorne 2015, *Little Secret Records*    
 
 ![](data/image/ground/lsr-35.png)  
 
