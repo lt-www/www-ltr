@@ -1,5 +1,7 @@
 <!--| ## EVERYTHING SINGS TONIGHT |-->
 
+Release date: 1st June 2015.  
+
 Direct mail-order your copy of Everything Sings Tonight on CD or LP (Includes shipping):\
 
 **CD**:
@@ -9,7 +11,7 @@ Direct mail-order your copy of Everything Sings Tonight on CD or LP (Includes sh
 <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R77D3AGG9J7P4">AUS\ $36AUD</a>
 <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ADRQRFUUCDJCE">WORLD\ $45AUD</a>
 
-Release date: 1st June 2015.
+Also available through [iTunes][144] and in all fine record stores across Australia through [Vitamin Distribution][145].  
 
 ![](data/image/cover/everything-sings.jpg)
 
@@ -44,4 +46,7 @@ Cover painting by Yodhi Bergman. Design and Photography by Heike Qualitz
 &copy; Lucie Thorne 2015, *Little Secret Records*  
 Distributed in Australia by Vitamin Records
 
-![](data/image/ground/lsr-35.png)
+![](data/image/ground/lsr-35.png)  
+
+[144]: https://itunes.apple.com/au/album/everything-sings-tonight/id998796975
+[145]: https://www.vitamin.net.au/albumdefault.asp?ai=637 
