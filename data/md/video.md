@@ -89,17 +89,7 @@ The Melbourne Folk Club
 The Tanja Hall, ABC Southeast
 </div>
 </div>
-<div class="yt-entry">
-<div class="yt-img">
-<a href="?v=QKN4qOatpKo">
-<img src="http://i.ytimg.com/vi/QKN4qOatpKo/default.jpg" width="120" height="90" />
-</a>
-</div>
-<div class="yt-txt">
-<a href="?v=QKN4qOatpKo">When I Get There</a> with Hamish Stuart<br />
-The Guildford Hall
-</div>
-</div>
+
 <div class="yt-entry">
 <div class="yt-img">
 <a href="?v=A_r7HWTzuT4">
