@@ -15,18 +15,18 @@ Also available through [iTunes][144] and in all fine record stores across Austra
 
 ![](data/image/cover/everything-sings.jpg)
 
-1. Blackwing
+1. [Blackwing](?p=albums/everything-sings-tonight/texts#blackwing)
 2. [The Rushing Dark](?p=albums/everything-sings-tonight/texts#the-rushing-dark)
-3. Room to Burn
-4. Darlin If We Could
-5. Everything Sings
-6. Lasseter's Gold
-7. Not Waiting Now
-8. Moving Colours
-9. Up All Night
-10. Green & Blue
+3. [Room to Burn](?p=albums/everything-sings-tonight/texts#room-to-burn)
+4. [Darlin If We Could](?p=albums/everything-sings-tonight/texts#darlin-if-we-could)
+5. [Everything Sings](?p=albums/everything-sings-tonight/texts#everything-sings)
+6. [Lasseter's Gold](?p=albums/everything-sings-tonight/texts#lasseters-gold)
+7. [Not Waiting Now](?p=albums/everything-sings-tonight/texts#not-waiting-now)
+8. [Moving Colours](?p=albums/everything-sings-tonight/texts#moving-colours)
+9. [Up All Night](?p=albums/everything-sings-tonight/texts#up-all-night)
+10. [Green & Blue](?p=albums/everything-sings-tonight/texts#green-blue)
 
-## CREDITS
+## credits
 
 All songs written by Lucie Thorne   
 Produced by Lucie Thorne & Hamish Stuart  

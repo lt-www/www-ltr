@@ -1,5 +1,29 @@
 <div class="yt-entry">
 <div class="yt-img">
+<a href="?v=l4GRfPzoEXM">
+<img src="http://i.ytimg.com/vi/l4GRfPzoEXM/default.jpg" width="120" height="90" />
+</a>
+</div>
+<div class="yt-txt">
+<a href="?v=l4GRfPzoEXM">Green &amp; Blue</a><br />
+The Music Show - ABC RN
+</div>
+</div>
+
+<div class="yt-entry">
+<div class="yt-img">
+<a href="?v=RVNV-tyCFtU">
+<img src="http://i.ytimg.com/vi/RVNV-tyCFtU/default.jpg" width="120" height="90" />
+</a>
+</div>
+<div class="yt-txt">
+<a href="?v=RVNV-tyCFtU">Blackwing</a><br />
+The Music Show - ABC RN
+</div>
+</div>
+
+<div class="yt-entry">
+<div class="yt-img">
 <a href="?v=DxTKUIL_tpI">
 <img src="http://i.ytimg.com/vi/DxTKUIL_tpI/default.jpg" width="120" height="90" />
 </a>
