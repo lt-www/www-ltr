@@ -1,12 +1,24 @@
 <div class="yt-entry">
 <div class="yt-img">
+<a href="?v=DxTKUIL_tpI">
+<img src="http://i.ytimg.com/vi/DxTKUIL_tpI/default.jpg" width="120" height="90" />
+</a>
+</div>
+<div class="yt-txt">
+<a href="?v=DxTKUIL_tpI">The Rushing Dark</a><br />
+Video by Heike Qualitz
+</div>
+</div>  
+
+<div class="yt-entry">
+<div class="yt-img">
 <a href="?v=l4GRfPzoEXM">
 <img src="http://i.ytimg.com/vi/l4GRfPzoEXM/default.jpg" width="120" height="90" />
 </a>
 </div>
 <div class="yt-txt">
-<a href="?v=l4GRfPzoEXM">Green &amp; Blue</a><br />
-The Music Show - ABC RN
+<a href="?v=l4GRfPzoEXM">Green &amp; Blue</a> with Hamish Stuart<br />
+The Music Show - ABC RN   
 </div>
 </div>
 
@@ -17,20 +29,8 @@ The Music Show - ABC RN
 </a>
 </div>
 <div class="yt-txt">
-<a href="?v=RVNV-tyCFtU">Blackwing</a><br />
-The Music Show - ABC RN
-</div>
-</div>
-
-<div class="yt-entry">
-<div class="yt-img">
-<a href="?v=DxTKUIL_tpI">
-<img src="http://i.ytimg.com/vi/DxTKUIL_tpI/default.jpg" width="120" height="90" />
-</a>
-</div>
-<div class="yt-txt">
-<a href="?v=DxTKUIL_tpI">The Rushing Dark</a><br />
-Video by Heike Qualitz
+<a href="?v=RVNV-tyCFtU">Blackwing</a> with Hamish Stuart<br />
+The Music Show - ABC RN  
 </div>
 </div>
 
