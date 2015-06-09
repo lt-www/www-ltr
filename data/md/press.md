@@ -1,4 +1,14 @@
-- Lucie Thorne [Biography - May 2015][31] (pdf)    
+- Lucie Thorne [Biography - May 2015][31] (pdf)      
+
+* * * * * 
+
+### Everything Sings Tonight  
+
+"exquisitely impressionistic... poetry in motion" **** **_Rolling Stone Magazine_**     
+
+"delicate and dark ... [Everything Sings Tonight] seeps into the soul... weaving a bewitching tapestry" **_The Australian_**  
+
+"Everything Sings Tonight is all about space and tone and intimacy, elements that are increasingly uncommon in contemporary music." **_Rhythms Magazine_**   
 
 * * * * * 
 
