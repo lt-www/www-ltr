@@ -1,3 +1,6 @@
+### 9 June 2015 | Four Stars in Rolling Stone  
+
+[Reviews][press] have started rolling in for [Everything Sings Tonight][141], including a Four Star review in the current edition of Rolling Stone!    
 
 ### 2 June 2015 | Daily Planet Feature  
 
@@ -220,4 +223,5 @@ if you care to know it, there is still all of the [old news](?p=news/archive)...
 [144]: https://itunes.apple.com/au/album/everything-sings-tonight/id998796975
 [145]: https://www.vitamin.net.au/albumdefault.asp?ai=637 
 [146]: http://www.abc.net.au/radionational/programs/musicshow/lucie-thorne-26-hamish-stuart/6484124
-[147]: http://www.abc.net.au/radionational/programs/dailyplanet/lucie-thorne---everything-sings-tonight-daily-planet-abc/6488132
+[147]: http://www.abc.net.au/radionational/programs/dailyplanet/lucie-thorne---everything-sings-tonight-daily-planet-abc/6488132  
+[press]: http://luciethorne.com/?p=press  
