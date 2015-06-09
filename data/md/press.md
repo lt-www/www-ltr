@@ -6,9 +6,9 @@
 
 "exquisitely impressionistic... poetry in motion" **** **_Rolling Stone Magazine_**     
 
-"delicate and dark ... [Everything Sings Tonight] seeps into the soul... weaving a bewitching tapestry" **_The Australian_**  
+"delicate and dark ... [_Everything Sings Tonight_] seeps into the soul... weaving a bewitching tapestry" **_The Australian_**  
 
-"Everything Sings Tonight is all about space and tone and intimacy, elements that are increasingly uncommon in contemporary music." **_Rhythms Magazine_**   
+"_Everything Sings Tonight_ is all about space and tone and intimacy, elements that are increasingly uncommon in contemporary music." **_Rhythms Magazine_**   
 
 * * * * * 
 
