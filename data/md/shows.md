@@ -1,4 +1,3 @@
-
 * * * * *           
 
 **EVERYTHING SINGS TONIGHT** Australian Winter Tour   
@@ -36,6 +35,7 @@ duet show with HAMISH STUART
 PORT OF BOURKE HOTEL         
 32 Mitchell St, **BOURKE**   
 duet show with HAMISH STUART     
+7pm  
 
 **Wednesday 24th June 2015**  
 [THE CROSSING THEATRE][205]          
