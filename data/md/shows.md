@@ -39,7 +39,7 @@ duet show with HAMISH STUART
 7.15pm  
 [festival tickets on sale now][208.1]      
 
-**Saturday 4th July 2015**  
+**Sunday 5th July 2015**  
 [BELLO WINTER FESTIVAL][208]                
 Number 5 Church Street     
 **BELLINGEN**     
