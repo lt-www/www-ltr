@@ -23,11 +23,29 @@ duet show with HAMISH STUART
 6.30pm     
 bookings: 02 6646-1457      
 
-**Friday 3rd - Sunday 5th July 2015**  
+**Friday 3rd July 2015**  
 [BELLO WINTER FESTIVAL][208]                
+St Margaret's Hall  
 **BELLINGEN**     
-duet shows with HAMISH STUART      
-[tickets on sale now][208.1]     
+duet show with HAMISH STUART      
+7.45pm  
+[festival tickets on sale now][208.1]  
+
+**Saturday 4th July 2015**  
+[BELLO WINTER FESTIVAL][208]                
+Digger's Tavern    
+**BELLINGEN**     
+duet show with HAMISH STUART      
+7.15pm  
+[festival tickets on sale now][208.1]      
+
+**Saturday 4th July 2015**  
+[BELLO WINTER FESTIVAL][208]                
+Number 5 Church Street     
+**BELLINGEN**     
+duet show with HAMISH STUART      
+4pm  
+[festival tickets on sale now][208.1]     
 
 **Thursday 9th July 2015**  
 CAMELOT LOUNGE     
