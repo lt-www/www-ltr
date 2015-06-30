@@ -1,75 +1,7 @@
 * * * * *           
 
-**EVERYTHING SINGS TONIGHT** Australian Winter Tour   
+**EVERYTHING SINGS TONIGHT** Australian Winter Tour continues... 
 
-* * * * *        
-
-**South Australia**      
-
-**Friday 19th June 2015**  
-[THE SINGING GALLERY][175]        
-133 Main Rd, **McLAREN VALE**   
-duet show with HAMISH STUART     
-plus special guests [THE YEARLINGS][96.5]     
-7.30pm   
-[tickets on sale now][212]    
-
-**Saturday 20th June 2015**  
-WOODLANDS RUN      
-713 Signal Flat Rd, **FINISS**   
-duet show with HAMISH STUART     
-4.30pm   
-[tickets on sale now][213]   
-
-**Sunday 21st June 2015**   
-[THE WHEATSHEAF][94]            
-39 George St, Thebarton **ADELAIDE**   
-duet show with HAMISH STUART       
-4pm     
-
-* * * * *        
-
-**NSW**     
-
-**Tuesday 23rd June 2015**  
-PORT OF BOURKE HOTEL         
-32 Mitchell St, **BOURKE**   
-duet show with HAMISH STUART     
-7pm  
-
-**Wednesday 24th June 2015**  
-[THE CROSSING THEATRE][205]          
-117 Tibbereena St, **NARRABRI**     
-duet show with HAMISH STUART       
-6pm   
-*presented by Friends of The Crossing Theatre*     
-[tickets on sale now][205.1]      
-   
-**Friday 26th June 2015**  
-EX-SERVICES CLUB        
-Dalley St, **MULLUMBIMBY**   
-duet show with HAMISH STUART       
-plus special guest [JIMMY DOWLING][96.2]     
-7.30pm   
-[tickets on sale now][206]       
-
-**Saturday 27th June 2015**  
-BLUE MOON LOUNGE          
-115 Main St, **MURWILLUMBAH**   
-duet show with HAMISH STUART       
-plus special guest [JIMMY DOWLING][96.2]       
-7.30pm     
-
-* * * * *        
-
-**Queensland**         
-
-**Sunday 28th June 2015**  
-JUNK BAR            
-215 Waterworks Rd, Ashgrove **BRISBANE**   
-duet show with HAMISH STUART       
-7pm         
-[tickets on sale now][207]     
 
 * * * * *        
 
@@ -228,6 +160,62 @@ duet show with HAMISH STUART
 [tickets on sale now][220]             
   
 * * * * *         
+
+**EVERYTHING SINGS TONIGHT** Australian Winter Tour 
+
+**South Australia**      
+
+**Friday 19th June 2015**  
+[THE SINGING GALLERY][175]        
+133 Main Rd, **McLAREN VALE**   
+duet show with HAMISH STUART     
+plus special guests [THE YEARLINGS][96.5]     
+
+**Saturday 20th June 2015**  
+WOODLANDS RUN      
+713 Signal Flat Rd, **FINISS**   
+duet show with HAMISH STUART       
+
+**Sunday 21st June 2015**   
+[THE WHEATSHEAF][94]            
+39 George St, Thebarton **ADELAIDE**   
+duet show with HAMISH STUART                 
+
+**NSW**     
+
+**Tuesday 23rd June 2015**  
+PORT OF BOURKE HOTEL         
+32 Mitchell St, **BOURKE**   
+duet show with HAMISH STUART     
+
+**Wednesday 24th June 2015**  
+[THE CROSSING THEATRE][205]          
+117 Tibbereena St, **NARRABRI**     
+duet show with HAMISH STUART         
+*presented by Friends of The Crossing Theatre*     
+    
+**Friday 26th June 2015**  
+EX-SERVICES CLUB        
+Dalley St, **MULLUMBIMBY**   
+duet show with HAMISH STUART       
+plus special guest [JIMMY DOWLING][96.2]     
+
+**Saturday 27th June 2015**  
+BLUE MOON LOUNGE          
+115 Main St, **MURWILLUMBAH**   
+duet show with HAMISH STUART       
+plus special guest [JIMMY DOWLING][96.2]             
+
+**Queensland**         
+
+**Sunday 28th June 2015**  
+JUNK BAR            
+215 Waterworks Rd, Ashgrove **BRISBANE**   
+duet show with HAMISH STUART      
+
+  
+* * * * *          
+
 
 [past shows][archive]
 
