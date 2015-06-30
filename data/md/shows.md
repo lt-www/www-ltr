@@ -20,8 +20,7 @@ bookings: 02 6646-1457
 MOTHERS MILK          
 63 First Ave, **SAWTELL**     
 duet show with HAMISH STUART     
-6.30pm     
-bookings: 02 6646-1457      
+7pm          
 
 **Friday 3rd July 2015**  
 [BELLO WINTER FESTIVAL][208]                
