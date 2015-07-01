@@ -4,6 +4,8 @@ Loving thanks to all who've come out to these shows these past couple of weeks! 
 
 The friendly press continues too! Here's Noel Mengel's [Four Star review from the Courier Mail][148], and Chris Johnston's recent [feature article from The Age][149].     
 
+* * * * *        
+
 ### 9 June 2015 | Four Stars in Rolling Stone  
 
 [Reviews][press] have started rolling in for [Everything Sings Tonight][141], including a Four Star review in the current edition of Rolling Stone!    
