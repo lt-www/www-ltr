@@ -6,6 +6,8 @@
 
 "exquisitely impressionistic... poetry in motion" **** **_Rolling Stone Magazine_**     
 
+"There is a quiet, contemplative beauty to Thorne's music. Strong, precise visual images... her rich but never overworked lyrics crackle with poetic intensity. With simplicity and clarity Thorne's music and words cut through [and] she hits that sweet spot" **** **_Noel Mengel, Courier Mail_**    
+
 "delicate and dark ... [_Everything Sings Tonight_] seeps into the soul... weaving a bewitching tapestry" **_The Australian_**  
 
 "_Everything Sings Tonight_ is all about space and tone and intimacy, elements that are increasingly uncommon in contemporary music." **_Rhythms Magazine_**   
