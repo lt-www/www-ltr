@@ -1,3 +1,9 @@
+### 1 July 2015 | The tour rolls on...  
+
+Loving thanks to all who've come out to these shows these past couple of weeks! Couldn't have asked for a better start to the tour! It continues through July with shows across NSW, ACT & the Northern Territory. And then Western Australia, Victoria & Tasmania in August. [Details here][shows].  
+
+The friendly press continues too! Here's Noel Mengel's [Four Star review from the Courier Mail][148], and Chris Johnston's recent [feature article from The Age][149].     
+
 ### 9 June 2015 | Four Stars in Rolling Stone  
 
 [Reviews][press] have started rolling in for [Everything Sings Tonight][141], including a Four Star review in the current edition of Rolling Stone!    
@@ -226,4 +232,6 @@ if you care to know it, there is still all of the [old news](?p=news/archive)...
 [145]: https://www.vitamin.net.au/albumdefault.asp?ai=637 
 [146]: http://www.abc.net.au/radionational/programs/musicshow/lucie-thorne-26-hamish-stuart/6484124
 [147]: http://www.abc.net.au/radionational/programs/dailyplanet/lucie-thorne---everything-sings-tonight-daily-planet-abc/6488132  
-[press]: http://luciethorne.com/?p=press  
+[press]: http://luciethorne.com/?p=press    
+[148]: http://m.couriermail.com.au/entertainment/music/album-reviews-lucie-in-the-empty-sky-with-gems/story-fnihmead-1227414195080
+[149]: http://www.theage.com.au/entertainment/music/melbourne-artist-lucie-thornes-music-is-poetic-and-poignant--and-sounds-damn-good-20150617-ghmvg7.html
