@@ -2,7 +2,7 @@
 
 Loving thanks to all who've come out to these shows these past couple of weeks! Couldn't have asked for a better start to the tour! It continues through July with shows across NSW, ACT & the Northern Territory. And then Western Australia, Victoria & Tasmania in August. [Details here][shows].  
 
-The friendly press continues too! Here's Noel Mengel's [Four Star review from the Courier Mail][148], and Chris Johnston's recent [feature article from The Age][149].     
+The friendly [press][press] continues too! Here's Noel Mengel's [Four Star review from the Courier Mail][148], and Chris Johnston's recent [feature article from The Age][149].     
 
 * * * * *        
 
