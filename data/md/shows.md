@@ -7,45 +7,6 @@
 
 **NSW**       
 
-**Wednesday 1st July 2015**  
-Old Kirk Concert Series     
-WOOLOWEYAH COMMUNITY HALL          
-Lakes Boulevard, **YAMBA**     
-duet show with HAMISH STUART     
-plus special guest [JIMMY DOWLING][96.2]     
-7pm   
-bookings: 02 6646-1457        
-
-**Thursday 2nd July 2015**  
-MOTHERS MILK          
-63 First Ave, **SAWTELL**     
-duet show with HAMISH STUART     
-7pm          
-
-**Friday 3rd July 2015**  
-[BELLO WINTER FESTIVAL][208]                
-St Margaret's Hall  
-**BELLINGEN**     
-duet show with HAMISH STUART      
-7.45pm  
-[festival tickets on sale now][208.1]  
-
-**Saturday 4th July 2015**  
-[BELLO WINTER FESTIVAL][208]                
-Digger's Tavern    
-**BELLINGEN**     
-duet show with HAMISH STUART      
-7.15pm  
-[festival tickets on sale now][208.1]      
-
-**Sunday 5th July 2015**  
-[BELLO WINTER FESTIVAL][208]                
-Number 5 Church Street     
-**BELLINGEN**     
-duet show with HAMISH STUART      
-4pm  
-[festival tickets on sale now][208.1]     
-
 **Thursday 9th July 2015**  
 CAMELOT LOUNGE     
 19 Marrickville Rd, Marrickville, **SYDNEY**     
@@ -141,6 +102,7 @@ duet show with HAMISH STUART
 NORTHCOTE SOCIAL CLUB              
 High St, Northcote **MELBOURNE**   
 duet show with HAMISH STUART       
+plus special guest MATT WALKER  
 1.30pm *Matinee Show*  
 [tickets on sale now][216]          
 
@@ -152,12 +114,14 @@ duet show with HAMISH STUART
 GRAND POOBAH            
 142 Liverpool St, **HOBART**   
 duet show with HAMISH STUART     
+plus special guest [JIMMY DOWLING][96.2]    
 7.30pm  
 [tickets on sale now][217]               
 
 **Friday 28th August 2015**  
 FALMOUTH COMMUNITY CENTRE            
 18 Morrison St, **FALMOUTH**   
+plus special guest [JIMMY DOWLING][96.2]    
 duet show with HAMISH STUART     
 7.30pm  
 [tickets on sale now][218]        
@@ -166,6 +130,7 @@ duet show with HAMISH STUART
 FRESH              
 178 Charles St, **LAUNCESTON**   
 duet show with HAMISH STUART     
+plus special guest [JIMMY DOWLING][96.2]    
 7.30pm  
 [tickets on sale now][219]             
     
@@ -173,6 +138,7 @@ duet show with HAMISH STUART
 THE LITTLE THEATRE                
 17 Barrack St, **DELORAINE**   
 duet show with HAMISH STUART     
+plus special guest [JIMMY DOWLING][96.2]    
 3.30pm *Matinee Show*  
 [tickets on sale now][220]             
   
@@ -229,6 +195,39 @@ plus special guest [JIMMY DOWLING][96.2]
 JUNK BAR            
 215 Waterworks Rd, Ashgrove **BRISBANE**   
 duet show with HAMISH STUART      
+
+**NSW**      
+
+**Wednesday 1st July 2015**  
+Old Kirk Concert Series     
+WOOLOWEYAH COMMUNITY HALL          
+Lakes Boulevard, **YAMBA**     
+duet show with HAMISH STUART     
+plus special guest [JIMMY DOWLING][96.2]            
+
+**Thursday 2nd July 2015**  
+MOTHERS MILK          
+63 First Ave, **SAWTELL**     
+duet show with HAMISH STUART            
+
+**Friday 3rd July 2015**  
+[BELLO WINTER FESTIVAL][208]                
+St Margaret's Hall  
+**BELLINGEN**     
+duet show with HAMISH STUART       
+
+**Saturday 4th July 2015**  
+[BELLO WINTER FESTIVAL][208]                
+Digger's Tavern    
+**BELLINGEN**     
+duet show with HAMISH STUART           
+
+**Sunday 5th July 2015**  
+[BELLO WINTER FESTIVAL][208]                
+Number 5 Church Street     
+**BELLINGEN**     
+duet show with HAMISH STUART  
+
 
   
 * * * * *          
