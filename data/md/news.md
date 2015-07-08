@@ -1,3 +1,11 @@
+### 8 July 2015 | Thankyou x  
+
+An incredible first few weeks of the [Everything Sings Tonight][141] [tour][shows]! 19 days, 5000 k's, 13 shows, 10 of them full houses!! and all of them gorgeous xx Love and thanks to all who've joined us along the way so far! This week we play Sydney, Wentworth Falls, Canberra and Candelo. [Details here][shows].  
+
+In other news - delighted to let you know that none other than Matt Walker will be gracing us with an opening set at the Melbourne launch show, and Jimmy Dowling will be opening all the Tassie shows!!   
+
+* * * * *  
+
 ### 1 July 2015 | The tour rolls on...  
 
 Loving thanks to all who've come out to these shows these past couple of weeks! Couldn't have asked for a better start to the tour! It continues through July with shows across NSW, ACT & the Northern Territory. And then Western Australia, Victoria & Tasmania in August. [Details here][shows].  
