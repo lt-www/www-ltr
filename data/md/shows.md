@@ -54,7 +54,12 @@ duet show with HAMISH STUART
 **Friday 17th July 2015**  
 EPILOGUE LOUNGE    
 58 Todd St, **ALICE SPRINGS**     
-8pm / 08 8953-4206  
+8pm / 08 8953-4206    
+
+**Sunday 19th July 2015**  
+HOUSE CONCERT      
+**ILPARPA**     
+details tba    
 
 * * * * *        
 
