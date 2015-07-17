@@ -1,3 +1,9 @@
+### 17 July 2015 | Northern Territory    
+
+The [Everything Sings Tonight][141] [tour] continues with two shows in the Red Centre this weekend > tonight at Epilgoue in downtown Alice Springs, and a House Concert in Ilparpa on Sunday evening.  
+
+And in other news... you can check out a [Live In Session][150] version of Blackwing / Moving Colours / and Green & Blue that we recorded recently for 2ser's [Sideways Through Sound][150].    
+
 ### 8 July 2015 | Thankyou x  
 
 An incredible first few weeks of the [Everything Sings Tonight][141] [tour][shows]! 19 days, 5000 k's, 13 shows, 10 of them full houses!! and all of them gorgeous xx Love and thanks to all who've joined us along the way so far! This week we play Sydney, Wentworth Falls, Canberra and Candelo. [Details here][shows].  
@@ -244,4 +250,5 @@ if you care to know it, there is still all of the [old news](?p=news/archive)...
 [147]: http://www.abc.net.au/radionational/programs/dailyplanet/lucie-thorne---everything-sings-tonight-daily-planet-abc/6488132  
 [press]: http://luciethorne.com/?p=press    
 [148]: http://m.couriermail.com.au/entertainment/music/album-reviews-lucie-in-the-empty-sky-with-gems/story-fnihmead-1227414195080
-[149]: http://www.theage.com.au/entertainment/music/melbourne-artist-lucie-thornes-music-is-poetic-and-poignant--and-sounds-damn-good-20150617-ghmvg7.html
+[149]: http://www.theage.com.au/entertainment/music/melbourne-artist-lucie-thornes-music-is-poetic-and-poignant--and-sounds-damn-good-20150617-ghmvg7.html 
+[150]: https://www.youtube.com/watch?v=XUfGjLWvW9g#t=98 
