@@ -1,51 +1,6 @@
 * * * * *           
 
 **EVERYTHING SINGS TONIGHT** Australian Winter Tour continues... 
-
-
-* * * * *        
-
-**NSW**       
-
-**Thursday 9th July 2015**  
-CAMELOT LOUNGE     
-19 Marrickville Rd, Marrickville, **SYDNEY**     
-duet show with HAMISH STUART       
-plus special guest CHRIS ABRAHAMS    
-7.30pm  
-[tickets on sale now][214]            
-
-**Friday 10th July 2015**  
-KINDLEHILL PERFORMANCE SPACE       
-8 Lake St, **WENTWORTH FALLS**     
-duet show with HAMISH STUART         
-8pm         
-*presented by Music Hunter Projects*   
-[tickets on sale now][209]     
-
-* * * * *        
-
-**ACT**        
-
-**Saturday 11th July 2015**  
-WHITE EAGLE POLISH CLUB         
-38 David St, Turner, **CANBERRA**     
-duet show with HAMISH STUART         
-7.30pm     
-*presented by the Canberra Musician's Club*   
-[tickets on sale now][210]      
-
- * * * * *        
-
-**NSW**       
-
-**Sunday 12th July 2015**  
-THE TOWN HALL       
-William St, **CANDELO**   
-duet show with HAMISH STUART       
-3pm *matinee show*      
-*presented by the [Candelo Arts Society][222.2]*  
-[tickets on sale now][222] 
      
 * * * * *        
 
@@ -59,7 +14,8 @@ EPILOGUE LOUNGE
 **Sunday 19th July 2015**  
 HOUSE CONCERT      
 **ILPARPA**     
-details tba    
+6pm  
+contact Helen for info: 0402 572 078     
 
 * * * * *        
 
@@ -231,9 +187,40 @@ duet show with HAMISH STUART
 [BELLO WINTER FESTIVAL][208]                
 Number 5 Church Street     
 **BELLINGEN**     
-duet show with HAMISH STUART  
+duet show with HAMISH STUART   
 
+**Thursday 9th July 2015**  
+CAMELOT LOUNGE     
+19 Marrickville Rd, Marrickville, **SYDNEY**     
+duet show with HAMISH STUART       
+plus special guest CHRIS ABRAHAMS               
 
+**Friday 10th July 2015**  
+KINDLEHILL PERFORMANCE SPACE       
+8 Lake St, **WENTWORTH FALLS**     
+duet show with HAMISH STUART                 
+*presented by Music Hunter Projects*       
+
+* * * * *        
+
+**ACT**        
+
+**Saturday 11th July 2015**  
+WHITE EAGLE POLISH CLUB         
+38 David St, Turner, **CANBERRA**     
+duet show with HAMISH STUART         
+plus special guest HAPPY AXE      
+*presented by the Canberra Musician's Club*       
+
+ * * * * *        
+
+**NSW**       
+
+**Sunday 12th July 2015**  
+THE TOWN HALL       
+William St, **CANDELO**   
+duet show with HAMISH STUART            
+*presented by the [Candelo Arts Society][222.2]*  
   
 * * * * *          
 
