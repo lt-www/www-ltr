@@ -4,6 +4,8 @@ The [Everything Sings Tonight][141] [tour][shows] continues with two shows in th
 
 And in other news... you can check out a [Live In Session][150] version of Blackwing / Moving Colours / and Green & Blue that we recorded recently for 2ser's [Sideways Through Sound][150].    
 
+* * * * *    
+
 ### 8 July 2015 | Thankyou x  
 
 An incredible first few weeks of the [Everything Sings Tonight][141] [tour][shows]! 19 days, 5000 k's, 13 shows, 10 of them full houses!! and all of them gorgeous xx Love and thanks to all who've joined us along the way so far! This week we play Sydney, Wentworth Falls, Canberra and Candelo. [Details here][shows].  
