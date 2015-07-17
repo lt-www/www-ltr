@@ -1,6 +1,6 @@
 ### 17 July 2015 | Northern Territory    
 
-The [Everything Sings Tonight][141] [tour] continues with two shows in the Red Centre this weekend > tonight at Epilgoue in downtown Alice Springs, and a House Concert in Ilparpa on Sunday evening.  
+The [Everything Sings Tonight][141] [tour][shows] continues with two shows in the Red Centre this weekend > tonight at Epilgoue in downtown Alice Springs, and a House Concert in Ilparpa on Sunday evening.  
 
 And in other news... you can check out a [Live In Session][150] version of Blackwing / Moving Colours / and Green & Blue that we recorded recently for 2ser's [Sideways Through Sound][150].    
 
