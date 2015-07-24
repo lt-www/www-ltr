@@ -8,15 +8,15 @@
 
 "There is a quiet, contemplative beauty to Thorne's music. Strong, precise visual images... her rich but never overworked lyrics crackle with poetic intensity. With simplicity and clarity Thorne's music and words cut through [and] she hits that sweet spot" **** **_Noel Mengel, Courier Mail_** > [**read article in full here**][101]      
 
+"Atmospheric, innovative... brilliance" **** **_Bernard Zuel, Sydney Morning Herald_**   
+
 "delicate and dark ... [_Everything Sings Tonight_] seeps into the soul... weaving a bewitching tapestry" **_Iain Shedden, The Australian_**    
+
+"Thorne conjures a simple narrative flow that, like a Raymond Carver story, transforms everyday life into high art" **_Dan Bigna, The Canberra Times_** 
 
 "_Everything Sings Tonight_ is all about space and tone and intimacy, elements that are increasingly uncommon in contemporary music." **_Martin Jones, Rhythms Magazine_**    
 
-"Lucie Thorne's music is poetic and poignant, and sounds damn good. Her electric guitar style is textural rather than about riffs. So it's folk only in that she tells bare, intimate stories and is very much a songwriter. The rest is too abstract to be defined as one thing or the other. She is heavily into lyrics and literature and the textures of language. The way all this bumps up against the evocative music she makes is something to behold." **_Chris Johnston, The Age_**  > [**read article in full here**][100]  
-
-"Thorne conjures a simple narrative flow that, like a Raymond Carver story, transforms everyday life into high art" **_Dan Bigna, The Canberra Times_**     
-
-""Atmospheric, innovative... brilliance" **** **_Bernard Zuel, Sydney Morning Herald_**  
+"Thorne's music is poetic and poignant, and sounds damn good. Her electric guitar style is textural rather than about riffs. So it's folk only in that she tells bare, intimate stories and is very much a songwriter. The rest is too abstract to be defined as one thing or the other. She is heavily into lyrics and literature and the textures of language. The way all this bumps up against the evocative music she makes is something to behold." **_Chris Johnston, The Age_**  > [**read article in full here**][100]  
 
 * * * * * 
 
