@@ -12,7 +12,7 @@
 
 "_Everything Sings Tonight_ is all about space and tone and intimacy, elements that are increasingly uncommon in contemporary music." **_Martin Jones, Rhythms Magazine_**    
 
-"Everything Thorne does is deeply emotional and impressionistic... Her electric guitar style is textural rather than about riffs. So it's folk only in that she tells bare, intimate stories and is very much a songwriter. The rest is too abstract to be defined as one thing or the other. She is heavily into lyrics and literature and the textures of language. The way all this bumps up against the evocative music she makes is something to behold." **_Chris Johnston, The Age_**  
+"Everything Thorne does is deeply emotional and impressionistic... Her electric guitar style is textural rather than about riffs. So it's folk only in that she tells bare, intimate stories and is very much a songwriter. The rest is too abstract to be defined as one thing or the other. She is heavily into lyrics and literature and the textures of language. The way all this bumps up against the evocative music she makes is something to behold." **_Chris Johnston, The Age_**  [**read article in full here**][100]  
 
 "Thorne conjures a simple narrative flow that, like a Raymond Carver story, transforms everyday life into high art" **_Dan Bigna, The Canberra Times_**     
 
@@ -217,4 +217,6 @@ predecessor, _The Bud_." **_David Curry, The Canberra Times_**
    [28]: data/pr/LucieThorneBioJuly2013.pdf
    [29]: http://www.love-over-gold.com
    [30]: data/pr/LucieThorneBioJune2014.pdf  
-   [31]: data/pr/LucieThorneBioMay2015.pdf
+   [31]: data/pr/LucieThorneBioMay2015.pdf  
+[100]: http://www.theage.com.au/entertainment/music/melbourne-artist-lucie-thornes-music-is-poetic
+-and-poignant--and-sounds-damn-good-20150617-ghmvg7.html
