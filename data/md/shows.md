@@ -8,16 +8,22 @@
  
 **Friday 17th July 2015**  
 EPILOGUE LOUNGE    
-58 Todd St, **ALICE SPRINGS**     
-8pm / 08 8953-4206    
+58 Todd St, **ALICE SPRINGS**       
 
 **Sunday 19th July 2015**  
 HOUSE CONCERT      
-**ILPARPA**     
-6pm  
-contact Helen for info: 0402 572 078     
+**ILPARPA**       
 
 * * * * *        
+
+**Victoria**    
+
+**Saturday 8th August 2015**  
+[PARLOUR][223] HOUSE CONCERT      
+**TAWONGA SOUTH**  
+7pm         
+
+* * * * *     
 
 **Western Australia**       
 
@@ -372,4 +378,5 @@ duet show with HAMISH STUART
 [220]: http://www.trybooking.com/HRZF    
 [221]: http://www.lizstringer.com    
 [222]: http://www.trybooking.com/HUBT  
-[222.2]: http://www.candelovillagefestival.org/whats-on/
+[222.2]: http://www.candelovillagefestival.org/whats-on/  
+[223]: http://shop.parlourgigs.com/product/lucie-thorne-saturday-august-8-tawonga-south-victoria/
