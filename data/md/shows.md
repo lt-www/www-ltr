@@ -12,16 +12,7 @@ EPILOGUE LOUNGE
 
 **Sunday 19th July 2015**  
 HOUSE CONCERT      
-**ILPARPA**       
-
-* * * * *        
-
-**Victoria**    
-
-**Saturday 8th August 2015**  
-[PARLOUR][223] HOUSE CONCERT      
-**TAWONGA SOUTH**  
-7pm         
+**ILPARPA**             
 
 * * * * *     
 
