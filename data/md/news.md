@@ -1,3 +1,9 @@
+### 3 August 2015 | August dates   
+
+The [Everything Sings Tonight][141] [Australian Winter Tour][shows] resumes - and concludes - this month with shows across Western Australia, Victoria and Tasmania. [Details here][shows].  
+
+* * * * *    
+
 ### 17 July 2015 | Northern Territory    
 
 The [Everything Sings Tonight][141] [tour][shows] continues with two shows in the Red Centre this weekend > tonight at Epilogue in downtown Alice Springs, and a House Concert in Ilparpa on Sunday evening.  
