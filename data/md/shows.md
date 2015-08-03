@@ -4,18 +4,6 @@
      
 * * * * *        
 
-**Northern Territory**        
- 
-**Friday 17th July 2015**  
-EPILOGUE LOUNGE    
-58 Todd St, **ALICE SPRINGS**       
-
-**Sunday 19th July 2015**  
-HOUSE CONCERT      
-**ILPARPA**             
-
-* * * * *     
-
 **Western Australia**       
 
 **Thursday 13th August 2015**  
@@ -79,7 +67,7 @@ plus special guest [JIMMY DOWLING][96.2]
 **Friday 28th August 2015**  
 FALMOUTH COMMUNITY CENTRE            
 18 Morrison St, **FALMOUTH**   
-plus special guest [JIMMY DOWLING][96.2]    
+plus special guests [JIMMY DOWLING][96.2] and PETE CORNELIUS  
 duet show with HAMISH STUART     
 7.30pm  
 [tickets on sale now][218]        
@@ -108,30 +96,30 @@ plus special guest [JIMMY DOWLING][96.2]
 
 **Friday 19th June 2015**  
 [THE SINGING GALLERY][175]        
-133 Main Rd, **McLAREN VALE**   
+Main Rd, **McLAREN VALE**   
 duet show with HAMISH STUART     
 plus special guests [THE YEARLINGS][96.5]     
 
 **Saturday 20th June 2015**  
 WOODLANDS RUN      
-713 Signal Flat Rd, **FINISS**   
+Signal Flat Rd, **FINISS**   
 duet show with HAMISH STUART       
 
 **Sunday 21st June 2015**   
 [THE WHEATSHEAF][94]            
-39 George St, Thebarton **ADELAIDE**   
+George St, Thebarton **ADELAIDE**   
 duet show with HAMISH STUART                 
 
 **NSW**     
 
 **Tuesday 23rd June 2015**  
 PORT OF BOURKE HOTEL         
-32 Mitchell St, **BOURKE**   
+Mitchell St, **BOURKE**   
 duet show with HAMISH STUART     
 
 **Wednesday 24th June 2015**  
 [THE CROSSING THEATRE][205]          
-117 Tibbereena St, **NARRABRI**     
+Tibbereena St, **NARRABRI**     
 duet show with HAMISH STUART         
 *presented by Friends of The Crossing Theatre*     
     
@@ -143,7 +131,7 @@ plus special guest [JIMMY DOWLING][96.2]
 
 **Saturday 27th June 2015**  
 BLUE MOON LOUNGE          
-115 Main St, **MURWILLUMBAH**   
+Main St, **MURWILLUMBAH**   
 duet show with HAMISH STUART       
 plus special guest [JIMMY DOWLING][96.2]             
 
@@ -151,7 +139,7 @@ plus special guest [JIMMY DOWLING][96.2]
 
 **Sunday 28th June 2015**  
 JUNK BAR            
-215 Waterworks Rd, Ashgrove **BRISBANE**   
+Waterworks Rd, Ashgrove **BRISBANE**   
 duet show with HAMISH STUART      
 
 **NSW**      
@@ -165,7 +153,7 @@ plus special guest [JIMMY DOWLING][96.2]
 
 **Thursday 2nd July 2015**  
 MOTHERS MILK          
-63 First Ave, **SAWTELL**     
+First Ave, **SAWTELL**     
 duet show with HAMISH STUART            
 
 **Friday 3rd July 2015**  
@@ -188,13 +176,13 @@ duet show with HAMISH STUART
 
 **Thursday 9th July 2015**  
 CAMELOT LOUNGE     
-19 Marrickville Rd, Marrickville, **SYDNEY**     
+Marrickville Rd, Marrickville, **SYDNEY**     
 duet show with HAMISH STUART       
 plus special guest CHRIS ABRAHAMS               
 
 **Friday 10th July 2015**  
 KINDLEHILL PERFORMANCE SPACE       
-8 Lake St, **WENTWORTH FALLS**     
+Lake St, **WENTWORTH FALLS**     
 duet show with HAMISH STUART                 
 *presented by Music Hunter Projects*       
 
@@ -204,7 +192,7 @@ duet show with HAMISH STUART
 
 **Saturday 11th July 2015**  
 WHITE EAGLE POLISH CLUB         
-38 David St, Turner, **CANBERRA**     
+David St, Turner, **CANBERRA**     
 duet show with HAMISH STUART         
 plus special guest HAPPY AXE      
 *presented by the Canberra Musician's Club*       
@@ -221,6 +209,17 @@ duet show with HAMISH STUART
   
 * * * * *          
 
+**Northern Territory**        
+ 
+**Friday 17th July 2015**  
+EPILOGUE LOUNGE    
+Todd St, **ALICE SPRINGS**       
+
+**Sunday 19th July 2015**  
+HOUSE CONCERT      
+**ILPARPA**             
+
+* * * * *   
 
 [past shows][archive]
 
