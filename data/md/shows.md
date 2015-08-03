@@ -186,8 +186,6 @@ Lake St, **WENTWORTH FALLS**
 duet show with HAMISH STUART                 
 *presented by Music Hunter Projects*       
 
-* * * * *        
-
 **ACT**        
 
 **Saturday 11th July 2015**  
@@ -195,9 +193,7 @@ WHITE EAGLE POLISH CLUB
 David St, Turner, **CANBERRA**     
 duet show with HAMISH STUART         
 plus special guest HAPPY AXE      
-*presented by the Canberra Musician's Club*       
-
- * * * * *        
+*presented by the Canberra Musician's Club*        
 
 **NSW**       
 
@@ -207,8 +203,6 @@ William St, **CANDELO**
 duet show with HAMISH STUART            
 *presented by the [Candelo Arts Society][222.2]*  
   
-* * * * *          
-
 **Northern Territory**        
  
 **Friday 17th July 2015**  
