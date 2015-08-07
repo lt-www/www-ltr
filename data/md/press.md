@@ -1,4 +1,4 @@
-- Lucie Thorne [Biography - May 2015][31] (pdf)      
+- Lucie Thorne [Biography - August 2015][32] (pdf)      
 
 * * * * * 
 
@@ -217,6 +217,7 @@ predecessor, _The Bud_." **_David Curry, The Canberra Times_**
    [28]: data/pr/LucieThorneBioJuly2013.pdf
    [29]: http://www.love-over-gold.com
    [30]: data/pr/LucieThorneBioJune2014.pdf  
-   [31]: data/pr/LucieThorneBioMay2015.pdf  
+   [31]: data/pr/LucieThorneBioMay2015.pdf 
+   [32]: data/pr/LucieThorneBioAugust2015.pdf   
 [100]: http://www.theage.com.au/entertainment/music/melbourne-artist-lucie-thornes-music-is-poetic-and-poignant--and-sounds-damn-good-20150617-ghmvg7.html 
 [101]: http://m.couriermail.com.au/entertainment/music/album-reviews-lucie-in-the-empty-sky-with-gems/story-fnihmead-1227414195080 
