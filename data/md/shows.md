@@ -2,31 +2,7 @@
 
 **EVERYTHING SINGS TONIGHT** Australian Winter Tour continues... 
      
-* * * * *        
-
-**Western Australia**       
-
-**Thursday 13th August 2015**  
-THE ELLINGTON JAZZ CLUB          
-191 Beaufort St, **PERTH**   
-duet show with HAMISH STUART       
-7pm   
-[tickets on sale now][211]       
-
-**Saturday 15th August 2015**  
-TEA HOUSE BOOKS            
-6 Hollings Rd, **DENMARK**     
-duet show with HAMISH STUART     
-8pm  
-bookings: 08 9848 1801  
-  
-**Sunday 16th August 2015**  
-THE WHITE STAR            
-72 Stirling Terrace, **ALBANY**   
-duet show with HAMISH STUART     
-5pm   
-
-* * * * *        
+* * * * *          
 
 **Victoria**        
 
@@ -213,6 +189,23 @@ Todd St, **ALICE SPRINGS**
 HOUSE CONCERT      
 **ILPARPA**             
 
+**Western Australia**     
+
+**Thursday 13th August 2015**  
+THE ELLINGTON JAZZ CLUB          
+191 Beaufort St, **PERTH**   
+duet show with HAMISH STUART       
+      
+**Saturday 15th August 2015**  
+TEA HOUSE BOOKS            
+6 Hollings Rd, **DENMARK**     
+duet show with HAMISH STUART     
+  
+**Sunday 16th August 2015**  
+THE WHITE STAR            
+72 Stirling Terrace, **ALBANY**   
+duet show with HAMISH STUART       
+   
 * * * * *   
 
 [past shows][archive]
