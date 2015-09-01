@@ -49,12 +49,15 @@ Holzmarktstr. 25, **BERLIN**
 
 **Fri 6th - Sun 8th November 2015**  
 [BENDIGO BLUES & ROOTS FESTIVAL][225]             
+details tba    
 
+* * * * *        
 
 **NSW**  
 
 **Sat 21st - Sun 22nd November 2015**  
 [MULLUM MUSIC FESTIVAL][226]    
+details tba  
  
 
 * * * * *       
