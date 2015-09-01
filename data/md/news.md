@@ -1,3 +1,11 @@
+### 1 September 2015 | European Release     
+
+Huge & loving thanks to all who've joined us - all around the country - over these past 10 weeks of the Australian Everything Sings Tonight tour! Heartening times indeed - so many full houses, so many gorgeous folks, so much music. And we're delighted to let you know that the album is being released across Europe at the end of this month, through the good folk at Continental Record Services. Lucie will be performing a selection of shows in Holland and Germany to celebrate this release - some of which have just been [announced][shows].    
+
+And now for a quiet September - with just one show - this weekend - in sunny Suffolk Park - [Details here][shows].  
+
+* * * * *    
+
 ### 3 August 2015 | August dates   
 
 The [Everything Sings Tonight][141] [Australian Winter Tour][shows] resumes - and concludes - this month with shows across Western Australia, Victoria and Tasmania. [Details here][shows].  
