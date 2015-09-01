@@ -11,6 +11,40 @@ with Jimmy Dowling
   
 * * * * *          
 
+* * * * *       
+
+**NETHERLANDS**
+
+**Sunday 4th October 2015**       
+FURORE FESTIVAL       
+**NIJMEGEN**        
+
+**Wednesday 7th October 2015**     
+CAFE STATHE  
+**UTRECHT**       
+
+**Thursday 8th October 2015**     
+tba   
+**WAGENINGEN**       
+
+**Friday 9th October 2015**     
+HOUSE CONCERT   
+**MAASTRICHT**       
+
+**Sunday 5th October 2015**     
+[MEZZ][187]     
+Keizerstraat 101, **BREDA**     
+
+* * * * *   
+
+**GERMANY**    
+
+**Wednesday 14th October 2015**         
+CULTURE CONTAINER        
+Holzmarktstr. 25, **BERLIN**       
+
+* * * * *     
+
 [past shows][archive]
 
 [archive]: ?p=shows/archive/
