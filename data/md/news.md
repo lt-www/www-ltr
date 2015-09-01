@@ -4,7 +4,7 @@ Huge & loving thanks to all who've joined us - all around the country - over the
 
 And now for a quiet September - with just one show - this weekend - in sunny Suffolk Park - [Details here][shows].  
 
-![](data/image/photos/RoadToWilcannia.jpg) 
+![](data/image/news/RoadToWilcannia.JPG)   
  
 * * * * *    
 
