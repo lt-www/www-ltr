@@ -7,9 +7,7 @@ BEACHSIDE MANOR
 House Concert **Suffolk Park**   
 with Jimmy Dowling  
 3pm  
-[Tickets available here][224]               
-  
-* * * * *          
+[Tickets available here][224]                      
 
 * * * * *       
 
@@ -21,7 +19,7 @@ FURORE FESTIVAL
 
 **Wednesday 7th October 2015**     
 CAFE STATHE  
-**UTRECHT**       
+Rozenstraat 15, **UTRECHT**         
 
 **Thursday 8th October 2015**     
 tba   
@@ -43,7 +41,23 @@ Keizerstraat 101, **BREDA**
 CULTURE CONTAINER        
 Holzmarktstr. 25, **BERLIN**       
 
-* * * * *     
+* * * * *       
+
+**AUSTRALIA**      
+
+**Victoria**   
+
+**Fri 6th - Sun 8th November 2015**  
+[BENDIGO BLUES & ROOTS FESTIVAL][225]             
+
+
+**NSW**  
+
+**Sat 21st - Sun 22nd November 2015**  
+[MULLUM MUSIC FESTIVAL][226]    
+ 
+
+* * * * *       
 
 [past shows][archive]
 
@@ -194,4 +208,6 @@ Holzmarktstr. 25, **BERLIN**
 [222]: http://www.trybooking.com/HUBT  
 [222.2]: http://www.candelovillagefestival.org/whats-on/  
 [223]: http://shop.parlourgigs.com/product/lucie-thorne-saturday-august-8-tawonga-south-victoria/  
-[224]: http://www.trybooking.com/IWNO   
+[224]: http://www.trybooking.com/IWNO     
+[225]: http://www.bendigobluesandroots.com.au/lineup.php
+[226]: http://www.mullummusicfestival.com/Line%20Up/114
