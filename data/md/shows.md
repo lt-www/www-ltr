@@ -29,7 +29,7 @@ tba
 HOUSE CONCERT   
 **MAASTRICHT**       
 
-**Sunday 5th October 2015**     
+**Sunday 11th October 2015**     
 [MEZZ][187]     
 Keizerstraat 101, **BREDA**     
 
@@ -59,7 +59,6 @@ details tba
 [MULLUM MUSIC FESTIVAL][226]    
 details tba  
  
-
 * * * * *       
 
 [past shows][archive]
