@@ -956,7 +956,7 @@ with 'Halfway to Fourth'
 [191]: http://icmill.com/  
 [192]: http://www.astercafe.com/event/lucie-thorne-rossetto-huckfelt-lewis-bates/   
 [200]: http://folkfestival.org.au/    
-[208.1]: http://www.bellowintermusic.com/db101_element_tickets_1.0.asp 
+[208]: http://www.bellowintermusic.com/
 [222.2]: http://www.candelovillagefestival.org/whats-on/    
 
 if you'd care to know, there are still details of lucie's old shows:
