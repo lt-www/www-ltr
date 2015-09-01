@@ -882,7 +882,7 @@ with 'Halfway to Fourth'
 [95]: http://www.bellaunion.com.au
 [96]: http://www.jojosmithsoul.com/
 [96.1]: http://www.myspace.com/sweetjeanmusic
-[96.2]: http://www.myspace.com/jimdowling
+[96.2]: http://www.jimmydowling.com  
 [96.3]: http://www.ilonaharker.com
 [96.4]: http://www.mardilumsden.com  
 [96.5]: http://www.theyearlings.net 
@@ -955,7 +955,9 @@ with 'Halfway to Fourth'
 [190]: http://www.realphonic.com/  
 [191]: http://icmill.com/  
 [192]: http://www.astercafe.com/event/lucie-thorne-rossetto-huckfelt-lewis-bates/   
-[200]: http://folkfestival.org.au/  
+[200]: http://folkfestival.org.au/    
+[208.1]: http://www.bellowintermusic.com/db101_element_tickets_1.0.asp 
+[222.2]: http://www.candelovillagefestival.org/whats-on/    
 
 if you'd care to know, there are still details of lucie's old shows:
 [2013][2013], [2012][2012], [2011][2011], [2010][2010], [2009][2009],
