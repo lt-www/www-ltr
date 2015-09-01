@@ -5,7 +5,7 @@
 **South Australia**      
 
 **Friday 19th June 2015**  
-[THE SINGING GALLERY][175]        
+THE SINGING GALLERY        
 Main Rd, **McLAREN VALE**   
 duet show with HAMISH STUART     
 plus special guests [THE YEARLINGS][96.5]     
@@ -28,7 +28,7 @@ Mitchell St, **BOURKE**
 duet show with HAMISH STUART     
 
 **Wednesday 24th June 2015**  
-[THE CROSSING THEATRE][205]          
+THE CROSSING THEATRE           
 Tibbereena St, **NARRABRI**     
 duet show with HAMISH STUART         
 *presented by Friends of The Crossing Theatre*     
