@@ -1,5 +1,190 @@
 ## shows/archive   
 
+**EVERYTHING SINGS TONIGHT** Australian Winter Tour 
+
+**South Australia**      
+
+**Friday 19th June 2015**  
+[THE SINGING GALLERY][175]        
+Main Rd, **McLAREN VALE**   
+duet show with HAMISH STUART     
+plus special guests [THE YEARLINGS][96.5]     
+
+**Saturday 20th June 2015**  
+WOODLANDS RUN      
+Signal Flat Rd, **FINISS**   
+duet show with HAMISH STUART       
+
+**Sunday 21st June 2015**   
+[THE WHEATSHEAF][94]            
+George St, Thebarton **ADELAIDE**   
+duet show with HAMISH STUART                 
+
+**NSW**     
+
+**Tuesday 23rd June 2015**  
+PORT OF BOURKE HOTEL         
+Mitchell St, **BOURKE**   
+duet show with HAMISH STUART     
+
+**Wednesday 24th June 2015**  
+[THE CROSSING THEATRE][205]          
+Tibbereena St, **NARRABRI**     
+duet show with HAMISH STUART         
+*presented by Friends of The Crossing Theatre*     
+    
+**Friday 26th June 2015**  
+EX-SERVICES CLUB        
+Dalley St, **MULLUMBIMBY**   
+duet show with HAMISH STUART       
+plus special guest [JIMMY DOWLING][96.2]     
+
+**Saturday 27th June 2015**  
+BLUE MOON LOUNGE          
+Main St, **MURWILLUMBAH**   
+duet show with HAMISH STUART       
+plus special guest [JIMMY DOWLING][96.2]             
+
+**Queensland**         
+
+**Sunday 28th June 2015**  
+JUNK BAR            
+Waterworks Rd, Ashgrove **BRISBANE**   
+duet show with HAMISH STUART      
+
+**NSW**      
+
+**Wednesday 1st July 2015**  
+Old Kirk Concert Series     
+WOOLOWEYAH COMMUNITY HALL          
+Lakes Boulevard, **YAMBA**     
+duet show with HAMISH STUART     
+plus special guest [JIMMY DOWLING][96.2]            
+
+**Thursday 2nd July 2015**  
+MOTHERS MILK          
+First Ave, **SAWTELL**     
+duet show with HAMISH STUART            
+
+**Friday 3rd July 2015**  
+[BELLO WINTER FESTIVAL][208]                
+St Margaret's Hall  
+**BELLINGEN**     
+duet show with HAMISH STUART       
+
+**Saturday 4th July 2015**  
+[BELLO WINTER FESTIVAL][208]                
+Digger's Tavern    
+**BELLINGEN**     
+duet show with HAMISH STUART           
+
+**Sunday 5th July 2015**  
+[BELLO WINTER FESTIVAL][208]                
+Number 5 Church Street     
+**BELLINGEN**     
+duet show with HAMISH STUART   
+
+**Thursday 9th July 2015**  
+CAMELOT LOUNGE     
+Marrickville Rd, Marrickville, **SYDNEY**     
+duet show with HAMISH STUART       
+plus special guest CHRIS ABRAHAMS               
+
+**Friday 10th July 2015**  
+KINDLEHILL PERFORMANCE SPACE       
+Lake St, **WENTWORTH FALLS**     
+duet show with HAMISH STUART                 
+*presented by Music Hunter Projects*       
+
+**ACT**        
+
+**Saturday 11th July 2015**  
+WHITE EAGLE POLISH CLUB         
+David St, Turner, **CANBERRA**     
+duet show with HAMISH STUART         
+plus special guest HAPPY AXE      
+*presented by the Canberra Musician's Club*        
+
+**NSW**       
+
+**Sunday 12th July 2015**  
+THE TOWN HALL       
+William St, **CANDELO**   
+duet show with HAMISH STUART            
+*presented by the [Candelo Arts Society][222.2]*  
+  
+**Northern Territory**        
+ 
+**Friday 17th July 2015**  
+EPILOGUE LOUNGE    
+Todd St, **ALICE SPRINGS**       
+
+**Sunday 19th July 2015**  
+HOUSE CONCERT      
+**ILPARPA**             
+
+**Western Australia**     
+
+**Thursday 13th August 2015**  
+THE ELLINGTON JAZZ CLUB          
+191 Beaufort St, **PERTH**   
+duet show with HAMISH STUART       
+      
+**Saturday 15th August 2015**  
+TEA HOUSE BOOKS            
+6 Hollings Rd, **DENMARK**     
+duet show with HAMISH STUART     
+  
+**Sunday 16th August 2015**  
+THE WHITE STAR            
+72 Stirling Terrace, **ALBANY**   
+duet show with HAMISH STUART               
+
+**Victoria**        
+
+**Friday 21st August 2015**  
+THE PARISH            
+41 Primrose St, **VIOLET TOWN**   
+duet show with HAMISH STUART      
+
+**Saturday 22nd August 2015**   
+THE BRIDGE HOTEL    
+Walker St, **CASTLEMAINE**   
+duet show with HAMISH STUART             
+
+**Sunday 23rd August 2015**  
+NORTHCOTE SOCIAL CLUB              
+High St, Northcote **MELBOURNE**   
+duet show with HAMISH STUART       
+plus special guest MATT WALKER                
+
+**Tasmania**   
+
+**Thursday 27th August 2015**  
+GRAND POOBAH            
+142 Liverpool St, **HOBART**   
+duet show with HAMISH STUART     
+plus special guest [JIMMY DOWLING][96.2]                   
+
+**Friday 28th August 2015**  
+FALMOUTH COMMUNITY CENTRE            
+18 Morrison St, **FALMOUTH**   
+plus special guests [JIMMY DOWLING][96.2] and PETE CORNELIUS  
+duet show with HAMISH STUART             
+   
+**Saturday 29th August 2015**  
+FRESH              
+178 Charles St, **LAUNCESTON**   
+duet show with HAMISH STUART     
+plus special guest [JIMMY DOWLING][96.2]                 
+    
+**Sunday 30th August 2015**  
+THE LITTLE THEATRE                
+17 Barrack St, **DELORAINE**   
+duet show with HAMISH STUART     
+plus special guest [JIMMY DOWLING][96.2] 
+
+
 * * * * *     
 
 **NSW**    
