@@ -5,7 +5,7 @@
 **Sunday 6th September 2015**   
 BEACHSIDE MANOR               
 House Concert **Suffolk Park**   
-with Jimmy Dowling  
+with Jimmy Dowling & Claire Anne Taylor    
 3pm  
 [Tickets available here][224]                      
 
