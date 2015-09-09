@@ -19,7 +19,7 @@ plus special guest [JIMMY DOWLING][96.2]
 **Friday 28th August 2015**  
 FALMOUTH COMMUNITY CENTRE            
 18 Morrison St, **FALMOUTH**   
-duet show with HAMISH STUART
+duet show with HAMISH STUART  
 plus special guests [JIMMY DOWLING][96.2] and PETE CORNELIUS    
     
 **Thursday 27th August 2015**  
@@ -174,16 +174,16 @@ duet show with HAMISH STUART
 George St, Thebarton **ADELAIDE**   
 duet show with HAMISH STUART    
 
+**Saturday 20th June 2015**  
+WOODLANDS RUN      
+Signal Flat Rd, **FINISS**   
+duet show with HAMISH STUART  
+
 **Friday 19th June 2015**  
 THE SINGING GALLERY        
 Main Rd, **McLAREN VALE**   
 duet show with HAMISH STUART     
 plus special guests [THE YEARLINGS][96.5]     
-
-**Saturday 20th June 2015**  
-WOODLANDS RUN      
-Signal Flat Rd, **FINISS**   
-duet show with HAMISH STUART  
 
 * * * * *     
 
