@@ -1,5 +1,16 @@
 ## shows/archive   
 
+* * * * *           
+
+**NSW**    
+
+**Sunday 6th September 2015**   
+BEACHSIDE MANOR               
+House Concert **Suffolk Park**   
+with Jimmy Dowling & Claire Anne Taylor     
+
+* * * * *         
+
 **EVERYTHING SINGS TONIGHT** Australian Winter Tour 
 
 **Tasmania**   
