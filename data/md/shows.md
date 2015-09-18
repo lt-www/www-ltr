@@ -1,14 +1,3 @@
-* * * * *           
-
-**NSW**    
-
-**Sunday 6th September 2015**   
-BEACHSIDE MANOR               
-House Concert **Suffolk Park**   
-with Jimmy Dowling & Claire Anne Taylor    
-3pm  
-[Tickets available here][224]                      
-
 * * * * *       
 
 **NETHERLANDS**
@@ -22,7 +11,7 @@ CAFE STATHE
 Rozenstraat 15, **UTRECHT**         
 
 **Thursday 8th October 2015**     
-tba   
+CAFE LOBURG     
 **WAGENINGEN**       
 
 **Friday 9th October 2015**     
