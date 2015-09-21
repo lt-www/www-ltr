@@ -36,9 +36,22 @@ Holzmarktstr. 25, **BERLIN**
 
 **Victoria**   
 
-**Fri 6th - Sun 8th November 2015**  
+**Friday 6th November 2015**  
 [BENDIGO BLUES & ROOTS FESTIVAL][225]             
-details tba    
+CAPITOL THEATRE    
+View St, BENDIGO  
+with HAMISH STUART  
+plus Sal Kimber & The Rollin Wheel, Jeff Lang, Owen Campbell  
+7pm  
+
+**Saturday 7th November 2015**  
+[BENDIGO BLUES & ROOTS FESTIVAL][225]             
+with HAMISH STUART    
+details tba  
+  
+**Sunday 8th November 2015**  
+[BENDIGO BLUES & ROOTS FESTIVAL][225]                 
+details tba  
 
 * * * * *        
 
