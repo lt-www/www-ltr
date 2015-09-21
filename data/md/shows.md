@@ -99,7 +99,7 @@ with HAMISH STUART
 THE MURRAH HALL          
 **MUURAH**      
 with HAMISH STUART     
-plus Pete Wild  Kate Burke  
+plus Pete Wild & Kate Burke  
 
 * * * * *       
 
