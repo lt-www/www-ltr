@@ -44,10 +44,63 @@ details tba
 
 **NSW**  
 
-**Sat 21st - Sun 22nd November 2015**  
+**Thursday 12th November 2015**         
+DJANGO BAR          
+Marrickville Rd, **SYDNEY**  
+with Suzannah Espie  
+
+**Friday 13th November 2015**         
+GOOLONGONG LOG CABIN            
+**GOOLONGONG**  
+with Suzannah Espie  
+       
+**Saturday 14th November 2015**         
+HOUSE CONCERT            
+**KATOOMBA**  
+with Suzannah Espie  
+
+**Sunday 15th November 2015**         
+GRAND JUNCTION            
+Church St, **MAITLAND**    
+with Suzannah Espie    
+  
+**QUEENSLAND**   
+
+**Thursday 19th November 2015**         
+JUNK BAR          
+Waterworks Rd, **BRISBANE**  
+with Suzannah Espie  
+
+**NSW**   
+
+**Saturday 21st November 2015**  
 [MULLUM MUSIC FESTIVAL][226]    
-details tba  
+**MULLUMBIMBY**  
+with HAMISH STUART   
+
+**Sunday 22nd November 2015**  
+[MULLUM MUSIC FESTIVAL][226]    
+**MULLUMBIMBY**  
+with HAMISH STUART   
+
+**ACT**   
  
+**Friday 27th November 2015**  
+SMITHS      
+**CANBERRA**    
+with HAMISH STUART   
+
+**Saturday 28th November 2015**  
+QUARTERDECK        
+**NAROOMA**      
+with HAMISH STUART     
+
+**Sunday 29th November 2015**  
+THE MURRAH HALL          
+**MUURAH**      
+with HAMISH STUART     
+plus Pete Wild  Kate Burke  
+
 * * * * *       
 
 [past shows][archive]
