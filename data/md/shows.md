@@ -99,7 +99,7 @@ with HAMISH STUART
 
 **Sunday 29th November 2015**  
 THE MURRAH HALL          
-**MUURAH**      
+**MURRAH**      
 with HAMISH STUART     
 plus Pete Wild & Kate Burke  
 
