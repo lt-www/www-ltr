@@ -90,6 +90,8 @@ SMITHS
 **CANBERRA**    
 with HAMISH STUART   
 
+**NSW**  
+
 **Saturday 28th November 2015**  
 QUARTERDECK        
 **NAROOMA**      
