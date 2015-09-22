@@ -93,13 +93,17 @@ with Suzannah Espie
 
 **Saturday 21st November 2015**  
 [MULLUM MUSIC FESTIVAL][226]    
-**MULLUMBIMBY**  
+The Courthouse  
+Dalley St, **MULLUMBIMBY**  
 with HAMISH STUART   
+3pm  
 
 **Sunday 22nd November 2015**  
 [MULLUM MUSIC FESTIVAL][226]    
-**MULLUMBIMBY**  
+The Drill Hall  
+Dalley St, **MULLUMBIMBY**  
 with HAMISH STUART   
+7.30pm  
 
 **ACT**   
  
@@ -107,6 +111,7 @@ with HAMISH STUART
 SMITHS      
 **CANBERRA**    
 with HAMISH STUART   
+7pm  
 
 **NSW**  
 
@@ -114,12 +119,15 @@ with HAMISH STUART
 QUARTERDECK        
 **NAROOMA**      
 with HAMISH STUART     
+6.30pm  
+Bookings: 02 4476 2723  
 
 **Sunday 29th November 2015**  
 THE MURRAH HALL          
 **MURRAH**      
 with HAMISH STUART     
 plus Pete Wild & Kate Burke  
+3pm  
 
 * * * * *       
 
