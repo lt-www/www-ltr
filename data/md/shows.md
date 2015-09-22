@@ -61,11 +61,15 @@ details tba
 DJANGO BAR          
 Marrickville Rd, **SYDNEY**  
 with Suzannah Espie  
+7pm  
+[Tickets on sale now][227]  
 
 **Friday 13th November 2015**         
-GOOLONGONG LOG CABIN            
+THE LOG CABIN            
 **GOOLONGONG**  
 with Suzannah Espie  
+6pm  
+Bookings: 02 63 448166  
        
 **Saturday 14th November 2015**         
 HOUSE CONCERT            
@@ -75,7 +79,8 @@ with Suzannah Espie
 **Sunday 15th November 2015**         
 GRAND JUNCTION            
 Church St, **MAITLAND**    
-with Suzannah Espie    
+with Suzannah Espie   
+5pm   
   
 **QUEENSLAND**   
 
@@ -269,4 +274,5 @@ plus Pete Wild & Kate Burke
 [223]: http://shop.parlourgigs.com/product/lucie-thorne-saturday-august-8-tawonga-south-victoria/  
 [224]: http://www.trybooking.com/IWNO     
 [225]: http://www.bendigobluesandroots.com.au/lineup.php
-[226]: http://www.mullummusicfestival.com/Line%20Up/114
+[226]: http://www.mullummusicfestival.com/Line%20Up/114  
+[227]: https://www.stickytickets.com.au/30387
