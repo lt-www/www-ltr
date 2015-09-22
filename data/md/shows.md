@@ -128,6 +128,7 @@ THE MURRAH HALL
 with HAMISH STUART     
 plus Pete Wild & Kate Burke  
 3pm  
+[Tickets on sale now][228]  
 
 * * * * *       
 
@@ -283,4 +284,5 @@ plus Pete Wild & Kate Burke
 [224]: http://www.trybooking.com/IWNO     
 [225]: http://www.bendigobluesandroots.com.au/lineup.php
 [226]: http://www.mullummusicfestival.com/Line%20Up/114  
-[227]: https://www.stickytickets.com.au/30387
+[227]: https://www.stickytickets.com.au/30387  
+[228]: http://www.trybooking.com/JEPA
