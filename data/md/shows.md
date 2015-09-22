@@ -16,11 +16,13 @@ CAFE LOBURG
 
 **Friday 9th October 2015**     
 HOUSE CONCERT   
-**MAASTRICHT**       
+**MAASTRICHT**     
+7pm    
 
 **Sunday 11th October 2015**     
 [MEZZ][187]     
 Keizerstraat 101, **BREDA**     
+4pm  
 
 * * * * *   
 
