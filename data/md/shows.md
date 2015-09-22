@@ -30,7 +30,8 @@ Keizerstraat 101, **BREDA**
 
 **Wednesday 14th October 2015**         
 CULTURE CONTAINER        
-Holzmarktstr. 25, **BERLIN**       
+Holzmarktstr. 25, **BERLIN**      
+9pm   
 
 * * * * *       
 
