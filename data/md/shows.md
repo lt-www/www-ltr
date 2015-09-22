@@ -41,17 +41,20 @@ Holzmarktstr. 25, **BERLIN**
 CAPITOL THEATRE    
 View St, BENDIGO  
 with HAMISH STUART  
-plus Sal Kimber & The Rollin Wheel, Jeff Lang, Owen Campbell  
 7pm  
 
 **Saturday 7th November 2015**  
 [BENDIGO BLUES & ROOTS FESTIVAL][225]             
+GOLD DUST LOUNGE  
+Williamson St, BENDIGO  
 with HAMISH STUART    
-details tba  
+5pm    
   
 **Sunday 8th November 2015**  
-[BENDIGO BLUES & ROOTS FESTIVAL][225]                 
-details tba  
+[BENDIGO BLUES & ROOTS FESTIVAL][225]        
+THE EXCHANGE           
+with HAMISH STUART    
+1.30pm     
 
 * * * * *        
 
