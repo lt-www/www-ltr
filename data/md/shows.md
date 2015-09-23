@@ -3,8 +3,10 @@
 **NETHERLANDS**
 
 **Sunday 4th October 2015**       
-FURORE FESTIVAL       
-**NIJMEGEN**        
+FURORE FESTIVAL    
+DE VASIM         
+Winselingseweg 41, **NIJMEGEN**  
+2pm          
 
 **Wednesday 7th October 2015**     
 CAFE STATHE  
