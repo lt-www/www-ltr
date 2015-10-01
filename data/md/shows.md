@@ -9,12 +9,13 @@ Winselingseweg 41, **NIJMEGEN**
 2pm          
 
 **Wednesday 7th October 2015**     
-CAFE STATHE  
+[CAFE STATHE][229]    
 Rozenstraat 15, **UTRECHT**         
 
 **Thursday 8th October 2015**     
 CAFE LOBURG     
-**WAGENINGEN**       
+Molenstraat 6, **WAGENINGEN**    
+9pm     
 
 **Friday 9th October 2015**     
 HOUSE CONCERT   
@@ -293,4 +294,5 @@ plus Pete Wild & Kate Burke
 [225]: http://www.bendigobluesandroots.com.au/lineup.php
 [226]: http://www.mullummusicfestival.com/Line%20Up/114  
 [227]: https://www.stickytickets.com.au/30387  
-[228]: http://www.trybooking.com/JEPA
+[228]: http://www.trybooking.com/JEPA  
+[229]: http://stathe.nl/agenda.html
