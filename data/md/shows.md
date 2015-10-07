@@ -86,6 +86,8 @@ Bookings: 02 63 448166
 HOUSE CONCERT            
 **KATOOMBA**  
 with Suzannah Espie  
+7.30pm  
+[Tickets on sale now][230]   
 
 **Sunday 15th November 2015**         
 GRAND JUNCTION            
@@ -297,4 +299,5 @@ plus Pete Wild & Kate Burke
 [226]: http://www.mullummusicfestival.com/Line%20Up/114  
 [227]: https://www.stickytickets.com.au/30387  
 [228]: http://www.trybooking.com/JEPA  
-[229]: http://stathe.nl/agenda.html
+[229]: http://stathe.nl/agenda.html  
+[230]: http://www.trybooking.com/JHOJ  
