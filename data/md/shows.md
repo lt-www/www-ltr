@@ -11,6 +11,7 @@ Winselingseweg 41, **NIJMEGEN**
 **Wednesday 7th October 2015**     
 [CAFE STATHE][229]    
 Rozenstraat 15, **UTRECHT**         
+9.30pm  
 
 **Thursday 8th October 2015**     
 CAFE LOBURG     
