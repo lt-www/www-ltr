@@ -40,7 +40,7 @@ with Mifras
 
 * * * * *   
 
-**United Kingdom**    
+**UNITED KINGDOM**    
 
 **Friday 23rd October 2015**         
 KINO TEATR            
