@@ -38,6 +38,25 @@ Holzmarktstr. 25, **BERLIN**
 9pm   
 with Mifras  
 
+* * * * *   
+
+**United Kingdom**    
+
+**Friday 23rd October 2015**         
+KINO TEATR            
+43-49 Norman Rd, St Leonards on Sea  
+**EAST SUSSEX**          
+7pm     
+
+* * * * *       
+
+**NETHERLANDS**
+
+**Sunday 1st November 2015**       
+De WOLKENFABRIEK                
+Van Heemskerk 101, **GRONIGEN**  
+6pm        
+
 * * * * *       
 
 **AUSTRALIA**      
