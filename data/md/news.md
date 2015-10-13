@@ -1,3 +1,9 @@
+### 13 October 2015 | Berlin      
+
+Loving thanks to all who've come out to these shows across Holland! Next stop: Berlin. And couple of extra dates have also been announced - in St Leonard By Sea and Gronigen! [Details here][shows].    
+
+* * * * *     
+
 ### 29 September 2015 | Continental     
 
 [Everything Sings Tonight][141] is released across Europe today! through our friends at Continental.  First show of the [tour][shows] is this Sunday 4th October in Nijmegen - headlining the Furore Festival at De Vasim!     
