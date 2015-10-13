@@ -54,8 +54,8 @@ KINO TEATR
 
 **Sunday 1st November 2015**       
 De WOLKENFABRIEK                
-Van Heemskerk 101, **GRONIGEN**  
-6pm        
+Van Heemskerk 101, **GRONINGEN**  
+5pm        
 
 * * * * *       
 
