@@ -1,6 +1,6 @@
 ### 13 October 2015 | Berlin      
 
-Loving thanks to all who've come out to these shows across Holland! Next stop: Berlin! And couple of extra dates have also been announced - in St Leonard By Sea and Gronigen! [Details here][shows].    
+Loving thanks to all who've come out to these shows across Holland! Next stop: Berlin! And couple of extra dates have also been announced - in St Leonard By Sea and Groningen! [Details here][shows].    
 
 * * * * *     
 
