@@ -1,3 +1,10 @@
+
+### 19 October 2015 | Woodford        
+
+Delighted to share the news that Lucie & Hamish will be performing at this year's Woodford Folk Festival! Full festival line-up has just been announced - [check it out][151]. What a way to bring in the new year..!   
+
+* * * * *     
+
 ### 13 October 2015 | Berlin      
 
 Loving thanks to all who've come out to these shows across Holland! Next stop: Berlin! And couple of extra dates have also been announced - in St Leonards On Sea and Groningen! [Details here][shows].    
@@ -281,4 +288,5 @@ if you care to know it, there is still all of the [old news](?p=news/archive)...
 [press]: http://luciethorne.com/?p=press    
 [148]: http://m.couriermail.com.au/entertainment/music/album-reviews-lucie-in-the-empty-sky-with-gems/story-fnihmead-1227414195080
 [149]: http://www.theage.com.au/entertainment/music/melbourne-artist-lucie-thornes-music-is-poetic-and-poignant--and-sounds-damn-good-20150617-ghmvg7.html 
-[150]: https://www.youtube.com/watch?v=XUfGjLWvW9g#t=98 
+[150]: https://www.youtube.com/watch?v=XUfGjLWvW9g#t=98   
+[151]: http://woodfordfolkfestival.com/
