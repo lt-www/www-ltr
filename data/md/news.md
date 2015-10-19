@@ -1,7 +1,6 @@
-
 ### 19 October 2015 | Woodford        
 
-Delighted to share the news that Lucie & Hamish will be performing at this year's Woodford Folk Festival! Full festival line-up has just been announced - [check it out][151]. What a way to bring in the new year..!   
+Delighted to share the news that Lucie & Hamish will be performing at this year's Woodford Folk Festival! Full festival line-up has just been announced - and you can [check it out here][151]. What a way to bring in the new year..!   
 
 * * * * *     
 
