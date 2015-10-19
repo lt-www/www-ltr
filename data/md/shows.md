@@ -167,22 +167,22 @@ plus Pete Wild & Kate Burke
 **QUEENSLAND**  
 
 **Monday 28th December 2015**  
-WOODFORD FOLK FESTIVAL              
+[WOODFORD FOLK FESTIVAL][231]                
 Concertina stage - 2.30pm  
 with HAMISH STUART     
 
 **Tuesday 29th December 2015**  
-WOODFORD FOLK FESTIVAL              
+[WOODFORD FOLK FESTIVAL][231]            
 Bluestown stage - 1.30pm  
 with HAMISH STUART   
 
 **Wednesday 30th December 2015**  
-WOODFORD FOLK FESTIVAL              
+[WOODFORD FOLK FESTIVAL][231]            
 Bluestown stage - 6.30pm  
 with HAMISH STUART     
 
 **Thursday 31st December 2015**  
-WOODFORD FOLK FESTIVAL              
+[WOODFORD FOLK FESTIVAL][231]            
 Concertina stage - 2.30pm  
 with HAMISH STUART   
 
@@ -344,3 +344,4 @@ with HAMISH STUART
 [228]: http://www.trybooking.com/JEPA  
 [229]: http://stathe.nl/agenda.html  
 [230]: http://www.trybooking.com/JHOJ  
+[231]: http://woodfordfolkfestival.com/
