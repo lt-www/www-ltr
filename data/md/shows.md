@@ -120,6 +120,7 @@ with Suzannah Espie
 JUNK BAR          
 Waterworks Rd, **BRISBANE**  
 with Suzannah Espie  
+[Tickets on sale now][232]  
 
 **NSW**   
 
@@ -346,4 +347,5 @@ with HAMISH STUART
 [229]: http://stathe.nl/agenda.html  
 [230]: http://www.trybooking.com/JHOJ  
 [231]: http://woodfordfolkfestival.com/  
-[232]: http://www.smithsalternative.com/events/lucie-thorne-4031
+[232]: http://www.smithsalternative.com/events/lucie-thorne-4031  
+[232]: http://tickets.oztix.com.au/?Event=56704
