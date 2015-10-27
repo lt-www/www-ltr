@@ -48,16 +48,7 @@ KINO TEATR
 **EAST SUSSEX**          
 7pm     
 
-* * * * *       
-
-**NETHERLANDS**
-
-**Sunday 1st November 2015**       
-De WOLKENFABRIEK                
-Van Heemskerk 101, **GRONINGEN**  
-5pm        
-
-* * * * *       
+* * * * *             
 
 **AUSTRALIA**      
 
