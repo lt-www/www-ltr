@@ -1,56 +1,5 @@
-* * * * *       
-
-**NETHERLANDS**
-
-**Sunday 4th October 2015**       
-FURORE FESTIVAL    
-DE VASIM         
-Winselingseweg 41, **NIJMEGEN**  
-2pm          
-
-**Wednesday 7th October 2015**     
-[CAFE STATHE][229]    
-Rozenstraat 15, **UTRECHT**         
-9.30pm  
-
-**Thursday 8th October 2015**     
-CAFE LOBURG     
-Molenstraat 6, **WAGENINGEN**    
-9pm     
-
-**Friday 9th October 2015**     
-HOUSE CONCERT   
-**MAASTRICHT**     
-7pm    
-
-**Sunday 11th October 2015**     
-[MEZZ][187]     
-Keizerstraat 101, **BREDA**     
-4pm  
-
-* * * * *   
-
-**GERMANY**    
-
-**Wednesday 14th October 2015**         
-CULTURE CONTAINER        
-Holzmarktstr. 25, **BERLIN**      
-9pm   
-with Mifras  
-
-* * * * *   
-
-**UNITED KINGDOM**    
-
-**Friday 23rd October 2015**         
-KINO TEATR            
-43-49 Norman Rd, St Leonards on Sea  
-**EAST SUSSEX**          
-7pm     
-
-* * * * *             
-
-**AUSTRALIA**      
+          
+* * * * *                 
 
 **Victoria**   
 
@@ -87,7 +36,7 @@ with Suzannah Espie
 
 **Friday 13th November 2015**         
 THE LOG CABIN            
-**GOOLONGONG**  
+**GOOLOOGONG**  
 with Suzannah Espie  
 6pm  
 Bookings: 02 63 448166  
