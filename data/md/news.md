@@ -1,3 +1,7 @@
+### 6 November 2015 | November dates  
+
+Back in Australia and straight back on the road! This weekend with Hamish Stuart at the Bendigo Blues & Roots Festival, then a string of shows with the fabulous Suzzanah Espie - in Sydney, Gooloogong, Blue Mountains, Maitland & Brisbane, then the Mullum Music Festival! followed by more duet shows in Canberra, Narooma and Murrah! November's gonna be quite a month! Details and bookings info [here][shows].     
+
 ### 19 October 2015 | Woodford        
 
 Delighted to share the news that Lucie & Hamish will be performing at this year's Woodford Folk Festival! Full festival line-up has just been announced - and you can [check it out here][151]. What a way to bring in the new year..!   
