@@ -85,7 +85,7 @@ SMITHS
 **CANBERRA**    
 with HAMISH STUART   
 Doors open 6.30pm / Show starts 7pm  
-[Tickets on sale now][232]  
+[Tickets on sale now][233]  
 
 **NSW**  
 
@@ -287,5 +287,5 @@ with HAMISH STUART
 [229]: http://stathe.nl/agenda.html  
 [230]: http://www.trybooking.com/JHOJ  
 [231]: http://woodfordfolkfestival.com/  
-[232]: http://www.smithsalternative.com/events/lucie-thorne-4031  
+[233]: http://www.smithsalternative.com/events/lucie-thorne-4031  
 [232]: http://tickets.oztix.com.au/?Event=56704
