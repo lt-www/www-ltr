@@ -56,6 +56,12 @@ with Suzannah Espie
   
 **QUEENSLAND**   
 
+**Wednesday 18th November 2015**         
+THE PINEAPPLE LOUNGE            
+Paddington, **BRISBANE**  
+streaming live at [bandviews][234]    
+8pm      
+
 **Thursday 19th November 2015**         
 JUNK BAR          
 Waterworks Rd, **BRISBANE**  
@@ -288,4 +294,5 @@ with HAMISH STUART
 [230]: http://www.trybooking.com/JHOJ  
 [231]: http://woodfordfolkfestival.com/  
 [233]: http://www.smithsalternative.com/events/lucie-thorne-4031  
-[232]: http://tickets.oztix.com.au/?Event=56704
+[232]: http://tickets.oztix.com.au/?Event=56704  
+[234]: http://www.bandviews.com  
