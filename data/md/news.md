@@ -1,6 +1,6 @@
 ### 6 November 2015 | November dates  
 
-Back in Australia and straight back on the road! This weekend with Hamish Stuart at the Bendigo Blues & Roots Festival, then a string of shows with the fabulous Suzzanah Espie - in Sydney, Gooloogong, Blue Mountains, Maitland & Brisbane, then the Mullum Music Festival! followed by more duet shows in Canberra, Narooma and Murrah! November's gonna be quite a month! Details and bookings info [here][shows].     
+Back in Australia and straight back on the road! This weekend with Hamish Stuart at the Bendigo Blues & Roots Festival, then a string of shows with the fabulous Suzannah Espie - in Sydney, Gooloogong, Blue Mountains, Maitland & Brisbane, then the Mullum Music Festival! followed by more duet shows in Canberra, Narooma and Murrah! November's gonna be quite a month! Details and bookings info [here][shows].     
 
 * * * * *       
 
