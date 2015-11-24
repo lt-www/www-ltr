@@ -1,5 +1,29 @@
 ## shows/archive   
   
+* * * * *        
+
+**NSW**  
+
+**Sunday 15th November 2015**         
+GRAND JUNCTION            
+Church St, **MAITLAND**    
+with Suzannah Espie      
+
+**Saturday 14th November 2015**         
+HOUSE CONCERT            
+**KATOOMBA**  
+with Suzannah Espie    
+
+**Friday 13th November 2015**         
+THE LOG CABIN            
+**GOOLOOGONG**  
+with Suzannah Espie  
+
+**Thursday 12th November 2015**         
+DJANGO BAR          
+Marrickville Rd, **SYDNEY**  
+with Suzannah Espie  
+
 * * * * *                 
 
 **Victoria**   
