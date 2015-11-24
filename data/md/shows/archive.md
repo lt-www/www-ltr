@@ -1,5 +1,26 @@
 ## shows/archive   
   
+* * * * *                 
+
+**Victoria**   
+  
+**Sunday 8th November 2015**  
+[BENDIGO BLUES & ROOTS FESTIVAL][225]        
+THE EXCHANGE           
+with HAMISH STUART        
+
+**Saturday 7th November 2015**  
+[BENDIGO BLUES & ROOTS FESTIVAL][225]             
+GOLD DUST LOUNGE  
+Williamson St, BENDIGO  
+with HAMISH STUART     
+
+**Friday 6th November 2015**  
+[BENDIGO BLUES & ROOTS FESTIVAL][225]             
+CAPITOL THEATRE    
+View St, BENDIGO  
+with HAMISH STUART  
+ 
 * * * * *           
 
 **UNITED KINGDOM**      
@@ -1012,6 +1033,7 @@ with 'Halfway to Fourth'
 [200]: http://folkfestival.org.au/    
 [208]: http://www.bellowintermusic.com/
 [222.2]: http://www.candelovillagefestival.org/whats-on/    
+[225]: http://www.bendigobluesandroots.com.au/lineup.php  
 
 if you'd care to know, there are still details of lucie's old shows:
 [2013][2013], [2012][2012], [2011][2011], [2010][2010], [2009][2009],
