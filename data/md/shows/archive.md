@@ -1,5 +1,19 @@
 ## shows/archive   
   
+* * * * *    
+  
+**QUEENSLAND**   
+
+**Thursday 19th November 2015**         
+JUNK BAR          
+Waterworks Rd, **BRISBANE**  
+with Suzannah Espie    
+
+**Wednesday 18th November 2015**         
+THE PINEAPPLE LOUNGE            
+Paddington, **BRISBANE**  
+streaming live at [bandviews][234]    
+   
 * * * * *        
 
 **NSW**  
