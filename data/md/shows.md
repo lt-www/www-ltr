@@ -1,36 +1,7 @@
           
 
 
-* * * * *        
 
-**NSW**  
-
-**Thursday 12th November 2015**         
-DJANGO BAR          
-Marrickville Rd, **SYDNEY**  
-with Suzannah Espie  
-7pm  
-[Tickets on sale now][227]  
-
-**Friday 13th November 2015**         
-THE LOG CABIN            
-**GOOLOOGONG**  
-with Suzannah Espie  
-6pm  
-Bookings: 02 63 448166  
-       
-**Saturday 14th November 2015**         
-HOUSE CONCERT            
-**KATOOMBA**  
-with Suzannah Espie  
-7.30pm  
-[Tickets on sale now][230]   
-
-**Sunday 15th November 2015**         
-GRAND JUNCTION            
-Church St, **MAITLAND**    
-with Suzannah Espie   
-5pm   
   
 **QUEENSLAND**   
 
