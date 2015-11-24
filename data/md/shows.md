@@ -1,25 +1,3 @@
-**NSW**   
-
-**Saturday 21st November 2015**  
-[MULLUM MUSIC FESTIVAL][226]    
-The Courthouse  
-Dalley St, **MULLUMBIMBY**  
-with HAMISH STUART   
-3pm  
-
-**Sunday 22nd November 2015**  
-[MULLUM MUSIC FESTIVAL][226]    
-The Courthouse     
-Dalley St, **MULLUMBIMBY**   
-*'On the Couch with Brian Nankervis'*    
-2pm      
-
-**Sunday 22nd November 2015**  
-[MULLUM MUSIC FESTIVAL][226]    
-The Drill Hall  
-Dalley St, **MULLUMBIMBY**  
-with HAMISH STUART   
-7.30pm  
 
 **ACT**   
  
