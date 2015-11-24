@@ -1,4 +1,3 @@
-
 **ACT**   
  
 **Friday 27th November 2015**  
@@ -72,7 +71,9 @@ JUNK BAR
 **BRISBANE**  
 details tba     
 
-* * * * *      
+* * * * *       
+
+**TASMANIA**   
 
 **Thursday 28th January 2016**  
 FRESH            
@@ -91,6 +92,27 @@ details tba
 
 * * * * *         
 
+**NSW**    
+
+**Friday 19th February 2016**  
+WAUCHOPE ARTS HALL  
+**WAUCHOPE**  
+with HAMISH STUART             
+details tba     
+
+**Saturday 20th February 2016**  
+NUMBER 5                
+**BELLINGEN**    
+with HAMISH STUART             
+details tba    
+
+**Sunday 21st February 2016**  
+LAMPS                  
+**SYDNEY**    
+with HAMISH STUART             
+details tba    
+
+* * * * *       
 [past shows][archive]
 
 [archive]: ?p=shows/archive/
