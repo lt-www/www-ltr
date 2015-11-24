@@ -1,23 +1,3 @@
-          
-
-
-
-  
-**QUEENSLAND**   
-
-**Wednesday 18th November 2015**         
-THE PINEAPPLE LOUNGE            
-Paddington, **BRISBANE**  
-streaming live at [bandviews][234]    
-8pm      
-
-**Thursday 19th November 2015**         
-JUNK BAR          
-Waterworks Rd, **BRISBANE**  
-with Suzannah Espie  
-[Tickets on sale now][232]  
-7.30pm  
-
 **NSW**   
 
 **Saturday 21st November 2015**  
@@ -104,6 +84,17 @@ details tba
 HOUSE CONCERT            
 **ST MARYS**        
 details tba    
+
+* * * * *       
+
+**QUEENSLAND**  
+
+**Friday 22nd January 2016**         
+JUNK BAR          
+**BRISBANE**  
+details tba     
+
+* * * * *      
 
 **Thursday 28th January 2016**  
 FRESH            
