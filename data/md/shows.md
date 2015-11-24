@@ -1,27 +1,5 @@
           
-* * * * *                 
 
-**Victoria**   
-
-**Friday 6th November 2015**  
-[BENDIGO BLUES & ROOTS FESTIVAL][225]             
-CAPITOL THEATRE    
-View St, BENDIGO  
-with HAMISH STUART  
-7pm  
-
-**Saturday 7th November 2015**  
-[BENDIGO BLUES & ROOTS FESTIVAL][225]             
-GOLD DUST LOUNGE  
-Williamson St, BENDIGO  
-with HAMISH STUART    
-5pm    
-  
-**Sunday 8th November 2015**  
-[BENDIGO BLUES & ROOTS FESTIVAL][225]        
-THE EXCHANGE           
-with HAMISH STUART    
-1.30pm     
 
 * * * * *        
 
