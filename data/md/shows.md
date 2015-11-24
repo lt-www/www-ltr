@@ -122,6 +122,35 @@ with HAMISH STUART
 
 * * * * *       
 
+**TASMANIA**  
+
+**Saturday 16th January 2016**  
+FRANKIE'S EMPIRE          
+**HOBART**        
+details tba    
+
+**Sunday 17th January 2016**  
+HOUSE CONCERT            
+**ST MARYS**        
+details tba    
+
+**Thursday 28th January 2016**  
+FRESH            
+**LAUNCESTON**          
+details tba 
+
+**Friday 29th January 2016**  
+THE WHARF              
+**WYNYARD**            
+details tba       
+
+**Saturday 30th January 2016**  
+MOUNTAIN MUMMA                  
+**SHEFFIELD**              
+details tba       
+
+* * * * *         
+
 [past shows][archive]
 
 [archive]: ?p=shows/archive/
