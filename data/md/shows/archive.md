@@ -1,5 +1,25 @@
 ## shows/archive   
   
+**NSW**   
+
+**Sunday 22nd November 2015**  
+[MULLUM MUSIC FESTIVAL][226]    
+The Drill Hall  
+Dalley St, **MULLUMBIMBY**  
+with HAMISH STUART    
+
+**Sunday 22nd November 2015**  
+[MULLUM MUSIC FESTIVAL][226]    
+The Courthouse     
+Dalley St, **MULLUMBIMBY**   
+*'On the Couch with Brian Nankervis'* 
+
+**Saturday 21st November 2015**  
+[MULLUM MUSIC FESTIVAL][226]    
+The Courthouse  
+Dalley St, **MULLUMBIMBY**  
+with HAMISH STUART     
+
 * * * * *    
   
 **QUEENSLAND**   
@@ -1072,6 +1092,7 @@ with 'Halfway to Fourth'
 [208]: http://www.bellowintermusic.com/
 [222.2]: http://www.candelovillagefestival.org/whats-on/    
 [225]: http://www.bendigobluesandroots.com.au/lineup.php  
+[226]: http://www.mullummusicfestival.com/Line%20Up/114    
 
 if you'd care to know, there are still details of lucie's old shows:
 [2013][2013], [2012][2012], [2011][2011], [2010][2010], [2009][2009],
