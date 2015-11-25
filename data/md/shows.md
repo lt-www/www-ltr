@@ -113,6 +113,15 @@ with HAMISH STUART
 details tba    
 
 * * * * *       
+
+**TASMANIA**    
+
+**Saturday 27th January 2016**  
+MONA            
+**HOBART**        
+details tba    
+
+* * * * *       
 [past shows][archive]
 
 [archive]: ?p=shows/archive/
