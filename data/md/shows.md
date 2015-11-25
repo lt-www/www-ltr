@@ -1,7 +1,7 @@
 **ACT**   
  
 **Friday 27th November 2015**  
-SMITHS      
+SMITH'S      
 **CANBERRA**    
 with HAMISH STUART   
 Doors open 6.30pm / Show starts 7pm  
@@ -95,14 +95,14 @@ details tba
 **NSW**    
 
 **Friday 19th February 2016**  
-WAUCHOPE ARTS HALL  
-**WAUCHOPE**  
+NUMBER 5                
+**BELLINGEN**    
 with HAMISH STUART             
 details tba     
 
 **Saturday 20th February 2016**  
-NUMBER 5                
-**BELLINGEN**    
+WAUCHOPE ARTS HALL  
+**WAUCHOPE**  
 with HAMISH STUART             
 details tba    
 
