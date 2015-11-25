@@ -116,7 +116,7 @@ details tba
 
 **TASMANIA**    
 
-**Saturday 27th January 2016**  
+**Saturday 27th February 2016**  
 MONA            
 **HOBART**        
 details tba    
