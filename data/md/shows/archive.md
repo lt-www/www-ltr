@@ -2,6 +2,30 @@
   
 * * * * *    
 
+**NSW**  
+
+**Sunday 29th November 2015**  
+THE MURRAH HALL          
+**MURRAH**      
+with HAMISH STUART     
+plus Pete Wild & Kate Burke   
+
+**Saturday 28th November 2015**  
+QUARTERDECK        
+**NAROOMA**      
+with HAMISH STUART      
+
+* * * * *      
+
+**ACT**   
+ 
+**Friday 27th November 2015**  
+SMITH'S      
+**CANBERRA**    
+with HAMISH STUART     
+
+* * * * *      
+
 **NSW**   
 
 **Sunday 22nd November 2015**  
