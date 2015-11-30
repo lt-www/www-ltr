@@ -1,31 +1,3 @@
-**ACT**   
- 
-**Friday 27th November 2015**  
-SMITH'S      
-**CANBERRA**    
-with HAMISH STUART   
-Doors open 6.30pm / Show starts 7pm  
-[Tickets on sale now][233]  
-
-**NSW**  
-
-**Saturday 28th November 2015**  
-QUARTERDECK        
-**NAROOMA**      
-with HAMISH STUART     
-6.30pm  
-Bookings: 02 4476 2723  
-
-**Sunday 29th November 2015**  
-THE MURRAH HALL          
-**MURRAH**      
-with HAMISH STUART     
-plus Pete Wild & Kate Burke  
-3pm  
-[Tickets on sale now][228]  
-
-* * * * *       
-
 **QUEENSLAND**  
 
 **Monday 28th December 2015**  
