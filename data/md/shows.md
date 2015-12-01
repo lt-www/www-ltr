@@ -60,8 +60,8 @@ with Ben Salter and Van Walker
 7.30pm   
 
 **Friday 29th January 2016**  
-THE WHARF              
-**WYNYARD**            
+LIVE at THE WHARF              
+Gnomon Pavilion, **ULVERSTONE**            
 with Ben Salter and Van Walker  
 5.30pm         
 
