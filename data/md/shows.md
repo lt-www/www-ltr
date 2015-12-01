@@ -26,13 +26,16 @@ with HAMISH STUART
 
 **Saturday 16th January 2016**  
 FRANKIE'S EMPIRE          
-**HOBART**        
-details tba    
+Upstairs, 129 Elizabeth St, **HOBART**        
+with Van Walker  
+8pm  
+[Tickets on sale now][235]    
 
 **Sunday 17th January 2016**  
 HOUSE CONCERT            
 **ST MARYS**        
-details tba    
+with Van Walker and Pete Cornelius    
+2pm      
 
 * * * * *       
 
@@ -40,8 +43,10 @@ details tba
 
 **Friday 22nd January 2016**         
 JUNK BAR          
-**BRISBANE**  
-details tba     
+Waterworks Rd, Ashgrove, **BRISBANE**  
+with Jimmy Dowling and Van Walker  
+7.30pm  
+[Tickets on sale now][236]      
 
 * * * * *       
 
@@ -49,18 +54,22 @@ details tba
 
 **Thursday 28th January 2016**  
 FRESH            
-**LAUNCESTON**          
-details tba 
+Charles St, **LAUNCESTON**          
+with Ben Salter and Van Walker  
+[Tickets on sale now][237]    
+7.30pm   
 
 **Friday 29th January 2016**  
 THE WHARF              
 **WYNYARD**            
-details tba       
+with Ben Salter and Van Walker  
+5.30pm         
 
 **Saturday 30th January 2016**  
 MOUNTAIN MUMMA                  
-**SHEFFIELD**              
-details tba       
+Main St, **SHEFFIELD**              
+with Ben Salter and Van Walker  
+Bookings: 0400 467 317      
 
 * * * * *         
 
@@ -253,4 +262,7 @@ details tba
 [231]: http://woodfordfolkfestival.com/  
 [233]: http://www.smithsalternative.com/events/lucie-thorne-4031  
 [232]: http://tickets.oztix.com.au/?Event=56704  
-[234]: http://www.bandviews.com  
+[234]: http://www.bandviews.com    
+[235]: http://www.trybooking.com/JVNQ    
+[236]: http://www.trybooking.com/JTLR  
+[237]: http://www.trybooking.com/JTLN  
