@@ -1,3 +1,9 @@
+### 1 December 2015 | Southern Summer    
+
+A quiet, restful start to the summer... followed by lots of shows - in Queensland, Tassie and NSW! Kicking off at Woodford! Summer tour dates are [up now][shows].  
+
+* * * * *       
+
 ### 6 November 2015 | November dates  
 
 Back in Australia and straight back on the road! This weekend with Hamish Stuart at the Bendigo Blues & Roots Festival, then a string of shows with the fabulous Suzannah Espie - in Sydney, Gooloogong, Blue Mountains, Maitland & Brisbane, then the Mullum Music Festival! followed by more duet shows in Canberra, Narooma and Murrah! November's gonna be quite a month! Details and bookings info [here][shows].     
