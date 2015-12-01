@@ -79,13 +79,15 @@ Bookings: 0400 467 317
 NUMBER 5                
 **BELLINGEN**    
 with HAMISH STUART             
-details tba     
+7pm  
+Bookings:02 6655 0155    
 
 **Saturday 20th February 2016**  
 WAUCHOPE ARTS HALL  
 **WAUCHOPE**  
 with HAMISH STUART             
-details tba    
+7.30pm  
+Bookings: 0429 854 733      
 
 **Sunday 21st February 2016**  
 LAMPS                  
