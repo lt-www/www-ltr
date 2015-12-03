@@ -2,7 +2,7 @@
 
 **Monday 28th December 2015**  
 [WOODFORD FOLK FESTIVAL][231]                
-Concertina stage - 2.30pm  
+Orchard stage - 2.30pm  
 with HAMISH STUART     
 
 **Tuesday 29th December 2015**  
@@ -17,7 +17,7 @@ with HAMISH STUART
 
 **Thursday 31st December 2015**  
 [WOODFORD FOLK FESTIVAL][231]            
-Concertina stage - 2.30pm  
+Orchard stage - 2.30pm  
 with HAMISH STUART   
 
 * * * * *       
@@ -35,7 +35,8 @@ with Van Walker
 HOUSE CONCERT            
 **ST MARYS**        
 with Van Walker and Pete Cornelius    
-2pm      
+2pm    
+Bookings/info: 0419 703 864  
 
 * * * * *       
 
@@ -91,9 +92,10 @@ Bookings: 0429 854 733
 
 **Sunday 21st February 2016**  
 LAMPS                  
-**SYDNEY**    
+342 Elizabeth St, Surry Hills, **SYDNEY**    
 with HAMISH STUART             
-details tba    
+7pm    
+[Tickets on sale now][238]    
 
 * * * * *       
 
@@ -267,4 +269,5 @@ details tba
 [234]: http://www.bandviews.com    
 [235]: http://www.trybooking.com/JVNQ    
 [236]: http://www.trybooking.com/JTLR  
-[237]: http://www.trybooking.com/JTLN  
+[237]: http://www.trybooking.com/JTLN    
+[238]: http://www.trybooking.com/JWJA  
