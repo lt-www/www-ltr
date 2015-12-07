@@ -24,6 +24,11 @@ with HAMISH STUART
 
 **TASMANIA**  
 
+**Friday 15th January 2016**  
+Willie Smith's            
+**GROVE**        
+with Ben Salter & Van Walker      
+
 **Saturday 16th January 2016**  
 FRANKIE'S EMPIRE          
 Upstairs, 129 Elizabeth St, **HOBART**        
