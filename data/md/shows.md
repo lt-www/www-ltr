@@ -86,7 +86,7 @@ NUMBER 5
 **BELLINGEN**    
 with HAMISH STUART             
 7pm  
-Tickets on sale now][239]    
+[Tickets on sale now][239]      
 
 **Saturday 20th February 2016**  
 WAUCHOPE ARTS HALL  
