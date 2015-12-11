@@ -83,7 +83,7 @@ Bookings: 0400 467 317
 
 **Friday 19th February 2016**  
 NUMBER 5                
-**BELLINGEN**    
+Church St, **BELLINGEN**    
 with HAMISH STUART             
 7pm  
 [Tickets on sale now][239]      
