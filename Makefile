@@ -17,7 +17,7 @@ clean:
 	rm -f index.cgi
 
 push-sp:
-	git push sp
+	git push sp master
 
 pull-sp:
 	git pull sp master

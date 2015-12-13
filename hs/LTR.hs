@@ -6,13 +6,14 @@ import Data.Function
 import System.Directory {- directory -}
 import qualified System.Directory.Tree as T {- directory-tree -}
 import System.FilePath {- filepath -}
-import qualified System.IO.UTF8 as U {- utf8-string -}
-import qualified Text.HTML.Light as H {- html-minimalist -}
-import qualified Text.HTML.Light.Composite as H
-import qualified Text.HTML.Light.Composite.Menu as H
-import qualified Text.Pandoc.Minus as P {- pandoc-minus -}
 import Text.Printf
 import qualified Text.XML.Light as X {- xml -}
+
+import qualified Text.HTML.Light as H {- html-minus -}
+import qualified Text.HTML.Light.Composite as H {- html-minus -}
+import qualified Text.HTML.Light.Composite.Menu as H {- html-minus -}
+import qualified Text.Pandoc.Minus as P {- pandoc-minus -}
+import qualified WWW.Minus.IO as W {- www-minus -}
 
 import qualified Img as I
 
@@ -138,7 +139,7 @@ lt_std_html cf p t =
 read_file_or :: String -> FilePath -> IO String
 read_file_or s f = do
   x <- doesFileExist f
-  if x then U.readFile f else return s
+  if x then W.read_file_utf8 f else return s
 
 lt_no_file :: String
 lt_no_file =

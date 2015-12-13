@@ -95,7 +95,7 @@ require_verified e q y = do
 rss_news :: L.Config -> W.Result
 rss_news _ = do
   s <- C.liftIO (L.read_file_or "" "data/md/news.md")
-  let n = R.parse s
+  let n = R.parse "###" s
       f = L.lt_markdown_to_html
       x = N.rss_s f n
   W.utf8_ct_output "application/rss+xml" x
@@ -103,9 +103,9 @@ rss_news _ = do
 news_d :: L.Config -> String -> W.Result
 news_d cf d = do
   s <- C.liftIO (L.read_file_or "" "data/md/news.md")
-  let (e,md) = R.parse s
+  let (e,md) = R.parse "###" s
       m = case R.entry_by_date_s d e of
-            Just e' -> R.n_entry_md md e'
+            Just e' -> R.n_entry_md "###" md e'
             Nothing -> "No news today"
       f = L.lt_markdown_to_html
       h = L.lt_std_html cf ["?n="++d] (H.cdata_raw (f m))
