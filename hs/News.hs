@@ -1,8 +1,8 @@
 module News where
 
+import qualified Text.XML.Light as X {- xml -}
 import qualified WWW.Minus.RSS as R {- www-minus -}
 import qualified WWW.Minus.RSS.News as N {- www-minus -}
-import qualified Text.XML.Light as X {- xml -}
 
 import qualified LTR as L
 
@@ -20,6 +20,6 @@ rss_s f = R.render . rss f
 
 {-
 s <- readFile "/home/rohan/ut/www-ltr/data/md/news.md"
-let (e,md) = N.parse s
+let (e,md) = N.parse "###" s
 writeFile "/tmp/test.xml" (R.render (rss (head . lines) (e,md)))
 -}
