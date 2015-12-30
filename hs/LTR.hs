@@ -1,17 +1,15 @@
 module LTR where
 
-import Data.Char
-import Data.List
-import Data.Function
+import Data.Char {- base -}
+import Data.List {- base -}
+import Data.Function {- base -}
 import System.Directory {- directory -}
 import qualified System.Directory.Tree as T {- directory-tree -}
 import System.FilePath {- filepath -}
-import Text.Printf
+import Text.Printf {- base -}
 import qualified Text.XML.Light as X {- xml -}
 
-import qualified Text.HTML.Light as H {- html-minus -}
-import qualified Text.HTML.Light.Composite as H {- html-minus -}
-import qualified Text.HTML.Light.Composite.Menu as H {- html-minus -}
+import qualified Text.HTML.Minus as H {- html-minus -}
 import qualified Text.Pandoc.Minus as P {- pandoc-minus -}
 import qualified WWW.Minus.IO as W {- www-minus -}
 

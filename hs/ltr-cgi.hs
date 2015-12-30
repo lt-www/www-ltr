@@ -4,7 +4,7 @@ import qualified Network.CGI.Protocol as C {- cgi -}
 import qualified Text.XML.Light as X {- xml -}
 import System.FilePath {- filepath -}
 
-import qualified Text.HTML.Light as H {- html-minimalist -}
+import qualified Text.HTML.Minus as H {- html-minus -}
 import qualified WWW.Minus.CGI as W {- www-minus -}
 import qualified WWW.Minus.CGI.Editor as E {- www-minus -}
 import qualified WWW.Minus.RSS.News as R {- www-minus -}
