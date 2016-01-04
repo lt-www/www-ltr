@@ -1,6 +1,6 @@
 ### 1 December 2015 | Southern Summer    
 
-A quiet, restful start to the summer... followed by lots of shows - in Queensland, Tassie and NSW! Kicking off at Woodford! Summer tour dates are [up now][shows].  
+A quiet start to the summer... followed by lots of shows - in Queensland, Tassie and NSW! Kicking off at Woodford! Summer tour dates are [up now][shows].  
 
 * * * * *       
 
