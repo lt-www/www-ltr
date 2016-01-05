@@ -3,7 +3,7 @@
 to unsubscribe from lucie's mailing list, send in the address you
 are subscribed at
 
-<form method="post" action="http://formmail.dreamhost.com/cgi-bin/formmail.cgi">
+<form method="post" action="http://luciethorne.com/formmail/FormMail.cgi">
 <p>
 <input type="hidden" name="recipient" value="&#108;&#117;&#99;&#105;&#101;&#64;&#108;&#117;&#99;&#105;&#101;&#116;&#104;&#111;&#114;&#110;&#101;&#46;&#99;&#111;&#109;" />
 <input type="hidden" name="subject" value="unsubscribe request" />

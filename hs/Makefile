@@ -14,3 +14,8 @@ build-ghc-static:
 clean:
 	rm -f *.hi *.o
 	rm -f ltr-cgi ltr-cgi-static
+
+ln-local:
+	rm -f WWW
+	ln -s $(HOME)/sw/www-minus/WWW WWW
+

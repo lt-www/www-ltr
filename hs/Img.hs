@@ -9,8 +9,7 @@ import System.FilePath {- filepath -}
 import System.Process {- process -}
 import qualified Text.XML.Light as X {- xml -}
 
-import qualified Text.HTML.Light as H {- html-minimalist -}
-import qualified Text.HTML.Light.Composite.Menu as H {- html-minimalist -}
+import qualified Text.HTML.Minus as H {- html-minus -}
 
 type Area = String
 type Id = String
