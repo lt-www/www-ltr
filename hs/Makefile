@@ -19,3 +19,5 @@ ln-local:
 	rm -f WWW
 	ln -s $(HOME)/sw/www-minus/WWW WWW
 
+cabal-dep:
+	cabal install $(shell hsc3-setup pkg-dep -non-local *.hs)
