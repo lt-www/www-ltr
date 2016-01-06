@@ -1,5 +1,29 @@
 ## shows/archive   
   
+* * * * *      
+
+**QUEENSLAND**  
+
+**Thursday 31st December 2015**  
+[WOODFORD FOLK FESTIVAL][231]            
+Orchard stage    
+with HAMISH STUART   
+
+**Wednesday 30th December 2015**  
+[WOODFORD FOLK FESTIVAL][231]            
+Bluestown stage      
+with HAMISH STUART  
+
+**Tuesday 29th December 2015**  
+[WOODFORD FOLK FESTIVAL][231]            
+Bluestown stage    
+with HAMISH STUART   
+
+**Monday 28th December 2015**  
+[WOODFORD FOLK FESTIVAL][231]                
+Orchard stage    
+with HAMISH STUART   
+ 
 * * * * *    
 
 **NSW**  
@@ -1137,5 +1161,4 @@ if you'd care to know, there are still details of lucie's old shows:
   [2004]: ?p=shows/archive/2004/
   [2003]: ?p=shows/archive/2003/
   [2002]: ?p=shows/archive/2002/
-
 
