@@ -1,4 +1,4 @@
-- Lucie Thorne [Biography - August 2015][32] (pdf)      
+- Lucie Thorne [Biography][32] (pdf)      
 
 * * * * * 
 
