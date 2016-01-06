@@ -1,25 +1,3 @@
-**QUEENSLAND**  
-
-**Monday 28th December 2015**  
-[WOODFORD FOLK FESTIVAL][231]                
-Orchard stage - 2.30pm  
-with HAMISH STUART     
-
-**Tuesday 29th December 2015**  
-[WOODFORD FOLK FESTIVAL][231]            
-Bluestown stage - 1.30pm  
-with HAMISH STUART   
-
-**Wednesday 30th December 2015**  
-[WOODFORD FOLK FESTIVAL][231]            
-Bluestown stage - 6.30pm  
-with HAMISH STUART     
-
-**Thursday 31st December 2015**  
-[WOODFORD FOLK FESTIVAL][231]            
-Orchard stage - 2.30pm  
-with HAMISH STUART   
-
 * * * * *       
 
 **TASMANIA**  
@@ -77,6 +55,11 @@ Main St, **SHEFFIELD**
 with Ben Salter and Van Walker  
 Bookings: 0400 467 317      
 
+**Sunday 31st January 2016**  
+TIGER BAR                    
+**MOLE CREEK**                
+with Ben Salter and Van Walker  
+
 * * * * *         
 
 **NSW**    
@@ -103,15 +86,7 @@ with HAMISH STUART
 [Tickets on sale now][238]    
 
 * * * * *       
-
-**TASMANIA**    
-
-**Saturday 27th February 2016**  
-MONA            
-**HOBART**        
-details tba    
-
-* * * * *       
+     
 [past shows][archive]
 
 [archive]: ?p=shows/archive/
