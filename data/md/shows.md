@@ -8,11 +8,10 @@ Willie Smith's
 with Ben Salter & Van Walker      
 
 **Saturday 16th January 2016**  
-FRANKIE'S EMPIRE          
-Upstairs, 129 Elizabeth St, **HOBART**        
+HOUSE CONCERT          
+**HOBART**        
 with Van Walker  
-8pm  
-[Tickets on sale now][235]    
+8pm      
 
 **Sunday 17th January 2016**  
 HOUSE CONCERT            
