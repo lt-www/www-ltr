@@ -6,16 +6,17 @@
 Willie Smith's            
 **GROVE**        
 with Ben Salter & Van Walker      
+6.30pm  
 
 **Saturday 16th January 2016**  
 HOUSE CONCERT          
-**HOBART**        
+3 Forest Rd, **WEST HOBART**        
 with Van Walker  
 8pm      
 
 **Sunday 17th January 2016**  
 HOUSE CONCERT            
-**ST MARYS**        
+Mollydooka, **ST MARYS**        
 with Van Walker and Pete Cornelius    
 2pm    
 Bookings/info: 0419 703 864  
