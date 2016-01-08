@@ -1,3 +1,11 @@
+### 6 January 2016 | Sweet Sixteen      
+
+Happy New Year! Thanks to all at Woodford Folk Festival for bringing the new year in with so much love and music! Next stop: Tassie! Details up on the [shows][shows] page...  
+
+![](data/image/news/LTWFF.JPG)   
+
+* * * * *       
+
 ### 1 December 2015 | Southern Summer    
 
 A quiet start to the summer... followed by lots of shows - in Queensland, Tassie and NSW! Kicking off at Woodford! Summer tour dates are [up now][shows].  
