@@ -55,11 +55,6 @@ Main St, **SHEFFIELD**
 with Ben Salter and Van Walker  
 Bookings: 0400 467 317      
 
-**Sunday 31st January 2016**  
-TIGER BAR                    
-**MOLE CREEK**                
-with Ben Salter and Van Walker  
-
 * * * * *         
 
 **NSW**    
