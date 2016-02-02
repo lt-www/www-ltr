@@ -1,4 +1,3 @@
-
 * * * * *         
 
 **NSW**    
@@ -25,7 +24,30 @@ with HAMISH STUART
 [Tickets on sale now][238]    
 
 * * * * *       
-     
+
+**TASMANIA**    
+
+**Saturday 28th February 2016**  
+MONA  
+Berriedale, **HOBART**    
+1pm    
+
+* * * * *       
+   
+**VICTORIA**   
+
+**Saturday 19th March 2016**  
+THE PARISH    
+**VIOLET TOWN**        
+with JO JO SMITH  
+
+**Sunday 20th March 2016**  
+PIZZA & WINE CLUB      
+**KYNETON**          
+with JO JO SMITH      
+
+* * * * *        
+
 [past shows][archive]
 
 [archive]: ?p=shows/archive/
