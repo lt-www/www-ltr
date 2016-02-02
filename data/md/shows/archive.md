@@ -1,5 +1,42 @@
 ## shows/archive   
-  
+ 
+* * * * *       
+
+**TASMANIA**   
+
+**Friday 29th January 2016**  
+LIVE at THE WHARF              
+Gnomon Pavilion, **ULVERSTONE**            
+with Ben Salter and Van Walker    
+
+**Thursday 28th January 2016**  
+FRESH            
+Charles St, **LAUNCESTON**          
+with Ben Salter and Van Walker    
+
+* * * * *       
+
+**QUEENSLAND**  
+
+**Friday 22nd January 2016**         
+JUNK BAR          
+Waterworks Rd, Ashgrove, **BRISBANE**  
+with Jimmy Dowling and Van Walker  
+
+* * * * *       
+
+**TASMANIA**  
+
+**Sunday 17th January 2016**  
+HOUSE CONCERT            
+**ST MARYS**        
+with Van Walker and Pete Cornelius    
+
+**Saturday 16th January 2016**  
+HOUSE CONCERT          
+**WEST HOBART**        
+with Van Walker    
+
 * * * * *      
 
 **QUEENSLAND**  
