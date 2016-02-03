@@ -40,6 +40,8 @@ Berriedale, **HOBART**
 THE PARISH    
 **VIOLET TOWN**        
 with JO JO SMITH  
+7pm  
+Bookings: 0402 987 641  
 
 **Sunday 20th March 2016**  
 PIZZA & WINE CLUB      
