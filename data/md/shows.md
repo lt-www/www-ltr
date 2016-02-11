@@ -46,7 +46,8 @@ Bookings: 0402 987 641
 **Sunday 20th March 2016**  
 PIZZA & WINE CLUB      
 **KYNETON**          
-with JO JO SMITH      
+with JO JO SMITH   
+1pm     
 
 * * * * *        
 
