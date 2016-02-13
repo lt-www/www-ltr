@@ -49,6 +49,22 @@ PIZZA & WINE CLUB
 with JO JO SMITH   
 1pm     
 
+**Saturday 9th April 2016**  
+THE UNION         
+Brunswick, **MELBOURNE**             
+5-7pm  
+   
+**Saturday 16th April 2016**  
+THE UNION         
+Brunswick, **MELBOURNE**             
+5-7pm   
+
+**Sunday 17th April 2016**  
+THE OLD CHURCH ON THE HILL           
+**BENDIGO**               
+with SUZANNAH ESPIE  
+4pm   
+
 * * * * *        
 
 [past shows][archive]
