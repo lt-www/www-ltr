@@ -1,3 +1,9 @@
+### 14 February 2016 | Hamish Stuart  
+
+Lucie plays three shows in duet with Hamish Stuart this week - in Bellingen, Wauchope and Sydney.  [Details here][shows]          
+
+* * * * *     
+
 ### 6 January 2016 | Sweet Sixteen      
 
 Happy New Year! Thanks to all at Woodford Folk Festival for bringing the new year in with so much love and music! Next stop: Tassie! Details up on the [shows][shows] page...  
