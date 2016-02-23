@@ -1,11 +1,11 @@
 **TASMANIA**    
 
-**Saturday 28th February 2016**  
+**Saturday 27th February 2016**  
 MONA - Mainstage    
 Berriedale, **HOBART**    
 1pm    
 
-**Saturday 28th February 2016**  
+**Saturday 27th February 2016**  
 THE HOMESTEAD    
 Elizabeth St, **NORTH HOBART**    
 9pm    
