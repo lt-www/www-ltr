@@ -1,24 +1,3 @@
-* * * * *         
-
-**NSW**    
-
-**Friday 19th February 2016**  
-NUMBER 5                
-Church St, **BELLINGEN**    
-with HAMISH STUART                  
-
-**Saturday 20th February 2016**  
-WAUCHOPE ARTS HALL  
-**WAUCHOPE**  
-with HAMISH STUART                  
-
-**Sunday 21st February 2016**  
-LAMPS                  
-342 Elizabeth St, Surry Hills, **SYDNEY**    
-with HAMISH STUART                
-
-* * * * *       
-
 **TASMANIA**    
 
 **Saturday 28th February 2016**  
