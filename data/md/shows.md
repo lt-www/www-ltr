@@ -5,36 +5,49 @@
 **Friday 19th February 2016**  
 NUMBER 5                
 Church St, **BELLINGEN**    
-with HAMISH STUART             
-7pm  
-[Tickets on sale now][239]      
+with HAMISH STUART                  
 
 **Saturday 20th February 2016**  
 WAUCHOPE ARTS HALL  
 **WAUCHOPE**  
-with HAMISH STUART             
-7.30pm  
-Bookings: 0429 854 733      
+with HAMISH STUART                  
 
 **Sunday 21st February 2016**  
 LAMPS                  
 342 Elizabeth St, Surry Hills, **SYDNEY**    
-with HAMISH STUART             
-7pm    
-[Tickets on sale now][238]    
+with HAMISH STUART                
 
 * * * * *       
 
 **TASMANIA**    
 
 **Saturday 28th February 2016**  
-MONA  
+MONA - Mainstage    
 Berriedale, **HOBART**    
 1pm    
+
+**Saturday 28th February 2016**  
+THE HOMESTEAD    
+Elizabeth St, **NORTH HOBART**    
+9pm    
 
 * * * * *       
    
 **VICTORIA**   
+
+**Friday 4th March 2016**  
+[THE CORNER HOTEL][240]        
+Richmond, **MELBOURNE**        
+as part of the *Strung Out on Heaven's High* David Bowie Tribute     
+8pm    
+[Tickets on sale now][240]  
+
+**Thursday 10th March 2016**  
+THE LOMOND        
+East Brunswick, **MELBOURNE**       
+as part of the *Sing Out Sister* IWD event     
+8pm   
+*free entry*     
 
 **Saturday 19th March 2016**  
 THE PARISH    
@@ -232,3 +245,4 @@ with SUZANNAH ESPIE
 [237]: http://www.trybooking.com/JTLN    
 [238]: http://www.trybooking.com/JWJA  
 [239]: http://www.trybooking.com/JXVF
+[240]: https://corner.ticketscout.com.au/gigs/5039-david-bowie-tribute?_ga=1.130613255.940861437.1453448227
