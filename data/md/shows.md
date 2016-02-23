@@ -8,7 +8,8 @@ Berriedale, **HOBART**
 **Saturday 27th February 2016**  
 THE HOMESTEAD    
 Elizabeth St, **NORTH HOBART**    
-9pm    
+9pm  
+*free entry*       
 
 * * * * *       
    
