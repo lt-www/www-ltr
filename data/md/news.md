@@ -1,6 +1,6 @@
 ### 23 February 2016 | Hobart    
 
-Lucie returns to Hobart this Saturday to play not one but two shows! Two solo sets on the MONA Main stage from 1pm, followed by two solo sets at the Homestead from 9pm. That's a lot of songs. And both shows are free entry. See you there Hobart!            
+Lucie returns to Hobart this Saturday to play not one but [two shows][shows]! Two solo sets on the MONA Main stage from 1pm, followed by two solo sets at the Homestead from 9pm. That's a lot of songs. And both shows are free entry. See you there Hobart!            
 
 * * * * *    
 
