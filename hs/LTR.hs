@@ -103,7 +103,7 @@ std_copyright cf p =
          --,H.br []
          ,H.copy
          ,H.a [H.href lt_site] [H.cdata "lucie thorne"]
-         ,H.cdata " 2015. " {- 1998- -}
+         ,H.cdata " 2016. " {- 1998- -}
          ,H.a [H.href H.w3_html_validator] [H.cdata "html"]
          ,H.cdata ", "
          ,H.a [H.href H.w3_css_validator] [H.cdata "css"]

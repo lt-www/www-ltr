@@ -4,8 +4,8 @@ description:       lucie thorne website
 author:            Rohan Drape
 maintainer:        rd@slavepianos.org
 stability:         Experimental
-homepage:          http://rd.slavepianos.org/?t=www-ltr
-tested-with:       GHC==7.6.1
+homepage:          http://rd.slavepianos.org/t/www-ltr
+tested-with:       GHC==7.10.3
 build-type:        Simple
 cabal-version:     >= 1.8
 
