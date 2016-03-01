@@ -57,6 +57,7 @@ THE OLD CHURCH ON THE HILL
 **BENDIGO**               
 with SUZANNAH ESPIE  
 4pm   
+[Tickets on sale now][241]    
 
 * * * * *        
 
@@ -226,3 +227,4 @@ with SUZANNAH ESPIE
 [238]: http://www.trybooking.com/JWJA  
 [239]: http://www.trybooking.com/JXVF
 [240]: https://corner.ticketscout.com.au/gigs/5039-david-bowie-tribute?_ga=1.130613255.940861437.1453448227
+[241]: http://www.trybooking.com/KQMK
