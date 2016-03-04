@@ -1,3 +1,9 @@
+### 4 March 2016 | Strung Out on Heaven's High  
+
+Tonight Lucie performs a couple of songs at the Big Bowie Tribute at Melbourne's Corner Hotel. She'll be joined by very special guests *The Early Nights* on harmony vocals - and matching outfits! and the show has now SOLD OUT! Oh Starman.. xx    
+
+* * * * *    
+
 ### 23 February 2016 | Hobart    
 
 Returning to Hobart this Saturday to play not one but [two shows][shows]! Two solo sets on the MONA Main stage from 1pm, followed by two solo sets at the Homestead from 9pm. That's a lot of songs. And both shows are free entry. See you there Hobart!            
