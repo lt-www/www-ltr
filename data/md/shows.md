@@ -5,7 +5,7 @@
 Richmond, **MELBOURNE**        
 as part of the *Strung Out on Heaven's High* David Bowie Tribute     
 8pm    
-[Tickets on sale now][240]  
+//SOLD OUT!//  
 
 **Thursday 10th March 2016**  
 THE LOMOND        
