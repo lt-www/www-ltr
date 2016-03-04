@@ -2,6 +2,18 @@
  
 * * * * *         
 
+**TASMANIA**    
+
+**Saturday 27th February 2016**  
+THE HOMESTEAD    
+Elizabeth St, **NORTH HOBART**   
+
+**Saturday 27th February 2016**  
+MONA - Mainstage    
+Berriedale, **HOBART**      
+
+* * * * *       
+
 **NSW**    
 
 **Sunday 21st February 2016**  
