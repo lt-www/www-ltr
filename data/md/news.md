@@ -1,3 +1,9 @@
+### 9 March 2016 | Melbourne  
+
+Lucie will play a solo set at Melbourne's Lomond Hotel tomorrow night - as part of the IWD *Sing Out Sister* event (LT on stage around 10pm), and then on Friday night she'll be a guest member of *The Early Nights* for a night! at the Thornbury Local (from 9.30pm). Both shows are free entry!       
+
+* * * * *    
+
 ### 4 March 2016 | Strung Out on Heaven's High  
 
 Tonight Lucie performs a couple of songs at the Big Bowie Tribute at Melbourne's Corner Hotel. She'll be joined by very special guests *The Early Nights* on harmony vocals - and matching outfits! and the show has now SOLD OUT! Oh Starman.. xx    
