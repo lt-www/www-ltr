@@ -4,7 +4,7 @@
 THE LOMOND        
 East Brunswick, **MELBOURNE**       
 as part of the *Sing Out Sister* IWD event     
-8pm   
+8.30pm   
 *free entry*    
 
 **Friday 11th March 2016**  
@@ -135,80 +135,4 @@ with SUZANNAH ESPIE
 [167]: http://www.nannupmusicfestival.org/  
 [168]: http://www.brunswickmusicfestival.com.au/program-love-over-gold.htm    
 [169]: http://www.bmff.org.au    
-[170]: http://thethornburytheatre.com/event/jo-jo-smith-cd-launch-standing-lovelight/
-[171]: http://www.martianscafe.com.au/#!Lucie%20Thorne%20%26%20Sal%20Kimber/cye6/hsvjhr3d22  
-[172]: http://www.themainbar.com.au/  
-[173]: http://oldhepburnhotel.com.au/cms/events/bands/lucie-thorne/
-[174]: http://wheatsheafhotel.com.au/gigs
-[175]: http://www.singinggallery.com.au/  
-[176]: http://harmonyrow.com.au/concerts-other-events/  
-[177]: http://www.themelbournefolkclub.com/june-4th/ 
-[178]: http://www.lizstringer.com  
-[179]: http://www.trybooking.com/85864 
-[180]: http://www.mullummusic.com  
-[181]: http://www.trybooking.com/90311
-[182]: http://www.musichunterprojects.com/node/32
-[183]: http://www.trybooking.com/91475
-[184]: http://thornburytheatre.oztix.com.au/?Event=44753
-[184.1]: http://thethornburytheatre.com/event/lucie-thorne-hamish-stuart-plus-special-guest-suzannah-espie/
-[185]: http://bridgehotelcastlemaine.com/gigs/
-[186]: http://www.healesvillemusicfestival.com.au/artists.html
-[187]: http://www.mezz.nl/programma/Lucie-Thorne-(AU)/28681  
-[188]: http://retreathotelbrunswick.com.au/gigs/
-[189]: http://www.grounds.nu/?event=lucie-thorne-support-tba
-[190]: http://www.realphonic.com/  
-[191]: http://icmill.com/  
-[192]: http://www.astercafe.com/event/lucie-thorne-rossetto-huckfelt-lewis-bates/   
-[193]: http://www.trybooking.com/GBRB
-[194]: http://oldhepburnhotel.com.au/cms/events/bands/lucie-thorne/
-[195]: http://www.harvestermoon.com.au/live-music/
-[195.1]: http://www.trybooking.com/107011
-[196]: http://www.trybooking.com/Booking/BookingEventSummary.aspx?eid=106097
-[197]: http://frl2014.bilyana.com/  
-[198]: http://folkfestival.org.au/  
-[199]: http://www.bendigobluesandroots.com.au/events.php  
-[200]: http://folkfestival.org.au/  
-[201]: http://www.trybooking.com/119595
-[202]: http://thethornburytheatre.com/event/lucie-thorne-hamish-stuart-rushing-dark-single-launch/    
-[203]: http://yackfolkfestival.com/    
-[204]: http://www.trybooking.com/HMBA  
-[205]: http://www.crossingtheatre.com.au/events/events.html    
-[205.1]: http://www.crossingtheatre.com.au/events/tickets.html  
-[206]: http://www.mullummusic.com.au   
-[207]: http://www.trybooking.com/HPTZ     
-[208]: http://www.bellowintermusic.com 
-[208.1]: http://www.bellowintermusic.com/db101_element_tickets_1.0.asp  
-[209]: http://www.trybooking.com/HODJ   
-[210]: http://www.trybooking.com/HPXZ    
-[211]: http://www.ellingtonjazz.com.au/event/lucie-thorne-hamish-stuart-everything-sings-tonight-australian-winter-tour/   
-[212]: http://www.trybooking.com/HPTK    
-[213]: http://www.trybooking.com/HPXM   
-[214]: https://www.stickytickets.com.au/26088  
-[215]: http://www.trybooking.com/HRWM  
-[216]: https://northcotesc.ticketscout.com.au/gigs/3868-lucie-thorne-hamish-stuart?_ga=1.194478383.340423014.1343744507
-[217]: http://www.trybooking.com/HRYG  
-[218]: http://www.trybooking.com/HRYS  
-[219]: http://www.trybooking.com/HSAA  
-[220]: http://www.trybooking.com/HRZF    
-[221]: http://www.lizstringer.com    
-[222]: http://www.trybooking.com/HUBT  
-[222.2]: http://www.candelovillagefestival.org/whats-on/  
-[223]: http://shop.parlourgigs.com/product/lucie-thorne-saturday-august-8-tawonga-south-victoria/  
-[224]: http://www.trybooking.com/IWNO     
-[225]: http://www.bendigobluesandroots.com.au/lineup.php
-[226]: http://www.mullummusicfestival.com/Line%20Up/114  
-[227]: https://www.stickytickets.com.au/30387  
-[228]: http://www.trybooking.com/JEPA  
-[229]: http://stathe.nl/agenda.html  
-[230]: http://www.trybooking.com/JHOJ  
-[231]: http://woodfordfolkfestival.com/  
-[233]: http://www.smithsalternative.com/events/lucie-thorne-4031  
-[232]: http://tickets.oztix.com.au/?Event=56704  
-[234]: http://www.bandviews.com    
-[235]: http://www.trybooking.com/JVNQ    
-[236]: http://www.trybooking.com/JTLR  
-[237]: http://www.trybooking.com/JTLN    
-[238]: http://www.trybooking.com/JWJA  
-[239]: http://www.trybooking.com/JXVF
-[240]: https://corner.ticketscout.com.au/gigs/5039-david-bowie-tribute?_ga=1.130613255.940861437.1453448227
-[241]: http://www.trybooking.com/KQMK
+[1
