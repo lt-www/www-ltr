@@ -1,5 +1,13 @@
 ## shows/archive   
  
+**Victoria**   
+
+**Friday 4th March 2016**  
+THE CORNER HOTEL          
+Richmond, **MELBOURNE**        
+as part of the *Strung Out on Heaven's High* David Bowie Tribute     
+//SOLD OUT!//  
+
 * * * * *         
 
 **TASMANIA**    
