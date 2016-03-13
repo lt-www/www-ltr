@@ -45,6 +45,16 @@ with SUZANNAH ESPIE
 
 * * * * *        
 
+**NSW**   
+
+**Sunday 24th April 2016**  
+GOOLOOGONG HOTEL             
+**GOOLOOGONG**               
+with MICK DALEY    
+4pm   
+
+* * * * *        
+
 [past shows][archive]
 
 [archive]: ?p=shows/archive/
