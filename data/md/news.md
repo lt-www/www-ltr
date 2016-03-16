@@ -1,4 +1,4 @@
-### 9 March 2016 | JO JO SMITH  
+### 16 March 2016 | JO JO SMITH  
 
 Reuniting with the fabulous Jo Jo Smith for two shows this weekend: Sat 19th in Violet Town, Sun 20th in Kyneton. [Details here][shows]     
 
