@@ -1,3 +1,9 @@
+### 9 March 2016 | JO JO SMITH  
+
+Reuniting with the fabulous Jo Jo Smith for two shows this weekend: Sat 19th in Violet Town, Sun 20th in Kyneton. [Details here][shows]     
+
+* * * * *     
+
 ### 9 March 2016 | Melbourne  
 
 Lucie will play a solo set at Melbourne's Lomond Hotel tomorrow night - as part of the IWD *Sing Out Sister* event (LT on stage around 10pm), and then on Friday night she'll be a guest member of *The Early Nights* for a night! at the Thornbury Local (from 9.30pm). Both shows are free entry!       
