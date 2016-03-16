@@ -2,6 +2,16 @@
  
 **Victoria**   
 
+**Friday 11th March 2016**  
+THE THORNBURY LOCAL          
+High St Thornbury, **MELBOURNE**        
+*guest appearance with the EARLY NIGHTS*      
+
+**Thursday 10th March 2016**  
+THE LOMOND        
+East Brunswick, **MELBOURNE**       
+as part of the *Sing Out Sister* IWD event    
+
 **Friday 4th March 2016**  
 THE CORNER HOTEL          
 Richmond, **MELBOURNE**        
