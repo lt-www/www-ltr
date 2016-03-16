@@ -1,18 +1,5 @@
 **VICTORIA**   
 
-**Thursday 10th March 2016**  
-THE LOMOND        
-East Brunswick, **MELBOURNE**       
-as part of the *Sing Out Sister* IWD event     
-8.30pm   
-*free entry*    
-
-**Friday 11th March 2016**  
-THE THORNBURY LOCAL          
-High St Thornbury, **MELBOURNE**        
-*guest appearance with the EARLY NIGHTS*    
-9.30pm  
-
 **Saturday 19th March 2016**  
 THE PARISH    
 **VIOLET TOWN**        
