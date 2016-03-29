@@ -29,6 +29,48 @@ with MICK DALEY
 
 * * * * *        
 
+**NSW**   
+
+**Thursday 12th May 2016**  
+PORCHLIGHT SESSIONS               
+Petersham Bowling Club, **SYDNEY**               
+with SUZANNAH ESPIE 
+7.30pm 
+[Tickets on sale now][242]  
+
+**Friday 13th May 2016**  
+SUNSET STUDIOS                   
+Mayfield, **NEWCASTLE**                 
+with SUZANNAH ESPIE   
+7.30pm     
+
+**Saturday 14th May 2016**    
+HOUSE CONCERT                     
+**AUSTINMER**                 
+with SUZANNAH ESPIE   
+    
+**ACT**     
+
+**Sunday 15th May 2016**    
+SMITHS                       
+**CANBERRA**                 
+with SUZANNAH ESPIE    
+6.30pm
+[Tickets on sale now][243]    
+
+* * * * *      
+
+**VICTORIA**     
+
+**Thursday 19th May 2016**  
+SUTTONS HOUSE OF MUSIC               
+**BALLARAT**               
+with JO JO SMITH   
+8pm 
+[Tickets on sale now][244]  
+
+* * * * *      
+
 [past shows][archive]
 
 [archive]: ?p=shows/archive/
@@ -119,4 +161,7 @@ with MICK DALEY
 [167]: http://www.nannupmusicfestival.org/  
 [168]: http://www.brunswickmusicfestival.com.au/program-love-over-gold.htm    
 [169]: http://www.bmff.org.au    
-[241]: http://www.trybooking.com/KQMK  
+[241]: http://www.trybooking.com/KQMK
+[242]: http://www.trybooking.com/KQYX    
+[243]: http://www.smithsalternative.com/events/lucie-thorne-suzannah-espie-10602
+[244]: https://www.trybooking.com/192284
