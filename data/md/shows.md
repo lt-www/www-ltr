@@ -34,9 +34,9 @@ with MICK DALEY
 **Thursday 12th May 2016**  
 PORCHLIGHT SESSIONS               
 Petersham Bowling Club, **SYDNEY**               
-with SUZANNAH ESPIE 
-7.30pm 
-[Tickets on sale now][242]  
+with SUZANNAH ESPIE   
+7.30pm   
+[Tickets on sale now][242]    
 
 **Friday 13th May 2016**  
 SUNSET STUDIOS                   
