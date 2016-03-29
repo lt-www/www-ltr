@@ -55,7 +55,7 @@ with SUZANNAH ESPIE
 SMITHS                       
 **CANBERRA**                 
 with SUZANNAH ESPIE    
-6.30pm
+6.30pm  
 [Tickets on sale now][243]    
 
 * * * * *      
@@ -66,7 +66,7 @@ with SUZANNAH ESPIE
 SUTTONS HOUSE OF MUSIC               
 **BALLARAT**               
 with JO JO SMITH   
-8pm 
+8pm   
 [Tickets on sale now][244]  
 
 * * * * *      
