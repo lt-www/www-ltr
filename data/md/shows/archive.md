@@ -2,6 +2,17 @@
  
 **Victoria**   
 
+
+**Sunday 20th March 2016**  
+PIZZA & WINE CLUB      
+**KYNETON**          
+with JO JO SMITH    
+
+**Saturday 19th March 2016**  
+THE PARISH    
+**VIOLET TOWN**        
+with JO JO SMITH    
+
 **Friday 11th March 2016**  
 THE THORNBURY LOCAL          
 High St Thornbury, **MELBOURNE**        
@@ -1193,58 +1204,4 @@ with 'Halfway to Fourth'
 [126]: http://www.muziekgebouweindhoven.nl
 [126.3]: http://www.bendigowritersfestival.com.au/Home
 [126.1]: http://www.bendigowritersfestival.com.au/Whats_On/The_Best_Song_Ever_Written 
-[126.2]: http://www.bendigowritersfestival.com.au/Whats_On/Write_on_Song
-[127]: http://www.love-over-gold.com 
-[146]: http://www.vaudevillemews.com/
-[147]: http://www.legionarts.org
-[148]: http://www.route20outhouse.com/
-[149]: http://www.oldtownschool.org/concerts/
-[150]: http://www.englert.org  
-[151]: http://www.belfryevents.com/  
-[152]: http://www.roguetheatre.com
-[153]: http://www.ofam.org/
-[154]: http://www.treehousebainbridge.com/
-[155]: http://www.thetripledoor.net/
-[156]: http://gregbrownmusic.org/  
-[157]: http://masonjennings.com/
-[158]: http://www.knuckleheadshonkytonk.com    
-[159]: http://iowapublicradio.org/post/pieta-brown-and-lucie-thorne-live-folk-tree-join-us  
-[160]: http://www.publicbroadcasting.net/ipr/events.eventsmain?action=showEvent&eventID=1428595  
-[162]: http://www.freshoncharles.com.au/event/lucie-thorne-live-at-fresh  
-[163]: http://www.cygnetfolkfestival.org/
-[167]: http://www.nannupmusicfestival.org/  
-[168]: http://www.brunswickmusicfestival.com.au/program-love-over-gold.htm    
-[169]: http://www.bmff.org.au    
-[177]: http://www.themelbournefolkclub.com/june-4th/ 
-[178]: http://www.lizstringer.com  
-[186]: http://www.healesvillemusicfestival.com.au/artists.html
-[187]: http://www.mezz.nl/programma/Lucie-Thorne-(AU)/28681  
-[188]: http://retreathotelbrunswick.com.au/gigs/
-[189]: http://www.grounds.nu/?event=lucie-thorne-support-tba
-[190]: http://www.realphonic.com/  
-[191]: http://icmill.com/  
-[192]: http://www.astercafe.com/event/lucie-thorne-rossetto-huckfelt-lewis-bates/   
-[200]: http://folkfestival.org.au/    
-[208]: http://www.bellowintermusic.com/
-[222.2]: http://www.candelovillagefestival.org/whats-on/    
-[225]: http://www.bendigobluesandroots.com.au/lineup.php  
-[226]: http://www.mullummusicfestival.com/Line%20Up/114    
-[231]: http://woodfordfolkfestival.com/  
-
-if you'd care to know, there are still details of lucie's old shows:
-[2013][2013], [2012][2012], [2011][2011], [2010][2010], [2009][2009],
-[2008][2008], [2007][2007], [2006][2006], [2005][2005], [2004][2004],
-[2003][2003] & [2002][2002]
-
-  [2013]: ?p=shows/archive/2013/
-  [2012]: ?p=shows/archive/2012/
-  [2011]: ?p=shows/archive/2011/
-  [2010]: ?p=shows/archive/2010/
-  [2009]: ?p=shows/archive/2009/
-  [2008]: ?p=shows/archive/2008/
-  [2007]: ?p=shows/archive/2007/
-  [2006]: ?p=shows/archive/2006/
-  [2005]: ?p=shows/archive/2005/
-  [2004]: ?p=shows/archive/2004/
-  [2003]: ?p=shows/archive/2003/
-  [2002]: ?p=shows/archive/2002/
+[126.2]: http://www.bendigowritersfestiv
