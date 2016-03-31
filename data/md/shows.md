@@ -25,7 +25,7 @@ with SUZANNAH ESPIE
 GOOLOOGONG HOTEL             
 **GOOLOOGONG**               
 with MICK DALEY    
-4pm   
+2pm   
 
 * * * * *        
 
@@ -63,7 +63,7 @@ with SUZANNAH ESPIE
 **VICTORIA**     
 
 **Thursday 19th May 2016**  
-SUTTONS HOUSE OF MUSIC               
+[SUTTONS HOUSE OF MUSIC][245]                 
 **BALLARAT**               
 with JO JO SMITH   
 8pm   
@@ -165,3 +165,4 @@ with JO JO SMITH
 [242]: http://www.trybooking.com/KQYX    
 [243]: http://www.smithsalternative.com/events/lucie-thorne-suzannah-espie-10602
 [244]: https://www.trybooking.com/192284
+[245]: http://suttonshouseofmusic.com.au/
