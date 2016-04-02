@@ -1,3 +1,10 @@
+
+### 2 April 2016 | The Union    
+
+Two solo shows coming up at Melbourne's Union Hotel in downtown Brunswick - Sat 9th & Sat 16th April. [Details here][shows]   
+
+* * * * *     
+
 ### 16 March 2016 | JO JO SMITH  
 
 Reuniting with the fabulous Jo Jo Smith for two shows this weekend: Sat 19th in Violet Town, Sun 20th in Kyneton. [Details here][shows]     
