@@ -43,6 +43,7 @@ SUNSET STUDIOS
 Mayfield, **NEWCASTLE**                 
 with SUZANNAH ESPIE   
 7.30pm     
+[Tickets on sale now][246]    
 
 **Saturday 14th May 2016**    
 HOUSE CONCERT                     
@@ -165,4 +166,5 @@ with JO JO SMITH
 [242]: http://www.trybooking.com/KQYX    
 [243]: http://www.smithsalternative.com/events/lucie-thorne-suzannah-espie-10602
 [244]: https://www.trybooking.com/192284
-[245]: http://suttonshouseofmusic.com.au/
+[245]: http://suttonshouseofmusic.com.au/  
+[246]: https://trybooking.com/LCGN  
