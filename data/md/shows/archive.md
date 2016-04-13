@@ -361,7 +361,6 @@ Todd St, **ALICE SPRINGS**
 THE TOWN HALL       
 William St, **CANDELO**   
 duet show with HAMISH STUART            
-*presented by the [Candelo Arts Society][222.2]*  
   
 **ACT**        
 
@@ -387,19 +386,19 @@ duet show with HAMISH STUART
 plus special guest CHRIS ABRAHAMS               
 
 **Sunday 5th July 2015**  
-[BELLO WINTER FESTIVAL][208]                
+BELLO WINTER FESTIVAL                
 Number 5 Church Street     
 **BELLINGEN**     
 duet show with HAMISH STUART   
 
 **Saturday 4th July 2015**  
-[BELLO WINTER FESTIVAL][208]                
+BELLO WINTER FESTIVAL                   
 Digger's Tavern    
 **BELLINGEN**     
 duet show with HAMISH STUART  
 
 **Friday 3rd July 2015**  
-[BELLO WINTER FESTIVAL][208]                
+BELLO WINTER FESTIVAL                        
 St Margaret's Hall  
 **BELLINGEN**     
 duet show with HAMISH STUART       
@@ -496,19 +495,19 @@ with LIZ STRINGER
 **ACT**      
 
 **Monday 6th April 2015**  
-[NATIONAL FOLK FESTIVAL][200]   
+NATIONAL FOLK FESTIVAL  
 **CANBERRA**  
 The Marquee Stage, Exhibition Park  
 duet show with HAMISH STUART   
 
 **Sunday 5th April 2015**  
-[NATIONAL FOLK FESTIVAL][200]   
+NATIONAL FOLK FESTIVAL    
 **CANBERRA**  
 Budawang, Exhibition Park  
 duet show with HAMISH STUART   
 
 **Friday 3rd April 2015**  
-[NATIONAL FOLK FESTIVAL][200]   
+NATIONAL FOLK FESTIVAL   
 **CANBERRA**  
 The Marquee Stage, Exhibition Park  
 duet show with HAMISH STUART   
@@ -652,11 +651,11 @@ Old Hepburn Hotel
 **HEPBURN SPRINGS**      
 
 **Saturday 15th November 2014**  
-[Healesville Music Festival][186]   
+Healesville Music Festival   
 **HEALESVILLE**    
 
 **Friday 14th November 2014**  
-[Healesville Music Festival][186]    
+Healesville Music Festival     
 **HEALESVILLE**  
 
 * * * * *    
@@ -672,12 +671,12 @@ Woodlands Run Festival
 **USA**  
 
 **Monday 27th October 2014**        
-[THE ASTER][192]              
+THE ASTER             
 125 SE Main Street, **MINNEAPOLIS, MN**     
 with ROSSETTO, HUCKFELT, LEWIS & BATES   
 
 **Thursday 23rd October 2014**        
-[THE MILL][191]            
+THE MILL          
 120 E. Burlington Street, **IOWA CITY, IA**     
 with DUSTIN BUSCH   
 
@@ -880,10 +879,10 @@ Smiths Alternative Bookstore
 
 **Saturday 14th June 2014**  
 Baby Black Cafe, BACCHUS MARSH  
-double-bill with [LIZ STRINGER][178]      
+double-bill with LIZ STRINGER        
  
 **Wednesday 4th June 2014**    
-[The Melbourne Folk Club][177]    
+The Melbourne Folk Club  
 Bella Union at Trades Hall, MELBOURNE        
 with Jackson McLaren and Luka Lesson.  
 
@@ -934,11 +933,13 @@ interview and live-to-air performance on *The Morning show with Simon Marnie.*
 ABC Radio Statewide.  
 
 **Wednesday 23rd April 2014**    
-Sunset Studio, 1-3 Maitland Rd, NEWCASTLE  
+Sunset Studio  
+1-3 Maitland Rd, NEWCASTLE  
 *duet show with HAMISH STUART*    
 
 **Saturday 26th April 2014**    
-Rad Bar (formerly Yours & Owls), Crown St, WOLLONGONG    
+Rad Bar   
+Crown St, WOLLONGONG    
 *duet show with HAMISH STUART*  
 
 * * * * *    
@@ -946,7 +947,8 @@ Rad Bar (formerly Yours & Owls), Crown St, WOLLONGONG
 **VICTORIA**  
 
 **Friday 11th April 2014**    
-The Thornbury Theatre, MELBOURNE  
+The Thornbury Theatre  
+MELBOURNE  
 with JO JO SMITH*     
    
 * * * * *    
@@ -1205,4 +1207,3 @@ with 'Halfway to Fourth'
 [125.1]: http://www.harvestermoon.com.au/live-music/  
 [126]: http://www.muziekgebouweindhoven.nl
 [126.3]: http://www.bendigowritersfestival.com.au/Home
-
