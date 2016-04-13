@@ -2,6 +2,9 @@
  
 **Victoria**   
 
+**Saturday 9th April 2016**  
+THE UNION         
+Brunswick, **MELBOURNE**    
 
 **Sunday 20th March 2016**  
 PIZZA & WINE CLUB      
