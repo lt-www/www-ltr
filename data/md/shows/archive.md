@@ -105,22 +105,22 @@ with Van Walker
 **QUEENSLAND**  
 
 **Thursday 31st December 2015**  
-[WOODFORD FOLK FESTIVAL][231]            
+WOODFORD FOLK FESTIVAL             
 Orchard stage    
 with HAMISH STUART   
 
 **Wednesday 30th December 2015**  
-[WOODFORD FOLK FESTIVAL][231]            
+WOODFORD FOLK FESTIVAL            
 Bluestown stage      
 with HAMISH STUART  
 
 **Tuesday 29th December 2015**  
-[WOODFORD FOLK FESTIVAL][231]            
+WOODFORD FOLK FESTIVAL             
 Bluestown stage    
 with HAMISH STUART   
 
 **Monday 28th December 2015**  
-[WOODFORD FOLK FESTIVAL][231]                
+WOODFORD FOLK FESTIVAL            
 Orchard stage    
 with HAMISH STUART   
  
@@ -153,19 +153,19 @@ with HAMISH STUART
 **NSW**   
 
 **Sunday 22nd November 2015**  
-[MULLUM MUSIC FESTIVAL][226]    
+MULLUM MUSIC FESTIVAL    
 The Drill Hall  
 Dalley St, **MULLUMBIMBY**  
 with HAMISH STUART    
 
 **Sunday 22nd November 2015**  
-[MULLUM MUSIC FESTIVAL][226]    
+MULLUM MUSIC FESTIVAL       
 The Courthouse     
 Dalley St, **MULLUMBIMBY**   
 *'On the Couch with Brian Nankervis'* 
 
 **Saturday 21st November 2015**  
-[MULLUM MUSIC FESTIVAL][226]    
+MULLUM MUSIC FESTIVAL      
 The Courthouse  
 Dalley St, **MULLUMBIMBY**  
 with HAMISH STUART     
@@ -182,7 +182,6 @@ with Suzannah Espie
 **Wednesday 18th November 2015**         
 THE PINEAPPLE LOUNGE            
 Paddington, **BRISBANE**  
-streaming live at [bandviews][234]    
    
 * * * * *        
 
@@ -213,18 +212,18 @@ with Suzannah Espie
 **Victoria**   
   
 **Sunday 8th November 2015**  
-[BENDIGO BLUES & ROOTS FESTIVAL][225]        
+BENDIGO BLUES & ROOTS FESTIVAL          
 THE EXCHANGE           
 with HAMISH STUART        
 
 **Saturday 7th November 2015**  
-[BENDIGO BLUES & ROOTS FESTIVAL][225]             
+BENDIGO BLUES & ROOTS FESTIVAL          
 GOLD DUST LOUNGE  
 Williamson St, BENDIGO  
 with HAMISH STUART     
 
 **Friday 6th November 2015**  
-[BENDIGO BLUES & ROOTS FESTIVAL][225]             
+BENDIGO BLUES & ROOTS FESTIVAL           
 CAPITOL THEATRE    
 View St, BENDIGO  
 with HAMISH STUART  
@@ -1206,5 +1205,4 @@ with 'Halfway to Fourth'
 [125.1]: http://www.harvestermoon.com.au/live-music/  
 [126]: http://www.muziekgebouweindhoven.nl
 [126.3]: http://www.bendigowritersfestival.com.au/Home
-[126.1]: http://www.bendigowritersfestival.com.au/Whats_On/The_Best_Song_Ever_Written 
-[126.2]: http://www.bendigowritersfestiv
+
