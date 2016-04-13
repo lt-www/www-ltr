@@ -1,10 +1,5 @@
 **VICTORIA**   
 
-**Saturday 9th April 2016**  
-THE UNION         
-Brunswick, **MELBOURNE**             
-5-7pm  
-   
 **Saturday 16th April 2016**  
 THE UNION         
 Brunswick, **MELBOURNE**             
