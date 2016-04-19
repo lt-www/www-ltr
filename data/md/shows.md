@@ -53,6 +53,31 @@ with JO JO SMITH
 
 * * * * *      
 
+**VICTORIA**     
+
+**Friday 27th May 2016**    
+[MEMO MUSIC HALL][247]    
+Acland St, St KILDA  
+*Bob Dylan 75th Birthday Salute*    
+8pm  
+[Tickets on sale now][247.1]
+
+**Saturday 28th May 2016**    
+[MEMO MUSIC HALL][247]  
+Acland St, St KILDA    
+*Bob Dylan 75th Birthday Salute*    
+8pm  
+[Tickets on sale now][247.2]
+
+**Sunday 29th May 2016**    
+[MEMO MUSIC HALL][247]    
+Acland St, St KILDA    
+*Bob Dylan 75th Birthday Salute*    
+3pm  
+[Tickets on sale now][247.3]  
+
+* * * * *      
+
 [past shows][archive]
 
 [archive]: ?p=shows/archive/
@@ -148,4 +173,8 @@ with JO JO SMITH
 [243]: http://www.smithsalternative.com/events/lucie-thorne-suzannah-espie-10602
 [244]: https://www.trybooking.com/192284
 [245]: http://suttonshouseofmusic.com.au/  
-[246]: https://trybooking.com/LCGN  
+[246]: https://trybooking.com/LCGN    
+[247]: http://www.memomusichall.com.au/  
+[247.1]: http://www.memomusichall.com.au/memo-gig/bob-dylan-75th-birthday-celebration/  
+[247.2]: http://www.memomusichall.com.au/memo-gig/bob-dylan-75th-birthday-celebration-2/  
+[247.3]: http://www.memomusichall.com.au/memo-gig/bob-dylan-75th-birthday-celebration-3/
