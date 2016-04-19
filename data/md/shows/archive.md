@@ -1,6 +1,16 @@
+
 ## shows/archive   
  
 **Victoria**   
+
+**Sunday 17th April 2016**  
+THE OLD CHURCH ON THE HILL           
+**BENDIGO**               
+with SUZANNAH ESPIE     
+
+**Saturday 16th April 2016**  
+THE UNION         
+Brunswick, **MELBOURNE**  
 
 **Saturday 9th April 2016**  
 THE UNION         
@@ -1048,11 +1058,11 @@ with THE YEARLINGS
 with 'Halfway to Fourth'          
 
 **Friday 10th - Sunday 12th January 2014**  
-**[CYGNET FOLK FESTIVAL][163]**, Cygnet    
+**CYGNET FOLK FESTIVAL**, Cygnet    
 *Duet shows with HAMISH STUART*            
 
 **Thursday 9th January 2014**  
-**[FRESH ON CHARLES][162]**, Launceston  
+**FRESH ON CHARLES**, Launceston  
 *Duet show with HAMISH STUART*   
 
 * * * * *
@@ -1081,129 +1091,4 @@ with 'Halfway to Fourth'
   [3.7]: http://www.thetroubadour.com.au/events/
   [3.8]: http://www.wheatsheafhotel.com.au/
   [4]: http://www.eastbrunswickclub.com/
-  [16]: http://www.darebin.vic.gov.au/Page/page.asp?page_Id=878
-  [16.1]: http://www.myspace.com/themillerstale
-  [17]: http://www.mullummusicfestival.com.au
-  [18.1]: http://www.thepalais.com.au/
-  [18.2]: http://www.myspace.com/jordielanemusic
-  [19.1]: http://www.thetoffintown.com/shows/
-  [19.2]: http://www.myspace.com/tobiashengeveld
-  [22]: http://www.cas.org.au
-  [22.1]: http://www.abc.net.au/rn/musicshow/
-  [23.1]: http://globalgroove.blogspot.com/
-  [23.2]: http://www.vitamin.net.au/sixpack/
-  [23.3]: http://www.cornerhotel.com/
-  [24]: http://www.thevanguard.com.au/
-  [24.1]: http://www.myspace.com/georgebyrne
-  [25]: http://www.thetroubadour.com.au/events/
-  [26]: http://musiccentrenq.net/members/54/
-  [27]: http://www.abc.net.au/rn/bushtelegraph/
-  [30]: http://www.nukarafarm.com.au/donna_pages/events.htm
-  [28]: http://northcotesocialclub.com/
-  [29.1]: http://www.darwinfestival.org.au/
-  [29]: http://www.darwinentertainment.com.au/
-  [30.1]: http://www.thetoffintown.com/shows/
-  [32]: http://www.moshtix.com.au/Event.aspx?id=29712&pLock=&vip=&skin=&ref=CAL
-  [33.1]: http://www.vitamin.net.au/sixpack/
-  [33]: http://www.myspace.com/tobiashengeveld  
-  [34.1]: http://www.mullummusicfestival.com/
-  [35.1]: http://www.hasenschaukel.de/
-  [35.2]: http://www.malzhaus.de/
-  [35]: http://www.jazzdock.cz/
-  [36]: http://www.fire.ro/
-  [36.1]: http://www.greenchannel.ro/
-  [37]: http://www.myspace.com/tomcooneymusic
-  [37.1]: http://www.myspace.com/joshtpearson
-  [38]: http://www.abc.net.au/rn/musicdeli/stories/2009/2730724.htm
-  [44]: http://www.myspace.com/petewildmusic 
-  [44.1]: http://www.myspace.com/theyearlings
-  [45]: http://www.myspace.com/trinitysessions 
-  [48]: http://folkfestival.yackandandah.com/
-  [50.1]: http://www.myspace.com/thestetsonfamily
-  [47]: http://www.myspace.com/salkimber 
-  [49]: http://www.myspace.com/katiebeeburke
-  [49.1]:http://www.myspace.com/petewildmusic  
-  [52]: http://www.home.aone.net.au/~selbyfolkclub/venuelocation.htm
-  [50]: http://northcotesocialclub.com/
-  [53]: http://www.thevanguard.com.au/
-  [54]: http://www.lot19art.com/    
-  [55]: http://www.canberramusiciansclub.org.au/
-  [55.1]: http://www.myspace.com/acousticnuts
-  [56.1]: http://noteslive.net.au/ 
-  [57]: http://www.myspace.com/therescueships  
-  [60]: http://www.machinetranslations.org/index.htm
-  [60.1]: http://www.myspace.com/mattwalkermyspace
-  [61]: http://www.myspace.com/eliotee 
-  [61.1]: http://www.lesdisquaires.com 
-  [62]: http://www.popin.fr
-  [82]: http://www.barbiallanuova.it/ 
-  [70.1]: http://www.myspace.com/thousand1000 
-  [80]: http://www.myspace.com/westcountrygirls
-[63]: http://www.hasenschaukel.de  
-[64]: http://www.arscene.be
-[65]: http://www.cafedecactus.nl   
-[66]: http://www.muziekcentrum.nl  
-[67]: http://www.patronaatheerlen.nl  
-[68]: http://www.burgerweeshuis.nl   
-[69]: http://www.bunkergemert.nl  
-[70]: http://www.cultureelpodium.nl   
-[70.2]: http://www.myspace.com/acousticmoonclub
-[80.1]: http://www.dedoelen.nl/concertgebouw/index.php?go=agenda.showAgendaDetail&idnr=5401
-[81]: http://www.pietabrown.com  
-[82]: http://www.amsterdamfm.nl
-[83]: http://www.musicbythesea.com.au  
-[85]: http://www.thethornburytheatre.com/index.htm
-[86]: http://www.iwda.org.au/2011/01/31/half-the-sky-080311-thornbury-vic-thornbury-theatre/
-[86.1]: http://www.mullummusicfestival.com/
-[87]: http://www.theatreroyal.info/
-[87.1]: http://www.timrogers.com.au/
-[89]: http://www.royalexchangenewcastle.com.au/
-[90]: http://www.camelotlounge.com/
-[90.1]: http://www.trybooking.com/RWU
-[91]: http://www.clarendonguesthouse.com.au/
-[93]: http://www.caravanmusic.com.au
-[94]: http://wheatsheafhotel.com.au/
-[95]: http://www.bellaunion.com.au
-[96]: http://www.jojosmithsoul.com/
-[96.1]: http://www.myspace.com/sweetjeanmusic
-[96.2]: http://www.jimmydowling.com  
-[96.3]: http://www.ilonaharker.com
-[96.4]: http://www.mardilumsden.com  
-[96.5]: http://www.theyearlings.net 
-[96.6]: http://www.theelliscollective.com
-[96.7]: http://www.triplejunearthed.com/birdsandbelles
-[96.8]: http://www.myspace.com/denhanrahan
-[97]: http://www.hamishstuart.net/fr_home.cfm  
-[97.1]: http://www.abc.net.au/rn/musicdeli/
-[98.1]: http://www.tathrahotel.com.au/Tathra_Hotel/News.html 
-[99.1]: http://www.portfairyfolkfestival.com/
-[99]: http://www.corinbank.com/
-[102]: http://www.ellingtonjazz.com.au 
-[103]: http://www.wauchopearts.org.au/  
-[104]: http://www.carnivalofsuburbia.com   
-[105]: http://www.bellaunion.com.au/ticketing/show_535/
-[106]: http://www.caravanmusic.com.au/gigs/pieta-brown/
-[107]: http://www.trybooking.com/BCUB
-[108]: http://www.moshtix.com.au/event.aspx?id=54131&ref=pietabrownpolishclub
-[109]: http://www.starcourttheatre.com.au/shows
-[111]: http://thethornburytheatre.com/  
-[111.1]: http://thornburytheatre.oztix.com.au/default.aspx?Event=27515  
-[112]: http://www.mattwalker.com.au/  
-[112.1]: http://www.pbsfm.org.au/node/19074
-[116]: http://burgerweeshuis.nl/
-[117]: http://members.home.nl/pacoplumtrek/
-[118]: http://www.bavart.be/index.html
-[119]: http://www.patronaat.nl/
-[119.1]: http://www.singinggallery.com.au/coming%20events.htm
-[120]: http://www.theaterdewildewereld.nl/nieuws/
-[120.1]: http://seversondells.com/programs-2/
-[121]: http://www.gigant.nl/
-[122]: http://www.intersoup.de/
-[123]: http://www.gaudycafe.com/
-[123.1]: http://sidewaysthroughsound.blogspot.com.au/2013/06/june-19-2013-steve-gunn-interview-black.html
-[124]: http://www.sofasalon.de/
-[124.2]: http://www.davidsmedia.com/Ararat_Live.html
-[125]: http://www.deberenkuil.nl/info.html
-[125.1]: http://www.harvestermoon.com.au/live-music/  
-[126]: http://www.muziekgebouweindhoven.nl
-[126.3]: http://www.bendigowritersfestival.com.au/Home
+  [16]: http://www.darebi
