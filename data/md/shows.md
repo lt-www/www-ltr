@@ -1,17 +1,3 @@
-**VICTORIA**   
-
-**Saturday 16th April 2016**  
-THE UNION         
-Brunswick, **MELBOURNE**             
-5-7pm   
-
-**Sunday 17th April 2016**  
-THE OLD CHURCH ON THE HILL           
-**BENDIGO**               
-with SUZANNAH ESPIE  
-4pm   
-[Tickets on sale now][241]    
-
 * * * * *        
 
 **NSW**   
