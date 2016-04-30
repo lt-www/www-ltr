@@ -1,7 +1,8 @@
 **MAIL ORDER ALBUMS:**  
 
 via paypal or with your credit card direct from us via the buttons below.    
-or you can send a cheque or money order to  
+or you can send a cheque or money order to    
+
 > Lucie Thorne  
 > C/- Little Secret Records  
 > PO Box 204  
