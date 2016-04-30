@@ -1,5 +1,4 @@
 **MAIL ORDER ALBUMS:**  
-
 via paypal or with your credit card direct from us via the buttons below.    
 or you can send a cheque or money order to    
 
@@ -8,7 +7,8 @@ or you can send a cheque or money order to
 > PO Box 204  
 > Pascoe Vale South    
 > Victoria 3044    
-> Australia  
+> Australia    
+
 (AU$25 per CD includes postage within Australia / AU$28 per CD includes shipping to the rest of the world...)  
 
 [![Everything Sings Tonight][9.1]][9.2]
