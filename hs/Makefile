@@ -15,9 +15,12 @@ clean:
 	rm -f *.hi *.o
 	rm -f ltr-cgi ltr-cgi-static
 
+# symlink html-minus/www-minus
 ln-local:
-	rm -f WWW
+	rm -f WWW Text/HTML
+	mkdir -p Text
 	ln -s $(HOME)/sw/www-minus/WWW WWW
+	ln -s $(HOME)/sw/html-minus/Text/HTML Text/HTML
 
 cabal-dep:
 	cabal install $(shell hsc3-setup pkg-dep -non-local *.hs)
