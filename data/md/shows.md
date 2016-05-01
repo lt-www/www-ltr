@@ -90,9 +90,9 @@ Brunswick **MELBOURNE**
 
 **Wednesday 22nd June 2016**  
 THE RETREAT                     
-Brunswick **MELBOURNE** 
-*Winter Retreat Residency*   
-8pm      
+Brunswick **MELBOURNE**   
+*Winter Retreat Residency*     
+8pm        
 
 * * * * *        
 
