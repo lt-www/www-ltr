@@ -2,16 +2,6 @@
 
 **NSW**   
 
-**Sunday 24th April 2016**  
-GOOLOOGONG HOTEL             
-**GOOLOOGONG**               
-with MICK DALEY    
-2pm   
-
-* * * * *        
-
-**NSW**   
-
 **Thursday 12th May 2016**  
 PORCHLIGHT SESSIONS               
 Petersham Bowling Club, **SYDNEY**               
