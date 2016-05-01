@@ -1,4 +1,3 @@
-
 ### 2 April 2016 | The Union    
 
 Two solo shows coming up at Melbourne's Union Hotel in downtown Brunswick - Sat 9th & Sat 16th April. [Details here][shows]   
