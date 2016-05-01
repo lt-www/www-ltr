@@ -1,6 +1,16 @@
-
 ## shows/archive   
  
+* * * * *        
+
+**NSW**   
+
+**Sunday 24th April 2016**  
+GOOLOOGONG HOTEL             
+**GOOLOOGONG**               
+with MICK DALEY      
+
+* * * * *     
+
 **Victoria**   
 
 **Sunday 17th April 2016**  
