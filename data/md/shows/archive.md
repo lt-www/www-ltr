@@ -923,7 +923,7 @@ The Singing Gallery, McLAREN VALE
 plus special guests *Halfway To Forth*     
 
 **Friday 16th May 2014**    
-[The Wheatsheaf][94], ADELAIDE      
+The Wheatsheaf, ADELAIDE      
 *duet show with HAMISH STUART*  
 plus special guests *Halfway To Forth*        
 
@@ -973,23 +973,23 @@ with JO JO SMITH*
    
 * * * * *    
 
-**[LOVE OVER GOLD][127] (Lucie Thorne & Pieta Brown) - AUSTRALIAN TOUR MARCH 2014**    
+**[LOVE OVER GOLD](http://www.love-over-gold.com) (Lucie Thorne & Pieta Brown) - AUSTRALIAN TOUR MARCH 2014**    
 
 **Sunday 16th March 2014**   
-[LOVE OVER GOLD][127]   
-**[BLUE MOUNTAINS MUSIC FESTIVAL][169]**    
+[LOVE OVER GOLD](http://www.love-over-gold.com)     
+**BLUE MOUNTAINS MUSIC FESTIVAL**    
 Bigtop Stage  
 Katoomba, NSW.   
 
 **Saturday 15th March 2014**   
-[LOVE OVER GOLD][127]   
-**[BLUE MOUNTAINS MUSIC FESTIVAL][169]**    
+[LOVE OVER GOLD](http://www.love-over-gold.com)   
+**BLUE MOUNTAINS MUSIC FESTIVAL**    
 Pavilion Stage  
 Katoomba, NSW.   
 
 **Wednesday 12th March 2014**  
-[LOVE OVER GOLD][127]   
-**[BRUNSWICK MUSIC FESTIVAL][168]**    
+[LOVE OVER GOLD](http://www.love-over-gold.com)  
+**BRUNSWICK MUSIC FESTIVAL**    
 *Mechanics Institute Performing Arts Centre*.   
 Sydney Road, Melbourne, Victoria.       
 
@@ -998,20 +998,20 @@ interview and live-to-air performance on *Evenings* with Lindy Burns.
 ABC radio 774.        
 
 **Monday 10th March 2014**    
-[LOVE OVER GOLD][127]   
-**[PORT FAIRY FOLK FESTIVAL][99.1]**    
+[LOVE OVER GOLD](http://www.love-over-gold.com)   
+**PORT FAIRY FOLK FESTIVAL**    
 Stage 4  
 Port Fairy, Victoria.   
  
 **Saturday 8th March 2014**    
-[LOVE OVER GOLD][127]   
-**[PORT FAIRY FOLK FESTIVAL][99.1]**    
+[LOVE OVER GOLD](http://www.love-over-gold.com)  
+**PORT FAIRY FOLK FESTIVAL**    
 Stage 6  
 Port Fairy, Victoria.   
 
 **Friday 7th March 2014**    
-[LOVE OVER GOLD][127]   
-**[PORT FAIRY FOLK FESTIVAL][99.1]**    
+[LOVE OVER GOLD](http://www.love-over-gold.com)  
+**PORT FAIRY FOLK FESTIVAL**    
 Stage 4  
 Port Fairy, Victoria.   
   
@@ -1024,11 +1024,11 @@ Port Fairy, Victoria.
 *Duet show with HAMISH STUART*   
 
 **Saturday 1st March 2014**  
-**[NANNUP MUSIC FESTIVAL][167]**, Nannup    
+**NANNUP MUSIC FESTIVAL**, Nannup    
 *Duet shows with HAMISH STUART*       
      
 **Thursday 27th February 2014**  
-**[ELLINGTONS JAZZ CLUB][102]**, Perth  
+**ELLINGTONS JAZZ CLUB**, Perth  
 *Duet show with HAMISH STUART*     
    
 **Wednesday 26th February 2014**  
@@ -1077,28 +1077,3 @@ with 'Halfway to Fourth'
 
 * * * * *
 
-  [1]: http://www.myspace.com/jackiemarhall/
-  [2]: http://www.tilleys.com.au/H/52326x9/2147483643/u0.htm/
-  [3]: http://www.cobargofolkfestival.com/
-  [4]: http://www.vitamin.net.au/
-  [5]: http://www.royal-exchange.com.au/
-  [1.2]: http://www.theyearlings.net/
-  [1.3]: http://www.semaphoremusicfestival.com/
-  [1.1]: http://www.myspace.com/katefagan
-  [1.4]: http://www.clarendonguesthouse.com.au/wotson.php
-  [1.5]: http://www.jesseyounan.com/
-  [1.7]: http://www.teaclub.com.au/
-  [1.8]: http://www.myspace.com/citychariot
-  [2.1]: http://www.thefolkus.org.au/
-  [2.2]: http://www.myspace.com/clairejenkins
-  [2.5]: http://www.corinbank.com.au/
-  [3.0]: http://thebegavalley.org.au/candelovillagefestival.html
-  [3.1]: http://www.thesoundlounge.com.au/
-  [3.2]: http://www.thebasement.com.au/
-  [3.4]: http://www.myspace.com/soundslikekatfrankie
-  [3.5]: http://www.myspace.com/ghostmountainband 
-  [3.6]: http://www.myspace.com/saratindley
-  [3.7]: http://www.thetroubadour.com.au/events/
-  [3.8]: http://www.wheatsheafhotel.com.au/
-  [4]: http://www.eastbrunswickclub.com/
-  [16]: http://www.darebi
