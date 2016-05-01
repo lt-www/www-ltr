@@ -4,7 +4,7 @@ That's right folks, [mail-order any album][albums] direct from us during the mon
 
 In other news, the first round of winter tour dates have just been announced; including a rare local residency and a return to the Central West with a special Dinner Show at Taste Canowindra. More shows in Queensland, NSW, Victoria and South Australia announced soon!    
 
-![](data/image/news/LT_MayBuds.JPG)   
+![](data/image/news/LT_MayBuds.jpg)   
 
 * * * *
 
