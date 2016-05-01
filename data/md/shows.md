@@ -68,6 +68,45 @@ Acland St, St KILDA
 
 * * * * *      
 
+**VICTORIA**     
+
+**Wednesday 1st June 2016**    
+THE RETREAT                       
+Brunswick **MELBOURNE**   
+*Winter Retreat Residency*     
+8pm                  
+          
+**Wednesday 8th June 2016**    
+THE RETREAT                       
+Brunswick **MELBOURNE**   
+*Winter Retreat Residency*     
+8pm       
+
+**Wednesday 15th June 2016**    
+THE RETREAT                       
+Brunswick **MELBOURNE**   
+*Winter Retreat Residency*     
+8pm       
+
+**Wednesday 22nd June 2016**  
+THE RETREAT                     
+Brunswick **MELBOURNE** 
+*Winter Retreat Residency*   
+8pm      
+
+* * * * *        
+
+**NSW**   
+
+**Saturday 25th June 2016**    
+TASTE                        
+**CANOWINDRA**   
+Dinner & Show    
+6.30pm    
+[tickets on sale now](http://www.tastecanowindra.com.au/lucie-thorne3coursemeal-show.html)    
+
+* * * * *        
+
 [past shows][archive]
 
 [archive]: ?p=shows/archive/
