@@ -1,6 +1,6 @@
 **MAIL ORDER ALBUMS:**  
 via paypal or with your credit card direct from us via the buttons below.    
-or you can send a cheque or money to us at [Little Secret Records][contact] 
+or you can send a cheque or money to us at [Little Secret Records](http://www.luciethorne.com/contact)   
 
 [![Everything Sings Tonight][9.1]][9.2]
 *Everything Sings Tonight*  
@@ -88,4 +88,4 @@ Released April 2002. [Details][2.2]
 there are some [earlier records][1.1] that are no longer available
 
   [1.1]: ?p=albums/unavailable  
-[contact]: http:/www.luciethorne.com/contact  
+ 
