@@ -2,7 +2,7 @@
 
 That's right folks, [mail-order any album][albums] direct from us during the month of May and receive a FREE copy of Lucie's 2004 album the bud on cd - along with your order! Offer includes free shipping! 
 
-In other news, the first round of winter tour dates have just been announced; including a rare local residency and a return to the Central West with a special Dinner Show at Taste Canowindra. More shows in Queensland, NSW, Victoria and South Australia announced soon!    
+In other news, the first round of [winter tour dates][shows] have just been announced; including a rare local residency and a return to the Central West with a special Dinner Show at Taste Canowindra. More shows in Queensland, NSW, Victoria and South Australia announced soon!    
 
 ![](data/image/news/LT_MayBuds.jpg)   
 
