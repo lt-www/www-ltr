@@ -270,9 +270,9 @@ with Mifras
 
 **NETHERLANDS**      
 
-**Sunday 11th October 2015**
-MEZZ    
-Keizerstraat 101, BREDA    
+**Sunday 11th October 2015**  
+MEZZ      
+Keizerstraat 101, BREDA      
 
 **Friday 9th October 2015**  
 HOUSE CONCERT  
@@ -310,25 +310,25 @@ with Jimmy Dowling & Claire Anne Taylor
 THE LITTLE THEATRE                
 17 Barrack St, **DELORAINE**   
 duet show with HAMISH STUART     
-plus special guest [JIMMY DOWLING][96.2]   
+plus special guest JIMMY DOWLING  
 
 **Saturday 29th August 2015**  
 FRESH              
 178 Charles St, **LAUNCESTON**   
 duet show with HAMISH STUART     
-plus special guest [JIMMY DOWLING][96.2]    
+plus special guest JIMMY DOWLING      
                 
 **Friday 28th August 2015**  
 FALMOUTH COMMUNITY CENTRE            
 18 Morrison St, **FALMOUTH**   
 duet show with HAMISH STUART  
-plus special guests [JIMMY DOWLING][96.2] and PETE CORNELIUS    
+plus special guests JIMMY DOWLING and PETE CORNELIUS    
     
 **Thursday 27th August 2015**  
 GRAND POOBAH            
 142 Liverpool St, **HOBART**   
 duet show with HAMISH STUART     
-plus special guest [JIMMY DOWLING][96.2]            
+plus special guest JIMMY DOWLING  
 
 **Victoria**        
 
@@ -433,7 +433,7 @@ Old Kirk Concert Series
 WOOLOWEYAH COMMUNITY HALL          
 Lakes Boulevard, **YAMBA**     
 duet show with HAMISH STUART     
-plus special guest [JIMMY DOWLING][96.2]    
+plus special guest JIMMY DOWLING  
 
 
 **Queensland**         
@@ -449,13 +449,13 @@ duet show with HAMISH STUART
 BLUE MOON LOUNGE          
 Main St, **MURWILLUMBAH**   
 duet show with HAMISH STUART       
-plus special guest [JIMMY DOWLING][96.2]       
+plus special guest JIMMY DOWLING  
 
 **Friday 26th June 2015**  
 EX-SERVICES CLUB        
 Dalley St, **MULLUMBIMBY**   
 duet show with HAMISH STUART       
-plus special guest [JIMMY DOWLING][96.2]    
+plus special guest JIMMY DOWLING  
 
 **Wednesday 24th June 2015**  
 THE CROSSING THEATRE           
@@ -484,7 +484,7 @@ duet show with HAMISH STUART
 THE SINGING GALLERY        
 Main Rd, **McLAREN VALE**   
 duet show with HAMISH STUART     
-plus special guests [THE YEARLINGS][96.5]     
+plus special guests THE YEARLINGS  
 
 * * * * *     
 
@@ -711,9 +711,9 @@ STOUGHTON OPERA HOUSE
 *Lucie will be playing in Pieta Brown's band, launching her beautiful new album Paradise Outlaw*           
 
 **Thursday 16th October 2014**      
-[REAL PHONIC RADIO HOUR][190]        
+REAL PHONIC RADIO HOUR          
 80 4th Street West, **St PAUL, MN**        
-a [LOVE OVER GOLD][127] show!               
+a [LOVE OVER GOLD](http://www.love-over-gold.com) show!               
 
 * * * * *        
 
@@ -724,7 +724,7 @@ CAFE LOBURG
 Molenstraat 6, **WAGENINGEN**     
 
 **Friday 10th October 2014**      
-[GROUNDS][189] at the World Music and Dance Centre  
+GROUNDS at the World Music and Dance Centre  
 Pieter de hoochweg 12, **ROTTERDAM**      
 with Karima El Fillali  
 
@@ -733,7 +733,7 @@ DE VASIM
 Winselingseweg 41, **NIJMEGEN**      
 
 **Sunday 5th October 2014**    
-[MEZZ][187]    
+MEZZ  
 Keizerstraat 101, **BREDA**    
     
 * * * * *    
@@ -952,15 +952,15 @@ interview and live-to-air performance on *The Morning show with Simon Marnie.*
 *with HAMISH STUART*   
 ABC Radio Statewide.  
 
-**Wednesday 23rd April 2014**    
-Sunset Studio  
-1-3 Maitland Rd, NEWCASTLE  
-*duet show with HAMISH STUART*    
-
 **Saturday 26th April 2014**    
 Rad Bar   
 Crown St, WOLLONGONG    
 *duet show with HAMISH STUART*  
+
+**Wednesday 23rd April 2014**    
+Sunset Studio  
+1-3 Maitland Rd, NEWCASTLE  
+*duet show with HAMISH STUART*      
 
 * * * * *    
 
@@ -1020,19 +1020,23 @@ Port Fairy, Victoria.
 **WESTERN AUSTRALIA**     
 
 **Sunday 2nd March 2014**  
-**SETTLERS TAVERN**, Margaret River      
+**SETTLERS TAVERN**  
+Margaret River      
 *Duet show with HAMISH STUART*   
 
 **Saturday 1st March 2014**  
-**NANNUP MUSIC FESTIVAL**, Nannup    
+**NANNUP MUSIC FESTIVAL**  
+Nannup    
 *Duet shows with HAMISH STUART*       
      
 **Thursday 27th February 2014**  
-**ELLINGTONS JAZZ CLUB**, Perth  
+**ELLINGTONS JAZZ CLUB**  
+Perth  
 *Duet show with HAMISH STUART*     
    
 **Wednesday 26th February 2014**  
-**HOUSE CONCERT**, Fremantle    
+**HOUSE CONCERT**  
+Fremantle    
 *Duet show with HAMISH STUART*  
 
 * * * * *    
@@ -1057,8 +1061,7 @@ with KIM DELLAVEDOVA
 **Saturday 25th January 2014**   
 **THE LITTLE THEATRE**, Deloraine  
 with THE YEARLINGS     
-7.30pm / Tickets at the door    
-
+    
 **Friday 24th January 2014**    
 **THE ROSNY BARN**, Hobart   
 with THE YEARLINGS      
@@ -1076,4 +1079,3 @@ with 'Halfway to Fourth'
 *Duet show with HAMISH STUART*   
 
 * * * * *
-
