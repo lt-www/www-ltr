@@ -1,3 +1,9 @@
+### 1 May 2016 | The Darling Buds Of May!
+
+that's right folks, [mail-order any album](?p=albums) direct from us during the month of May and receive a FREE copy of Lucie
+
+* * * *
+
 ### 2 April 2016 | The Union    
 
 Two solo shows coming up at Melbourne's Union Hotel in downtown Brunswick - Sat 9th & Sat 16th April. [Details here][shows]   
