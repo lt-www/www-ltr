@@ -19,7 +19,8 @@ with SUZANNAH ESPIE
 **Saturday 14th May 2016**    
 HOUSE CONCERT                     
 **AUSTINMER**                 
-with SUZANNAH ESPIE   
+with SUZANNAH ESPIE     
+7pm  
     
 **ACT**     
 
