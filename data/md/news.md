@@ -1,3 +1,9 @@
+### 10 May 2016 | Suzannah Espie    
+
+Reuniting with the fabulous Suzannah Espie this weekend! with shows in Sydney, Newcastle, Austinmer and Canberra. [Details here][shows].   
+
+* * * *  
+
 ### 1 May 2016 | The Darling Buds Of May!
 
 That's right folks, [mail-order any album][albums] direct from us during the month of May and receive a FREE copy of Lucie's 2004 album *the bud* on cd - along with your order! Offer includes free shipping! xx  
