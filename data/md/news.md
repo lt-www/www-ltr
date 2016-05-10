@@ -1,4 +1,4 @@
-### 10 May 2016 | Suzannah Espie    
+### 10 May 2016 | Suzannah Espie     
 
 Reuniting with the fabulous Suzannah Espie this weekend! with shows in Sydney, Newcastle, Austinmer and Canberra. [Details here][shows].   
 
