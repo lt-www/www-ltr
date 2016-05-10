@@ -106,6 +106,40 @@ Dinner & Show
 6.30pm    
 [tickets on sale now](http://www.tastecanowindra.com.au/lucie-thorne3coursemeal-show.html)    
 
+**Sunday 26th June 2016**    
+THE LOFT                        
+**TAMWORTH**      
+6.30pm      
+BYO / Supper available  
+
+* * * * *        
+
+**QLD**   
+
+**Friday 1st July 2016**    
+A NIGHT OUT IN THE 'BURBS                          
+House Concert                  
+Oxley **BRISBANE**                 
+with JACKIE MARSHALL & MELANIE HORSNELL      
+6.30pm        
+[tickets on sale now](https://www.stickytickets.com.au/38200)   
+
+* * * * *      
+
+**NSW**     
+
+**Saturday 2nd July 2016**  
+House Concert  
+**LISMORE**    
+with MICK DALEY   
+7pm  
+  
+**Sunday 3rd July 2016**    
+THE LENNOX SESSIONS                       
+House Concert **LENNOX HEAD**          
+with JIMMY DOWLING    
+4pm   
+
 * * * * *        
 
 [past shows][archive]
