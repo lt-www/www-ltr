@@ -136,7 +136,8 @@ with MICK DALEY
   
 **Sunday 3rd July 2016**    
 THE LENNOX SESSIONS                       
-House Concert **LENNOX HEAD**          
+House Concert   
+**LENNOX HEAD**          
 with JIMMY DOWLING    
 4pm   
 
