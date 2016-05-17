@@ -1,6 +1,6 @@
 ### 17 May 2016 | Thanks folks xx  
 
-Thanks to all who came out and filled up all those rooms this past week! What a ripper tour! Thanks too to everyone who has taken us up on this month's mail-order special so far! More [winter tour dates][shows] have just been announced - including a rare expanded-band show in Sydney (with not only Hamish Stuart, but also Carl Dewhurst and Chris Abrahams!), a return to Candelo! and some South Australian shows with The Yearlings!  
+Thanks to all who came out and filled up all those rooms this past week! What a ripper tour! Thanks too to everyone who has taken us up on this month's [mail-order special][albums] so far! More [winter tour dates][shows] have just been announced - including a rare expanded-band show in Sydney (with not only Hamish Stuart, but also Carl Dewhurst and Chris Abrahams!), a return to Candelo! and some South Australian shows with The Yearlings!  
 
 Next stop: this Thursday 19th May at Suttons House of Music, Ballarat, with the one n only Jo Jo Smith! [Details here][shows]  
 
