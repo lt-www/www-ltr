@@ -2,6 +2,34 @@
  
 * * * * *        
 
+**ACT**     
+
+**Sunday 15th May 2016**    
+SMITHS                       
+**CANBERRA**                 
+with SUZANNAH ESPIE    
+
+**NSW**   
+
+**Saturday 14th May 2016**    
+HOUSE CONCERT                     
+**AUSTINMER**                 
+with SUZANNAH ESPIE     
+SOLD OUT  
+
+**Friday 13th May 2016**  
+SUNSET STUDIOS                   
+Mayfield, **NEWCASTLE**                 
+with SUZANNAH ESPIE   
+SOLD OUT   
+    
+**Thursday 12th May 2016**  
+PORCHLIGHT SESSIONS               
+Petersham Bowling Club, **SYDNEY**               
+with SUZANNAH ESPIE   
+
+* * * * *        
+
 **NSW**   
 
 **Sunday 24th April 2016**  
