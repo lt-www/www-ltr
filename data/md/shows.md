@@ -1,36 +1,3 @@
-* * * * *        
-
-**NSW**   
-
-**Thursday 12th May 2016**  
-PORCHLIGHT SESSIONS               
-Petersham Bowling Club, **SYDNEY**               
-with SUZANNAH ESPIE   
-7.30pm   
-[Tickets on sale now][242]    
-
-**Friday 13th May 2016**  
-SUNSET STUDIOS                   
-Mayfield, **NEWCASTLE**                 
-with SUZANNAH ESPIE   
-7.30pm     
-[Tickets on sale now][246]    
-
-**Saturday 14th May 2016**    
-HOUSE CONCERT                     
-**AUSTINMER**                 
-with SUZANNAH ESPIE     
-7pm  
-    
-**ACT**     
-
-**Sunday 15th May 2016**    
-SMITHS                       
-**CANBERRA**                 
-with SUZANNAH ESPIE    
-6.30pm  
-[Tickets on sale now][243]    
-
 * * * * *      
 
 **VICTORIA**     
