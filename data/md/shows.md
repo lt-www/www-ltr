@@ -137,7 +137,7 @@ BYO / Supper available
 
 **Friday 29th July 2016**    
 THE BARN                           
-Mt Barker Rd **ALDGATE**    
+Mt Barker Rd **STIRLING**    
 7.30pm / BYO    
 [tickets on sale now](https://trybooking.com/LOCV)  
            
