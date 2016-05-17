@@ -2,6 +2,8 @@
 via paypal or with your credit card direct from us via the buttons below.    
 or you can send a cheque or money to us at [Little Secret Records](http://www.luciethorne.com/contact)   
 
+*special Darling Buds of May offer! purchase any album through this site during the month of May 2016 and receive a free copy of lucie's 2004 album 'the bud' along with your order!*  
+
 [![Everything Sings Tonight][9.1]][9.2]
 *Everything Sings Tonight*  
 Release date: 1st June 2015. [Details][9.2]  
