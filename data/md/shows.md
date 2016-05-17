@@ -76,7 +76,7 @@ Dinner & Show
 **Sunday 26th June 2016**    
 THE LOFT                        
 **TAMWORTH**      
-6.30pm      
+6pm      
 BYO / Supper available  
 
 * * * * *        
@@ -107,6 +107,52 @@ House Concert
 **LENNOX HEAD**          
 with JIMMY DOWLING    
 4pm   
+
+**Monday 11th July 2016**    
+63 First Ave    
+**SAWTELL**   
+6.30pm    
+Bookings: 0481 167 555  
+
+**Thursday 14th July 2016**    
+505                   
+Cleveland St, Surry Hills, **SYDNEY**               
+with HAMISH STUART  
+plus special guests CHRIS ABRAHAMS and CARL DEWHURST         
+8pm    
+[tickets on sale now](http://venue505.com/gigs/lucie-thorne-and-hamish-stuart-guests-chris-abrahams-and-carl-dewhurst-1463456075.html)  
+
+**Saturday 16th July 2016**  
+CANDELO TOWN HALL                     
+William St **CANDELO**                 
+with HAMISH STUART         
+plus special guest KADE BROWN    
+7.30pm    
+BYO / Supper available   
+[tickets on sale now](https://trybooking.com/LOBO)    
+
+* * * * *      
+
+**South Australia**     
+
+**Friday 29th July 2016**    
+THE BARN                           
+Mt Barker Rd **ALDGATE**    
+7.30pm / BYO    
+[tickets on sale now](https://trybooking.com/LOCV)  
+           
+**Saturday 30th July 2016**  
+THE ASHBOURNE HALL                       
+**ASHBOURNE**               
+with THE YEARLINGS     
+6.30pm  
+[tickets on sale now](https://trybooking.com/LODE)  
+
+**Sunday 31st July 2016**    
+THE WHEATSHEAF                       
+George St, Thebarton **ADELAIDE**                 
+with THE YEARLINGS       
+4pm    
 
 * * * * *        
 
