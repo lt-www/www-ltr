@@ -2,17 +2,6 @@
 
 **VICTORIA**     
 
-**Thursday 19th May 2016**  
-[SUTTONS HOUSE OF MUSIC][245]                 
-**BALLARAT**               
-with JO JO SMITH   
-8pm   
-[Tickets on sale now][244]  
-
-* * * * *      
-
-**VICTORIA**     
-
 **Friday 27th May 2016**    
 [MEMO MUSIC HALL][247]    
 Acland St, St KILDA  
