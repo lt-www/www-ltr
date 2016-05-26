@@ -1,5 +1,14 @@
 ## shows/archive   
  
+* * * * *      
+
+**VICTORIA**     
+
+**Thursday 19th May 2016**  
+SUTTONS HOUSE OF MUSIC                
+**BALLARAT**               
+with JO JO SMITH    
+
 * * * * *        
 
 **ACT**     
