@@ -1,3 +1,9 @@
+### 1 June 2016 | Winter Retreat Residency    
+
+For four Wednesdays in June Lucie will be settling in to the cosy surrounds of Brunswick's Retreat for a rare local residency. Starts tonight!    
+
+* * * *  
+
 ### 26 May 2016 | Bobfest!  
 
 This weekend Lucie performs as part of the huge *Bob Dylan 75th Birthday Salute* at St Kilda's beautiful Memo Music Hall.  It's a mighty lineup with a whole bunch of Melbourne's finest. [Tickets selling fast][shows]    
