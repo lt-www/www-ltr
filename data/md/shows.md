@@ -2,31 +2,6 @@
 
 **VICTORIA**     
 
-**Friday 27th May 2016**    
-[MEMO MUSIC HALL][247]    
-Acland St, St KILDA  
-*Bob Dylan 75th Birthday Salute*    
-8pm  
-[Tickets on sale now][247.1]
-
-**Saturday 28th May 2016**    
-[MEMO MUSIC HALL][247]  
-Acland St, St KILDA    
-*Bob Dylan 75th Birthday Salute*    
-8pm  
-[Tickets on sale now][247.2]
-
-**Sunday 29th May 2016**    
-[MEMO MUSIC HALL][247]    
-Acland St, St KILDA    
-*Bob Dylan 75th Birthday Salute*    
-3pm  
-[Tickets on sale now][247.3]  
-
-* * * * *      
-
-**VICTORIA**     
-
 **Wednesday 1st June 2016**    
 THE RETREAT                       
 Brunswick **MELBOURNE**   
