@@ -4,6 +4,25 @@
 
 **VICTORIA**     
 
+**Sunday 29th May 2016**    
+[MEMO MUSIC HALL](http://www.memomusichall.com.au)       
+Acland St, St KILDA    
+*Bob Dylan 75th Birthday Salute*    
+ 
+**Saturday 28th May 2016**    
+[MEMO MUSIC HALL](http://www.memomusichall.com.au)       
+Acland St, St KILDA    
+*Bob Dylan 75th Birthday Salute*    
+
+**Friday 27th May 2016**    
+[MEMO MUSIC HALL](http://www.memomusichall.com.au)        
+Acland St, St KILDA  
+*Bob Dylan 75th Birthday Salute*   
+
+* * * * *      
+
+**VICTORIA**     
+
 **Thursday 19th May 2016**  
 SUTTONS HOUSE OF MUSIC                
 **BALLARAT**               
