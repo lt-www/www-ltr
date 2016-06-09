@@ -87,6 +87,15 @@ BYO / Supper available
 
 * * * * *      
 
+**VICTORIA**     
+
+**Saturday 23rd July 2016**    
+THE DUCKPOND                             
+House Concert **HEALESVILLE**    
+7.30pm / BYO    
+
+* * * * *      
+
 **South Australia**     
 
 **Friday 29th July 2016**    
