@@ -4,6 +4,30 @@
 
 **VICTORIA**     
 
+**Wednesday 8th June 2016**    
+THE RETREAT                       
+Brunswick **MELBOURNE**   
+*Winter Retreat Residency*     
+             
+**Sunday 5th June 2016**    
+*live to air performance and interview on JVG Radio Method*   
+with Jon Von Goes  
+Triple R Radio **MELBOURNE**   
+    
+**Friday 3rd June 2016**    
+*live to air performance and interview on The Friday Review*    
+with Brian Nankervis and Richelle Hunt                       
+ABC Radio 774 **MELBOURNE**   
+
+**Wednesday 1st June 2016**    
+THE RETREAT                       
+Brunswick **MELBOURNE**   
+*Winter Retreat Residency*     
+
+ * * * * *      
+
+**VICTORIA**    
+
 **Sunday 29th May 2016**    
 [MEMO MUSIC HALL](http://www.memomusichall.com.au)       
 Acland St, St KILDA    
