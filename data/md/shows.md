@@ -2,32 +2,6 @@
 
 **VICTORIA**     
 
-**Wednesday 1st June 2016**    
-THE RETREAT                       
-Brunswick **MELBOURNE**   
-*Winter Retreat Residency*     
-8pm     
-two sets - free entry!               
-    
-**Friday 3rd June 2016**    
-*live to air performance and interview on The Friday Review*    
-with Brian Nankervis and Richelle Hunt                       
-ABC Radio 774 **MELBOURNE**  
-2.30pm   
-
-**Sunday 5th June 2016**    
-*live to air performance and interview on JVG Radio Method*   
-with Jon Von Goes  
-Triple R Radio **MELBOURNE**  
-3.30pm   
-      
-**Wednesday 8th June 2016**    
-THE RETREAT                       
-Brunswick **MELBOURNE**   
-*Winter Retreat Residency*     
-8pm       
-two sets - free entry!  
-
 **Wednesday 15th June 2016**    
 THE RETREAT                       
 Brunswick **MELBOURNE**   
