@@ -25,13 +25,7 @@ TASTE
 **CANOWINDRA**   
 Dinner & Show    
 6.30pm    
-[tickets on sale now](http://www.tastecanowindra.com.au/lucie-thorne3coursemeal-show.html)    
-
-**Sunday 26th June 2016**    
-THE LOFT                        
-**TAMWORTH**      
-6pm      
-BYO / Supper available  
+[tickets on sale now](http://www.tastecanowindra.com.au/lucie-thorne3coursemeal-show.html)      
 
 * * * * *        
 
