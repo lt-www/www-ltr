@@ -1,22 +1,4 @@
-* * * * *      
-
-**VICTORIA**     
-
-**Wednesday 15th June 2016**    
-THE RETREAT                       
-Brunswick **MELBOURNE**   
-*Winter Retreat Residency*     
-8pm       
-two sets - free entry!    
-
-**Wednesday 22nd June 2016**  
-THE RETREAT                     
-Brunswick **MELBOURNE**   
-*Winter Retreat Residency*     
-8pm        
-two sets - free entry!    
-
-* * * * *        
+ * * * * *        
 
 **NSW**   
 
