@@ -4,6 +4,16 @@
 
 **VICTORIA**     
 
+**Wednesday 22nd June 2016**  
+THE RETREAT                     
+Brunswick **MELBOURNE**   
+*Winter Retreat Residency*       
+
+**Wednesday 15th June 2016**    
+THE RETREAT                       
+Brunswick **MELBOURNE**   
+*Winter Retreat Residency*      
+
 **Wednesday 8th June 2016**    
 THE RETREAT                       
 Brunswick **MELBOURNE**   
