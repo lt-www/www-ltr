@@ -1,3 +1,5 @@
+* * * *  
+
 ### 25 June 2016 | Back on the road
 
 There are just a handful of tickets left for Lucie's show tonight at Taste, Canowindra.  And then the tour rolls north with shows in Brisbane, Lismore, and Lennox Head next week. [Details here][shows]  
