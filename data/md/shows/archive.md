@@ -1,5 +1,39 @@
 ## shows/archive   
  
+ * * * * *        
+
+**NSW**   
+
+**Sunday 3rd July 2016**    
+THE LENNOX SESSIONS                       
+House Concert   
+**LENNOX HEAD**          
+with JIMMY DOWLING    
+
+**Saturday 2nd July 2016**  
+House Concert  
+**LISMORE**    
+with MICK DALEY    
+
+* * * * *        
+
+**QLD**   
+
+**Friday 1st July 2016**    
+A NIGHT OUT IN THE 'BURBS                          
+House Concert                  
+Oxley **BRISBANE**                 
+with JACKIE MARSHALL & MELANIE HORSNELL  
+
+* * * * *         
+
+**NSW**     
+
+**Saturday 25th June 2016**    
+TASTE                        
+**CANOWINDRA**   
+Dinner & Show       
+
 * * * * *      
 
 **VICTORIA**     
