@@ -1,5 +1,13 @@
 * * * *  
 
+### 7 July 2016 | More winter touring... 
+
+Lucie's winter tour rolls on with shows coming up next week in Sawtell; Sydney (a rare expanded-band show with not only Hamish Stuart but also Carl Dewhurst and Chris Abrahams!); a just-announced house concert in Cobargo; and a return to the beautiful Candelo Town Hall.  [More dates and details here][shows].    
+
+And more shows in and around Melbourne have just been announced for August - where Lucie will be teaming up with the fabulous Dan Tuffy and Matt Walker to celebrate the release of [Songs From Dan](http://www.songsfromdan.com): Dan Tuffy's new solo album - check out more about that project [here](http://www.songsfromdan.com).    
+
+* * * *  
+
 ### 25 June 2016 | Back on the road
 
 There are just a handful of tickets left for Lucie's show tonight at Taste, Canowindra.  And then the tour rolls north with shows in Brisbane, Lismore, and Lennox Head next week. [Details here][shows]  
