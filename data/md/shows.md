@@ -16,6 +16,12 @@ plus special guests CHRIS ABRAHAMS and CARL DEWHURST
 8pm    
 [tickets on sale now](http://venue505.com/gigs/lucie-thorne-and-hamish-stuart-guests-chris-abrahams-and-carl-dewhurst-1463456075.html)  
 
+**Friday 15th July 2016**    
+HOUSE CONCERT                          
+**COBARGO**                   
+7.30pm     
+[tickets on sale now](https://www.trybooking.com/MDSJ)  
+
 **Saturday 16th July 2016**  
 CANDELO TOWN HALL                     
 William St **CANDELO**                 
