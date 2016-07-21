@@ -1,8 +1,29 @@
 ## shows/archive   
  
- * * * * *        
+* * * * *      
 
-**NSW**   
+**NSW**       
+
+**Saturday 16th July 2016**  
+CANDELO TOWN HALL                     
+William St **CANDELO**                 
+with HAMISH STUART         
+plus special guests KADE BROWN TRIO       
+
+**Friday 15th July 2016**    
+HOUSE CONCERT                          
+**COBARGO**                   
+with Jay McMahon     
+
+ **Thursday 14th July 2016**    
+505                   
+Cleveland St, Surry Hills, **SYDNEY**               
+with HAMISH STUART  
+plus special guests CHRIS ABRAHAMS and CARL DEWHURST          
+
+**Monday 11th July 2016**    
+63 First Ave    
+**SAWTELL**    
 
 **Sunday 3rd July 2016**    
 THE LENNOX SESSIONS                       
