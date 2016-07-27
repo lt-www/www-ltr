@@ -1,5 +1,12 @@
 * * * *  
 
+### 27 July 2016 | South Australia  
+
+Three shows coming up in South Australia this weekend: in Stirling, Ashbourne, and Adelaide. [Details here][shows]  
+
+
+* * * *  
+
 ### 7 July 2016 | More winter touring... 
 
 Lucie's winter tour rolls on with shows coming up next week in Sawtell; Sydney (a rare expanded-band show with not only Hamish Stuart but also Carl Dewhurst and Chris Abrahams!); a just-announced house concert in Cobargo; and a return to the beautiful Candelo Town Hall.  [More dates and details here][shows].    
