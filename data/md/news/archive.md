@@ -1,281 +1,281 @@
 ## old news
 
-this is all old news, perhaps you want the [new news][8] ?
+this is all old news, perhaps you want the [new news](?p=news/)?
 
-* * * * *       
+* * * * *
 
-### 1 December 2015 | Southern Summer    
+### 1 December 2015 | Southern Summer
 
-A quiet start to the summer... followed by lots of shows - in Queensland, Tassie and NSW! Kicking off at Woodford! Summer tour dates are [up now][shows].  
+A quiet start to the summer... followed by lots of shows - in Queensland, Tassie and NSW! Kicking off at Woodford! Summer tour dates are [up now][shows].
 
-* * * * *       
+* * * * *
 
-### 6 November 2015 | November dates  
+### 6 November 2015 | November dates
 
-Back in Australia and straight back on the road! This weekend with Hamish Stuart at the Bendigo Blues & Roots Festival, then a string of shows with the fabulous Suzannah Espie - in Sydney, Gooloogong, Blue Mountains, Maitland & Brisbane, then the Mullum Music Festival! followed by more duet shows in Canberra, Narooma and Murrah! November's gonna be quite a month! Details and bookings info [here][shows].     
+Back in Australia and straight back on the road! This weekend with Hamish Stuart at the Bendigo Blues & Roots Festival, then a string of shows with the fabulous Suzannah Espie - in Sydney, Gooloogong, Blue Mountains, Maitland & Brisbane, then the Mullum Music Festival! followed by more duet shows in Canberra, Narooma and Murrah! November's gonna be quite a month! Details and bookings info [here][shows].
 
-* * * * *       
+* * * * *
 
-### 19 October 2015 | Woodford        
+### 19 October 2015 | Woodford
 
-Delighted to share the news that Lucie & Hamish will be performing at this year's Woodford Folk Festival! Full festival line-up has just been announced - and you can [check it out here][151]. What a way to bring in the new year..!   
+Delighted to share the news that Lucie & Hamish will be performing at this year's Woodford Folk Festival! Full festival line-up has just been announced - and you can [check it out here][151]. What a way to bring in the new year..!
 
-* * * * *     
+* * * * *
 
-### 13 October 2015 | Berlin      
+### 13 October 2015 | Berlin
 
-Loving thanks to all who've come out to these shows across Holland! Next stop: Berlin! And couple of extra dates have also been announced - in St Leonards On Sea and Groningen! [Details here][shows].    
+Loving thanks to all who've come out to these shows across Holland! Next stop: Berlin! And couple of extra dates have also been announced - in St Leonards On Sea and Groningen! [Details here][shows].
 
-* * * * *     
+* * * * *
 
-### 29 September 2015 | Continental     
+### 29 September 2015 | Continental
 
-[Everything Sings Tonight][141] is released across Europe today! through our friends at Continental.  First show of the [tour][shows] is this Sunday 4th October in Nijmegen - headlining the Furore Festival at De Vasim!     
+[Everything Sings Tonight][141] is released across Europe today! through our friends at Continental.  First show of the [tour][shows] is this Sunday 4th October in Nijmegen - headlining the Furore Festival at De Vasim!
 
-* * * * *    
+* * * * *
 
-### 1 September 2015 | Thanks folks xx and European Release news!    
+### 1 September 2015 | Thanks folks xx and European Release news!
 
-Huge & loving thanks to all who've joined us - all around the country - over these past 10 weeks of the Australian Everything Sings Tonight tour! Heartening times indeed - so many full houses, so many gorgeous folks, so much music. And we're delighted to let you know that the album will be released across Europe at the end of this month, through the good folk at Continental Record Services. Lucie will be performing a selection of shows in Holland and Germany to celebrate this release - some of which have just been [announced][shows].    
+Huge & loving thanks to all who've joined us - all around the country - over these past 10 weeks of the Australian Everything Sings Tonight tour! Heartening times indeed - so many full houses, so many gorgeous folks, so much music. And we're delighted to let you know that the album will be released across Europe at the end of this month, through the good folk at Continental Record Services. Lucie will be performing a selection of shows in Holland and Germany to celebrate this release - some of which have just been [announced][shows].
 
-And now for a quiet September - with just one show - this weekend - in sunny Suffolk Park - [Details here][shows].  
+And now for a quiet September - with just one show - this weekend - in sunny Suffolk Park - [Details here][shows].
 
-![](data/image/news/RoadtoWilcannia.JPG)   
- 
-* * * * *    
+![](data/image/news/RoadtoWilcannia.JPG)
 
-### 3 August 2015 | August dates   
+* * * * *
 
-The [Everything Sings Tonight][141] [Australian Winter Tour][shows] resumes - and concludes - this month with shows across Western Australia, Victoria and Tasmania. [Details here][shows].  
+### 3 August 2015 | August dates
 
-* * * * *    
+The [Everything Sings Tonight][141] [Australian Winter Tour][shows] resumes - and concludes - this month with shows across Western Australia, Victoria and Tasmania. [Details here][shows].
 
-### 17 July 2015 | Northern Territory    
+* * * * *
 
-The [Everything Sings Tonight][141] [tour][shows] continues with two shows in the Red Centre this weekend > tonight at Epilogue in downtown Alice Springs, and a House Concert in Ilparpa on Sunday evening.  
+### 17 July 2015 | Northern Territory
 
-And in other news... you can check out a [Live In Session][150] version of Blackwing / Moving Colours / and Green & Blue that we recorded recently for 2ser's [Sideways Through Sound][150].    
+The [Everything Sings Tonight][141] [tour][shows] continues with two shows in the Red Centre this weekend > tonight at Epilogue in downtown Alice Springs, and a House Concert in Ilparpa on Sunday evening.
 
-* * * * *    
+And in other news... you can check out a [Live In Session][150] version of Blackwing / Moving Colours / and Green & Blue that we recorded recently for 2ser's [Sideways Through Sound][150].
 
-### 8 July 2015 | Thankyou x  
+* * * * *
 
-An incredible first few weeks of the [Everything Sings Tonight][141] [tour][shows]! 19 days, 5000 k's, 13 shows, 10 of them full houses!! and all of them gorgeous xx Love and thanks to all who've joined us along the way so far! This week we play Sydney, Wentworth Falls, Canberra and Candelo. [Details here][shows].  
+### 8 July 2015 | Thankyou x
 
-In other news - delighted to announce that none other than Matt Walker will be gracing us with an opening set at the Melbourne launch show, and Jimmy Dowling will be opening all the Tassie shows!!   
+An incredible first few weeks of the [Everything Sings Tonight][141] [tour][shows]! 19 days, 5000 k's, 13 shows, 10 of them full houses!! and all of them gorgeous xx Love and thanks to all who've joined us along the way so far! This week we play Sydney, Wentworth Falls, Canberra and Candelo. [Details here][shows].
 
-* * * * *  
+In other news - delighted to announce that none other than Matt Walker will be gracing us with an opening set at the Melbourne launch show, and Jimmy Dowling will be opening all the Tassie shows!!
 
-### 1 July 2015 | The tour rolls on...  
+* * * * *
 
-Loving thanks to all who've come out to these shows these past couple of weeks! Couldn't have asked for a better start to the tour! It continues through July with shows across NSW, ACT & the Northern Territory. And then Western Australia, Victoria & Tasmania in August. [Details here][shows].  
+### 1 July 2015 | The tour rolls on...
 
-The friendly [press][press] continues too! Here's Noel Mengel's [Four Star review from the Courier Mail][148], and Chris Johnston's recent [feature article from The Age][149].     
+Loving thanks to all who've come out to these shows these past couple of weeks! Couldn't have asked for a better start to the tour! It continues through July with shows across NSW, ACT & the Northern Territory. And then Western Australia, Victoria & Tasmania in August. [Details here][shows].
 
-* * * * *        
+The friendly [press][press] continues too! Here's Noel Mengel's [Four Star review from the Courier Mail][148], and Chris Johnston's recent [feature article from The Age][149].
 
-### 9 June 2015 | Four Stars in Rolling Stone  
+* * * * *
 
-[Reviews][press] have started rolling in for [Everything Sings Tonight][141], including a Four Star review in the current edition of Rolling Stone!    
+### 9 June 2015 | Four Stars in Rolling Stone
 
-* * * * *        
+[Reviews][press] have started rolling in for [Everything Sings Tonight][141], including a Four Star review in the current edition of Rolling Stone!
 
-### 2 June 2015 | Daily Planet Feature  
+* * * * *
+
+### 2 June 2015 | Daily Planet Feature
 
 [Everything Sings Tonight][141] is the feature album on Lucky Ocean's Daily Planet tonight. [Listen in][147] xx
 
-* * * * *      
+* * * * *
 
-### 1 June 2015 | Release Day!  
+### 1 June 2015 | Release Day!
 
-[Everything Sings Tonight][141] is out now! Available through [iTunes][144], in all fine record stores across Australia through [Vitamin][145], and via direct [mail-order][141] from us xx Happy release day! xx 
+[Everything Sings Tonight][141] is out now! Available through [iTunes][144], in all fine record stores across Australia through [Vitamin][145], and via direct [mail-order][141] from us xx Happy release day! xx
 
 
-* * * * *      
+* * * * *
 
-### 29 May 2015 | Radio National    
+### 29 May 2015 | Radio National
 
-Lucie & Hamish will be featured on tomorrow's Music Show on RN. Tune in your  radio waves or [stream it on th internets][146] x  
+Lucie & Hamish will be featured on tomorrow's Music Show on RN. Tune in your  radio waves or [stream it on th internets][146] x
 
-* * * * *    
+* * * * *
 
-### 19 May 2015 | Pre-orders on their way x  
+### 19 May 2015 | Pre-orders on their way x
 
-Huge thanks to all of you who've pre-ordered [Everything Sings Tonight][141]!! xx The cd-preorders are now on their way! (and the LPs will be shipped next week).  Fancy one arriving at your place? You can [place an order here][141] xx    
+Huge thanks to all of you who've pre-ordered [Everything Sings Tonight][141]!! xx The cd-preorders are now on their way! (and the LPs will be shipped next week).  Fancy one arriving at your place? You can [place an order here][141] xx
 
-* * * * *        
+* * * * *
 
-### 27 April 2015 | Australian Winter Tour Announced    
+### 27 April 2015 | Australian Winter Tour Announced
 
-Lucie & Hamish will be touring far and wide to celebrate the June 1st release of [EVERYTHING SINGS TONIGHT][141]. [Australian Winter Tour dates][shows] have just been announced, with shows in every State and Territory throughout June, July and August.       
+Lucie & Hamish will be touring far and wide to celebrate the June 1st release of [EVERYTHING SINGS TONIGHT][141]. [Australian Winter Tour dates][shows] have just been announced, with shows in every State and Territory throughout June, July and August.
 
-![](data/image/news/LT_EST_Poster.jpg)  
+![](data/image/news/LT_EST_Poster.jpg)
 
-* * * * *      
+* * * * *
 
-### 17 March 2015 | The Rushing Dark 
+### 17 March 2015 | The Rushing Dark
 
 The new single - The Rushing Dark - is out now! through [iTunes][142]. And here's [the clip][143] for your viewing/listening pleasure x
 
 ![](data/image/news/TheRushingDark_1080.jpg)
 
-* * * * *          
+* * * * *
 
-### 3 February 2015 | Everything Sings Tonight!   
+### 3 February 2015 | Everything Sings Tonight!
 
-Lucie's new album, [EVERYTHING SINGS TONIGHT][141] will be released on 1st June 2015! And you can pre-order your copy now! Available on both CD and Vinyl, you'll receive a free pre-release download of the first single, *The Rushing Dark* when you [pre-order the album][141] xx (and your copy of Everything Sings Tonight will be lovingly mailed to you in May)     
+Lucie's new album, [EVERYTHING SINGS TONIGHT][141] will be released on 1st June 2015! And you can pre-order your copy now! Available on both CD and Vinyl, you'll receive a free pre-release download of the first single, *The Rushing Dark* when you [pre-order the album][141] xx (and your copy of Everything Sings Tonight will be lovingly mailed to you in May)
 
-The first single, *The Rushing Dark* will be released next month, and tickets for the Single Release [shows][shows] are now on sale too.  
+The first single, *The Rushing Dark* will be released next month, and tickets for the Single Release [shows][shows] are now on sale too.
 
-![](data/image/news/EverythingSingsTonightCover1.jpg)  
+![](data/image/news/EverythingSingsTonightCover1.jpg)
 
-* * * * *          
+* * * * *
 
-### 14 December 2014 | New Album News!  
+### 14 December 2014 | New Album News!
 
-Excited to let you know that there's a new album well on the way folks! Lucie & Hamish recorded most of it while they were in Berlin recently, and are currently working on the finishing touches. We'll be telling you a whole lot more about it all in the new year, so stay tuned xx    
+Excited to let you know that there's a new album well on the way folks! Lucie & Hamish recorded most of it while they were in Berlin recently, and are currently working on the finishing touches. We'll be telling you a whole lot more about it all in the new year, so stay tuned xx
 
-* * * * *          
+* * * * *
 
-### 1 December 2014 | Southern Summer     
+### 1 December 2014 | Southern Summer
 
 Wrapping up a big year on the road with a performance at [FRL Festival](http://frl2014.bilyana.com) in Eldorado this weekend! Followed by a little summer hiatus... and then some shows around Tassie in the new year x [Details here][shows]
 
-* * * * *         
+* * * * *
 
-### 21 November 2014 | Duo shows with Hamish Stuart  
+### 21 November 2014 | Duo shows with Hamish Stuart
 
-Three duo shows with Hamish Stuart coming up this week: Sat 22nd in Bellarine, Sun 23rd in Maryknoll, and Wed 26th in Abbotsford. [Details/bookings info here][shows].  
+Three duo shows with Hamish Stuart coming up this week: Sat 22nd in Bellarine, Sun 23rd in Maryknoll, and Wed 26th in Abbotsford. [Details/bookings info here][shows].
 
-* * * * *         
+* * * * *
 
-### 5 November 2014 | Woodlands Run  
+### 5 November 2014 | Woodlands Run
 
-Lucie lands back home this week, and heads straight back on the road... to Finniss, SA! for the sweet Woodlands Run Festival! [Tickets on sale here][139]      
+Lucie lands back home this week, and heads straight back on the road... to Finniss, SA! for the sweet Woodlands Run Festival! [Tickets on sale here][139]
 
-* * * * *         
+* * * * *
 
-### 26 October 2014 | Minneapolis  
+### 26 October 2014 | Minneapolis
 
-Last show in the Northern Hemisphere coming up tomorrow night - at The Aster in Minneapolis, in cahoots with the mighty Rossetto, Huckfelt, Lewis & Bates!  
+Last show in the Northern Hemisphere coming up tomorrow night - at The Aster in Minneapolis, in cahoots with the mighty Rossetto, Huckfelt, Lewis & Bates!
 
-* * * * *         
+* * * * *
 
-### 15 October 2014 | LOVE OVER GOLD  
+### 15 October 2014 | LOVE OVER GOLD
 
-Tomorrow night Lucie re-unites with [Pieta Brown][81] as [LOVE OVER GOLD][124] for a very special [Real Phonic Radio Hour][137] performance in St Paul, Minnesota, USA! [Tickets on sale here][138].   
+Tomorrow night Lucie re-unites with [Pieta Brown][81] as [LOVE OVER GOLD][124] for a very special [Real Phonic Radio Hour][137] performance in St Paul, Minnesota, USA! [Tickets on sale here][138].
 
-* * * * *         
+* * * * *
 
-### 1 October 2014 | Benelux    
+### 1 October 2014 | Benelux
 
-Lucie's next round of shows are in Holland and Belgium, starting tonight in Geldrop, and then on to Lanakan, Breda, Nijmegen, Rotterdam and Wageningen. [Details here][shows]    
+Lucie's next round of shows are in Holland and Belgium, starting tonight in Geldrop, and then on to Lanakan, Breda, Nijmegen, Rotterdam and Wageningen. [Details here][shows]
 
-* * * * *         
+* * * * *
 
-### 26 September 2014 | Midwest USA shows announced  
+### 26 September 2014 | Midwest USA shows announced
 
-En route home from this European tour, Lucie will be playing just a handful of shows across Midwest USA next month... [Details here][shows]    
+En route home from this European tour, Lucie will be playing just a handful of shows across Midwest USA next month... [Details here][shows]
 
-* * * * *         
+* * * * *
 
-### 19 September 2014 | Arhanghel'sk  
+### 19 September 2014 | Arhanghel'sk
 
-While in Bucharest last week Lucie was invited to record backing vocals on a beautiful new song - Arhanghel'sk - by Romanian band [Robin and the Backstabbers][136]. You can hear it and watch the [film clip here][136.1].    
+While in Bucharest last week Lucie was invited to record backing vocals on a beautiful new song - Arhanghel'sk - by Romanian band [Robin and the Backstabbers][136]. You can hear it and watch the [film clip here][136.1].
 
-In other news, Lucie and Hamish's Sofa Salon show in Berlin tonight has now sold out! Thanks folks xx  
+In other news, Lucie and Hamish's Sofa Salon show in Berlin tonight has now sold out! Thanks folks xx
 
-* * * * *         
+* * * * *
 
-### 14 September 2014 | Germany  
+### 14 September 2014 | Germany
 
-The German chapter of the tour starts tonight! with a duo show with Hamish Stuart at Berlin's Culture Container. Also on the bill are Melbourne favourites Liz Stringer & Van Walker! [Details here][shows]  
+The German chapter of the tour starts tonight! with a duo show with Hamish Stuart at Berlin's Culture Container. Also on the bill are Melbourne favourites Liz Stringer & Van Walker! [Details here][shows]
 
-* * * * *         
+* * * * *
 
-### 1 September 2014 | Romania  
+### 1 September 2014 | Romania
 
-Lucie's European tour starts this week! with shows in Bucharest, Craiova and Pitesti. [Details here][shows]     
+Lucie's European tour starts this week! with shows in Bucharest, Craiova and Pitesti. [Details here][shows]
 
-* * * * *         
+* * * * *
 
-### 18 August 2014 | Dookie, Bendigo, Melbourne  
+### 18 August 2014 | Dookie, Bendigo, Melbourne
 
-This weekend Lucie will be joining forces with the one n only Jo Jo Smith for two shows in regional Victoria - Sat 23rd Aug in Dookie, and Sun 24th in Bendigo. And, just announced! an extra Melbourne show has been added - Sun 31st August at the Retreat. [Details here][shows]    
+This weekend Lucie will be joining forces with the one n only Jo Jo Smith for two shows in regional Victoria - Sat 23rd Aug in Dookie, and Sun 24th in Bendigo. And, just announced! an extra Melbourne show has been added - Sun 31st August at the Retreat. [Details here][shows]
 
-* * * * *         
+* * * * *
 
-### 8 August 2014 | Northern Hemisphere  
+### 8 August 2014 | Northern Hemisphere
 
-Some of Lucie's northern [tour dates][shows] have just been announced!    
+Some of Lucie's northern [tour dates][shows] have just been announced!
 
-* * * * *         
+* * * * *
 
 ### 4 August 2014 | Yea
 
-Tickets for Lucie's show this Friday night at the Yea Community House show have now sold out. Thanks Yea xx There are several other shows coming up around Victoria this month; in Castlemaine, Melbourne, Dookie and Bendigo. [Details here][shows]    
+Tickets for Lucie's show this Friday night at the Yea Community House show have now sold out. Thanks Yea xx There are several other shows coming up around Victoria this month; in Castlemaine, Melbourne, Dookie and Bendigo. [Details here][shows]
 
-In other news, Lucie will be playing in various parts of the northern hemisphere throughout September and October. Tour dates for Romania, Germany, Netherlands and Belgium will be announced soon for starters...   
+In other news, Lucie will be playing in various parts of the northern hemisphere throughout September and October. Tour dates for Romania, Germany, Netherlands and Belgium will be announced soon for starters...
 
-* * * * *         
+* * * * *
 
-### 9 July 2014 | Alice    
+### 9 July 2014 | Alice
 
-Lucie plays in Alice Springs for the first time ever this week - starting with an interview and live-to-air performance on Alice ABC Radio this Friday 11th, an afternoon show at Montes on Sunday 13th, and an early evening show at Epilogue on Wednesday 16th. [Details here][shows]  
+Lucie plays in Alice Springs for the first time ever this week - starting with an interview and live-to-air performance on Alice ABC Radio this Friday 11th, an afternoon show at Montes on Sunday 13th, and an early evening show at Epilogue on Wednesday 16th. [Details here][shows]
 
-* * * * *         
+* * * * *
 
-### 16 June 2014 | Winter  
+### 16 June 2014 | Winter
 
-More winter tour dates have just been announced - including Lucie's debut performance in Alice Springs, and some duet shows with Hamish Stuart in Melbourne and Castlemaine.  [Details here][shows] 
+More winter tour dates have just been announced - including Lucie's debut performance in Alice Springs, and some duet shows with Hamish Stuart in Melbourne and Castlemaine.  [Details here][shows]
 
-* * * * *          
+* * * * *
 
-### 4 June 2014 | Solo in June  
+### 4 June 2014 | Solo in June
 
-Lucie will be performing a series of intimate solo concerts throughout the month of June, starting tonight in Melbourne at the Bella Union, and then on to Bacchus Marsh, Canberra, Maitland, Bellingen, Mullumbimby, Katoomba, Kangaroo Valley and Mallacoota. [Details here][shows]     
+Lucie will be performing a series of intimate solo concerts throughout the month of June, starting tonight in Melbourne at the Bella Union, and then on to Bacchus Marsh, Canberra, Maitland, Bellingen, Mullumbimby, Katoomba, Kangaroo Valley and Mallacoota. [Details here][shows]
 
-* * * * *          
+* * * * *
 
-### 16 May 2014 | South Australia  
+### 16 May 2014 | South Australia
 
-Three shows coming up in South Australia - the first of which is tonight, at the beloved Wheaty, in duet with Dr Hamish Stuart. [Details here][shows]   
+Three shows coming up in South Australia - the first of which is tonight, at the beloved Wheaty, in duet with Dr Hamish Stuart. [Details here][shows]
 
-* * * * *          
+* * * * *
 
-### 9 May 2014 | This weekend with Sal Kimber  
+### 9 May 2014 | This weekend with Sal Kimber
 
-Lucie plays three shows around regional Victoria this weekend - in Dean's Marsh, Ballarat and Hepburn Springs - all of them with local treasure Sal Kimber. [Details here][shows]  
+Lucie plays three shows around regional Victoria this weekend - in Dean's Marsh, Ballarat and Hepburn Springs - all of them with local treasure Sal Kimber. [Details here][shows]
 
-* * * * *          
+* * * * *
 
-### 22 April 2014 | Two Duets  
+### 22 April 2014 | Two Duets
 
-Lucie will be playing two duet shows with Hamish Stuart this week - tomorrow night in Newcastle, and Saturday night in Wollongong. [Details here][shows]      
+Lucie will be playing two duet shows with Hamish Stuart this week - tomorrow night in Newcastle, and Saturday night in Wollongong. [Details here][shows]
 
-* * * * *          
+* * * * *
 
-### 11 April 2014 | Standing in the Lovelight         
+### 11 April 2014 | Standing in the Lovelight
 
-Lucie will be performing tonight at Melbourne's beautiful Thornbury Theatre, warming things up for the fabulous Jo Jo Smith who's launching her new album, 'Standing in the Lovelight'. Show starts 8pm.  
+Lucie will be performing tonight at Melbourne's beautiful Thornbury Theatre, warming things up for the fabulous Jo Jo Smith who's launching her new album, 'Standing in the Lovelight'. Show starts 8pm.
 
-* * * * *          
+* * * * *
 
-### 7 March 2014 | Port Fairy this weekend     
+### 7 March 2014 | Port Fairy this weekend
 
-LOVE OVER GOLD - Lucie's collaboration with US songstress Pieta Brown - is back on the road and playing this weekend at the Port Fairy Folk Festival! Full festival line-up and program available [here][133].    
+LOVE OVER GOLD - Lucie's collaboration with US songstress Pieta Brown - is back on the road and playing this weekend at the Port Fairy Folk Festival! Full festival line-up and program available [here][133].
 
-* * * * *          
+* * * * *
 
-### 24 February 2014 | Western Australia  
+### 24 February 2014 | Western Australia
 
-Lucie heads West this week for a run of shows in duet with the one n only Hamish Stuart; in Fremantle, Perth, Nannup and Margaret River. [Details here][shows]  
+Lucie heads West this week for a run of shows in duet with the one n only Hamish Stuart; in Fremantle, Perth, Nannup and Margaret River. [Details here][shows]
 
-* * * * *          
+* * * * *
 
-### 14 January 2014 | Love Over Gold to return in March  
+### 14 January 2014 | Love Over Gold to return in March
 
-Lucie's side project with [Pieta Brown][81] - [LOVE OVER GOLD][124] - has been announced as part of the line up for three Australian music festivals in March; [Port Fairy Folk Festival][133], [Brunswick Music Festival][134], and the [Blue Mountains Music Festival][135]. Tickets for each of these are on sale now, see the [shows page][shows] for details.    
+Lucie's side project with [Pieta Brown][81] - [LOVE OVER GOLD][124] - has been announced as part of the line up for three Australian music festivals in March; [Port Fairy Folk Festival][133], [Brunswick Music Festival][134], and the [Blue Mountains Music Festival][135]. Tickets for each of these are on sale now, see the [shows page][shows] for details.
 
 [shows]: http://luciethorne.com/?p=shows
 [albums]: http://luciethorne.com/?p=albums
@@ -290,264 +290,264 @@ Lucie's side project with [Pieta Brown][81] - [LOVE OVER GOLD][124] - has been a
 [137]: http://www.realphonic.com/
 [138]: http://www.realphonic.com/shop/
 [139]: http://www.trybooking.com/Booking/BookingEventSummary.aspx?eid=106097
-[140]: http://frl2014.bilyana.com/  
-[141]: http://luciethorne.com/?p=albums/everything-sings-tonight  
+[140]: http://frl2014.bilyana.com/
+[141]: http://luciethorne.com/?p=albums/everything-sings-tonight
 [142]: https://itunes.apple.com/au/album/rushing-dark-single-rushing/id976471411
-[143]: https://www.youtube.com/watch?v=DxTKUIL_tpI   
+[143]: https://www.youtube.com/watch?v=DxTKUIL_tpI
 [144]: https://itunes.apple.com/au/album/everything-sings-tonight/id998796975
-[145]: https://www.vitamin.net.au/albumdefault.asp?ai=637 
+[145]: https://www.vitamin.net.au/albumdefault.asp?ai=637
 [146]: http://www.abc.net.au/radionational/programs/musicshow/lucie-thorne-26-hamish-stuart/6484124
-[147]: http://www.abc.net.au/radionational/programs/dailyplanet/lucie-thorne---everything-sings-tonight-daily-planet-abc/6488132  
-[press]: http://luciethorne.com/?p=press    
+[147]: http://www.abc.net.au/radionational/programs/dailyplanet/lucie-thorne---everything-sings-tonight-daily-planet-abc/6488132
+[press]: http://luciethorne.com/?p=press
 [148]: http://m.couriermail.com.au/entertainment/music/album-reviews-lucie-in-the-empty-sky-with-gems/story-fnihmead-1227414195080
-[149]: http://www.theage.com.au/entertainment/music/melbourne-artist-lucie-thornes-music-is-poetic-and-poignant--and-sounds-damn-good-20150617-ghmvg7.html 
-[150]: https://www.youtube.com/watch?v=XUfGjLWvW9g#t=98   
-[151]: http://woodfordfolkfestival.com/  
+[149]: http://www.theage.com.au/entertainment/music/melbourne-artist-lucie-thornes-music-is-poetic-and-poignant--and-sounds-damn-good-20150617-ghmvg7.html
+[150]: https://www.youtube.com/watch?v=XUfGjLWvW9g#t=98
+[151]: http://woodfordfolkfestival.com/
 
 ### 16 December 2013 | Summer touring...
 
-Lucie will be back on the road early in the new year, starting with shows in Tasmania - including duet performances with Hamish Stuart in Launceston and at the Cygnet Folk Festival, and two shows with The Yearlings in Hobart and Deloraine. Other summer dates include some solo performances around Victoria, a duet tour of Western Australia with Hamish Stuart, and then in March LOVE OVER GOLD return to play Port Fairy! Details on the [tour page][14], more announced soon... 
+Lucie will be back on the road early in the new year, starting with shows in Tasmania - including duet performances with Hamish Stuart in Launceston and at the Cygnet Folk Festival, and two shows with The Yearlings in Hobart and Deloraine. Other summer dates include some solo performances around Victoria, a duet tour of Western Australia with Hamish Stuart, and then in March LOVE OVER GOLD return to play Port Fairy! Details on the [tour page][14], more announced soon...
 
-### 29 November 2013 | Thanks x  
+### 29 November 2013 | Thanks x
 
-Love and thanks to all who came out to these first-ever Australian LOVE OVER GOLD shows this past week! What a week!! Stay tuned for [LOVE OVER GOLD][124]'s 2014 tour-dates announcement coming soon!    
+Love and thanks to all who came out to these first-ever Australian LOVE OVER GOLD shows this past week! What a week!! Stay tuned for [LOVE OVER GOLD][124]'s 2014 tour-dates announcement coming soon!
 
-Lucie will be playing her last show for the year this Sunday 1st December at the beautiful Mudbrick Pavilion in Mallacoota. [Details here][14].    
+Lucie will be playing her last show for the year this Sunday 1st December at the beautiful Mudbrick Pavilion in Mallacoota. [Details here][14].
 
-### 19 November 2013 | LOVE OVER GOLD Re-United!  
+### 19 November 2013 | LOVE OVER GOLD Re-United!
 
-[LOVE OVER GOLD][124] re-unite in Melbourne! playing tomorrow night at the Velvet Room of the Thornbury Theatre. Today Lucie & Pieta will be singing over the airwaves together on pbsfm at 8am, Radio Australia at 10am, and ABC 774 at 3pm...  
+[LOVE OVER GOLD][124] re-unite in Melbourne! playing tomorrow night at the Velvet Room of the Thornbury Theatre. Today Lucie & Pieta will be singing over the airwaves together on pbsfm at 8am, Radio Australia at 10am, and ABC 774 at 3pm...
 
-### 12 November 2013 | Changes...  
+### 12 November 2013 | Changes...
 
-Sad news just in - due to a death in her family Pieta Brown will not be able to make it out to Australia for the first week of these [Love Over Gold][124] shows. She will be there to join Lucie for their Melbourne (Wed 20 Nov - Thornbury Theatre) and Mullum Music Festival (21-24 Nov - Mullumbimby) shows as planned, and Lucie will proceed with solo performances for this week's shows in Sydney (Thur 14 Nov - The Basement), Canberra (Fri 15 Nov - Street Theatre) and Candelo (Sat 16 Nov - Town Hall).     
+Sad news just in - due to a death in her family Pieta Brown will not be able to make it out to Australia for the first week of these [Love Over Gold][124] shows. She will be there to join Lucie for their Melbourne (Wed 20 Nov - Thornbury Theatre) and Mullum Music Festival (21-24 Nov - Mullumbimby) shows as planned, and Lucie will proceed with solo performances for this week's shows in Sydney (Thur 14 Nov - The Basement), Canberra (Fri 15 Nov - Street Theatre) and Candelo (Sat 16 Nov - Town Hall).
 
-### 2 November 2013 | Rhythms Feature!  
+### 2 November 2013 | Rhythms Feature!
 
-[LOVE OVER GOLD][124] grace the cover of this month's issue of Australian roots music magazine [Rhythms][132]! ...with a feature article inside. Pick up a copy folks x  
+[LOVE OVER GOLD][124] grace the cover of this month's issue of Australian roots music magazine [Rhythms][132]! ...with a feature article inside. Pick up a copy folks x
 
 ### 20 October 2013 | Thanks folks!
 
 Thanks to all the new friends and fans [LOVE OVER GOLD][124] has made over these past few weeks on the road across the USA. What a great tour! And the reviews for *Fall To Rise* keep rolling in, and glowing! ...including Four Stars in *Rolling Stone Magazine* and *The Weekend Australian*. You can read a selection of these [album reviews here][13]...
 
-### 9 October 2013 | The US tour continues...  
+### 9 October 2013 | The US tour continues...
 
-Huge thanks to all who came out to the Midwest shows!! What an amazing couple of weeks its been for [LOVE OVER GOLD][124]! Five more dates on the US tour - out in the North West, and all opening for the one and only Greg Brown! [Details here][14].  
+Huge thanks to all who came out to the Midwest shows!! What an amazing couple of weeks its been for [LOVE OVER GOLD][124]! Five more dates on the US tour - out in the North West, and all opening for the one and only Greg Brown! [Details here][14].
 
 ### 28 September 2013 | US Tour starts now!
 
-The first show of the [LOVE OVER GOLD Tour][14] is tonight! In Kansas City! And on Sunday afternoon you can tune in your radios - or internets - to hear LOVE OVER GOLD live in Studio One on [Iowa Public Radio][131]!   
+The first show of the [LOVE OVER GOLD Tour][14] is tonight! In Kansas City! And on Sunday afternoon you can tune in your radios - or internets - to hear LOVE OVER GOLD live in Studio One on [Iowa Public Radio][131]!
 
-### 9 September 2013  | Fall To Rise OUT NOW!  
+### 9 September 2013  | Fall To Rise OUT NOW!
 
-Lucie's new collaborative album with US songwriter Pieta Brown, as LOVE OVER GOLD, is released today! [Fall To Rise][125] is on the shelves at your local friendly record store (if you're in Australia) courtesy of the good folk at [Vitamin][126]. And if you're elsewhere in the world, you can order your copy either from the [Vitamin site][126] or direct from [LOVE OVER GOLD][125]. Digital downloads of the album are also available to purchase from [iTunes][130].   
+Lucie's new collaborative album with US songwriter Pieta Brown, as LOVE OVER GOLD, is released today! [Fall To Rise][125] is on the shelves at your local friendly record store (if you're in Australia) courtesy of the good folk at [Vitamin][126]. And if you're elsewhere in the world, you can order your copy either from the [Vitamin site][126] or direct from [LOVE OVER GOLD][125]. Digital downloads of the album are also available to purchase from [iTunes][130].
 
-### 3 September 2013  | Early praise for Fall To Rise!  
+### 3 September 2013  | Early praise for Fall To Rise!
 
-LOVE OVER GOLD's [Fall To Rise][125] is this week's Feature Album on [PBSfm][128]! And the September edition of [Rhythms Magazine][129] includes a review of the album, describing it as *"Warm, rich, intimate. Their combination takes them somewhere neither has been before. A triumphant alliance."* [Fall To Rise][125] will be out September 9th!      
+LOVE OVER GOLD's [Fall To Rise][125] is this week's Feature Album on [PBSfm][128]! And the September edition of [Rhythms Magazine][129] includes a review of the album, describing it as *"Warm, rich, intimate. Their combination takes them somewhere neither has been before. A triumphant alliance."* [Fall To Rise][125] will be out September 9th!
 
-### 20 August 2013  | USA Tour Dates Announced    
+### 20 August 2013  | USA Tour Dates Announced
 
-The [American tour dates][14] for [LOVE OVER GOLD][124] - Lucie's new collaboration with [Pieta Brown][81] - have just been announced.  Tickets for all these October [shows][14] - as well as for all their Australian [shows][14] in November - are on sale now!    
+The [American tour dates][14] for [LOVE OVER GOLD][124] - Lucie's new collaboration with [Pieta Brown][81] - have just been announced.  Tickets for all these October [shows][14] - as well as for all their Australian [shows][14] in November - are on sale now!
 
-### 13 August 2013  | Two new songs available now!    
+### 13 August 2013  | Two new songs available now!
 
-In addition to [pre-ordering][125] a physical copy of [Fall To Rise][125], there are now two [LOVE OVER GOLD][124] songs available to purchase as digital downloads - *Then We Were Flying* and *Coming Up Crimson* - through [Vitamin][126] and [iTunes][127].  
+In addition to [pre-ordering][125] a physical copy of [Fall To Rise][125], there are now two [LOVE OVER GOLD][124] songs available to purchase as digital downloads - *Then We Were Flying* and *Coming Up Crimson* - through [Vitamin][126] and [iTunes][127].
 
-### 6 August 2013  | PreOrder Fall To Rise by LOVE OVER GOLD    
+### 6 August 2013  | PreOrder Fall To Rise by LOVE OVER GOLD
 
-You can now [pre-order][125] your copy of Lucie's new album with [Pieta Brown][81]; [Fall To Rise][125] by [LOVE OVER GOLD][124] - and you'll receive a complimentary download of the first song from the album, *Then We Were Flying*, when you purchase. Limited offer includes free shipping world-wide! Your CD will be mailed out to you at the end of August x  
+You can now [pre-order][125] your copy of Lucie's new album with [Pieta Brown][81]; [Fall To Rise][125] by [LOVE OVER GOLD][124] - and you'll receive a complimentary download of the first song from the album, *Then We Were Flying*, when you purchase. Limited offer includes free shipping world-wide! Your CD will be mailed out to you at the end of August x
 
 And in other [LOVE OVER GOLD][124] news; their Australian November tour dates
-have just been announced! Tickets will go on sale next week. Details on the [shows page][14].   
+have just been announced! Tickets will go on sale next week. Details on the [shows page][14].
 
 ### 30 July 2013  | LOVE OVER GOLD
 
 Delighted to be announcing the news of Lucie's new musical project and new recording! Lucie and US songwriter [Pieta Brown][81] have been working on a new collaboration, and together, they are [LOVE OVER GOLD][124]. And [LOVE OVER GOLD][124] has made it's debut album x It's called *Fall To Rise*, and it'll be released September 9th 2013 on *Little Secret Records* through Vitamin Distribution, with touring to follow! More on all this soon... and in the meantime, check out the new [LOVE OVER GOLD][124] site x
 
-### 18 June 2013 | 2SER and a second Sydney show  
+### 18 June 2013 | 2SER and a second Sydney show
 
 Tune in to Sydney's 2SER radio tomorrow night from 8pm to hear Lucie play some
-new songs over the airwaves and chat with [Sideways Through Sound][123] host Mark Ward.  And - just announced - in addition to their set at the [Camelot Lounge on Thursday 20th][122.1] Lucie and Hamish will also be making a little cameo appearance at the Soda Factory Folk Club, Wed 19th, from 10pm. [Details here.][14]    
+new songs over the airwaves and chat with [Sideways Through Sound][123] host Mark Ward.  And - just announced - in addition to their set at the [Camelot Lounge on Thursday 20th][122.1] Lucie and Hamish will also be making a little cameo appearance at the Soda Factory Folk Club, Wed 19th, from 10pm. [Details here.][14]
 
-### 10 June 2013 | Duet shows with Hamish Stuart   
+### 10 June 2013 | Duet shows with Hamish Stuart
 
-Lucie has shows coming up in Canberra, Milton, Tathra, Sydney and Katoomba over the next two weeks, all in duet with the one and only Hamish Stuart! [Details here.][14]    
+Lucie has shows coming up in Canberra, Milton, Tathra, Sydney and Katoomba over the next two weeks, all in duet with the one and only Hamish Stuart! [Details here.][14]
 
-### 28 May 2013 | PBS & Jo Jo Smith  
+### 28 May 2013 | PBS & Jo Jo Smith
 
-Tune in to Melbourne's 3PBS 'Breakfast Spread' this Thursday morning to hear Lucie guest-DJ some favourite songs. And then - speaking of favourites! -  Lucie plays two shows this weekend - Friday 31st May at The Thornbury Theatre and Saturday 1st June at The Old Flour Mill in Euroa - both with the fabulous Jo Jo Smith! [Bookings info here][14]  
+Tune in to Melbourne's 3PBS 'Breakfast Spread' this Thursday morning to hear Lucie guest-DJ some favourite songs. And then - speaking of favourites! -  Lucie plays two shows this weekend - Friday 31st May at The Thornbury Theatre and Saturday 1st June at The Old Flour Mill in Euroa - both with the fabulous Jo Jo Smith! [Bookings info here][14]
 
-### 15 May 2013 | South Australia  
+### 15 May 2013 | South Australia
 
-Lucie returns to sunny South Australia this month, for a selection of shows in Adelaide and McLaren Vale. [Details here][14]   
+Lucie returns to sunny South Australia this month, for a selection of shows in Adelaide and McLaren Vale. [Details here][14]
 
-### 20 April 2013 | Back in the Heartland...   
+### 20 April 2013 | Back in the Heartland...
 
-Currently in the US working on an exciting new project which we'll be telling you more about soon! ... Lucie plays two intimate shows in the Midwest over the next couple of weeks; Sunday 21st April at Severson Dells Nature Centre, Illinois; and a House Concert in Riverside, Iowa, Saturday 4th May. [More details here][14]      
+Currently in the US working on an exciting new project which we'll be telling you more about soon! ... Lucie plays two intimate shows in the Midwest over the next couple of weeks; Sunday 21st April at Severson Dells Nature Centre, Illinois; and a House Concert in Riverside, Iowa, Saturday 4th May. [More details here][14]
 
-### 12 April 2013 | Candelo & Brunswick this weekend  
+### 12 April 2013 | Candelo & Brunswick this weekend
 
-Back on the beautiful NSW far-south coast, Lucie performs at the Candelo Village Festival tomorrow, Saturday 13th April. And during her evening feature concert (from 8.15pm at St Peters) she'll by joined by cameo appearances from local treasures Jay McMahon, Kade Brown and Kate Burke xx 
-On Sunday evening it's back to Melbourne where Lucie plays an early solo set at Brunswick's Retreat Hotel. [More details here][14]    
+Back on the beautiful NSW far-south coast, Lucie performs at the Candelo Village Festival tomorrow, Saturday 13th April. And during her evening feature concert (from 8.15pm at St Peters) she'll by joined by cameo appearances from local treasures Jay McMahon, Kade Brown and Kate Burke xx
+On Sunday evening it's back to Melbourne where Lucie plays an early solo set at Brunswick's Retreat Hotel. [More details here][14]
 
 
-### 26 March 2013 | More Tour Dates  
+### 26 March 2013 | More Tour Dates
 
 More Australian shows have been announced for April, May & June, with tickets for many of these now on sale. Visit the [tour page][14] for details.
 
-### 1 March 2013 | Autumn touring  
+### 1 March 2013 | Autumn touring
 
-Lucie will be playing shows across NSW, Victoria and South Australia this Autumn; many of these dates are up now on the [tour page][14] - with more to be announced soon. Shows this month include Sydney, Mullumbimby, Bellingen and Braidwood. [Details here][14].  
+Lucie will be playing shows across NSW, Victoria and South Australia this Autumn; many of these dates are up now on the [tour page][14] - with more to be announced soon. Shows this month include Sydney, Mullumbimby, Bellingen and Braidwood. [Details here][14].
 
 
-### 4 February 2013 | February shows  
+### 4 February 2013 | February shows
 
-This month Lucie performs two Sunday afternoon concerts in Canberra, on Feb 10th and 24th, as part of The Ellis Collective's Summer Residency at The Front. She'll also be returning to Victoria's beautiful Otways region for concerts in Lorne and Paraparap on Feb 16th and 17th. [Details here][14].    
+This month Lucie performs two Sunday afternoon concerts in Canberra, on Feb 10th and 24th, as part of The Ellis Collective's Summer Residency at The Front. She'll also be returning to Victoria's beautiful Otways region for concerts in Lorne and Paraparap on Feb 16th and 17th. [Details here][14].
 
-### 18 January 2013 | Four Leaf Sessions  
+### 18 January 2013 | Four Leaf Sessions
 
-Lucie is the featured artist for the next Four Leaf Sessions concert, happening this Sunday 20th January. A twilight summer house concert series in Northcote Melbourne, Lucie will play two sets, in a beautiful outdoor setting. Gates open 6pm, show starts 7pm, and bookings are essential. For bookings contact the.four.leaf.sessions@live.com   
+Lucie is the featured artist for the next Four Leaf Sessions concert, happening this Sunday 20th January. A twilight summer house concert series in Northcote Melbourne, Lucie will play two sets, in a beautiful outdoor setting. Gates open 6pm, show starts 7pm, and bookings are essential. For bookings contact the.four.leaf.sessions@live.com
 
-### 2 January 2013 | Tasmania   
+### 2 January 2013 | Tasmania
 
 Lucie's first two shows for 2013 are back in her home state of Tasmania -
-this Sunday 6th in Margate and Friday 11th in Launceston. [Details here][14].    
+this Sunday 6th in Margate and Friday 11th in Launceston. [Details here][14].
 
 
-### 18 December 2012 | Onder Invloed  
+### 18 December 2012 | Onder Invloed
 
 While in Holland last month Lucie was invited to record a session for Dutch
 music site [Onder Invloed][118] - where she was asked to perform cover versions
 from some of her favourite songwriters. [This session is now online][118.1] - Lucie playing 3 songs, by Jesse Younan, Pieta Brown and Kim Dellavedova - live
-in the Smoked Recordings rehearsal studio in Wageningen.  
+in the Smoked Recordings rehearsal studio in Wageningen.
 
-### 12 December 2012 | Murrah  
-  
-Lucie plays her last show of 2012 this Saturday night, December 15th, at one of her very favourite venues in the land; the sweet old Murrah Hall on the NSW far south coast.  This will be an acoustic show (that's right folks, no PA, just the beautiful resonance of this old timber hall), and there's limited space - so we recommend early arrival to ensure a seat x [Details here][14].    
+### 12 December 2012 | Murrah
 
-### 1 December 2012 | Southern Summer  
+Lucie plays her last show of 2012 this Saturday night, December 15th, at one of her very favourite venues in the land; the sweet old Murrah Hall on the NSW far south coast.  This will be an acoustic show (that's right folks, no PA, just the beautiful resonance of this old timber hall), and there's limited space - so we recommend early arrival to ensure a seat x [Details here][14].
 
-Back in the Southern hemisphere - and straight back on the road! - Lucie plays her first home-coming show this weekend, up in the beautiful Brindabella Mountains, at one of Australia's sweetest festivals; [CORINBANK][99]. Details and more southern summer tour dates [here][14].  
+### 1 December 2012 | Southern Summer
 
-### 23 November 2012 | Bucharest  
+Back in the Southern hemisphere - and straight back on the road! - Lucie plays her first home-coming show this weekend, up in the beautiful Brindabella Mountains, at one of Australia's sweetest festivals; [CORINBANK][99]. Details and more southern summer tour dates [here][14].
 
-An extra show has just been added to the Romanian leg of the tour!; Lucie plays at [Londophone][117], Zalomit 2, tomorrow night, Saturday 24th Nov, from 8pm.  
+### 23 November 2012 | Bucharest
 
-### 13 November 2012 | Berlin    
+An extra show has just been added to the Romanian leg of the tour!; Lucie plays at [Londophone][117], Zalomit 2, tomorrow night, Saturday 24th Nov, from 8pm.
 
-Lucie plays three shows in Berlin this week - Wednesday at Intersoup, Thursday at St Gaudy, and Friday at Sofa Salon. Friday night's show has already sold out! ... and we recommend turning up early to the others to ensure a good seat x [Details here][14].  
+### 13 November 2012 | Berlin
+
+Lucie plays three shows in Berlin this week - Wednesday at Intersoup, Thursday at St Gaudy, and Friday at Sofa Salon. Friday night's show has already sold out! ... and we recommend turning up early to the others to ensure a good seat x [Details here][14].
 
 
-### 7 November 2012 | Smoked Label Night #2 
+### 7 November 2012 | Smoked Label Night #2
 
 The second in this series of Smoked Recordings Label Night concerts
 is happening this weekend - at the beautiful Theatre Wilde Wereld in
 Wageningen, Saturday 10th November. As well as performing solo, Lucie
-will be joining forces with label-mates - and legends! - Big Low and Matt Walker, for a whole lot of mix n match on each others songs over the course of the evening. We're in for a real treat folks!  
+will be joining forces with label-mates - and legends! - Big Low and Matt Walker, for a whole lot of mix n match on each others songs over the course of the evening. We're in for a real treat folks!
 
 In other news, more tour dates have just been added to the [shows page][14],
-including one in Bucharest, RO, as well as the start of Lucie's Australian summer tour schedule. [Details here][14].     
+including one in Bucharest, RO, as well as the start of Lucie's Australian summer tour schedule. [Details here][14].
 
 
-### 29 October 2012 | Bonfires and Belgium 
+### 29 October 2012 | Bonfires and Belgium
 
 The first Dutch album reviews for Bonfires have started rolling in - and glowing! - [here's one][116] from Jan Willem Broek at [Subjectivisten][116]. Lucie performs two shows in Gent, Belgium this week, followed by the first in a series of Smoked Label Night Theatre Concerts, at the [Patronaat][116.1] in Haarlem, alongside Big Low, Matt Walker, Davie Lawson and Jeroen Kant. [Details here][14].
 
-### 23 October 2012 | Bonfires in Europe...     
+### 23 October 2012 | Bonfires in Europe...
 
-[Bonfires In Silver City][89] hits the Northern shelves this week, 
-courtesy of boutique Dutch label [Smoked Recordings][38], with distribution Europe-wide through Continental Record Services (...so if it's not on the shelf at your favourite local record store you can ask them to order it in via CRS).  Lucie's European tour starts this weekend, with the first round of shows in Deventer, Enchede and Almelo. [Details here][14].    
+[Bonfires In Silver City][89] hits the Northern shelves this week,
+courtesy of boutique Dutch label [Smoked Recordings][38], with distribution Europe-wide through Continental Record Services (...so if it's not on the shelf at your favourite local record store you can ask them to order it in via CRS).  Lucie's European tour starts this weekend, with the first round of shows in Deventer, Enchede and Almelo. [Details here][14].
 
-### 13 October 2012 | Tonight in Burlington with Pieta Brown!      
+### 13 October 2012 | Tonight in Burlington with Pieta Brown!
 
 En route to Europe via the American Midwest, Lucie plays a very special
-show tonight in Burlington, Iowa, with Pieta Brown & Bo Ramsey! [Details here][14].  
+show tonight in Burlington, Iowa, with Pieta Brown & Bo Ramsey! [Details here][14].
 
-### 4 October 2012 | Castlemaine & Melbourne with Matt Walker 
+### 4 October 2012 | Castlemaine & Melbourne with Matt Walker
 
-Two more shows with [Matt Walker][114] and his mighty band coming up this weekend - Saturday 6th at The Bridge Hotel in Castlemaine, and Sunday 7th at The Toff In Town in Melbourne, and then it's off across the seas! [Details here][14].    
+Two more shows with [Matt Walker][114] and his mighty band coming up this weekend - Saturday 6th at The Bridge Hotel in Castlemaine, and Sunday 7th at The Toff In Town in Melbourne, and then it's off across the seas! [Details here][14].
 
-### 20 September 2012 | Girl Interpreted  
+### 20 September 2012 | Girl Interpreted
 
-Lucie will be performing as part of a beautiful 'Darebin Feast' event in Melbourne this Saturday night; 'Girl Interpreted' - with Auslan sign language interpreters live on stage alongside the performers. Other performers on the night are Tracey McNeil, Mojo Juju and Georgia Fields. [More info and tickets available here][115].    
+Lucie will be performing as part of a beautiful 'Darebin Feast' event in Melbourne this Saturday night; 'Girl Interpreted' - with Auslan sign language interpreters live on stage alongside the performers. Other performers on the night are Tracey McNeil, Mojo Juju and Georgia Fields. [More info and tickets available here][115].
 
 ### 1 September 2012 | Spring news
 
 We're delighted to let you know that [Bonfires In Silver City][89] will be
 released in Europe next month, courtesy of the good folk at
 Netherlands-based label [Smoked Recordings][38], with
-distribution Europe-wide through [Continental Record Services][113.1].   
+distribution Europe-wide through [Continental Record Services][113.1].
 
-Before heading off on an extensive European tour in October/November, Lucie will be performing across Victoria, South Australia and NSW, including joining Smoked label-mate [Matt Walker][114] on his national album launch tour. [Details here][14].  
+Before heading off on an extensive European tour in October/November, Lucie will be performing across Victoria, South Australia and NSW, including joining Smoked label-mate [Matt Walker][114] on his national album launch tour. [Details here][14].
 
 
-### 17 August 2012 | 3RRR  
+### 17 August 2012 | 3RRR
 
-Lucie will be performing live in the studio on 'Off The Record' with Brian Wise tomorrow morning, as part of [3RRR's Radiothon week][113] which starts today! And then two shows this weekend in duet with Hamish Stuart, in Thornbury and San Remo, [details here][14].    
+Lucie will be performing live in the studio on 'Off The Record' with Brian Wise tomorrow morning, as part of [3RRR's Radiothon week][113] which starts today! And then two shows this weekend in duet with Hamish Stuart, in Thornbury and San Remo, [details here][14].
 
 ### 13 August 2012 | 3PBS
 
-Lucie will be playing a few songs live-to-air, as well as 'guest dj-ing' some of her local favourites on Australian music show [Homebrew][112.1], with Jenny O'Keefe, 3PBS radio today from 3pm.    
+Lucie will be playing a few songs live-to-air, as well as 'guest dj-ing' some of her local favourites on Australian music show [Homebrew][112.1], with Jenny O'Keefe, 3PBS radio today from 3pm.
 
-### 26 July 2012 | Starfish Club  
+### 26 July 2012 | Starfish Club
 
-Lucie will be next month's special guest at Sydney's 'Starfish Club' show on Monday 6th August. She'll be joining forces with some of the finest in a rare full-band collaboration, featuring Chris Abrahams, Jonathan Zwartz, Glen Hannah and Hamish Stuart. No presale tickets are available for this show so you'll wanna roll up early folks! [Details here][14].  
+Lucie will be next month's special guest at Sydney's 'Starfish Club' show on Monday 6th August. She'll be joining forces with some of the finest in a rare full-band collaboration, featuring Chris Abrahams, Jonathan Zwartz, Glen Hannah and Hamish Stuart. No presale tickets are available for this show so you'll wanna roll up early folks! [Details here][14].
 
-### 5 July 2012 | Across Victoria with Jo Jo Smith  
+### 5 July 2012 | Across Victoria with Jo Jo Smith
 
-Lucie will be touring across regional Victoria over the next few weeks in cahoots with the fabulous Jo Jo Smith, with [shows][14] in Strathbogie, Rushworth, Maldon, Dromana, Yackandanah and Campbells Creek.   
+Lucie will be touring across regional Victoria over the next few weeks in cahoots with the fabulous Jo Jo Smith, with [shows][14] in Strathbogie, Rushworth, Maldon, Dromana, Yackandanah and Campbells Creek.
 
-### 27 June 2012 | This weekend...      
+### 27 June 2012 | This weekend...
 
-Two shows coming up this weekend - in Canberra and Braidwood - in duet with the one n only Mr Hamish Stuart. [Details here][14].    
+Two shows coming up this weekend - in Canberra and Braidwood - in duet with the one n only Mr Hamish Stuart. [Details here][14].
 
-### 6 June 2012 | Winter touring    
+### 6 June 2012 | Winter touring
 
 Well, after a restful and merry month of May, it's back on the road over the winter months, with shows in lots of corners of the country. Details up now on the [shows page][14]...
 
-### 14 may 2012 | Radio National Album of the Week    
+### 14 may 2012 | Radio National Album of the Week
 
-[Take Something Beautiful][103] is [Album of the Week][103.1] this week on [ABC Radio National][103.1]. It hits the shelves - and the internets - today, via the good folks at [Vitamin Records][17].     
+[Take Something Beautiful][103] is [Album of the Week][103.1] this week on [ABC Radio National][103.1]. It hits the shelves - and the internets - today, via the good folks at [Vitamin Records][17].
 
 ### 12 may 2012 | Take Something Beautiful - The Songs of Jesse Younan
 
-In 2008 we lost a friend and a mighty fine songwriter. Jesse Younan died from myeloid leukemia aged just 35, and just months after the release and wide acclaim of his extraordinary album 'A Good Day for a Migraine'.  
+In 2008 we lost a friend and a mighty fine songwriter. Jesse Younan died from myeloid leukemia aged just 35, and just months after the release and wide acclaim of his extraordinary album 'A Good Day for a Migraine'.
 
-Now in 2012, a new album - [Take Something Beautiful - The Songs of Jesse Younan][103] has brought together a host of local songwriters to celebrate and pay tribute to the magic that is Jesse's music.  
+Now in 2012, a new album - [Take Something Beautiful - The Songs of Jesse Younan][103] has brought together a host of local songwriters to celebrate and pay tribute to the magic that is Jesse's music.
 
-For this project Lucie recorded a version of Jesse's haunting song 'Whatever Floats' together with musical comrades Hamish Stuart and Dave Symes. Other artists on the album include Jordie Lane, Abbe May, Greg J Walker (Machine Translations), Emily Lubitz (TinPan Orange), M Jack Bee, Jen Cloher, Jai Pyne (The Paper Scissors) and Cameron Potts and Gaby Huber (Dead Letter Chorus). [Take Something Beautiful][103] will be released on Monday 14th May through [Vitamin Records][17]. 
+For this project Lucie recorded a version of Jesse's haunting song 'Whatever Floats' together with musical comrades Hamish Stuart and Dave Symes. Other artists on the album include Jordie Lane, Abbe May, Greg J Walker (Machine Translations), Emily Lubitz (TinPan Orange), M Jack Bee, Jen Cloher, Jai Pyne (The Paper Scissors) and Cameron Potts and Gaby Huber (Dead Letter Chorus). [Take Something Beautiful][103] will be released on Monday 14th May through [Vitamin Records][17].
 
-### 18 april 2012 | South Australia 
+### 18 april 2012 | South Australia
 
-Lucie heads to South Australia this weekend with shows in Adelaide, Tanunda, and Verdun, all in duet with Hamish Stuart. Details [here][14]    
+Lucie heads to South Australia this weekend with shows in Adelaide, Tanunda, and Verdun, all in duet with Hamish Stuart. Details [here][14]
 
-### 26 march 2012 | New video page up... 
+### 26 march 2012 | New video page up...
 
 Thanks to all those folks who came along to the shows with
-Pieta Brown & the Sawdust Boys these past couple of weeks. What a 
-super sweet tour! x 
+Pieta Brown & the Sawdust Boys these past couple of weeks. What a
+super sweet tour! x
 
 ABC radio national filmed Lucie and Pieta performing 'Butterfly
 Blues' together live in the studio at the start of the tour, and this clip,
 along with a selection of other live clips, is up now on the new
 [video page][102]. With more to be added soon...
 
-### 1 march 2012 | Corinbank Festival postponed  
+### 1 march 2012 | Corinbank Festival postponed
 
-Due to insane volumes of rain - the beautiful Corinbank Festival has just been postponed. In the last few days the situation has, unfortunately, shifted from "..it's gonna be crazy wet but still fun in yr gumboots!" to..."ongoing rain has rendered the site unusable... and brings real risk of landslides to the only road in or out of the Corin Forest area ".  
-Ah well dear Corin. We'll see you a bit later in the year!  
+Due to insane volumes of rain - the beautiful Corinbank Festival has just been postponed. In the last few days the situation has, unfortunately, shifted from "..it's gonna be crazy wet but still fun in yr gumboots!" to..."ongoing rain has rendered the site unusable... and brings real risk of landslides to the only road in or out of the Corin Forest area ".
+Ah well dear Corin. We'll see you a bit later in the year!
 
 In other news - [PIETA BROWN and THE SAWDUST BOYS][81] (USA) start their
-[Australian tour][14] next week! Lucie will be playing the opening set for each of these shows... as well joining PB and co for a number of songs and duets and such. Sure is set to be a pretty special little tour folks. So...tell your friends and [book your tickets][14]! x  
+[Australian tour][14] next week! Lucie will be playing the opening set for each of these shows... as well joining PB and co for a number of songs and duets and such. Sure is set to be a pretty special little tour folks. So...tell your friends and [book your tickets][14]! x
 
-### 23 february 2012 | Get your tickets...  
+### 23 february 2012 | Get your tickets...
 
-Big thanks to all who came out to the WA shows last week - what a great little westerly tour! Next stop: [Corinbank Festival][99] - in the beautiful Brindabella Mountains, next weekend 2-4th March. There are still a few [tickets available][99] for this one - but there wont be for long. And speaking of tickets - the [Pieta Brown][81] tour starts in just over two weeks! You'll find all details for these shows - and presale info - [here][14]. You don't wanna miss out on this one folks! x    
+Big thanks to all who came out to the WA shows last week - what a great little westerly tour! Next stop: [Corinbank Festival][99] - in the beautiful Brindabella Mountains, next weekend 2-4th March. There are still a few [tickets available][99] for this one - but there wont be for long. And speaking of tickets - the [Pieta Brown][81] tour starts in just over two weeks! You'll find all details for these shows - and presale info - [here][14]. You don't wanna miss out on this one folks! x
 
-### 13 february 2012 | Western Australia  
+### 13 february 2012 | Western Australia
 
-Lucie tours to Western Australia this week with shows in Fremantle, Perth, Nannup and Prevelly, all in duet with Hamish Stuart. Details on the [shows page][14]    
+Lucie tours to Western Australia this week with shows in Fremantle, Perth, Nannup and Prevelly, all in duet with Hamish Stuart. Details on the [shows page][14]
 
 ### 17 january 2012 | Pieta Brown
 
@@ -753,30 +753,30 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [102]: ?p=video
 [103]: http://www.takesomethingbeautiful.com/
 [103.1]: http://www.abc.net.au/radionational/programs/breakfast/aotw-jesse-younan/4003926
-[112.1]: http://www.pbsfm.org.au/node/19074 
-[113]: http://www.rrr.org.au   
+[112.1]: http://www.pbsfm.org.au/node/19074
+[113]: http://www.rrr.org.au
 [113.1]: http://www.continental.nl
 [114]: http://www.mattwalker.com.au/
-[115]: http://thethornburytheatre.com/event/girl-interpreted-2012-feat-lucie-thorne-mojo-juju-georgia-fields-tracy-mcneil/  
+[115]: http://thethornburytheatre.com/event/girl-interpreted-2012-feat-lucie-thorne-mojo-juju-georgia-fields-tracy-mcneil/
 [116]: http://www.subjectivisten.nl/caleidoscoop/2012/10/lucie-thorne-bonfires-in-silver-city.html
 [116.1]: http://www.patronaat.nl/
 [117]: http://www.londophone.ro/
-[118]: http://www.onderinvloed.com  
+[118]: http://www.onderinvloed.com
 [118.1]: http://onderinvloed.com/home/2012/12/lucie-thorne/
 [122.1]: http://www.stickytickets.com.au/11638/mic_conways_national_junk_band__lucie_thorne_%40_camelot_lounge.aspx
-[123]: http://sidewaysthroughsound.blogspot.com.au/2013/06/june-19-2013-steve-gunn-interview-black.html  
+[123]: http://sidewaysthroughsound.blogspot.com.au/2013/06/june-19-2013-steve-gunn-interview-black.html
 [124]: http://love-over-gold.com/
-[125]: http://love-over-gold.com/?p=fall-to-rise  
+[125]: http://love-over-gold.com/?p=fall-to-rise
 [126]: http://vitamin.net.au/albumdefault.asp?ai=597
 [127]: https://itunes.apple.com/au/album/then-we-were-flying-single/id686341094?ls=
 [128]: http://pbs.org.au/node/28842
-[129]: http://rhythms.com.au  
-[130]: https://itunes.apple.com/au/album/fall-to-rise/id686368656  
+[129]: http://rhythms.com.au
+[130]: https://itunes.apple.com/au/album/fall-to-rise/id686368656
 [131]: http://iowapublicradio.org/post/pieta-brown-and-lucie-thorne-live-folk-tree-join-us
-[132]: https://rhythms.com.au/  
+[132]: https://rhythms.com.au/
 [133]: http://www.portfairyfolkfestival.com/
 [134]: http://www.brunswickmusicfestival.com.au/program-love-over-gold.htm
-[135]: http://www.bmff.org.au  
+[135]: http://www.bmff.org.au
 [136]: https://www.facebook.com/RobinandtheBackstabbers
 [136.1]: http://vimeo.com/106380689
 [137]: http://www.realphonic.com/
@@ -784,75 +784,75 @@ And in other news, compilation album HOME GROWN ROOTS volume 4 is out now, and i
 [139]: http://www.trybooking.com/Booking/BookingEventSummary.aspx?eid=106097
 [140]: http://frl2014.bilyana.com/
 
-### 20th october 2009 
+### 20th october 2009
 
-Well, the second half of this European tour is about to begin - with two solo shows in Prague this week. Over the past month or so Lucie has played about twenty shows with fellow Australian songwriter Tobias Hengeveld, taking in all manner of veunes (bars, cinemas, truckstops, cavenous basements, old stone cellars, farmhouses, cafes, concert rooms...), and all manner of adventures,  playing more and more duets as the tour rolls on. One of the Berlin shows was filmed by the very excellent Jack Rath - who then cut together [this little clip][28] of a new song of Lucie's. And there are also some [new tour pics][29] up - more added soon.  
+Well, the second half of this European tour is about to begin - with two solo shows in Prague this week. Over the past month or so Lucie has played about twenty shows with fellow Australian songwriter Tobias Hengeveld, taking in all manner of veunes (bars, cinemas, truckstops, cavenous basements, old stone cellars, farmhouses, cafes, concert rooms...), and all manner of adventures,  playing more and more duets as the tour rolls on. One of the Berlin shows was filmed by the very excellent Jack Rath - who then cut together [this little clip][28] of a new song of Lucie's. And there are also some [new tour pics][29] up - more added soon.
 
-### 6th october 2009 
+### 6th october 2009
 
-Two weeks in to the EU tour and all continues very well - thanks to all the good folks who've helped make the shows so fun already! Kicking off the tour with a full-house in Paris certainly helped. In fact, the Paris trip went so well that Lucie will return to La Cooperative to play two more shows on November 5th and 6th. More dates have also been announced for Berlin and Istanbul - check the [shows][14] page for details.  
+Two weeks in to the EU tour and all continues very well - thanks to all the good folks who've helped make the shows so fun already! Kicking off the tour with a full-house in Paris certainly helped. In fact, the Paris trip went so well that Lucie will return to La Cooperative to play two more shows on November 5th and 6th. More dates have also been announced for Berlin and Istanbul - check the [shows][14] page for details.
 
-### 5th september 2009 
+### 5th september 2009
 
 Lucie has been invited to record a set for Radio National's 'Live On Stage' - on Thursday 17th September - at the Sydney ABC studios, and will be joined for this special event by the whole band - featuring Hamish Stuart, Dave Symes, Chris Abrahams, Heath Cullen, plus harmonies from the one n only Kate Fagan. There's room for a *very small* audience - if you're interested in coming along [get in touch][27] soon! and we'll let you know more...
 
-### 16th august 2009 
+### 16th august 2009
 
-Some of Lucie's European tour dates have now been listed on the [shows][14] page. There'll be more added soon, so check back for updates/details. And if you're in Paris, Brussels, Amsterdam, (or anywhere nearby these cities), and you're interested in hosting a House Concert, or have a local venue that you'd love the tour to include, there are still dates available - so [get in touch!][27].  
+Some of Lucie's European tour dates have now been listed on the [shows][14] page. There'll be more added soon, so check back for updates/details. And if you're in Paris, Brussels, Amsterdam, (or anywhere nearby these cities), and you're interested in hosting a House Concert, or have a local venue that you'd love the tour to include, there are still dates available - so [get in touch!][27].
 
-### 30th july 2009 
+### 30th july 2009
 
-Another clip from Lucie's album launch at The Basement has just been added to youtube - check out [Open Sky][26] here. And in touring news, most of the remaining Australian tour dates have now been listed on the [shows][14] page - across various parts of the country through till mid September - (when it's off to Paris to start the European tour... but more on that a little later...)  
+Another clip from Lucie's album launch at The Basement has just been added to youtube - check out [Open Sky][26] here. And in touring news, most of the remaining Australian tour dates have now been listed on the [shows][14] page - across various parts of the country through till mid September - (when it's off to Paris to start the European tour... but more on that a little later...)
 
-### 23rd july 2009 
+### 23rd july 2009
 
-The Western Australian LT-road-show starts tonight in Margaret River, and then on to Denmark, Albany, Fremantle, Perth, Rockingham and Nanson (near Geraldton.) The Nanson show - at the beautiful Nukara Farm - is limited to 100 tickets, and its almost sold out folks! so if you wanna join us for that one you'd better get in quick.  
+The Western Australian LT-road-show starts tonight in Margaret River, and then on to Denmark, Albany, Fremantle, Perth, Rockingham and Nanson (near Geraldton.) The Nanson show - at the beautiful Nukara Farm - is limited to 100 tickets, and its almost sold out folks! so if you wanna join us for that one you'd better get in quick.
 
-### 7th july 2009 
+### 7th july 2009
 
-There are two last shows in NSW this week to cap off the easterly dates of this big ol tour - this Thursday 9th July Lucie will be playing at The Royal Exchange in Newcastle, and then on Saturday 11th July she re-unites with the fabulous Hamish Stuart and Dave Symes, for a very special two-set trio show at the beautiful Milton Theatre. Tickets [on sale now][14].  
+There are two last shows in NSW this week to cap off the easterly dates of this big ol tour - this Thursday 9th July Lucie will be playing at The Royal Exchange in Newcastle, and then on Saturday 11th July she re-unites with the fabulous Hamish Stuart and Dave Symes, for a very special two-set trio show at the beautiful Milton Theatre. Tickets [on sale now][14].
 
-### 2nd june 2009 
+### 2nd june 2009
 
 There are now a couple of clips up on youtube of lucie performing at The
 Basement in Sydney in April with Hamish Stuart, Dave Symes, Heath Cullen, and a special guest appearance by the lovely Kate Fagan on bvs - check out [Great Wave][25.1] and [Five Years][25.2] - more added soon...
 
-### 29th may 2009 
- 
-The next part of the tour sees Lucie head back to Sydney for an intimate solo show at The Vanguard on Thursday June 11th - tickets are [on sale now][24]. And then the northern adventure begins. [More shows][14] have also just been announced - including some dates in Western Australia and a concert at The Darwin Festival in August -  stay tuned for more info.  
+### 29th may 2009
 
-In other news, ABC online have just added some more video footage of Lucie recording at Bimbaya - which you can see [here][23] - and any day now they'll be some concert footage from the Basement launch show on the internets too... 
+The next part of the tour sees Lucie head back to Sydney for an intimate solo show at The Vanguard on Thursday June 11th - tickets are [on sale now][24]. And then the northern adventure begins. [More shows][14] have also just been announced - including some dates in Western Australia and a concert at The Darwin Festival in August -  stay tuned for more info.
 
-### 8th may 2009 
+In other news, ABC online have just added some more video footage of Lucie recording at Bimbaya - which you can see [here][23] - and any day now they'll be some concert footage from the Basement launch show on the internets too...
+
+### 8th may 2009
 
 Well folks, the first leg of the launch tour sure went beautifully. Thanks to
-all of you who have come out to a show to join in the celebrations x  
+all of you who have come out to a show to join in the celebrations x
 
-Lucie's next show is a very special showcase gig at The Corner Hotel in Melbourne, next Thursday 14th May, as part of Vitamin Records' [Indie Six Pack][19.1]. Be sure to get there early, as the night includes short sets from six of the finest, starting with [Tobias Hengeveld][19.2], whose new album, 'All The Lines Are Down', has just been released, and it's an absolute stunner! (it's on high rotation out here at LSRHQ, and we strongly recommend you go get yrselves a copy). 
+Lucie's next show is a very special showcase gig at The Corner Hotel in Melbourne, next Thursday 14th May, as part of Vitamin Records' [Indie Six Pack][19.1]. Be sure to get there early, as the night includes short sets from six of the finest, starting with [Tobias Hengeveld][19.2], whose new album, 'All The Lines Are Down', has just been released, and it's an absolute stunner! (it's on high rotation out here at LSRHQ, and we strongly recommend you go get yrselves a copy).
 
 And if you go to the [shows page][14] you'll find more dates and details that have just been added to the tour. Tickets are on sale now for lots of shows through June.
 
-Also, there's now a blog about Lucie on the Triple J website if you wanna drop by and [add a comment...][22]  
+Also, there's now a blog about Lucie on the Triple J website if you wanna drop by and [add a comment...][22]
 
-### 31st march 2009 
+### 31st march 2009
 
-The [Black Across The Field][16] launch tour starts this week! And it's expanding! More shows in regional NSW, WA and the Northern Territory will be announced soon.  Tour dates, ticket sales and details [here][14].  
+The [Black Across The Field][16] launch tour starts this week! And it's expanding! More shows in regional NSW, WA and the Northern Territory will be announced soon.  Tour dates, ticket sales and details [here][14].
 
-In other news, ABC online have just put up some video footage of Lucie recording at Bimbaya - you can see it [here][19].  
+In other news, ABC online have just put up some video footage of Lucie recording at Bimbaya - you can see it [here][19].
 
-### 23rd march 2009 
+### 23rd march 2009
 
-[Black Across The Field][16] has been receiving glowing reviews from 
-right around the country - including making Album of the Week in both Spectrum (SMH) and The Courier Mail. Check out what the critics have been saying  [here][13].  
+[Black Across The Field][16] has been receiving glowing reviews from
+right around the country - including making Album of the Week in both Spectrum (SMH) and The Courier Mail. Check out what the critics have been saying  [here][13].
 
-### 1st march 2009 
+### 1st march 2009
 
-[Black Across The Field][16] hits the shelves, - and the internets - this week folks! yep, it'll be right there in all your favourite indi record stores, your local jb hi fi, available for download direct from the [vitamin website][17], itunes, and everywhere else you buy your music from. (and if it's not on the shelves at your local, get 'em to order it in).  
+[Black Across The Field][16] hits the shelves, - and the internets - this week folks! yep, it'll be right there in all your favourite indi record stores, your local jb hi fi, available for download direct from the [vitamin website][17], itunes, and everywhere else you buy your music from. (and if it's not on the shelves at your local, get 'em to order it in).
 go on, go get yrselves a copy x
 
 Tickets have also just gone on sale for a bunch of launch shows - and more shows have been announced - [details here][14].
 
-### 6th february 2009  
+### 6th february 2009
 
 We're very pleased to announce that Lucie's new album, [Black Across The Field][16], has just gone to print, and will be released through the good folks at vitamin records on monday 2nd march 2009.
 
@@ -861,21 +861,21 @@ Find out more about Black Across The Field [here][16]. there's also a new media 
 We've also just announced Lucie's tour dates for the album
 on the [shows][14] page - with more dates and details to be added soon...
 
-###1st january 2009  
+###1st january 2009
 
 Two of Lucie's songs have been included in the international
-'Best of 2008' on US-based online radio show WOT90, with [the 
+'Best of 2008' on US-based online radio show WOT90, with [the
 upfield line][15.1] coming in at number 3. Other artists with songs in the top
 20 include Jolie Holland, Laura Viers, and fellow aussie songsmiths Clare
-Bowditch and Jen Cloher.  
+Bowditch and Jen Cloher.
 
 
 ###18th november 2008
 
 Well, tracking on the new album is just about finished folks.
 lucie has teamed up with stellar talents hamish stuart and dave symes
-for the making of this record, and they're joined by a host of special 
-guest performers including chris abrahams and stephen magnusson. 
+for the making of this record, and they're joined by a host of special
+guest performers including chris abrahams and stephen magnusson.
 set for mixing next month, the album is scheduled for release in the
 new year - we'll keep you posted on the details.
 
@@ -892,7 +892,7 @@ in other news, this site now has some [new photos][14.1].
 
 ###22nd june 2008
 
-[ABC Online][13.1] have a feature story on lucie which you can visit [here][13.1] - with an interview, video footage of a song, and some snaps from th road... 
+[ABC Online][13.1] have a feature story on lucie which you can visit [here][13.1] - with an interview, video footage of a song, and some snaps from th road...
 
 ###8th june 2008
 
@@ -903,7 +903,7 @@ see you in the spring...
 ###1st may 2008
 
 many thanks to all those who helped make the april tour such
-a success and delight. we've added some recent live reviews from 
+a success and delight. we've added some recent live reviews from
 the tour to the [press page][13], and will be adding some more photos soon.
 
 ###9th march 2008
@@ -915,49 +915,49 @@ and there's also a new [photos page][12.0] on this site, with new photos on it..
 ###3rd february 2008
 
 in news just out, [Where Night Birds Call][11.5] has been included in the
-2007 [Australian Music Prize][11.6] Long List. that's pretty good isn't it.  
-the Short List will be announced on 12th february...  
+2007 [Australian Music Prize][11.6] Long List. that's pretty good isn't it.
+the Short List will be announced on 12th february...
 
 ###12th january 2008
 
-lucie will be joining forces with the one n only [jackie marshall][15] for three concerts across victoria over the coming weeks. details are up on the [shows][10.1] page.  
+lucie will be joining forces with the one n only [jackie marshall][15] for three concerts across victoria over the coming weeks. details are up on the [shows][10.1] page.
 
 ###19th november 2007
 
 lucie will be playing a handful of shows at either end of nsw over the next couple of weeks, including two very special house concerts in the bega valley with [claire jenkins][11.1] and [kim dellavedova][11.2]. details are up
-on the [shows][10.1] page.  
+on the [shows][10.1] page.
 
 in other news, lucie will be performing at the inaugural [Corinbank Festival][11.3] at the end of the summer, in the beautiful brindabella mountains of the ACT. tickets go on sale at the end of the month. find out more at their [website][11.3].
 
 ###3rd september 2007
 
-lucie's spring tour will take in three states and a territory, 
+lucie's spring tour will take in three states and a territory,
 and starts in adelaide at the end of the month. details are up
-on the [shows][10.1] page.  
+on the [shows][10.1] page.
 
 ###22nd july 2007
 
-lucie is having a little rest from touring for a couple of months 
-and will be back on the road in the spring. some of these spring tour 
-dates have just been added to the [shows][10.1] page. check back for 
-more dates and details. 
+lucie is having a little rest from touring for a couple of months
+and will be back on the road in the spring. some of these spring tour
+dates have just been added to the [shows][10.1] page. check back for
+more dates and details.
 
 you can now also stream a bunch of songs from [where nights birds call][10.2]
-at lucie's new [myspace page][10.3]. 
+at lucie's new [myspace page][10.3].
 
 [10.1]: ?p=shows/
 [10.2]: ?p=albums/where-night-birds-call/
 [10.3]: http://www.myspace.com/luciethornemusic
 ### 11th july 2007
 
-lucie's winter tour comes to an end this sunday with a final  
+lucie's winter tour comes to an end this sunday with a final
 show in sydney's beautiful newtown theatre. doors open at 7.30pm
-and tickets are only available at the door, so get there early!  
+and tickets are only available at the door, so get there early!
 
 ### 28th may 2007
 
-lucie will be playing a handful of select shows in halls, theatres 
-and community centres along the east coast through the winter, and 
+lucie will be playing a handful of select shows in halls, theatres
+and community centres along the east coast through the winter, and
 some of these dates have just been posted on the [shows][9.1] page.
 more dates and ticketing details announced soon.
 
@@ -1395,7 +1395,7 @@ to lucies site.
 [14]: ?p=shows/
 [14.4]: http://www.darebin.vic.gov.au/Page/page.asp?Page_Id=878&h=1
 [15]: http://www.myspace.com/wot90
-[15.1]: ?p=songs/the-upfield-line/  
+[15.1]: ?p=songs/the-upfield-line/
 [16]: ?p=albums/black-across-the-field
 [16.1]: http://www.myspace.com/luciethornemusic
 [16.2]: ?p=photos
@@ -1404,4 +1404,3 @@ to lucies site.
 [19]: http://www.abc.net.au/local/videos/2009/03/26/2525973.htm
 [19.1]: http://www.vitamin.net.au/sixpack/
 [19.2]: http://www.myspace.com/tobiashengeveld
-
