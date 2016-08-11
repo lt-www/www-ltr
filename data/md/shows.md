@@ -5,8 +5,10 @@
 **Saturday 13th August 2016**\
 THE UNION\
 Brunswick **MELBOURNE**\
-with DAN TUFFY & MATT WALKER\
-9pm
+9-11pm
+*Lucie plays a solo set from 9pm, followed by the SONGS FROM DAN show at 10pm - 
+with Dan Tuffy, Lucie Thorne, Matt Walker, Shane Reilly and Grant Cummerford*\  
+free entry!\  
 
 **Friday 19th August 2016**\
 THE BRIDGE\
@@ -18,13 +20,16 @@ with DAN TUFFY\
 **Saturday 20th August 2016**\
 THE UNION\
 Brunswick **MELBOURNE**\
-with DAN TUFFY & MATT WALKER\
-9pm
+9-11pm
+*Lucie plays a solo set from 9pm, followed by the SONGS FROM DAN show at 10pm - 
+with Dan Tuffy, Lucie Thorne, Matt Walker, Shane Reilly and Grant Cummerford*\  
+free entry!\  
 
 **Sunday 21st August 2016**\
 THE SHED\
 **MARYKNOLL**\
-with DAN TUFFY & MATT WALKER\
+with the DAN TUFFY BAND\  
+plus the DAN PARSONS BAND\  
 2pm
 
 * * * * *
