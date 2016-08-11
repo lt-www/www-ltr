@@ -1,5 +1,11 @@
 * * * *
 
+### 11 August 2016 | Songs from Dan  
+
+A very special series of shows coming up in and around Melbourne over the next two weekends - celebrating the Australian release of [Songs from Dan](http://www.songsfromdan.com) - the new (and debut!) solo album from the one n only DAN TUFFY (of Big Low / Wild Pumpkins at Midnight fame).  The album was recorded partly in the Netherlands (where Dan has been based for many years) and partly here in Melbourne, and features cameo performances from Lucie, Matt Walker, Shane Reilly and Grant Cummerford. Dan's in town and the aussie contingent are joining forces for a section of super-group shows! [Details here](shows)
+
+* * * *
+
 ### 27 July 2016 | South Australia
 
 Three shows coming up in South Australia this weekend: in Stirling, Ashbourne, and Adelaide. [Details here][shows]
