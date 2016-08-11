@@ -12,11 +12,11 @@ with THE YEARLINGS\
 **Saturday 30th July 2016**\
 THE ASHBOURNE HALL\
 **ASHBOURNE**\
-with THE YEARLINGS\
+with THE YEARLINGS\  
 
 **Friday 29th July 2016**\
 THE BARN\
-Mt Barker Rd **STIRLING**\
+Mt Barker Rd **STIRLING**\  
 
 * * * * *
 
