@@ -2,6 +2,24 @@
 
 * * * * *
 
+**South Australia**
+
+**Sunday 31st July 2016**\
+THE WHEATSHEAF\
+George St, Thebarton **ADELAIDE**\
+with THE YEARLINGS\  
+
+**Saturday 30th July 2016**\
+THE ASHBOURNE HALL\
+**ASHBOURNE**\
+with THE YEARLINGS\
+
+**Friday 29th July 2016**\
+THE BARN\
+Mt Barker Rd **STIRLING**\
+
+* * * * *
+
 **VICTORIA**
 
 **Saturday 23rd July 2016**\
