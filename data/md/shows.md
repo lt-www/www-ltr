@@ -1,28 +1,5 @@
 * * * * *
 
-**South Australia**
-
-**Friday 29th July 2016**\
-THE BARN\
-Mt Barker Rd **STIRLING**\
-7.30pm / BYO\
-[tickets on sale now](https://trybooking.com/LOCV)
-
-**Saturday 30th July 2016**\
-THE ASHBOURNE HALL\
-**ASHBOURNE**\
-with THE YEARLINGS\
-6.30pm\
-[tickets on sale now](https://trybooking.com/LODE)
-
-**Sunday 31st July 2016**\
-THE WHEATSHEAF\
-George St, Thebarton **ADELAIDE**\
-with THE YEARLINGS\
-4pm
-
-* * * * *
-
 **VICTORIA**
 
 **Saturday 13th August 2016**\
