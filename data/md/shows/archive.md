@@ -2,6 +2,16 @@
 
 * * * * *
 
+**VICTORIA**  
+
+**Saturday 13th August 2016**\
+THE UNION\
+Brunswick **MELBOURNE**\
+*Lucie plays a solo set from 9pm, followed by the SONGS FROM DAN show at 10pm - 
+with Dan Tuffy, Lucie Thorne, Matt Walker, Shane Reilly and Grant Cummerford*\    
+
+* * * * *
+
 **South Australia**
 
 **Sunday 31st July 2016**\
