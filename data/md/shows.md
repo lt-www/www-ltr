@@ -43,9 +43,9 @@ with CHRIS WILSON & SHANE O'MARA\
 [tickets on sale now](http://www.caravanmusic.com.au/gigs/chris-wilson-shane-omara-4/)  
 
 **Saturday 15th October 2016**\
-THE VERY ROUND ROBIN\  
-Willaura Town Hall\  
-WILLAURA\      
+THE VERY ROUND ROBIN\    
+Willaura Town Hall\    
+WILLAURA\         
 with Roesy and Gaillie\    
 
 * * * * *
