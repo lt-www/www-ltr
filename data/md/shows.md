@@ -6,8 +6,7 @@
 THE BRIDGE\
 **CASTLEMAINE**\
 with DAN TUFFY\
-8pm\
-[tickets on sale now](https://www.trybooking.com/MDIL)
+**CANCELED**\     
 
 **Saturday 20th August 2016**\
 THE UNION\
