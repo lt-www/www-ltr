@@ -29,9 +29,9 @@ with The Yearlings\
 7pm\       
 
 **Sunday 11th September 2016**\   
-THE MILL  
-**IOWA CITY**\  
-Iowa\    
+THE MILL\    
+**IOWA CITY**\    
+Iowa\      
 with Lucy Wainwright Roche\   
 
 **Tuesday 13th September 2016**\    
@@ -60,9 +60,9 @@ Wisconsin\
 with The Yearlings & Hayward Williams\      
  
 **Sunday 18th September 2016**\    
-CAFE CARPE\     
-**FORT ATKINSON**\  
-Wisconsin\    
+CAFE CARPE\       
+**FORT ATKINSON**\    
+Wisconsin\      
 with The Yearlings & Hayward Williams\        
 
 * * * * *
