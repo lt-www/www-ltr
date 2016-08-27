@@ -87,7 +87,7 @@ with CHRIS WILSON & SHANE O'MARA\
 THE VERY ROUND ROBIN\    
 Willaura Town Hall\    
 WILLAURA\         
-with Roesy and Gaillie\    
+with Roesy and Gallie\    
 
 * * * * *
 
