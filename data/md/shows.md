@@ -19,6 +19,7 @@ with The Yearlings, BR Mackie & Mama Juke\
 HOUSE CONCERT\     
 **HARLEMVILLE**\    
 New York\      
+with The Yearlings\  
 
 **Saturday 10th September 2016**\    
 UPTOWN THEATRE\    
@@ -33,36 +34,36 @@ THE MILL
 Iowa\    
 with Lucy Wainwright Roche\   
 
-**Tuesday 13th September 2016**  
-THE ASTER\  
-**MINNEAPOLIS**\  
-Minnesota\  
-with The Yearlings & Hayward Williams\  
-8pm\  
-
-**Wednesday 14th September 2016**\  
-HOUSE OF GUINNESS\   
-**WAUKESHA**\  
-Wisconsin\   
-with The Yearlings & Hayward Williams\  
-
-**Friday 16th September 2016**\  
-HOUSE CONCERT\  
-**SHEBOYGAN**\  
-Wisconsin\  
-with The Yearlings & Hayward Williams\  
-
-**Saturday 17th September 2016**\  
-FOX RIVER HOUSE\  
-**APPLETON**\  
-Wisconsin\  
+**Tuesday 13th September 2016**\    
+THE ASTER\    
+**MINNEAPOLIS**\    
+Minnesota\    
 with The Yearlings & Hayward Williams\    
- 
-**Sunday 18th September 2016**\  
-CAFE CARPE\  
-**FORT ATKINSON**\  
-Wisconsin\  
+8pm\    
+
+**Wednesday 14th September 2016**\    
+HOUSE OF GUINNESS\     
+**WAUKESHA**\    
+Wisconsin\     
+with The Yearlings & Hayward Williams\    
+
+**Friday 16th September 2016**\    
+HOUSE CONCERT\    
+**SHEBOYGAN**\    
+Wisconsin\    
+with The Yearlings & Hayward Williams\     
+
+**Saturday 17th September 2016**\    
+FOX RIVER HOUSE\    
+**APPLETON**\    
+Wisconsin\    
 with The Yearlings & Hayward Williams\      
+ 
+**Sunday 18th September 2016**\    
+CAFE CARPE\     
+**FORT ATKINSON**\  
+Wisconsin\    
+with The Yearlings & Hayward Williams\        
 
 * * * * *
 
