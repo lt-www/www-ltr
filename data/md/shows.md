@@ -2,30 +2,30 @@
 
 **USA**   
 
-**Wednesday 31st August 2016**\  
-ROCKWOOD MUSIC HALL\  
-196 Allen St\  
-**NEW YORK**\      
-New York\    
+**Wednesday 31st August 2016**\    
+ROCKWOOD MUSIC HALL\    
+196 Allen St\    
+**NEW YORK**\        
+New York\      
 
-**Friday 2nd September 2016**\   
-[UNIT J](https://www.facebook.com/events/1158632504176036/)\    
-338 Moffat St\  
-**BROOKLYN**\   
-New York\  
-with The Yearlings, BR Mackie & Mama Juke\    
+**Friday 2nd September 2016**\     
+[UNIT J](https://www.facebook.com/events/1158632504176036/)\      
+338 Moffat St\    
+**BROOKLYN**\     
+New York\    
+with The Yearlings, BR Mackie & Mama Juke\      
   
-**Sunday 4 September 2016**\  
-HOUSE CONCERT\   
-**HARLEMVILLE**\  
-New York\    
+**Sunday 4 September 2016**\    
+HOUSE CONCERT\     
+**HARLEMVILLE**\    
+New York\      
 
-**Saturday 10th September 2016**\  
-UPTOWN THEATRE\  
-**MOUNT VERNON**\  
-Iowa\    
-with The Yearlings\  
-7pm\     
+**Saturday 10th September 2016**\    
+UPTOWN THEATRE\    
+**MOUNT VERNON**\    
+Iowa\      
+with The Yearlings\    
+7pm\       
 
 **Sunday 11th September 2016**\   
 THE MILL  
