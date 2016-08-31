@@ -21,12 +21,19 @@ HOUSE CONCERT\
 New York\      
 with The Yearlings\  
 
+**Thursday 8th September 2016**\    
+NORTH BAR\     
+**CHICAGO**\    
+Illinois\      
+with The Yearlings and Adam Ness\      
+
 **Saturday 10th September 2016**\    
 UPTOWN THEATRE\    
 **MOUNT VERNON**\    
 Iowa\      
 with The Yearlings\    
-7pm\       
+7pm\ 
+[tickets on sale now](http://luciethorneyearlings.bpt.me)\        
 
 **Sunday 11th September 2016**\   
 THE MILL\    
