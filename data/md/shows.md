@@ -32,7 +32,7 @@ UPTOWN THEATRE\
 **MOUNT VERNON**\    
 Iowa\      
 with The Yearlings\    
-7pm\ 
+7pm\   
 [tickets on sale now](http://luciethorneyearlings.bpt.me)\        
 
 **Sunday 11th September 2016**\   
@@ -61,7 +61,7 @@ Wisconsin\
 with The Yearlings & Hayward Williams\     
 
 **Saturday 17th September 2016**\    
-FOX RIVER HOUSE\    
+OUTER EDGE STAGE\    
 **APPLETON**\    
 Wisconsin\    
 with The Yearlings & Hayward Williams\      
