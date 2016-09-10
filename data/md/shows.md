@@ -40,6 +40,7 @@ THE MILL\
 **IOWA CITY**\    
 Iowa\      
 with Lucy Wainwright Roche\   
+7pm\  
 
 **Tuesday 13th September 2016**\    
 THE ASTER\    
@@ -47,6 +48,7 @@ THE ASTER\
 Minnesota\    
 with The Yearlings & Hayward Williams\    
 8pm\    
+Reservations: 612 379 3138\  
 
 **Wednesday 14th September 2016**\    
 HOUSE OF GUINNESS\     
