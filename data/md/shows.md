@@ -100,6 +100,7 @@ THE VERY ROUND ROBIN\
 Willaura Town Hall\    
 WILLAURA\         
 with Roesy and Gallie\    
+[tickets on sale now](https://www.trybooking.com/Booking/BookingEventSummary.aspx?eid=225375)\  
 
 **Friday 28th October 2016**\
 HAPPY WANDERER FESTIVAL\    
@@ -108,7 +109,7 @@ HAPPY WANDERER FESTIVAL\
 
 **Sunday 30th October 2016**\
 HAPPY WANDERER FESTIVAL\    
-**BENALLA**\  
+**BENALLA**\    
 [tickets on sale now](http://www.happywandererfestival.com/tickets-1/)\    
 
 * * * * *
