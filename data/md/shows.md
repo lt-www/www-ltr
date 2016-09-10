@@ -104,7 +104,7 @@ with Roesy and Gallie\
 **Friday 28th October 2016**\
 HAPPY WANDERER FESTIVAL\    
 **BENALLA**\  
-  [tickets on sale now](http://www.happywandererfestival.com/tickets-1/)\  
+[tickets on sale now](http://www.happywandererfestival.com/tickets-1/)\  
 
 **Sunday 30th October 2016**\
 HAPPY WANDERER FESTIVAL\    
