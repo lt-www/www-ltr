@@ -90,11 +90,26 @@ with CHRIS WILSON & SHANE O'MARA\
 8pm\
 [tickets on sale now](http://www.caravanmusic.com.au/gigs/chris-wilson-shane-omara-4/)  
 
+**Thursday 13th October 2016**\
+THE RETREAT\
+**BRUNSWICK**\
+8.30pm\
+
 **Saturday 15th October 2016**\
 THE VERY ROUND ROBIN\    
 Willaura Town Hall\    
 WILLAURA\         
 with Roesy and Gallie\    
+
+**Friday 28th October 2016**\
+HAPPY WANDERER FESTIVAL\    
+**BENALLA**\  
+[tickets on sale now](http://www.happywandererfestival.com/tickets-1/)\  
+
+**Sunday 30th October 2016**\
+HAPPY WANDERER FESTIVAL\    
+**BENALLA**\  
+[tickets on sale now](http://www.happywandererfestival.com/tickets-1/)\    
 
 * * * * *
 
