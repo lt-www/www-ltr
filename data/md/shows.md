@@ -119,20 +119,20 @@ HAPPY WANDERER FESTIVAL\
 **VICTORIA**   
 
 **Thursday 3rd November 2016**\
-[BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\  
+[BENDIGO BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\  
 **BENDIGO**\  
 
 **Friday 4th November 2016**\
-[BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\  
+[BENDIGO BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\    
 **BENDIGO**\  
 
 **Saturday 5th November 2016**\
-[BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\  
+[BENDIGO BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\  
 **BENDIGO**\  
 
 **Sunday 6th November 2016**\
-[BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\  
-**BENDIGO**\  
+[BENDIGO BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\  
+**BENDIGO**\    
 
 * * * * *
 
