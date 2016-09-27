@@ -20,6 +20,7 @@ with CHRIS WILSON & SHANE O'MARA\
 THE RETREAT\
 **BRUNSWICK**\
 8.30pm\  
+two sets - free entry\  
 
 **Saturday 15th October 2016**\
 THE VERY ROUND ROBIN\    
