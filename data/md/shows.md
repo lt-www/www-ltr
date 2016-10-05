@@ -45,19 +45,27 @@ HAPPY WANDERER FESTIVAL\
 
 **Thursday 3rd November 2016**\
 [BENDIGO BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\    
+Gold Dust Lounge\  
 **BENDIGO**\  
+7pm\  
 
 **Friday 4th November 2016**\
 [BENDIGO BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\    
+La Trobe University Visual Art Centre\  
 **BENDIGO**\  
+10pm\  
 
 **Saturday 5th November 2016**\
 [BENDIGO BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\    
+The Schaller Studio\  
 **BENDIGO**\  
+2pm\  
 
 **Sunday 6th November 2016**\
 [BENDIGO BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\    
+The Engine Room\  
 **BENDIGO**\  
+3pm\  
 
 * * * * *
 
@@ -65,16 +73,56 @@ HAPPY WANDERER FESTIVAL\
 
 **Friday 11th November 2016**\
 MAJORS CREEK FOLK FESTIVAL\      
+Main Stage\    
+8pm\  
 [tickets on sale now](http://majorscreekfestival.org/performers/)  
 
 **Saturday 12th November 2016**\
 MAJORS CREEK FOLK FESTIVAL\      
+Pete's Lounge\    
+6pm\  
 [tickets on sale now](http://majorscreekfestival.org/performers/)  
 
 **Sunday 13th November 2016**\
 MAJORS CREEK FOLK FESTIVAL\      
+Pete's Lounge\  
+12pm\  
 [tickets on sale now](http://majorscreekfestival.org/performers/)  
    
+**Wednesday 16th November 2016**\
+WOOLOWEYAH HALL\        
+Wooloweyah\  
+7pm\   
+Bookings: 02 6646 1457\   
+
+* * * * *
+
+**QLD**  
+  
+**Wednesday 23rd November 2016**\
+THE JUNK BAR\
+**BRISBANE**\
+with Claire Anne Taylor\  
+8pm\  
+tickets on sale soon\  
+
+* * * * *
+
+**NSW**  
+  
+**Thursday 24th November 2016**\
+LADY LISMORE'S LOFT\
+**LISMORE**\
+with Jimmy Dowling\  
+7pm\  
+[tickets on sale now](http://www.trybooking/com/NJOJ )\  
+
+**Friday 25th November 2016**\
+BOO RADLEY HALL\
+**GLENREAGH**\  
+7pm\  
+[tickets on sale now](http://www.trybooking/com/NHJV)\  
+
 * * * * *
 
 
