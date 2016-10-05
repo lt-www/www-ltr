@@ -85,8 +85,8 @@ Pete's Lounge\
 
 **Sunday 13th November 2016**\
 MAJORS CREEK FOLK FESTIVAL\      
-Pete's Lounge\  
-12pm\  
+Pete's Lounge\    
+12pm\    
 [tickets on sale now](http://majorscreekfestival.org/performers/)  
    
 **Wednesday 16th November 2016**\
@@ -101,8 +101,8 @@ Bookings: 02 6646 1457\
   
 **Wednesday 23rd November 2016**\
 THE JUNK BAR\
-**BRISBANE**\  
-with Claire Anne Taylor\    
+**BRISBANE**\    
+with Claire Anne Taylor\      
 8pm\      
 
 * * * * *
@@ -111,9 +111,9 @@ with Claire Anne Taylor\
   
 **Thursday 24th November 2016**\
 LADY LISMORE'S LOFT\
-**LISMORE**\  
-with Jimmy Dowling\    
-7pm\    
+**LISMORE**\    
+with Jimmy Dowling\      
+7pm\      
 [tickets on sale now](http://www.trybooking/com/NJOJ )\    
 
 **Friday 25th November 2016**\
