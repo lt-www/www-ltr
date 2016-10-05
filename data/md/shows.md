@@ -91,7 +91,7 @@ Pete's Lounge\
    
 **Wednesday 16th November 2016**\
 WOOLOWEYAH HALL\        
-Wooloweyah\    
+**YAMBA**\    
 7pm\     
 Bookings: 02 6646 1457\     
 
