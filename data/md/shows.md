@@ -74,13 +74,13 @@ The Engine Room\
 **Friday 11th November 2016**\
 MAJORS CREEK FOLK FESTIVAL\      
 Main Stage\    
-8pm\  
+8pm\    
 [tickets on sale now](http://majorscreekfestival.org/performers/)  
 
 **Saturday 12th November 2016**\
 MAJORS CREEK FOLK FESTIVAL\      
 Pete's Lounge\    
-6pm\  
+6pm\    
 [tickets on sale now](http://majorscreekfestival.org/performers/)  
 
 **Sunday 13th November 2016**\
