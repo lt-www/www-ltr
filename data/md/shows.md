@@ -63,9 +63,9 @@ The Schaller Studio\
 
 **Sunday 6th November 2016**\
 [BENDIGO BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\    
-The Engine Room\  
-**BENDIGO**\  
-3pm\  
+The Engine Room\    
+**BENDIGO**\    
+3pm\    
 
 * * * * *
 
