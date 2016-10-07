@@ -103,8 +103,8 @@ Bookings: 02 6646 1457\
 THE JUNK BAR\
 **BRISBANE**\    
 with Claire Anne Taylor\      
-8pm\      
-
+7pm\      
+[tickets on sale now](http://thejunkbar.oztix.com.au/?Event=67484)\    
 * * * * *
 
 **NSW**  
