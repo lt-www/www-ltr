@@ -105,6 +105,7 @@ THE JUNK BAR\
 with Claire Anne Taylor\      
 7pm\      
 [tickets on sale now](http://thejunkbar.oztix.com.au/?Event=67484)\    
+
 * * * * *
 
 **NSW**  
