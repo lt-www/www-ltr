@@ -12,7 +12,7 @@ import qualified WWW.Minus.RSS.News as R {- www-minus -}
 import qualified Img as I
 import qualified LTR as L
 import qualified News as N
-import qualified Pwd as P
+import qualified Pwd as Pwd
 
 md_page :: L.Config -> [FilePath] -> W.Result
 md_page cf p = do
@@ -74,7 +74,7 @@ e_config =
     let v = Just (E.Git,("lucie thorne <lucie@luciethorne.com>",Just "sp"))
     in E.Config {E.cfg_vcs = v
                 ,E.cfg_url = "http://luciethorne.com"
-                ,E.cfg_pwd = Just P.lt_pwd}
+                ,E.cfg_pwd = Just Pwd.lt_pwd}
 
 photos_post :: E.Config -> L.Config -> W.Result
 photos_post e cf = do
