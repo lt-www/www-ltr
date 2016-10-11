@@ -5,7 +5,7 @@
 **Thursday 13th October 2016**\
 THE RETREAT\
 **BRUNSWICK**\
-8.30pm\  
+8.30pm\    
 two sets - free entry\  
 
 **Saturday 15th October 2016**\
