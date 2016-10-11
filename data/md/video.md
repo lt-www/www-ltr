@@ -35,15 +35,6 @@ SBS TV 'Rockwiz'
 The Melbourne Folk Club
 
 
-<div class="yt-entry">
-<div class="yt-img">
-<a href="?v=A_r7HWTzuT4">
-<img src="http://i.ytimg.com/vi/A_r7HWTzuT4/default.jpg" width="120" height="90" />
-</a>
-</div>
-<div class="yt-txt">
-<a href="?v=A_r7HWTzuT4">Falling</a> with Hamish Stuart<br />
-'Work in progress', ABC Southeast, Bimbaya
 </div>
 </div>
 <div class="yt-entry">
