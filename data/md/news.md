@@ -1,5 +1,11 @@
 * * * *
 
+### 11 October 2016 | Southern Spring  
+
+Lucie will be headlining a selection of Australian festivals - along with a whole host of other shows - across the country through till the end of spring. [Details here](shows).    
+
+* * * *
+
 ### 27 August 2016 | USA!  
 
 Shows coming up in New York and across the Midwest over the next few weeks! [Details here](shows).  
