@@ -33,19 +33,7 @@ SBS TV 'Rockwiz'
 <div class="yt-txt">
 <a href="?v=1EPzVPGBlBc">As You Find It</a> <br />
 The Melbourne Folk Club
-</div>
-</div>
-<div class="yt-entry">
-<div class="yt-img">
-<a href="?v=6wR7JYtz2r8">
-<img src="http://i.ytimg.com/vi/6wR7JYtz2r8/default.jpg" width="120" height="90" />
-</a>
-</div>
-<div class="yt-txt">
-<a href="?v=6wR7JYtz2r8">Till The Season</a> with Hamish Stuart<br />
-The Tanja Hall, ABC Southeast
-</div>
-</div>
+
 
 <div class="yt-entry">
 <div class="yt-img">
