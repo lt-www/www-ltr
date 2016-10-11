@@ -12,7 +12,7 @@ with CHRIS WILSON & SHANE O'MARA\
 **Friday 7th October 2016**\
 THE CARAVAN CLUB\
 **OAKLEIGH**\
-with CHRIS WILSON & SHANE O'MARA\
+with CHRIS WILSON & SHANE O'MARA\  
 
 * * * * *  
 
