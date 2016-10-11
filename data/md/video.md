@@ -10,50 +10,7 @@ Video by Heike Qualitz
 </div>
 </div>  
 
-<div class="yt-entry">
-<div class="yt-img">
-<a href="?v=l4GRfPzoEXM">
-<img src="http://i.ytimg.com/vi/l4GRfPzoEXM/default.jpg" width="120" height="90" />
-</a>
-</div>
-<div class="yt-txt">
-<a href="?v=l4GRfPzoEXM">Green &amp; Blue</a> with Hamish Stuart<br />
-The Music Show - ABC RN   
-</div>
-</div>
 
-<div class="yt-entry">
-<div class="yt-img">
-<a href="?v=RVNV-tyCFtU">
-<img src="http://i.ytimg.com/vi/RVNV-tyCFtU/default.jpg" width="120" height="90" />
-</a>
-</div>
-<div class="yt-txt">
-<a href="?v=RVNV-tyCFtU">Blackwing</a> with Hamish Stuart<br />
-The Music Show - ABC RN  
-</div>
-</div>
-
-<div class="yt-entry">
-<div class="yt-img">
-<a href="?v=Fx5ETWEJZQc">
-<img src="http://i.ytimg.com/vi/Fx5ETWEJZQc/default.jpg" width="120" height="90" />
-</a>
-</div>
-<div class="yt-txt">
-<a href="?v=Fx5ETWEJZQc">Causeway</a> with Hamish Stuart<br />
-ABC Radio
-</div>
-</div>
-<div class="yt-entry">
-<div class="yt-img">
-<a href="?v=mSVKt4RqET0">
-<img src="http://i.ytimg.com/vi/mSVKt4RqET0/default.jpg" width="120" height="90" />
-</a>
-</div>
-<div class="yt-txt">
-<a href="?v=mSVKt4RqET0">Butterfly Blues</a> with Pieta Brown<br />
-ABC Radio National
 </div>
 </div>
 <div class="yt-entry">
