@@ -2,20 +2,6 @@
 
 **VICTORIA**  
 
-**Friday 7th October 2016**\
-THE CARAVAN CLUB\
-**OAKLEIGH**\
-with CHRIS WILSON & SHANE O'MARA\
-8pm\
-[tickets on sale now](http://www.caravanmusic.com.au/gigs/chris-wilson-shane-omara-4/)
-
-**Saturday 8th October 2016**\
-THE CARAVAN CLUB\
-**OAKLEIGH**\
-with CHRIS WILSON & SHANE O'MARA\
-8pm\
-[tickets on sale now](http://www.caravanmusic.com.au/gigs/chris-wilson-shane-omara-4/)  
-
 **Thursday 13th October 2016**\
 THE RETREAT\
 **BRUNSWICK**\
