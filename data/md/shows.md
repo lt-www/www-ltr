@@ -101,13 +101,13 @@ LADY LISMORE'S LOFT\
 **LISMORE**\    
 with Jimmy Dowling\      
 7pm\      
-[tickets on sale now](http://www.trybooking/com/NJOJ )\    
+[tickets on sale now](http://www.trybooking.com/NJOJ )\    
 
 **Friday 25th November 2016**\
 BOO RADLEY HALL\
 **GLENREAGH**\    
 7pm\    
-[tickets on sale now](http://www.trybooking/com/NHJV)\    
+[tickets on sale now](http://www.trybooking.com/NHJV)\    
 
 * * * * *
 
