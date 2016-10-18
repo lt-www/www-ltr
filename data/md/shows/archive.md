@@ -4,6 +4,16 @@
 
 **VICTORIA**  
 
+**Saturday 15th October 2016**\
+THE VERY ROUND ROBIN\    
+Willaura Town Hall\    
+WILLAURA\         
+with Roesy and Gallie\    
+
+**Thursday 13th October 2016**\
+THE RETREAT\
+**BRUNSWICK**\  
+
 **Saturday 8th October 2016**\
 THE CARAVAN CLUB\
 **OAKLEIGH**\
