@@ -108,5 +108,14 @@ with Claire Anne Taylor\
 
 * * * * *
 
+**NSW**  
+  
+**Sunday 27th November 2016**\
+HOUSE CONCERT\
+**OCEAN SHORES**\    
+with Sara Tindley\            
+[tickets on sale now](https://www.trybooking.com/238212)\      
+
+* * * * *
 
 [past shows](?p=shows/archive/)
