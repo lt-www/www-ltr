@@ -2,19 +2,6 @@
 
 **VICTORIA**  
 
-**Thursday 13th October 2016**\
-THE RETREAT\
-**BRUNSWICK**\
-8.30pm\    
-two sets - free entry\  
-
-**Saturday 15th October 2016**\
-THE VERY ROUND ROBIN\    
-Willaura Town Hall\    
-WILLAURA\         
-with Roesy and Gallie\    
-[tickets on sale now](https://www.trybooking.com/Booking/BookingEventSummary.aspx?eid=225375)\  
-
 **Friday 28th October 2016**\
 HAPPY WANDERER FESTIVAL\    
 **BENALLA**\    
