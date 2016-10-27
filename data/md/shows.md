@@ -3,14 +3,16 @@
 **VICTORIA**  
 
 **Friday 28th October 2016**\
-HAPPY WANDERER FESTIVAL\    
+[HAPPY WANDERER FESTIVAL](http://www.happywandererfestival.com/tickets-1/)\    
 **BENALLA**\    
-[tickets on sale now](http://www.happywandererfestival.com/tickets-1/)\  
+Main Stage\   
+8pm\  
 
 **Sunday 30th October 2016**\
-HAPPY WANDERER FESTIVAL\    
+[HAPPY WANDERER FESTIVAL](http://www.happywandererfestival.com/tickets-1/)\    
 **BENALLA**\    
-[tickets on sale now](http://www.happywandererfestival.com/tickets-1/)\    
+Main Stage\   
+12pm\  
 
 * * * * *
 
