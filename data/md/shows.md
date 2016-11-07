@@ -81,9 +81,9 @@ with Sara Tindley\
 **VICTORIA**  
   
 **Sunday 4th November 2016**\
-THE LEGACY OF JESSE YOUNNAN\  
-8th Anniversary Tribute Concert\  
-THE YARRA HOTEL\    
+THE LEGACY OF JESSE YOUNNAN\    
+8th Anniversary Tribute Concert\    
+THE YARRA HOTEL\      
 **MELBOURNE**\    
 7pm\                 
 [tickets on sale now](http://www.moshtix.com.au/v2/event/the-legacy-of-jesse-younan-8th-anniversary-tribute-show/91368)\  
