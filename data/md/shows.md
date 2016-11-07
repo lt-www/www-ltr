@@ -20,6 +20,10 @@ Pete's Lounge\
 12pm\    
 [tickets on sale now](http://majorscreekfestival.org/performers/)  
    
+* * * * *
+
+**NSW**  
+
 **Wednesday 16th November 2016**\
 WOOLOWEYAH HALL\        
 **YAMBA**\    
