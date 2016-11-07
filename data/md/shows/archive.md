@@ -4,6 +4,36 @@
 
 **VICTORIA**  
 
+**Sunday 6th November 2016**\
+[BENDIGO BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\    
+The Engine Room\    
+**BENDIGO**\    
+
+**Saturday 5th November 2016**\
+[BENDIGO BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\    
+The Schaller Studio\    
+**BENDIGO**\      
+
+**Friday 4th November 2016**\
+[BENDIGO BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\    
+La Trobe University Visual Art Centre\    
+**BENDIGO**\    
+
+**Thursday 3rd November 2016**\
+[BENDIGO BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\    
+Gold Dust Lounge\    
+**BENDIGO**\    
+
+**Sunday 30th October 2016**\
+[HAPPY WANDERER FESTIVAL](http://www.happywandererfestival.com/tickets-1/)\    
+**BENALLA**\    
+Main Stage\   
+
+**Friday 28th October 2016**\
+[HAPPY WANDERER FESTIVAL](http://www.happywandererfestival.com/tickets-1/)\    
+**BENALLA**\    
+Main Stage\     
+
 **Saturday 15th October 2016**\
 THE VERY ROUND ROBIN\    
 Willaura Town Hall\    
