@@ -1,4 +1,3 @@
-
 * * * * *
 
 **NSW**  
@@ -62,7 +61,8 @@ BOO RADLEY HALL\
 **Saturday 26th November 2016**\
 HOUSE CONCERT\
 **CURRUMBIN**\    
-with Claire Anne Taylor\            
+with Claire Anne Taylor\  
+7pm\                    
 [tickets on sale now](https://www.trybooking.com/236553)\      
 
 * * * * *
@@ -72,7 +72,8 @@ with Claire Anne Taylor\
 **Sunday 27th November 2016**\
 HOUSE CONCERT\
 **OCEAN SHORES**\    
-with Sara Tindley\            
+with Sara Tindley\   
+5pm\                 
 [tickets on sale now](https://www.trybooking.com/238212)\      
 
 * * * * *
