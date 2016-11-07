@@ -2,8 +2,8 @@
 
 ### 7 November 2016 | More dates announced  
 
-More dates have just been announced on the [shows](shows) page... 
- 
+More dates have just been announced, including new year performances with Ireland's Wallis Bird and at the Tamar Valley Folk Festival, and the very special Legacy of Jesse Younan - 8th Anniversary Tribute Show in Melbourne on December 4th. [Tickets on sale now](shows).      
+
 * * * *
 
 ### 11 October 2016 | Southern Spring  
