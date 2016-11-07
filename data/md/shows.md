@@ -92,6 +92,10 @@ THE YARRA HOTEL\
 7pm\                 
 [tickets on sale now](http://www.moshtix.com.au/v2/event/the-legacy-of-jesse-younan-8th-anniversary-tribute-show/91368)\  
 
+* * * * *
+
+**VICTORIA**    
+
 **Thursday 5th January 2017**\
 NORTHCOTE SOCIAL CLUB\     
 with WALLIS BIRD\    
