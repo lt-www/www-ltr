@@ -78,4 +78,31 @@ with Sara Tindley\
 
 * * * * *
 
+**VICTORIA**  
+  
+**Sunday 4th November 2016**\
+THE LEGACY OF JESSE YOUNNAN\  
+8th Anniversary Tribute Concert\  
+THE YARRA HOTEL\    
+**MELBOURNE**\    
+7pm\                 
+[tickets on sale now](http://www.moshtix.com.au/v2/event/the-legacy-of-jesse-younan-8th-anniversary-tribute-show/91368)\  
+
+**Thursday 5th January 2017**\
+NORTHCOTE SOCIAL CLUB\  
+with WALLIS BIRD\    
+**MELBOURNE**\    
+8pm\                 
+[tickets on sale now](https://corner.ticketscout.com.au/gigs/5739)\  
+
+* * * * *
+
+**TASMANIA**  
+
+**20th & 21st January 2017**\
+TAMAR VALLEY FOLK FESTIVAL\    
+**Georgetown**\         
+
+* * * * *
+
 [past shows](?p=shows/archive/)
