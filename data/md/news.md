@@ -1,5 +1,11 @@
 * * * *
 
+### 7 November 2016 | More dates announced  
+
+More dates have just been announced on the [shows](shows) page... 
+ 
+* * * *
+
 ### 11 October 2016 | Southern Spring  
 
 Lucie will be headlining a selection of Australian festivals - along with a whole host of other shows - across the country through till the end of spring. [Details here](shows).    
