@@ -33,7 +33,7 @@ BOO RADLEY HALL\
 **Saturday 26th November 2016**\
 HOUSE CONCERT\
 **CURRUMBIN**\    
-with Claire Anne Taylor\  
+with Claire Anne Taylor\    
 7pm\                    
 [tickets on sale now](https://www.trybooking.com/236553)\      
 
