@@ -1,37 +1,5 @@
 * * * * *
 
-**NSW**  
-
-**Friday 11th November 2016**\
-MAJORS CREEK FOLK FESTIVAL\      
-Main Stage\    
-8pm\    
-[tickets on sale now](http://majorscreekfestival.org/performers/)  
-
-**Saturday 12th November 2016**\
-MAJORS CREEK FOLK FESTIVAL\      
-Pete's Lounge\    
-6pm\    
-[tickets on sale now](http://majorscreekfestival.org/performers/)  
-
-**Sunday 13th November 2016**\
-MAJORS CREEK FOLK FESTIVAL\      
-Pete's Lounge\    
-12pm\    
-[tickets on sale now](http://majorscreekfestival.org/performers/)  
-   
-* * * * *
-
-**NSW**  
-
-**Wednesday 16th November 2016**\
-WOOLOWEYAH HALL\        
-**YAMBA**\    
-7pm\     
-Bookings: 02 6646 1457\     
-
-* * * * *
-
 **QLD**  
   
 **Wednesday 23rd November 2016**\
