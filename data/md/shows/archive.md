@@ -2,6 +2,30 @@
 
 * * * * *
 
+**NSW**  
+
+**Wednesday 16th November 2016**\
+WOOLOWEYAH HALL\        
+**YAMBA**\    
+
+* * * * *
+
+**NSW**  
+
+**Sunday 13th November 2016**\
+MAJORS CREEK FOLK FESTIVAL\      
+Pete's Lounge\    
+
+**Saturday 12th November 2016**\
+MAJORS CREEK FOLK FESTIVAL\      
+Pete's Lounge\    
+
+**Friday 11th November 2016**\
+MAJORS CREEK FOLK FESTIVAL\      
+Main Stage\    
+   
+* * * * *
+
 **VICTORIA**  
 
 **Sunday 6th November 2016**\
