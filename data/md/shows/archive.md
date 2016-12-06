@@ -2,6 +2,56 @@
 
 * * * * *
 
+**VICTORIA**  
+  
+**Sunday 4th December 2016**\
+THE LEGACY OF JESSE YOUNNAN\    
+8th Anniversary Tribute Concert\    
+THE YARRA HOTEL\      
+**MELBOURNE**\    
+
+* * * * *
+
+**NSW**  
+  
+**Sunday 27th November 2016**\
+HOUSE CONCERT\
+**OCEAN SHORES**\    
+with Sara Tindley\       
+
+* * * * *
+
+**QLD**  
+  
+**Saturday 26th November 2016**\
+HOUSE CONCERT\
+**CURRUMBIN**\    
+with Claire Anne Taylor\    
+
+* * * * *
+
+**NSW**  
+     
+**Friday 25th November 2016**\
+BOO RADLEY HALL\
+**GLENREAGH**\      
+  
+**Thursday 24th November 2016**\
+LADY LISMORE'S LOFT\
+**LISMORE**\    
+with Jimmy Dowling\  
+
+* * * * *
+
+**QLD**  
+  
+**Wednesday 23rd November 2016**\
+THE JUNK BAR\
+**BRISBANE**\    
+with Claire Anne Taylor\       
+
+* * * * *
+
 **NSW**  
 
 **Wednesday 16th November 2016**\
