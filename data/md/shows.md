@@ -27,15 +27,11 @@ TAMAR VALLEY FOLK FESTIVAL\
 
 **Sunday 12th February 2017**\
 LOT 19\     
- **CASTLEMAINE**\  
-with The Yearlings\      
-7pm\             
+ **CASTLEMAINE**\          
 
 **Wednesday 15th February 2017**\
 THE COURT HOUSE\     
- **YACKANDANDAH**\  
-with The Yearlings\      
-7pm\                 
+ **YACKANDANDAH**\                
 
 * * * * *
 
@@ -43,15 +39,11 @@ with The Yearlings\
 
 **Thursday 16th February 2017**\
 505\     
- **SYDNEY**\  
-with The Yearlings\      
-8pm\          
-
+ **SYDNEY**\    
+        
 **Saturday 18th February 2017**\
 HOUSE CONCERT\     
- **WILLOW VALE**\  
-with The Yearlings\      
-7pm\                        
+ **WILLOW VALE**\                         
 
 * * * * *
 
@@ -59,9 +51,7 @@ with The Yearlings\
 
 **Sunday 19th February 2017**\
 SMITH'S\     
- **CANBERRA**\  
-with The Yearlings\      
-7pm\          
+ **CANBERRA**\        
 
 * * * * *
 
