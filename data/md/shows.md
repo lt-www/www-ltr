@@ -40,7 +40,11 @@ THE COURT HOUSE\
 **Thursday 16th February 2017**\
 505\     
  **SYDNEY**\    
-        
+    
+**Friday 17th February 2017**\
+SUNSET STUDIO\     
+ **NEWCASTLE**\    
+    
 **Saturday 18th February 2017**\
 HOUSE CONCERT\     
  **WILLOW VALE**\                         
