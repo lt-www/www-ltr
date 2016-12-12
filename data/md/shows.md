@@ -30,7 +30,7 @@ LOT 19\
  **CASTLEMAINE**\          
 
 **Wednesday 15th February 2017**\
-THE COURT HOUSE\     
+SAINT MONDAY\     
  **YACKANDANDAH**\                
 
 * * * * *
