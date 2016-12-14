@@ -1,5 +1,11 @@
 * * * *
 
+### 12 December 2016 | Tour dates with The Yearlings    
+
+Lucie will be teaming up with SA sweethearts The Yearlings for a whole bunch of shows together at the other end of the summer; in Melbourne, Castlemaine, Yackandandah, Sydney, Newcastle, Mittagong and Canberra.  [Details here](shows).      
+
+* * * *
+
 ### 7 November 2016 | More dates announced  
 
 More dates have just been announced, including new year performances with Ireland's Wallis Bird and at the Tamar Valley Folk Festival, and the very special Legacy of Jesse Younan - 8th Anniversary Tribute Show in Melbourne on December 4th. [Tickets on sale now](shows).      
