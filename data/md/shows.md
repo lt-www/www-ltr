@@ -28,7 +28,7 @@ TAMAR VALLEY FOLK FESTIVAL\
 **Friday 10th February 2017**\
 BELLA UNION\     
  **MELBOURNE**\          
-with The Yearlings\  
+with The Yearlings\    
 8pm\    
 
 **Sunday 12th February 2017**\
