@@ -43,7 +43,7 @@ SAINT MONDAY\
 **YACKANDANDAH**\       
 with The Yearlings\    
 Doors 6pm, Show starts 7.30\    
-*dinner & show tickets available*\  
+*dinner & show tickets available*\    
 [tickets on sale now](https://www.trybooking.com/OEZD)\   
 
 * * * * *
