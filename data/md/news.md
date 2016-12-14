@@ -1,6 +1,6 @@
 * * * *
 
-### 12 December 2016 | Tour dates with The Yearlings    
+### 12 December 2016 | Tour dates with The Yearlings announced     
 
 Lucie will be teaming up with SA sweethearts The Yearlings for a whole bunch of shows together at the other end of the summer; in Melbourne, Castlemaine, Yackandandah, Sydney, Newcastle, Mittagong and Canberra.  [Details here](shows).      
 
