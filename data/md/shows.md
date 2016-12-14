@@ -61,7 +61,7 @@ with The Yearlings\
 SUNSET STUDIO\     
  **NEWCASTLE**\    
 with The Yearlings\    
-8pm\  
+8pm\    
 [tickets on sale now](https://www.trybooking.com/OEEL)\  
     
 **Saturday 18th February 2017**\
