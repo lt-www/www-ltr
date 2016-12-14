@@ -29,7 +29,7 @@ TAMAR VALLEY FOLK FESTIVAL\
 BELLA UNION\     
  **MELBOURNE**\          
 with The Yearlings\  
-8pm\  
+8pm\    
 
 **Sunday 12th February 2017**\
 LOT 19\     
@@ -40,7 +40,7 @@ with The Yearlings\
 
 **Wednesday 15th February 2017**\
 SAINT MONDAY\     
- **YACKANDANDAH**\       
+**YACKANDANDAH**\       
 with The Yearlings\             
 Doors open 6pm / Show starts 7.30pm\  
 Dinner & Show tickets available\  
@@ -54,7 +54,7 @@ Dinner & Show tickets available\
 505\     
  **SYDNEY**\    
 duet with HAMISH STUART\  
-with The Yearlings\    
+with The Yearlings\  
 8pm\  
 
 **Friday 17th February 2017**\
