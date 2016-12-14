@@ -34,8 +34,8 @@ with The Yearlings\
 **Sunday 12th February 2017**\
 LOT 19\     
  **CASTLEMAINE**\          
-with The Yearlings\  
-7pm\  
+with The Yearlings\    
+7pm\    
 [tickets on sale now](https://www.trybooking.com/OCVX)\  
 
 **Wednesday 15th February 2017**\
