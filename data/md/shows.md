@@ -54,8 +54,8 @@ Dinner & Show tickets available\
 505\     
  **SYDNEY**\    
 duet with HAMISH STUART\  
-with The Yearlings\  
-8pm\  
+with The Yearlings\    
+8pm\     
 
 **Friday 17th February 2017**\
 SUNSET STUDIO\     
