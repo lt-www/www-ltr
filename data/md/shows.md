@@ -68,8 +68,9 @@ with The Yearlings\
 HOUSE CONCERT\     
  **WILLOW VALE**\                         
 with The Yearlings\    
-7pm\  
+7pm\    
 [tickets on sale now](https://www.trybooking.com/OCWD)\  
+
 * * * * *
 
 **ACT**    
