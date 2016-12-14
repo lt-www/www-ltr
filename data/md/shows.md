@@ -41,11 +41,11 @@ with The Yearlings\
 **Wednesday 15th February 2017**\
 SAINT MONDAY\     
 **YACKANDANDAH**\       
-with The Yearlings\             
-Doors open 6pm, Show starts 7.30pm\  
-Dinner & Show tickets available\  
-[tickets on sale now](https://www.trybooking.com/OEZD)\    
-
+with The Yearlings\    
+Doors 6pm, Show starts 7.30\    
+[tickets on sale now](https://www.trybooking.com/OEZD)\   
+*dinner & show tickets available*\  
+ 
 * * * * *
 
 **NSW**    
