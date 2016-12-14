@@ -43,9 +43,9 @@ SAINT MONDAY\
 **YACKANDANDAH**\       
 with The Yearlings\    
 Doors 6pm, Show starts 7.30\    
-[tickets on sale now](https://www.trybooking.com/OEZD)\   
 *dinner & show tickets available*\  
- 
+[tickets on sale now](https://www.trybooking.com/OEZD)\   
+
 * * * * *
 
 **NSW**    
@@ -53,7 +53,7 @@ Doors 6pm, Show starts 7.30\
 **Thursday 16th February 2017**\
 505\     
  **SYDNEY**\    
-duet with HAMISH STUART\  
+duet with Hamish Stuart\    
 with The Yearlings\    
 8pm\     
 
