@@ -80,6 +80,7 @@ SMITH'S\
  **CANBERRA**\        
 with The Yearlings\    
 7pm\    
+[tickets on sale now](http://www.smithsalternative.com/events/lucie-thorne-26328)\    
 
 * * * * *
 
