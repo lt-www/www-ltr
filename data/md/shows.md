@@ -56,7 +56,8 @@ Doors 6pm, Show starts 7.30\
  **SYDNEY**\    
 duet with Hamish Stuart\    
 with The Yearlings\    
-8pm\     
+8pm\   
+[tickets on sale now](http://venue505.com/gigs/lucie-thorne-and-hamish-stuart-plus-the-yearlings-1482209643.html)\   
 
 **Friday 17th February 2017**\
 SUNSET STUDIO\     
