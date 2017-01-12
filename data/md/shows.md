@@ -2,13 +2,16 @@
 
 **VICTORIA**    
 
-**Thursday 5th January 2017**\
-NORTHCOTE SOCIAL CLUB\     
-with WALLIS BIRD\    
-**MELBOURNE**\    
-8pm\                 
-[tickets on sale now](https://corner.ticketscout.com.au/gigs/5739)\  
+**Saturday 7th January 2017**\
+THE UNION HOTEL\        
+Brunswick, **MELBOURNE**\    
+5-7pm\    
 
+**Saturday 14th January 2017**\
+THE UNION HOTEL\        
+Brunswick, **MELBOURNE**\    
+5-7pm\   
+ 
 * * * * *
 
 **TASMANIA**  
