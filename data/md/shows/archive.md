@@ -2,7 +2,12 @@
 
 * * * * *
 
-**VICTORIA**  
+**VICTORIA**    
+
+**Thursday 5th January 2017**\
+NORTHCOTE SOCIAL CLUB\     
+with WALLIS BIRD\    
+**MELBOURNE**\    
   
 **Sunday 4th December 2016**\
 THE LEGACY OF JESSE YOUNNAN\    
