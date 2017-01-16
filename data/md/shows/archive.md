@@ -3,6 +3,14 @@
 * * * * *
 
 **VICTORIA**    
+    
+**Saturday 14th January 2017**\
+THE UNION HOTEL\        
+Brunswick, **MELBOURNE**\    
+
+**Saturday 7th January 2017**\
+THE UNION HOTEL\        
+Brunswick, **MELBOURNE**\    
 
 **Thursday 5th January 2017**\
 NORTHCOTE SOCIAL CLUB\     
