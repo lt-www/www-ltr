@@ -1,19 +1,5 @@
 * * * * *
 
-**VICTORIA**    
-
-**Saturday 7th January 2017**\
-THE UNION HOTEL\        
-Brunswick, **MELBOURNE**\    
-5-7pm\    
-
-**Saturday 14th January 2017**\
-THE UNION HOTEL\        
-Brunswick, **MELBOURNE**\    
-5-7pm\   
- 
-* * * * *
-
 **TASMANIA**  
 
 **Friday 20th January 2017**\
