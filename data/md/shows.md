@@ -3,12 +3,16 @@
 **TASMANIA**  
 
 **Friday 20th January 2017**\
-TAMAR VALLEY FOLK FESTIVAL\    
-**Georgetown**\         
+TAMAR VALLEY FOLK FESTIVAL\  
+Memorial Hall\      
+**GEORGETOWN**\      
+8pm\       
 
 **Saturday 21st January 2017**\
 TAMAR VALLEY FOLK FESTIVAL\    
-**Georgetown**\         
+Memorial Hall\      
+**GEORGETOWN**\         
+9pm\  
 
 * * * * *
 
