@@ -5,7 +5,7 @@
 **Friday 20th January 2017**\
 TAMAR VALLEY FOLK FESTIVAL\  
 Memorial Hall\      
-**GEORGETOWN**\      
+**GEORGETOWN**\         
 8pm\       
 
 **Saturday 21st January 2017**\
