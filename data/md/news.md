@@ -1,5 +1,11 @@
 * * * *
 
+### 17 January 2017 | Summer shows
+
+Tickets for Lucie's upcoming shows with The Yearlings are now all on sale. And more Tassie dates have just been announced for feb/march... [details here](shows).      
+
+* * * *
+
 ### 12 December 2016 | Tour dates with The Yearlings announced     
 
 Lucie will be teaming up with SA sweethearts The Yearlings for a whole bunch of shows together at the other end of the summer; in Melbourne, Castlemaine, Yackandandah, Sydney, Newcastle, Mittagong and Canberra.  [Details here](shows).      
