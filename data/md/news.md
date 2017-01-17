@@ -4,8 +4,9 @@
 
 Tickets for Lucie's upcoming shows with The Yearlings are now all on sale. And more Tassie dates have just been announced for feb/march... [details here](shows).      
 
-![](data/image/news/yearling thornes_webber.jpg)
-* * * *
+![](data/image/news/yearling thornes_webber.jpg)  
+
+* * * *  
 
 ### 12 December 2016 | Tour dates with The Yearlings announced     
 
