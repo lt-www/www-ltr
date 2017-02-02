@@ -78,14 +78,15 @@ with Claire Anne Taylor\
 **Friday 3rd March 2017**\
 MYALLA HALL\     
  **MYALLA**\        
-with Claire Anne Taylor\  
-7pm\      
+with Claire Anne Taylor\    
+7pm\    
 [tickets](https://www.trybooking.com/257059/)\    
 
 **Saturday 4th March 2017**\
 MOUNTAIN MUMMA\     
  **SHEFFIELD**\        
 with The East Pointers\   
+Bookings: 0400 467 317\  
 
 **Sunday 5th March 2017**\
 HOUSE CONCERT\     
