@@ -7,14 +7,14 @@ BELLA UNION\
  **MELBOURNE**\          
 with The Yearlings\    
 8pm\    
-[tickets on sale now](https://www.bellaunion.com.au/event/1132/)\  
+[tickets](https://www.bellaunion.com.au/event/1132/)\  
 
 **Sunday 12th February 2017**\
 LOT 19\     
  **CASTLEMAINE**\          
 with The Yearlings\    
 7pm\    
-[tickets on sale now](https://www.trybooking.com/OCVX)\  
+[tickets](https://www.trybooking.com/OCVX)\  
 
 **Wednesday 15th February 2017**\
 SAINT MONDAY\     
@@ -22,7 +22,7 @@ SAINT MONDAY\
 with The Yearlings\    
 Doors 6pm, Show starts 7.30\    
 *dinner & show tickets available*\    
-[tickets on sale now](https://www.trybooking.com/OEZD)\   
+[tickets](https://www.trybooking.com/OEZD)\   
 
 * * * * *
 
@@ -34,21 +34,21 @@ Doors 6pm, Show starts 7.30\
 duet with Hamish Stuart\    
 with The Yearlings\    
 8pm\   
-[tickets on sale now](http://venue505.com/gigs/lucie-thorne-and-hamish-stuart-plus-the-yearlings-1482209643.html)\   
+[tickets](http://venue505.com/gigs/lucie-thorne-and-hamish-stuart-plus-the-yearlings-1482209643.html)\   
 
 **Friday 17th February 2017**\
 SUNSET STUDIO\     
  **NEWCASTLE**\    
 with The Yearlings\    
 8pm\    
-[tickets on sale now](https://www.trybooking.com/OEEL)\  
+[tickets](https://www.trybooking.com/OEEL)\  
     
 **Saturday 18th February 2017**\
 HOUSE CONCERT\     
  **MITTAGONG**\                         
 with The Yearlings\    
 7pm\    
-[tickets on sale now](https://www.trybooking.com/OCWD)\  
+[tickets](https://www.trybooking.com/OCWD)\  
 
 * * * * *
 
@@ -59,7 +59,7 @@ SMITH'S\
  **CANBERRA**\        
 with The Yearlings\    
 7pm\    
-[tickets on sale now](http://www.smithsalternative.com/events/lucie-thorne-26328)\    
+[tickets](http://www.smithsalternative.com/events/lucie-thorne-26328)\    
 
 * * * * *
 
@@ -79,6 +79,8 @@ with Claire Anne Taylor\
 MYALLA HALL\     
  **MYALLA**\        
 with Claire Anne Taylor\  
+7pm\      
+[tickets](https://www.trybooking.com/257059/)\    
 
 **Saturday 4th March 2017**\
 MOUNTAIN MUMMA\     
