@@ -77,7 +77,7 @@ THE CHAPEL\
  **BURNIE**\        
 with Claire Anne Taylor\    
 Doors 6pm, Show starts 7.30pm\   
-dinner & show tickets available\  
+dinner & show tickets available\   
 03 6432 3460\   
 
 **Friday 3rd March 2017**\
@@ -96,8 +96,8 @@ Bookings: 0400 467 317\
 **Sunday 5th March 2017**\
 HOUSE CONCERT\     
  **SWANSEA**\ 
-3pm\            
-       
+3pm\    
+
 * * * * *   
 
 [past shows](?p=shows/archive/)
