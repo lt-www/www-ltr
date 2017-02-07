@@ -95,7 +95,7 @@ Bookings: 0400 467 317\
 
 **Sunday 5th March 2017**\
 HOUSE CONCERT\     
- **SWANSEA**\ 
+ **SWANSEA**\  
 3pm\    
 
 * * * * *   
