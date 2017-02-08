@@ -78,7 +78,7 @@ THE CHAPEL\
 with Claire Anne Taylor\    
 Doors 6pm, Show starts 7.30pm\   
 dinner & show tickets available\   
-03 6432 3460\   
+[tickets](https://www.trybooking.com/ORPF)\    
 
 **Friday 3rd March 2017**\
 MYALLA HALL\     
