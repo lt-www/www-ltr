@@ -6,24 +6,18 @@
 BELLA UNION\     
  **MELBOURNE**\          
 with The Yearlings\    
-8pm\    
-[tickets](https://www.bellaunion.com.au/event/1132/)\  
 
 **Sunday 12th February 2017**\
 LOT 19\     
  **CASTLEMAINE**\          
 with The Yearlings\    
-7pm\    
-[tickets](https://www.trybooking.com/OCVX)\  
 
 **Wednesday 15th February 2017**\
 SAINT MONDAY\     
 **YACKANDANDAH**\       
 with The Yearlings\    
-Doors 6pm, Show starts 7.30\    
-*dinner & show tickets available*\    
-[tickets](https://www.trybooking.com/OEZD)\   
-
+SOLD OUT\   
+   
 * * * * *
 
 **NSW**    
@@ -32,9 +26,7 @@ Doors 6pm, Show starts 7.30\
 505\     
  **SYDNEY**\    
 duet with Hamish Stuart\    
-with The Yearlings\    
-8pm\   
-[tickets](http://venue505.com/gigs/lucie-thorne-and-hamish-stuart-plus-the-yearlings-1482209643.html)\   
+with The Yearlings\      
 
 **Friday 17th February 2017**\
 SUNSET STUDIO\     
@@ -48,7 +40,7 @@ HOUSE CONCERT\
  **MITTAGONG**\                         
 with The Yearlings\    
 7pm\    
-[tickets](https://www.trybooking.com/OCWD)\  
+SOLD OUT\   
 
 * * * * *
 
