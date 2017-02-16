@@ -1,5 +1,16 @@
-## shows/archive
+## shows/archive 
+
 * * * * *
+
+**NSW**    
+
+**Thursday 16th February 2017**\
+505\     
+ **SYDNEY**\    
+duet with Hamish Stuart\    
+with The Yearlings\      
+
+* * * * *    
 
 **VICTORIA**    
 
