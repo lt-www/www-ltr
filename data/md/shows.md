@@ -1,25 +1,5 @@
 * * * * *
 
-**VICTORIA**    
-
-**Friday 10th February 2017**\
-BELLA UNION\     
- **MELBOURNE**\          
-with The Yearlings\    
-
-**Sunday 12th February 2017**\
-LOT 19\     
- **CASTLEMAINE**\          
-with The Yearlings\    
-
-**Wednesday 15th February 2017**\
-SAINT MONDAY\     
-**YACKANDANDAH**\       
-with The Yearlings\    
-SOLD OUT\   
-   
-* * * * *
-
 **NSW**    
 
 **Thursday 16th February 2017**\
