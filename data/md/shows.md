@@ -6,8 +6,7 @@
 SUNSET STUDIO\     
  **NEWCASTLE**\    
 with The Yearlings\    
-8pm\    
-[tickets](https://www.trybooking.com/OEEL)\  
+SOLD OUT\   
     
 **Saturday 18th February 2017**\
 HOUSE CONCERT\     
