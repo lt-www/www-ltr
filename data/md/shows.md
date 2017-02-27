@@ -47,14 +47,14 @@ THE SPOTTED MALLARD\
  **MELBOURNE**\        
 with Neil Murray\    
 8pm\   
-[tickets](http://www.moshtix.com.au/v2/event/neil-murray-lucie-thorne/93763\   
+[tickets](http://www.moshtix.com.au/v2/event/neil-murray-lucie-thorne/93763)\    
 
 **Sunday 23rd April 2017**\
 THE GRANDE\     
  **HEPBURN SPRINGS**\        
 with Neil Murray\    
 4pm\   
-[tickets](https://www.trybooking.com/256157\)       
+[tickets](https://www.trybooking.com/256157)\         
 
 * * * * *     
 [past shows](?p=shows/archive/)
