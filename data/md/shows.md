@@ -1,41 +1,10 @@
-* * * * *
-
-**NSW**    
-
-**Friday 17th February 2017**\
-SUNSET STUDIO\     
- **NEWCASTLE**\    
-with The Yearlings\    
-SOLD OUT\   
-    
-**Saturday 18th February 2017**\
-HOUSE CONCERT\     
- **MITTAGONG**\                         
-with The Yearlings\    
-7pm\    
-SOLD OUT\   
-
-* * * * *
-
-**ACT**    
-
-**Sunday 19th February 2017**\
-SMITH'S\     
- **CANBERRA**\        
-with The Yearlings\    
-7pm\    
-[tickets](http://www.smithsalternative.com/events/lucie-thorne-26328)\    
-
-* * * * *
-
 **TASMANIA**  
 
 **Friday 24th February 2017**\
 HOUSE CONCERT\     
  **DEVONPORT**\        
 with Claire Anne Taylor\    
-7pm\    
-email matt@rockvalley.com.au for bookings\    
+SOLD OUT\   
  
 **Thursday 2nd March 2017**\
 THE CHAPEL\     
