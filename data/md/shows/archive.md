@@ -2,8 +2,30 @@
 
 * * * * *
 
+**ACT**    
+
+**Sunday 19th February 2017**\
+SMITH'S\     
+ **CANBERRA**\        
+with The Yearlings\    
+SOLD OUT\   
+
+* * * * *
+
 **NSW**    
 
+**Saturday 18th February 2017**\
+HOUSE CONCERT\     
+ **MITTAGONG**\                         
+with The Yearlings\        
+SOLD OUT\   
+
+**Friday 17th February 2017**\
+SUNSET STUDIO\     
+ **NEWCASTLE**\    
+with The Yearlings\    
+SOLD OUT\   
+    
 **Thursday 16th February 2017**\
 505\     
  **SYDNEY**\    
