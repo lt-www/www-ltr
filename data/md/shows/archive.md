@@ -1,5 +1,15 @@
 ## shows/archive 
 
+* * * * *  
+
+**TASMANIA**  
+
+**Friday 24th February 2017**\
+HOUSE CONCERT\     
+ **DEVONPORT**\        
+with Claire Anne Taylor\    
+SOLD OUT\   
+
 * * * * *
 
 **ACT**    
