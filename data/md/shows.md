@@ -1,10 +1,4 @@
 **TASMANIA**  
-
-**Friday 24th February 2017**\
-HOUSE CONCERT\     
- **DEVONPORT**\        
-with Claire Anne Taylor\    
-SOLD OUT\   
  
 **Thursday 2nd March 2017**\
 THE CHAPEL\     
