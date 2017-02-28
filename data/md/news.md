@@ -1,5 +1,11 @@
 * * * *
 
+### 28 February 2017 | Tassie!
+
+Four shows coming up in Tassie this week - in Burnie, Myalla, Sheffield and Swansea. And some Victorian dates in April have just been announced; three double-bill concerts with the one n only Neil Murray! in Melbourne, Ararat and Hepburn Springs. Details and bookings info [here](shows).    
+
+* * * *
+
 ### 17 January 2017 | Summer shows
 
 Tickets for Lucie's upcoming shows with The Yearlings are now all on sale. And more Tassie dates have just been announced for feb/march... [details here](shows).      
