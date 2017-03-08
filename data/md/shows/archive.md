@@ -4,6 +4,25 @@
 
 **TASMANIA**  
 
+**Sunday 5th March 2017**\
+HOUSE CONCERT\     
+ **SWANSEA**\    
+
+**Saturday 4th March 2017**\
+MOUNTAIN MUMMA\     
+ **SHEFFIELD**\        
+with The East Pointers\   
+
+**Friday 3rd March 2017**\
+MYALLA HALL\     
+ **MYALLA**\        
+with Claire Anne Taylor\    
+
+**Thursday 2nd March 2017**\
+THE CHAPEL\     
+ **BURNIE**\        
+with Claire Anne Taylor\    
+
 **Friday 24th February 2017**\
 HOUSE CONCERT\     
  **DEVONPORT**\        
