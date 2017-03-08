@@ -42,7 +42,6 @@ with JACKIE MARSHALL, AINE TYRELL and MELANIE HORSNELL\
 BELLO WINTER MUSIC FESTIVAL\     
  **BELLINGEN**\        
 with HAMISH STUART\    
-6.30pm\   
 [tickets](http://www.bellowintermusic.com/db101_element_tickets_1.0.asp)\  
 
 * * * * *     
