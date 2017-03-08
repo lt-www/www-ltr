@@ -6,6 +6,7 @@ Tickets are now on sale for a big fundraising shindig concert to support the Beg
 
 In other news - e're delighted to let you know that Lucie & Hamish will be performing at this year's Bello Winter Music Festival in Bellingen in July, and tickets are now on sale for that too!   
 
+![](data/image/photos/PINK Poster for K -page-001.jpg)  
 * * * *
 
 ### 28 February 2017 | Tassie!
