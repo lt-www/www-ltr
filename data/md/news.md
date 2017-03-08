@@ -1,5 +1,13 @@
 * * * *
 
+### 8 March 2017 | International Women's Day
+
+Tickets are now on sale for a big fundraising shindig concert to support the Bega Women's Resource Centre - who do amazing work in the community, and who have recently lost nearly all their funding. And it's a mighty lineup! > Lucie Thorne, Jackie Marshall, Aine Tyrell and Melanie Horsnell! The show takes place at the Bega Civic Centre on Saturday 29th April. Bookings info [here](shows).    
+
+In other news - e're delighted to let you know that Lucie & Hamish will be performing at this year's Bello Winter Music Festival in Bellingen in July, and tickets are now on sale for that too!   
+
+* * * *
+
 ### 28 February 2017 | Tassie!
 
 Four shows coming up in Tassie this week - in Burnie, Myalla, Sheffield and Swansea. And some Victorian dates in April have just been announced; three double-bill concerts with the one n only Neil Murray! in Melbourne, Ararat and Hepburn Springs. Details and bookings info [here](shows).    
