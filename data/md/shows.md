@@ -34,5 +34,16 @@ with JACKIE MARSHALL, AINE TYRELL and MELANIE HORSNELL\
 [tickets](https://www.trybooking.com/261712)\         
 *fundraiser for the Bega Women's Resource Centre*\         
 
+* * * * *   
+
+**NSW**    
+
+**Fri 6th - Sun 9th July 2017**\
+BELLO WINTER MUSIC FESTIVAL\     
+ **BELLINGEN**\        
+with HAMISH STUART\    
+6.30pm\   
+[tickets](https://www.bellowintermusic.com)\        
+
 * * * * *     
 [past shows](?p=shows/archive/)
