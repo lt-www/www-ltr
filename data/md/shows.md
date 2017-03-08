@@ -43,7 +43,7 @@ BELLO WINTER MUSIC FESTIVAL\
  **BELLINGEN**\        
 with HAMISH STUART\    
 6.30pm\   
-[tickets](https://www.bellowintermusic.com)\        
+[tickets](https://www.bellowintermusic.com)\  
 
 * * * * *     
 [past shows](?p=shows/archive/)
