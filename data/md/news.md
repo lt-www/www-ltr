@@ -4,7 +4,7 @@
 
 Delighted and excited to announce national tour dates with the one n only Jo Jo Smith! Lucie & Hamish will be joining Jo Jo for a huge run of show around Australia - celebrating Jo Jo's 50th year as a performing musician!! The first round of these dates includes shows in some of their favourite intimate venues in South Australia, Victoria, Western Australia, NSW, ACT and Queensland. (the second round of the tour takes place in the Spring and includes dates in Tasmania, Northern Territory, and more shows in Vic & NSW). [Tickets on sale now!](shows) x
 
-![](data/image/photos/JJ_LT_promo_web.jpg)     
+![](data/image/photos/JJ_LT_promo_web.jpg)  
 
 * * * *
 
