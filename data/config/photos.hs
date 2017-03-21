@@ -1,9 +1,9 @@
 [("Press Photos"
- ,("LucieThorneTOH_Yellow","photo by Tajette O'Halloran")
+ ,[("LucieThorneTOH_Yellow","photo by Tajette O'Halloran")
   ,("LucieThorneTOH_BW","photo by Tajette O'Halloran")
   ,("LucieThorneTOH_Sun","photo by Tajette O'Halloran")
   ,("LucieThorneEST4","photo by Kate Atkinson") 
-  ,[("LT_EST1","photo by Heike Qualitz")   
+  ,("LT_EST1","photo by Heike Qualitz")   
   ,("alley","photo by eryca green")
   ])
 ,("Tour"
