@@ -153,7 +153,7 @@ with JO JO SMITH & HAMISH STUART\
 
 **Thursday 22nd June 2017**\
 505\     
-280 Cleveland St, Surry Hills, **SYDNEY**\  
+280 Cleveland St, Surry Hills, **SYDNEY**\    
 with JO JO SMITH & HAMISH STUART\                
 8pm\         
 
@@ -178,7 +178,7 @@ with JO JO SMITH & HAMISH STUART\
 3.30pm / BYO\       
 [tickets](http://www.trybooking.com/PIPG)\
 
-* * * * *   
+* * * * *     
 
 **QLD**     
 
