@@ -2,7 +2,7 @@
  ,[("LT_EST1","photo by Heike Qualitz")   
   ,("LucieThorneTOH_Yellow","photo by Tajette O'Halloran")
   ,("LucieThorneEST4","photo by Kate Atkinson") 
-  ,("loretta","photo by eryca green")
+  ,("LucieThorneTOH_BW","photo by Tajette O'Halloran")
   ,("alley","photo by eryca green")
   ])
 ,("Tour"
