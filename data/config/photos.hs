@@ -1,6 +1,6 @@
 [("Press Photos"
- ,[("LucieThorneDF_Window","photo by Damian Fitzgerald")
-  ,("LucieThorneTOH_Yellow","photo by Tajette O'Halloran")
+ ,[("LucieThorneTOH_Yellow","photo by Tajette O'Halloran")
+ ,("LucieThorneDF_Window","photo by Damian Fitzgerald")
   ,("LucieThorneTOH_BW","photo by Tajette O'Halloran")
   ,("LucieThorneTOH_Sun","photo by Tajette O'Halloran")
   ,("LucieThorneEST4","photo by Kate Atkinson") 
