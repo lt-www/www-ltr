@@ -1,10 +1,10 @@
 [("Press Photos"
- ,[("LucieThorneTOH_Yellow","photo by Tajette O'Halloran")
+ ,[("LucieThorneDF_Window","photo by Damian Fitzgerald")
+  ,("LucieThorneTOH_Yellow","photo by Tajette O'Halloran")
   ,("LucieThorneTOH_BW","photo by Tajette O'Halloran")
   ,("LucieThorneTOH_Sun","photo by Tajette O'Halloran")
   ,("LucieThorneEST4","photo by Kate Atkinson") 
   ,("LT_EST1","photo by Heike Qualitz")   
-  ,("alley","photo by eryca green")
   ])
 ,("Tour"
  ,[("barossa","setting up in Tanunda, Barossa Valley, Australia")
@@ -17,9 +17,8 @@
   ])
 ,("Archive"
  ,[("fence","photo by eryca green")  
-  ,("diastema","photo by eryca green")  
+ ,("alley","photo by eryca green")  
   ,("polka-dots","photo by eryca green")   
-  ,("studio","")
   ,("green","photo by eryca green")
   ,("angle","photo by eryca green")
   ,("black","photo by eryca green")
