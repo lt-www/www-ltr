@@ -156,6 +156,7 @@ with JO JO SMITH & HAMISH STUART\
 280 Cleveland St, Surry Hills, **SYDNEY**\    
 with JO JO SMITH & HAMISH STUART\                
 8pm\         
+[tickets](http://venue505.com/gigs/jo-jo-smith-50-years-in-the-biz-special-guests-lucie-thorne-and-hamish-stuart-1490232224.html)\    
 
 **Friday 23rd June 2017**\
 SUNSET STUDIO\     
