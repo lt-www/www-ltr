@@ -1,6 +1,7 @@
 module News where
 
 import qualified Text.XML.Light as X {- xml -}
+
 import qualified WWW.Minus.RSS as R {- www-minus -}
 import qualified WWW.Minus.RSS.News as N {- www-minus -}
 

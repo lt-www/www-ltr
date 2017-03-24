@@ -4,13 +4,15 @@ import Data.Char {- base -}
 import Data.List {- base -}
 import Data.Function {- base -}
 import System.Directory {- directory -}
-import qualified System.Directory.Tree as T {- directory-tree -}
 import System.FilePath {- filepath -}
 import Text.Printf {- base -}
+
+import qualified System.Directory.Tree as T {- directory-tree -}
 import qualified Text.XML.Light as X {- xml -}
 
-import qualified Text.HTML.Minus as H {- html-minus -}
 import qualified Text.Pandoc.Minus as P {- pandoc-minus -}
+
+import qualified Text.HTML.Minus as H {- html-minus -}
 import qualified WWW.Minus.IO as W {- www-minus -}
 
 import qualified Img as I
@@ -103,7 +105,7 @@ std_copyright cf p =
          --,H.br []
          ,H.copy
          ,H.a [H.href lt_site] [H.cdata "lucie thorne"]
-         ,H.cdata " 2016. " {- 1998- -}
+         ,H.cdata " 2017. " {- 1998- -}
          ,H.a [H.href H.w3_html_validator] [H.cdata "html"]
          ,H.cdata ", "
          ,H.a [H.href H.w3_css_validator] [H.cdata "css"]
