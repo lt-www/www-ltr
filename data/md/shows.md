@@ -106,7 +106,7 @@ with JO JO SMITH & HAMISH STUART\
 [tickets](http://www.ellingtonjazz.com.au/event/jo-jo-smith-celebrating-50-years-in-music-special-guests-lucie-thorne-hamish-stuart/)\   
 
 **Fri 2nd - Sun 4th June 2017**\
-FESTIVAL OF VOICE\     
+DENMARK FESTIVAL OF VOICE\     
 **DENMARK**\            
 with JO JO SMITH & HAMISH STUART\    
 
