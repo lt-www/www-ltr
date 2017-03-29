@@ -139,6 +139,7 @@ THE POLISH CLUB\
 38 David St, Turner, **CANBERRA**\        
 with JO JO SMITH & HAMISH STUART\        
 7.30pm\          
+[tickets](http://www.canberramusiciansclub.org.au/events/jo-jo-smith-and-lucie-thorne-28659)\    
 
 * * * * *   
 
