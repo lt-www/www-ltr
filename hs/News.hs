@@ -1,13 +1,12 @@
 module News where
 
-import qualified Text.XML.Light as X {- xml -}
-
+import qualified Text.HTML.Minus as H {- html-minus -}
 import qualified WWW.Minus.RSS as R {- www-minus -}
 import qualified WWW.Minus.RSS.News as N {- www-minus -}
 
 import qualified LTR as L
 
-rss :: N.N_Markup -> N.N_News -> X.Element
+rss :: N.N_Markup -> N.N_News -> H.Element
 rss f =
     let opt = ("lucie thorne: news"
               ,"http://luciethorne.com/news"

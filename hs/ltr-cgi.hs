@@ -3,7 +3,6 @@ import System.FilePath {- filepath -}
 
 import qualified Network.CGI as C {- cgi -}
 import qualified Network.CGI.Protocol as C {- cgi -}
-import qualified Text.XML.Light as X {- xml -}
 
 import qualified Text.HTML.Minus as H {- html-minus -}
 import qualified WWW.Minus.CGI as W {- www-minus -}
@@ -47,7 +46,7 @@ d_page cf d =
       "photos":i -> ph_page cf i
       _ -> md_page cf d
 
-mk_viewer :: String -> X.Content
+mk_viewer :: String -> H.Content
 mk_viewer v =
     let v' = "https://www.youtube.com/embed/" ++ v
         o_a = [H.width "425", H.height "344"]
