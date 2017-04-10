@@ -171,7 +171,7 @@ COMMUNITY ARTS HALL\
 Oxley Lane, **WAUCHOPE**\            
 with JO JO SMITH & HAMISH STUART\    
 7.30pm\     
-[tickets](www.trybooking.com/270223)\    
+[tickets](http://www.trybooking.com/270223)\    
 
 **Sunday 25th June 2017**\
 BOO RADLEY'S HALL\     
