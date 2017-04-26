@@ -17,23 +17,6 @@ with Neil Murray\
 **Wednesday 19th April 2017**\
 ARARAT LIVE\     
  **ARARAT**\        
-with Neil Murray\    * * * * *   
-
-**VICTORIA**  
-
-**Sunday 23rd April 2017**\
-THE GRANDE\     
- **HEPBURN SPRINGS**\        
-with Neil Murray\             
- 
-**Saturday 22nd April 2017**\
-THE SPOTTED MALLARD\     
- **MELBOURNE**\        
-with Neil Murray\      
-
-**Wednesday 19th April 2017**\
-ARARAT LIVE\     
- **ARARAT**\        
 with Neil Murray\    
 
 * * * * *  
