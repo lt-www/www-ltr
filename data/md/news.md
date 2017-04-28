@@ -6,8 +6,6 @@ Tomorrow night at the Bega Valley Civic Centre Lucie joins forces with Jackie Ma
 
 * * * *
 
-* * * *
-
 ### 18 April 2017 | Neil Murray  
 
 Three shows coming up with NEIL MURRAY this week > in Ararat, Melbourne and Hepburn Springs. [Details here](shows)
