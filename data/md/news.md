@@ -1,3 +1,11 @@
+### 28 April 2017 | Back to the Valley  
+
+Tomorrow night at the Bega Valley Civic Centre Lucie joins forces with Jackie Marshall, Aine Tyrell, Melanie Horsnell and Ilona Harker for a big ol fundraising shindig for the Bega Women's Resource Centre - [tickets  here](shows)
+
+![](data/image/photos/LucieThorneBW.jpg)  
+
+* * * *
+
 * * * *
 
 ### 18 April 2017 | Neil Murray  
