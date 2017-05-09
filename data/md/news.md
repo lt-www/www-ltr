@@ -1,3 +1,11 @@
+### 10 May 2017 | On the road with Jo Jo Smith and Hamish Stuart!  
+
+Massive celebratory tour to mark Jo Jo's 50th year as a performing musician! starts this weekend!! First stop: South Australia, with shows in Finniss, McLaren Vale and Adelaide, followed by four shows around regional Victoria - Bright, Violet Town, Mansfield and Bendigo - next week. [Details here](shows) x
+
+![](data/image/news/JJLTpromo.jpg)  
+
+* * * *
+
 ### 28 April 2017 | Back to the Valley  
 
 Tomorrow night at the Bega Valley Civic Centre Lucie joins forces with Jackie Marshall, Aine Tyrell, Melanie Horsnell and Ilona Harker for a big ol fundraising shindig for the Bega Women's Resource Centre - [tickets  here](shows)
