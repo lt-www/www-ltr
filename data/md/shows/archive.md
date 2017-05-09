@@ -2,6 +2,16 @@
 
 * * * * *   
 
+**NSW**    
+
+**Saturday 29th April 2017**\
+BEGA CIVIC CENTRE\     
+ **BEGA**\        
+with JACKIE MARSHALL, AINE TYRELL and MELANIE HORSNELL\       
+*fundraiser for the Bega Women's Resource Centre*\         
+
+* * * * *   
+
 **VICTORIA**  
 
 **Sunday 23rd April 2017**\
