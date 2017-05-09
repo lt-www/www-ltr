@@ -1,18 +1,5 @@
 * * * * *   
 
-**NSW**    
-
-**Saturday 29th April 2017**\
-BEGA CIVIC CENTRE\     
- **BEGA**\        
-with JACKIE MARSHALL, AINE TYRELL, ILONA HARKER and MELANIE HORSNELL\    
-6.30pm\   
-[tickets](https://www.trybooking.com/261712)\         
-*fundraiser for the Bega Women's Resource Centre*\         
-
-
-* * * * *   
-
 **SOUTH AUSTRALIA**  
 
 **Friday 12th May 2017**\
