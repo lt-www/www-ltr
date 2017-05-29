@@ -2,6 +2,49 @@
 
 * * * * *   
 
+**VICTORIA**    
+
+**Sunday 21st May 2017**\
+THE OLD CHURCH ON THE HILL\     
+36 Russell St, Quarry Hill, **BENDIGO**\   
+with JO JO SMITH & HAMISH STUART\                
+
+**Saturday 20th May 2017**\
+THE PRODUCE STORE\     
+68 High St, **MANSFIELD**\            
+with JO JO SMITH & HAMISH STUART\    
+
+**Friday 19th May 2017**\
+THE PARISH\     
+41 Primrose St, **VIOLET TOWN**\           
+with JO JO SMITH & HAMISH STUART\     
+
+**Thursday 18th May 2017**\
+THE COURTHOUSE THEATRE\     
+2 Park St, **BRIGHT**\            
+with JO JO SMITH & HAMISH STUART\      
+
+* * * * *   
+
+**SOUTH AUSTRALIA**    
+
+**Sunday 14th May 2017**\
+THE WHEATSHEAF\     
+39 George St, **THEBARTON**\            
+with JO JO SMITH & HAMISH STUART\      
+
+**Saturday 13th May 2017**\
+THE SINGING GALLERY\     
+133 Main Rd, **McLAREN VALE**\            
+with JO JO SMITH & HAMISH STUART\        
+
+**Friday 12th May 2017**\
+WOODLANDS RUN\    
+713 Signal Flat Rd, **FINNISS**\            
+with JO JO SMITH & HAMISH STUART\       
+
+* * * * *   
+
 **NSW**    
 
 **Saturday 29th April 2017**\
