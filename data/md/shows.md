@@ -1,4 +1,3 @@
-
 * * * * *   
 
 **WESTERN AUSTRALIA**    
@@ -10,11 +9,24 @@ with JO JO SMITH & HAMISH STUART\
 7pm\     
 [tickets](http://www.ellingtonjazz.com.au/event/jo-jo-smith-celebrating-50-years-in-music-special-guests-lucie-thorne-hamish-stuart/)\   
 
-**Fri 2nd - Sun 4th June 2017**\
-DENMARK FESTIVAL OF VOICE\     
-**DENMARK**\            
-with JO JO SMITH & HAMISH STUART\    
+**Friday 2nd June 2017**\
+[DENMARK FESTIVAL OF VOICE](http://www.denmarkfestivalofvoice.com.au)\     
+The Festival Club, **DENMARK**\            
+with HAMISH STUART\    
+10-11pm\   
+  
+**Saturday 3rd June 2017**\
+[DENMARK FESTIVAL OF VOICE](http://www.denmarkfestivalofvoice.com.au)\     
+The Civic Centre, **DENMARK**\            
+with HAMISH STUART\    
+2-3pm\     
 
+**Sunday 4th June 2017**\
+[DENMARK FESTIVAL OF VOICE](http://www.denmarkfestivalofvoice.com.au)\        
+The Riverside Club, **DENMARK**\            
+with HAMISH STUART & JO JO SMITH\    
+4.30-5.15pm\    
+   
 * * * * *   
 
 **NSW**     
