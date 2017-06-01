@@ -2,8 +2,6 @@
 
 the tour rolls on with shows in WA; tonight at the beautiful Ellington Jazz Club in Perth, and then at the Denmark Festival of Voice over the weekend. All with Hamish Stuart and Jo Jo Smith. [Details here](shows) x
 
-![](data/image/photos/IMG_9658 lo res.jpg)  
-
 * * * *
 
 ### 10 May 2017 | On the road with Jo Jo Smith and Hamish Stuart!  
