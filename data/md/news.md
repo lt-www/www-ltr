@@ -1,3 +1,11 @@
+### 1 June 2017 | Western Australia  
+
+the tour rolls on with shows in WA; tonight at the beautiful Ellington Jazz Club in Perth, and then at the Denmark Festival of Voice over the weekend. All with Hamish Stuart and Jo Jo Smith. [Details here](shows) x
+
+![](data/image/photos/IMG_9658 lo res.jpg)  
+
+* * * *
+
 ### 10 May 2017 | On the road with Jo Jo Smith and Hamish Stuart!  
 
 Massive celebratory tour to mark Jo Jo's 50th year as a performing musician! starts this weekend!! First stop: South Australia, with shows in Finniss, McLaren Vale and Adelaide, followed by four shows around regional Victoria - Bright, Violet Town, Mansfield and Bendigo - next week. [Details here](shows) x
