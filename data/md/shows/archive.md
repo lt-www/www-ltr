@@ -2,6 +2,30 @@
 
 * * * * *   
 
+**WESTERN AUSTRALIA**    
+
+**Sunday 4th June 2017**\
+[DENMARK FESTIVAL OF VOICE](http://www.denmarkfestivalofvoice.com.au)\        
+The Riverside Club, **DENMARK**\            
+with HAMISH STUART & JO JO SMITH\      
+
+**Saturday 3rd June 2017**\
+[DENMARK FESTIVAL OF VOICE](http://www.denmarkfestivalofvoice.com.au)\     
+The Civic Centre, **DENMARK**\            
+with HAMISH STUART\         
+
+**Friday 2nd June 2017**\
+[DENMARK FESTIVAL OF VOICE](http://www.denmarkfestivalofvoice.com.au)\     
+The Festival Club, **DENMARK**\            
+with HAMISH STUART\    
+  
+**Thursday 1st June 2017**\
+THE ELLINGTON JAZZ CLUB\     
+with JO JO SMITH & HAMISH STUART\    
+191 Beaufort St, **PERTH**\           
+
+* * * * *   
+
 **VICTORIA**    
 
 **Sunday 21st May 2017**\
