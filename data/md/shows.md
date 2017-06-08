@@ -103,11 +103,29 @@ with JO JO SMITH & HAMISH STUART\
 3.30pm\     
 [tickets](http://www.trybooking.com/PHTZ)\      
 
-**Fri 6th - Sun 9th July 2017**\
-BELLO WINTER MUSIC FESTIVAL\     
- **BELLINGEN**\        
+**Friday 7th July 2017**\
+BELLO WINTER MUSIC FESTIVAL(http://www.bellowintermusic.com)\     
+Cedar Bar, **BELLINGEN**\        
 with HAMISH STUART\    
-[tickets](http://www.bellowintermusic.com/db101_element_tickets_1.0.asp)\  
+7.45pm\     
+
+**Saturday 8th July 2017**\
+BELLO WINTER MUSIC FESTIVAL(http://www.bellowintermusic.com)\     
+Memorial Hall, **BELLINGEN**\        
+with JO JO SMITH & HAMISH STUART\    
+1.15pm\     
+
+**Saturday 8th July 2017**\
+BELLO WINTER MUSIC FESTIVAL(http://www.bellowintermusic.com)\     
+Golf Club, **BELLINGEN**\        
+with HAMISH STUART\    
+5pm\   
+    
+**Sunday 9th July 2017**\
+BELLO WINTER MUSIC FESTIVAL(http://www.bellowintermusic.com)\     
+St Margarets, **BELLINGEN**\        
+with HAMISH STUART\    
+5.30pm\     
 
 * * * * *     
 [past shows](?p=shows/archive/)
