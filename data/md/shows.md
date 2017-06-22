@@ -90,4 +90,15 @@ with HAMISH STUART\
 5.30pm\     
 
 * * * * *     
+
+**VICTORIA**     
+
+**Saturday 22nd July 2017**\
+CERES SUPPER CLUB\     
+Learning Centre, CERES, Stewart St, **BRUNSWICK**\              
+[tickets](https://www.trybooking.com/PJRW)\  
+7.30pm\     
+
+* * * * *     
+
 [past shows](?p=shows/archive/)
