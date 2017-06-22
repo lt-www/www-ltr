@@ -28,7 +28,7 @@ BOO RADLEY'S HALL\
 42 Coramba St, **GLENREAGH**\        
 with JO JO SMITH & HAMISH STUART\        
 3.30pm / BYO\       
-[tickets](http://www.trybooking.com/PIPG)\  
+SOLD OUT\  
 
 * * * * *   
 
