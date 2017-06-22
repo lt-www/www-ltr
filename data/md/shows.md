@@ -102,4 +102,25 @@ Stewart St, **BRUNSWICK**\
 
 * * * * *     
 
+**SOUTH AUSTRALIA**     
+
+**Friday 18th August 2017**\
+STONE PONY\        
+Main Rd, **WILUNGA**\   
+with Dr Desoto\         
+8pm\                 
+[tickets](http://www.ticketebo.com.au/stonepony/aug-lucie-thorne-dr-desoto.html)\   
+
+**Saturday 19th August 2017**\
+THE WHEATSHEAF\        
+**ADELAIDE**\   
+with The Yearlings\         
+      
+**Sunday 20th August 2017**\
+HOUSE CONCERT\        
+**MASLIN BEACH**\   
+with The Yearlings\         
+         
+* * * * *     
+
 [past shows](?p=shows/archive/)
