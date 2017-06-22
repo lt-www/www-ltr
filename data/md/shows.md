@@ -2,13 +2,6 @@
 
 **NSW**     
 
-**Sunday 18th June 2017**\
-THE TOWN HALL\     
-William St, **CANDELO**\            
-with JO JO SMITH & HAMISH STUART\    
-3.30pm\     
-[tickets](http://www.trybooking.com/PHVM)\    
-
 **Thursday 22nd June 2017**\
 505\     
 280 Cleveland St, Surry Hills, **SYDNEY**\    
