@@ -2,37 +2,6 @@
 
 **NSW**     
 
-**Thursday 15th June 2017**\
-METROPOLE\     
-Gang Gang St, **KATOOMBA**\            
-with JO JO SMITH & HAMISH STUART\    
-Doors 6.15pm / Show 7pm\     
-[tickets](http://www.trybooking.com/PESX)\    
-
-**Friday 16th June 2017**\
-the CORRIDORS project\     
-The Riverslea Station Woolshed\  
-2997 Darby Falls Rd, **COWRA**\            
-with JO JO SMITH & HAMISH STUART\    
-Doors 6.30pm / Show 8pm\  
-Dinner & Show tickets available\     
-[tickets](http://www.trybooking.com/PIQK)\    
-
-* * * * *   
-
-**ACT**     
-
-**Saturday 17th June 2017**\
-THE POLISH CLUB\     
-38 David St, Turner, **CANBERRA**\        
-with JO JO SMITH & HAMISH STUART\        
-7.30pm\          
-[tickets](http://www.canberramusiciansclub.org.au/events/jo-jo-smith-and-lucie-thorne-28659)\    
-
-* * * * *   
-
-**NSW**     
-
 **Sunday 18th June 2017**\
 THE TOWN HALL\     
 William St, **CANDELO**\            
