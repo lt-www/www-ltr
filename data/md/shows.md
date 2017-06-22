@@ -95,8 +95,9 @@ with HAMISH STUART\
 
 **Saturday 22nd July 2017**\
 CERES SUPPER CLUB\     
-Learning Centre, CERES, Stewart St, **BRUNSWICK**\              
-[tickets](https://www.trybooking.com/PJRW)\  
+Learning Centre, CERES\  
+Stewart St, **BRUNSWICK**\              
+[tickets](http://www.stickytickets.com.au/54652)\  
 7.30pm\     
 
 * * * * *     
