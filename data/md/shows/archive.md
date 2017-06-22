@@ -2,6 +2,15 @@
 
 * * * * *   
 
+**NSW**     
+
+**Sunday 18th June 2017**\
+THE TOWN HALL\     
+William St, **CANDELO**\            
+with JO JO SMITH & HAMISH STUART\    
+
+* * * * *   
+
 **ACT**     
 
 **Saturday 17th June 2017**\
