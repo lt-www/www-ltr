@@ -2,6 +2,30 @@
 
 * * * * *   
 
+**ACT**     
+
+**Saturday 17th June 2017**\
+THE POLISH CLUB\     
+38 David St, Turner, **CANBERRA**\        
+with JO JO SMITH & HAMISH STUART\        
+
+* * * * *   
+
+**NSW**     
+
+**Friday 16th June 2017**\
+the CORRIDORS project\     
+The Riverslea Station Woolshed\  
+2997 Darby Falls Rd, **COWRA**\            
+with JO JO SMITH & HAMISH STUART\      
+
+**Thursday 15th June 2017**\
+METROPOLE\     
+Gang Gang St, **KATOOMBA**\            
+with JO JO SMITH & HAMISH STUART\       
+
+* * * * *   
+
 **WESTERN AUSTRALIA**    
 
 **Sunday 4th June 2017**\
