@@ -4,12 +4,30 @@
 
 **NSW**     
 
+**Sunday 25th June 2017**\
+BOO RADLEY'S HALL\     
+42 Coramba St, **GLENREAGH**\        
+with JO JO SMITH & HAMISH STUART\        
+
+**Saturday 24th June 2017**\
+COMMUNITY ARTS HALL\     
+Oxley Lane, **WAUCHOPE**\            
+with JO JO SMITH & HAMISH STUART\     
+
+**Friday 23rd June 2017**\
+SUNSET STUDIO\     
+1 Maitland Rd, Mayfield, **NEWCASTLE**\    
+with JO JO SMITH & HAMISH STUART\                 
+
+**Thursday 22nd June 2017**\
+505\     
+280 Cleveland St, Surry Hills, **SYDNEY**\    
+with JO JO SMITH & HAMISH STUART\                 
+
 **Sunday 18th June 2017**\
 THE TOWN HALL\     
 William St, **CANDELO**\            
 with JO JO SMITH & HAMISH STUART\    
-
-* * * * *   
 
 **ACT**     
 
