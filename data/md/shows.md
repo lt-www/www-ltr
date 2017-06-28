@@ -1,37 +1,5 @@
 * * * * *   
 
-**NSW**     
-
-**Thursday 22nd June 2017**\
-505\     
-280 Cleveland St, Surry Hills, **SYDNEY**\    
-with JO JO SMITH & HAMISH STUART\                
-8pm\         
-[tickets](http://venue505.com/gigs/jo-jo-smith-50-years-in-the-biz-special-guests-lucie-thorne-and-hamish-stuart-1490232224.html)\    
-
-**Friday 23rd June 2017**\
-SUNSET STUDIO\     
-1 Maitland Rd, Mayfield, **NEWCASTLE**\    
-with JO JO SMITH & HAMISH STUART\              
-8pm\     
-[tickets](http://www.trybooking.com/PIAN)\    
-
-**Saturday 24th June 2017**\
-COMMUNITY ARTS HALL\     
-Oxley Lane, **WAUCHOPE**\            
-with JO JO SMITH & HAMISH STUART\    
-7.30pm\     
-[tickets](http://www.trybooking.com/270223)\    
-
-**Sunday 25th June 2017**\
-BOO RADLEY'S HALL\     
-42 Coramba St, **GLENREAGH**\        
-with JO JO SMITH & HAMISH STUART\        
-3.30pm / BYO\       
-SOLD OUT\  
-
-* * * * *   
-
 **QLD**     
 
 **Thursday 29th June 2017**\
