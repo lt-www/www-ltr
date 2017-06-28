@@ -1,3 +1,11 @@
+### 1 June 2017 | More shows..!  
+
+Loving thanks to all who've helped make this tour such an amazing time! This week Lucie, Hamish & JO JO SMITH play in Brisbane, GLod Coast, Mullumbimby and Tintenbar. Next weekend they're all at the beautiful Bello Winter Music Festival. And... more tour dates have just been announced for the spring, including a whole lot of dates around Victoria and Tasmania! [Details here](shows) x
+
+![](data/image/news/JJLTpromo.jpg)  
+
+* * * *
+
 ### 1 June 2017 | Western Australia  
 
 the tour rolls on with shows in WA; tonight at the beautiful Ellington Jazz Club in Perth, and then at the Denmark Festival of Voice over the weekend. [Details here](shows) x
