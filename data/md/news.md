@@ -1,6 +1,6 @@
-### 1 June 2017 | More shows..!  
+### 28 June 2017 | More shows..!  
 
-Loving thanks to all who've helped make this tour such an amazing time! This week Lucie, Hamish & JO JO SMITH play in Brisbane, GLod Coast, Mullumbimby and Tintenbar. Next weekend they're all at the beautiful Bello Winter Music Festival. And... more tour dates have just been announced for the spring, including a whole lot of dates around Victoria and Tasmania! [Details here](shows) x
+Loving thanks to all who've helped make this tour such an amazing time! This week Lucie, Hamish & JO JO SMITH play in Brisbane, Gold Coast, Mullumbimby and Tintenbar. Next weekend they're all at the beautiful Bello Winter Music Festival. And... more tour dates have just been announced for the spring, including a whole lot of dates around Victoria and Tasmania! [Details here](shows) x
 
 ![](data/image/news/JJLTpromo.jpg)  
 
