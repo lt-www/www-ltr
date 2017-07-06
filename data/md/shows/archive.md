@@ -4,6 +4,34 @@
 
 **NSW**     
 
+**Sunday 2nd July 2017**\
+THE TINTENBAR HALL\     
+George St, **TINTENBAR**\            
+with JO JO SMITH & HAMISH STUART\        
+
+**Saturday 1st July 2017**\
+EX SERVICES CLUB\     
+58 Dalley St, **MULLUMBIMBY**\            
+with JO JO SMITH & HAMISH STUART\    
+
+* * * * *     
+
+**QLD**     
+
+**Friday 30th June 2017**\
+HOUSE CONCERT\     
+**GOLD COAST**\            
+with JO JO SMITH & HAMISH STUART\    
+
+**Thursday 29th June 2017**\
+THE JUNK BAR\     
+215 Waterworks Rd, Ashgrove, **BRISBANE**\            
+with JO JO SMITH & HAMISH STUART\        
+     
+* * * * *   
+
+**NSW**     
+
 **Sunday 25th June 2017**\
 BOO RADLEY'S HALL\     
 42 Coramba St, **GLENREAGH**\        
