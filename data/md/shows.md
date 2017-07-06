@@ -1,37 +1,7 @@
 * * * * *   
-
-**QLD**     
-
-**Thursday 29th June 2017**\
-THE JUNK BAR\     
-215 Waterworks Rd, Ashgrove, **BRISBANE**\            
-with JO JO SMITH & HAMISH STUART\    
-7.30pm\     
-[tickets](https://tickets.oztix.com.au/?Event=72014)\    
-    
-**Friday 30th June 2017**\
-HOUSE CONCERT\     
-**GOLD COAST**\            
-with JO JO SMITH & HAMISH STUART\    
-6.30pm\  
-     
 * * * * *   
 
 **NSW**     
-
-**Saturday 1st July 2017**\
-EX SERVICES CLUB\     
-58 Dalley St, **MULLUMBIMBY**\            
-with JO JO SMITH & HAMISH STUART\    
-Doors 7.30pm / Show 8.30pm\     
-[tickets](https://www.trybooking.com/PJRW)\  
-    
-**Sunday 2nd July 2017**\
-THE TINTENBAR HALL\     
-George St, **TINTENBAR**\            
-with JO JO SMITH & HAMISH STUART\    
-3.30pm\     
-[tickets](http://www.trybooking.com/PHTZ)\      
 
 **Friday 7th July 2017**\
 [BELLO WINTER MUSIC FESTIVAL](http://www.bellowintermusic.com)\     
