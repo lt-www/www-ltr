@@ -53,7 +53,9 @@ with Dr Desoto\
 THE WHEATSHEAF\        
 **ADELAIDE**\   
 with The Yearlings\         
-      
+8.30pm\                 
+[tickets](https://www.trybooking.com/book/event?eid=297166)\     
+  
 **Sunday 20th August 2017**\
 HOUSE CONCERT\        
 **MASLIN BEACH**\            
