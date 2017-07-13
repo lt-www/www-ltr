@@ -22,7 +22,7 @@ with Dr Desoto\
 
 **Saturday 19th August 2017**\
 THE WHEATSHEAF\        
-**ADELAIDE**\   
+George St, Thebarton, **ADELAIDE**\   
 with The Yearlings\         
 8.30pm\                 
 [tickets](https://www.trybooking.com/book/event?eid=297166)\     
