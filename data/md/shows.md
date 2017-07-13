@@ -36,8 +36,8 @@ HOUSE CONCERT\
 **NSW**     
 
 **Friday 6th October 2017**\
-THE YOOGALI CLUB\     
-Mackay Ave, **GRIFFITH**\            
+LEAGUES CLUB\     
+Southside, **GRIFFITH**\            
 with JO JO SMITH & HAMISH STUART\    
 7.30pm\     
 [tickets](https://www.firstfridaylive.com.au)\  
