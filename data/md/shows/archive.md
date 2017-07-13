@@ -4,6 +4,26 @@
 
 **NSW**     
 
+**Sunday 9th July 2017**\
+[BELLO WINTER MUSIC FESTIVAL](http://www.bellowintermusic.com)\        
+St Margarets, **BELLINGEN**\        
+with HAMISH STUART\       
+
+**Saturday 8th July 2017**\
+[BELLO WINTER MUSIC FESTIVAL](http://www.bellowintermusic.com)\     
+Golf Club, **BELLINGEN**\        
+with HAMISH STUART\    
+    
+**Saturday 8th July 2017**\
+[BELLO WINTER MUSIC FESTIVAL](http://www.bellowintermusic.com)\        
+Memorial Hall, **BELLINGEN**\        
+with JO JO SMITH & HAMISH STUART\       
+
+**Friday 7th July 2017**\
+[BELLO WINTER MUSIC FESTIVAL](http://www.bellowintermusic.com)\     
+Cedar Bar, **BELLINGEN**\        
+with HAMISH STUART\      
+
 **Sunday 2nd July 2017**\
 THE TINTENBAR HALL\     
 George St, **TINTENBAR**\            
