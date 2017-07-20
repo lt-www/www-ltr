@@ -30,7 +30,16 @@ with The Yearlings\
 **Sunday 20th August 2017**\
 HOUSE CONCERT\        
 **MASLIN BEACH**\            
-         
+4pm\               
+
+* * * * *     
+
+**NSW**     
+
+**Fri 29th - Sat 30th September 2017**\
+[DASHVILLE SKYLINE](http://dashville.com.au/skyline-2016/)\        
+Belford, **HUNTER VALLEY**\           
+     
 * * * * *     
 
 **NSW**     
@@ -87,7 +96,15 @@ with JO JO SMITH\
 4pm\     
 [tickets](https://www.trybooking.com/QOLU)\    
 
+* * * * *     
 
+**NSW**     
+
+**Fri 17th - Sun 19th November 2017**\
+MULLUM MUSIC FESTIVAL\        
+**MULLUMBIMBY**\           
+with JO JO SMITH & HAMISH STUART\    
+     
 * * * * *     
 
 **TASMANIA**     
