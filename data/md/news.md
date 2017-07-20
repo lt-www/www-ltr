@@ -1,3 +1,11 @@
+### 20 July 2017 | Spring festivals  
+
+Just announced! Two of the sweetest spring fests around! Lucie will be performing at [Dashville Skyline](http://dashville.com.au/skyline-2016/) and [Mullum Music Fest](http://www.mullummusicfestival.com)! For more dates and info check the [shows](shows) page x
+
+![](data/image/news/IMG_7773.JPG)  
+
+* * * *
+
 ### 28 June 2017 | More shows..!  
 
 Loving thanks to all who've helped make this tour such an amazing time! This week Lucie, Hamish & JO JO SMITH play in Brisbane, Gold Coast, Mullumbimby and Tintenbar. Next weekend they're all at the beautiful Bello Winter Music Festival. And... more tour dates have just been announced for the spring, including a whole lot of dates around Victoria and Tasmania! [Details here](shows) x
