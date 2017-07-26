@@ -20,6 +20,8 @@ with The Yearlings\
 HOUSE CONCERT\        
 **MASLIN BEACH**\            
 4pm\               
+with Simon Bailey\                 
+[tickets](https://www.trybooking.com/RBXM)\     
 
 * * * * *     
 
