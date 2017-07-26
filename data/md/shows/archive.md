@@ -1,5 +1,14 @@
 ## shows/archive 
 
+* * * * *     
+
+**VICTORIA**     
+
+**Saturday 22nd July 2017**\
+CERES SUPPER CLUB\     
+Learning Centre, CERES\    
+Stewart St, **BRUNSWICK**\        
+
 * * * * *   
 
 **NSW**     
