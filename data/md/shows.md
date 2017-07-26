@@ -19,8 +19,8 @@ with The Yearlings\
 **Sunday 20th August 2017**\
 HOUSE CONCERT\        
 **MASLIN BEACH**\            
-4pm\               
 with Simon Bailey\                 
+4pm\               
 [tickets](https://www.trybooking.com/RBXM)\     
 
 * * * * *     
