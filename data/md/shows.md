@@ -29,10 +29,11 @@ HOUSE CONCERT\
 THE SPOTTED MALLARD\     
 Sydney Rd, **BRUNSWICK**\            
 *with the SONGS FROM DAN band, featuring Dan Tuffy, Matt Walker, Shane Reilly and Grant Cummerford*\    
-plus special guests The Yearlings and Fenn & George Wilson\     
-and hosted by Brian Nankervis!\     
+*plus special guests The Yearlings and Fenn & George Wilson, hosted by Brian Nankervis!*\     
 8.30pm\     
 [tickets](https://www.moshtix.com.au/v2/event/songs-from-dan/97333?ref=RSS_rss_mallard&skin=5395)\  
+
+* * * * *       
 
 **NSW**     
 
