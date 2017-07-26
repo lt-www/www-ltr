@@ -27,8 +27,8 @@ HOUSE CONCERT\
 
 **Thursday 21st September 2017**\
 THE SPOTTED MALLARD\     
-Sydney Rd, **BRUSNWICK**\            
-with the SONGS FROM DAN band, featuring Dan Tuffy, Matt Walker, Shane Reilly and Grant Cummerford\    
+Sydney Rd, **BRUNSWICK**\            
+*with the SONGS FROM DAN band, featuring Dan Tuffy, Matt Walker, Shane Reilly and Grant Cummerford*\    
 plus special guests The Yearlings and Fenn & George Wilson\     
 and hosted by Brian Nankervis!\     
 8.30pm\     
