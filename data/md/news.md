@@ -4,6 +4,7 @@ Back on the road and heading to South Australia for three shows; The Stone Pony,
 
 ![](data/image/news/TY_LT_pic.jpg)  
 
+* * * *
 
 ### 20 July 2017 | Spring festivals  
 
