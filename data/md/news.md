@@ -1,3 +1,10 @@
+### 12 August 2017 | South Australia  
+
+Back on the road and heading to South Australia for three shows; The Stone Pony, Willunga, The Wheatsheaf Adelaide - with SA sweethearts [The Yearlings](https://www.theyearlings.net) - and a very special House Concert in Maslin Beach. Also - just announced! another double-bill with those Yearlings in Castlemaine in September. Tickets and details on the [shows](shows) page x
+
+![](data/image/news/TY_LT_pic.jpg)  
+
+
 ### 20 July 2017 | Spring festivals  
 
 Just announced! Two of the sweetest spring fests around! Lucie will be performing at [Dashville Skyline](http://dashville.com.au/skyline-2016/) and [Mullum Music Fest](http://www.mullummusicfestival.com)! For more dates and info check the [shows](shows) page x
