@@ -34,6 +34,13 @@ Sydney Rd, **BRUNSWICK**\
 8.30pm\     
 [tickets](https://www.moshtix.com.au/v2/event/songs-from-dan/97333?ref=RSS_rss_mallard&skin=5395)\  
 
+**Friday 22nd September 2017**\
+THE DIGGERS STORE\        
+Main Rd, **CAMPBELLS CREEK**\   
+with The Yearlings\         
+7pm\                 
+[tickets](https://www.eventbrite.com.au/e/lucie-thorne-the-yearlings-castlemaine-tickets-36968258055)\       
+
 * * * * *       
 
 **NSW**     
