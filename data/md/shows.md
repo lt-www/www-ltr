@@ -118,13 +118,6 @@ with JO JO SMITH & HAMISH STUART\
 
 **TASMANIA**     
 
-**Wednesday 29th November 2017**\
-THE GRAND POOBAH\     
-Liverpool St, **HOBART**\            
-with JO JO SMITH & HAMISH STUART\    
-8pm\     
-[tickets](https://www.trybooking.com/QVME)\  
-
 **Thursday 30th November 2017**\
 SAINT JOHN CRAFT BEER BAR\     
 St John St, **LAUNCESTON**\            
