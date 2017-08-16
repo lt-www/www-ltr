@@ -101,7 +101,7 @@ with JO JO SMITH\
 **Sunday 29th October 2017**\
 The G.R.A.I.N Store\     
 Blake St, **NATHALIA**\            
-with JO JO SMITH\    
+with JO JO SMITH & HAMISH STUART\    
 4pm\     
 [tickets](https://www.trybooking.com/QOLU)\    
 
