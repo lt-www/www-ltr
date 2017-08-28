@@ -1,29 +1,5 @@
 * * * * *     
 
-**SOUTH AUSTRALIA**     
-
-**Friday 18th August 2017**\
-STONE PONY\        
-Main Rd, **WILUNGA**\   
-with Dr Desoto\         
-8pm\                 
-[tickets](http://www.ticketebo.com.au/stonepony/aug-lucie-thorne-dr-desoto.html)\   
-
-**Saturday 19th August 2017**\
-THE WHEATSHEAF\        
-George St, Thebarton, **ADELAIDE**\   
-with The Yearlings\         
-8.30pm\                 
-[tickets](https://www.trybooking.com/book/event?eid=297166)\     
-  
-**Sunday 20th August 2017**\
-HOUSE CONCERT\        
-**MASLIN BEACH**\                            
-4pm\               
-[tickets](https://www.trybooking.com/RBXM)\     
-
-* * * * *     
-
 **VICTORIA**     
 
 **Thursday 21st September 2017**\
