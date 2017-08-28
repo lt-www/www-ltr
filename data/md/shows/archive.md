@@ -2,6 +2,24 @@
 
 * * * * *     
 
+**SOUTH AUSTRALIA**     
+
+**Sunday 20th August 2017**\
+HOUSE CONCERT\        
+**MASLIN BEACH**\                           
+
+**Saturday 19th August 2017**\
+THE WHEATSHEAF\        
+George St, Thebarton, **ADELAIDE**\   
+with The Yearlings\          
+
+**Friday 18th August 2017**\
+STONE PONY\        
+Main Rd, **WILUNGA**\   
+with Dr Desoto\           
+  
+* * * * *     
+
 **VICTORIA**     
 
 **Saturday 22nd July 2017**\
