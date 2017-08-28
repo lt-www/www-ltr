@@ -101,7 +101,7 @@ Signal Flat Rd, **FINNISS**\
 THE WHEATSHEAF\     
 George St, Thebarton **ADELAIDE**\                  
 with PONY FACE\    
-4pm)\    
+4pm\    
 
 * * * * *     
 
