@@ -21,10 +21,17 @@ with The Yearlings\
 
 **NSW**     
 
-**Fri 29th - Sat 30th September 2017**\
+**Friday 29th September 2017**\
 [DASHVILLE SKYLINE](http://dashville.com.au/skyline-2016/)\        
 Belford, **HUNTER VALLEY**\           
+*with the SONGS FROM DAN band, featuring Dan Tuffy, Matt Walker, Shane Reilly and Grant Cummerford*\      
+6.30pm\       
      
+**Saturday 30th September 2017**\
+[DASHVILLE SKYLINE](http://dashville.com.au/skyline-2016/)\        
+Belford, **HUNTER VALLEY**\                 
+10am\         
+
 * * * * *     
 
 **NSW**     
@@ -80,6 +87,21 @@ Blake St, **NATHALIA**\
 with JO JO SMITH & HAMISH STUART\    
 4pm\     
 [tickets](https://www.trybooking.com/QOLU)\    
+
+* * * * *     
+
+**SOUTH AUSTRALIA**     
+
+**Saturday 4th November 2017**\
+WOODLANDS RUN FESTIVAL\     
+Signal Flat Rd, **FINNISS**\                  
+[tickets](https://www.trybooking.com/book/event?eid=309846)\  
+
+**Sunday 5th November 2017**\
+THE WHEATSHEAF\     
+George St, Thebarton **ADELAIDE**\                  
+with PONY FACE\    
+4pm)\    
 
 * * * * *     
 
