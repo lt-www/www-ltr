@@ -107,6 +107,11 @@ with PONY FACE\
 
 **NSW**     
 
+**Wednesday 15th November 2017**\
+HOUSE CONCERT\     
+**URALLA**\            
+with HAMISH STUART\         
+
 **Thursday 16th November 2017**\
 Number 5\     
 Church St, **BELLINGEN**\            
@@ -146,6 +151,7 @@ with JO JO SMITH & HAMISH STUART\
 HOUSE CONCERT\     
 **NEIKA**\            
 with JO JO SMITH & HAMISH STUART\    
+2pm\    
 
 * * * * *     
 
