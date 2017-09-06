@@ -1,3 +1,9 @@
+### 6 September 2017 | Songs From Dan  
+
+Lucie plays two rare shows in the [SONGS FROM DAN](https://www.songsfromdan.com) band this month; Sep 21st at Melbourne's Spotted Mallard, and Sep 29th at [Dashville Skyline Festival](http://www.dashville.com.au) in the Hunter Valley. Starring the stories and songs of Dan Tuffy, (Big Low, Wild Pumpkins at Midnight) the band also features Matt Walker, Shane Reilly and Grant Cummerford. And the Melbourne show will also feature cameo performances by The Yearlings, George & Fenn Wilson, and hosted by none other than Brian Nankervis! Tickets and details on the [shows](shows) page x
+
+* * * *
+
 ### 12 August 2017 | South Australia  
 
 Back on the road and heading to South Australia for three shows; The Stone Pony, Willunga, The Wheatsheaf Adelaide - with SA sweethearts [The Yearlings](https://www.theyearlings.net) - and a very special House Concert in Maslin Beach. Also - just announced! another double-bill with those Yearlings in Castlemaine in September. Tickets and details on the [shows](shows) page x
