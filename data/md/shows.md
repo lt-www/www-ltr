@@ -37,8 +37,8 @@ Belford, **HUNTER VALLEY**\
 **NSW**     
 
 **Friday 6th October 2017**\
-LEAGUES CLUB\     
-Southside, **GRIFFITH**\            
+SOUTHSIDE LEAGUES CLUB\     
+Bridge Rd, **GRIFFITH**\            
 with JO JO SMITH & HAMISH STUART\    
 7.30pm\     
 [tickets](https://www.firstfridaylive.com.au)\  
