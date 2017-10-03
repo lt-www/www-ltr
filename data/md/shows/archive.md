@@ -1,5 +1,33 @@
 ## shows/archive 
 
+* * * * *       
+
+**NSW**     
+
+**Saturday 30th September 2017**\
+[DASHVILLE SKYLINE](http://dashville.com.au/skyline-2016/)\        
+Belford, **HUNTER VALLEY**\                 
+
+**Friday 29th September 2017**\
+[DASHVILLE SKYLINE](http://dashville.com.au/skyline-2016/)\        
+Belford, **HUNTER VALLEY**\           
+*with the SONGS FROM DAN band, featuring Dan Tuffy, Matt Walker, Shane Reilly and Grant Cummerford*\            
+     
+* * * * *     
+
+**VICTORIA**     
+
+**Friday 22nd September 2017**\
+THE DIGGERS STORE\        
+Main Rd, **CAMPBELLS CREEK**\   
+with The Yearlings\         
+
+**Thursday 21st September 2017**\
+THE SPOTTED MALLARD\     
+Sydney Rd, **BRUNSWICK**\            
+*with the SONGS FROM DAN band, featuring Dan Tuffy, Matt Walker, Shane Reilly and Grant Cummerford, plus special guests The Yearlings and Fenn & George Wilson*\      
+*hosted by Brian Nankervis!*\      
+
 * * * * *     
 
 **SOUTH AUSTRALIA**     
