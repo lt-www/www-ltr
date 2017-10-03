@@ -6,7 +6,7 @@
 SOUTHSIDE LEAGUES CLUB\     
 Bridge Rd, **GRIFFITH**\            
 with JO JO SMITH & HAMISH STUART\    
-7.30pm\     
+8pm\     
 [tickets](https://www.firstfridaylive.com.au)\  
 
 * * * * *     
