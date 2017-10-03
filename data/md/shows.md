@@ -1,39 +1,5 @@
 * * * * *     
 
-**VICTORIA**     
-
-**Thursday 21st September 2017**\
-THE SPOTTED MALLARD\     
-Sydney Rd, **BRUNSWICK**\            
-*with the SONGS FROM DAN band, featuring Dan Tuffy, Matt Walker, Shane Reilly and Grant Cummerford, plus special guests The Yearlings and Fenn & George Wilson*\      
-*hosted by Brian Nankervis!*\     
-8.30pm\     
-[tickets](https://www.moshtix.com.au/v2/event/songs-from-dan/97333?ref=RSS_rss_mallard&skin=5395)\  
-
-**Friday 22nd September 2017**\
-THE DIGGERS STORE\        
-Main Rd, **CAMPBELLS CREEK**\   
-with The Yearlings\         
-7pm\                 
-[tickets](https://www.eventbrite.com.au/e/lucie-thorne-the-yearlings-castlemaine-tickets-36968258055)\       
-
-* * * * *       
-
-**NSW**     
-
-**Friday 29th September 2017**\
-[DASHVILLE SKYLINE](http://dashville.com.au/skyline-2016/)\        
-Belford, **HUNTER VALLEY**\           
-*with the SONGS FROM DAN band, featuring Dan Tuffy, Matt Walker, Shane Reilly and Grant Cummerford*\      
-6.30pm\       
-     
-**Saturday 30th September 2017**\
-[DASHVILLE SKYLINE](http://dashville.com.au/skyline-2016/)\        
-Belford, **HUNTER VALLEY**\                 
-10am\         
-
-* * * * *     
-
 **NSW**     
 
 **Friday 6th October 2017**\
