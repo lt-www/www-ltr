@@ -15,10 +15,7 @@ with JO JO SMITH & HAMISH STUART\
 
 **Saturday 7th October 2017**\
 BEECHWORTH TOWN HALL\     
-Ford St, **BEECHWORTH**\            
-with JO JO SMITH & HAMISH STUART\    
-7.30pm\     
-[tickets](https://www.trybooking.com/QJTA)\  
+*canceled, with apologies*\   
 
 **Sunday 8th October 2017**\
 BELLA UNION at TRADES HALL\     
