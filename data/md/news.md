@@ -1,3 +1,9 @@
+### 5 October 2017 | Back on the road with JO JO SMITH  
+
+The second half of this big national tour celebrating soulful sensation JO JO SMITH in her 50th year of making the musics starts now! Lucie & Hamish Stuart hit the road with Jo Jo this week, and on through the rest of the spring, starting in Griffith on Friday night, followed by a matinee at Melbourne's beautiful Bella Union on Sunday afternoon. All dates and details up on the [shows](shows) page...
+
+* * * *
+
 ### 6 September 2017 | Songs From Dan  
 
 Lucie plays two rare shows in the [SONGS FROM DAN](https://www.songsfromdan.com) band this month; Sep 21st at Melbourne's Spotted Mallard, and Sep 29th at [Dashville Skyline Festival](http://www.dashville.com.au) in the Hunter Valley. Starring the stories and songs of Dan Tuffy, (Big Low, Wild Pumpkins at Midnight) the band also features Matt Walker, Shane Reilly and Grant Cummerford. The Melbourne show will also feature cameo performances by The Yearlings and George & Fenn Wilson, hosted by the one n only Brian Nankervis! Tickets and details on the [shows](shows) page...
