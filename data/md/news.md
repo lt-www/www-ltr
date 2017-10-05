@@ -2,7 +2,7 @@
 
 The second half of this big national tour celebrating soulful sensation JO JO SMITH in her 50th year of making the musics starts now! Lucie & Hamish Stuart hit the road with Jo Jo this week, and on through the rest of the spring, starting in Griffith on Friday night, followed by a matinee at Melbourne's beautiful Bella Union on Sunday afternoon. All dates and details up on the [shows](shows) page...
 
-![](data/image/news/IMG_9755_lo)    
+![](data/image/news/IMG_9755_lo.jpg)    
 
 * * * *
 
