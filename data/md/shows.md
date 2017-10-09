@@ -1,28 +1,11 @@
 * * * * *     
 
-**NSW**     
-
-**Friday 6th October 2017**\
-SOUTHSIDE LEAGUES CLUB\     
-Bridge Rd, **GRIFFITH**\            
-with JO JO SMITH & HAMISH STUART\    
-8pm\     
-[tickets](https://www.firstfridaylive.com.au)\  
-
-* * * * *     
-
-**VICTORIA**     
-
-**Saturday 7th October 2017**\
-BEECHWORTH TOWN HALL\     
-*canceled, with apologies*\   
+**VICTORIA**       
 
 **Sunday 8th October 2017**\
 BELLA UNION at TRADES HALL\     
 Lygon St, **MELBOURNE**\            
 with JO JO SMITH & HAMISH STUART\    
-3.30pm\     
-[tickets](https://www.bellaunion.com.au/event/1197)\  
 
 **Friday 20th October 2017**\
 NURMURKAH FOODBOWL FESTIVAL\     
