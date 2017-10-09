@@ -1,9 +1,23 @@
-## shows/archive 
+## shows/archive   
 
-* * * * *       
+* * * * *     
+
+**VICTORIA**       
+
+**Sunday 8th October 2017**\
+BELLA UNION at TRADES HALL\     
+Lygon St, **MELBOURNE**\            
+with JO JO SMITH & HAMISH STUART\    
+
+* * * * *     
 
 **NSW**     
 
+**Friday 6th October 2017**\
+SOUTHSIDE LEAGUES CLUB\     
+Bridge Rd, **GRIFFITH**\            
+with JO JO SMITH & HAMISH STUART\    
+ 
 **Saturday 30th September 2017**\
 [DASHVILLE SKYLINE](http://dashville.com.au/skyline-2016/)\        
 Belford, **HUNTER VALLEY**\                 
