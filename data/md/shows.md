@@ -2,11 +2,6 @@
 
 **VICTORIA**       
 
-**Sunday 8th October 2017**\
-BELLA UNION at TRADES HALL\     
-Lygon St, **MELBOURNE**\            
-with JO JO SMITH & HAMISH STUART\    
-
 **Friday 20th October 2017**\
 NURMURKAH FOODBOWL FESTIVAL\     
 Monichinos Winery, **NURMURKAH**\            
