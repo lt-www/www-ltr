@@ -13,7 +13,7 @@ UNDER THE SUN CAFE\
 Ford St, **STRATHBOGIE**\            
 with JO JO SMITH\    
 7.30pm\     
-[tickets](https://www.trybooking.com/QJTJ)\    
+*presales sold out! call Doug 0490774070 for last tickets*\      
 
 **Sunday 22nd October 2017**\
 HOUSE CONCERT\     
