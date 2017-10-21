@@ -20,7 +20,7 @@ HOUSE CONCERT\
 **GREEN GULLY**\            
 with JO JO SMITH\    
 4pm\     
-[tickets](https://www.trybooking.com/QJTP)\  
+sold out!\  
 
 **Sunday 29th October 2017**\
 The G.R.A.I.N Store\     
