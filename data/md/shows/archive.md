@@ -4,6 +4,23 @@
 
 **VICTORIA**       
 
+**Sunday 22nd October 2017**\
+HOUSE CONCERT\     
+**GREEN GULLY**\            
+with JO JO SMITH\    
+sold out!\   
+
+**Saturday 21st October 2017**\
+UNDER THE SUN CAFE\     
+Ford St, **STRATHBOGIE**\            
+with JO JO SMITH\         
+sold out!\      
+
+**Friday 20th October 2017**\
+NURMURKAH FOODBOWL FESTIVAL\     
+Monichinos Winery, **NURMURKAH**\            
+with JO JO SMITH\        
+
 **Sunday 8th October 2017**\
 BELLA UNION at TRADES HALL\     
 Lygon St, **MELBOURNE**\            
