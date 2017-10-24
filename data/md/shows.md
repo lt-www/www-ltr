@@ -11,6 +11,17 @@ with JO JO SMITH & HAMISH STUART\
 
 * * * * *     
 
+**NSW**       
+
+**Wednesday 1st November 2017**\
+[Art Gallery of NSW](https://www.artgallery.nsw.gov.au/calendar/live-music-lucie-thorne/)\     
+The Domain, **SYDNEY**\            
+with HAMISH STUART\    
+7.30pm\     
+free *Art After Hours* concert for the opening of the [Robert Mapplethorpe Exhibition](https://www.artgallery.nsw.gov.au/exhibitions/robert-mapplethorpe/)\         
+
+* * * * *     
+
 **SOUTH AUSTRALIA**     
 
 **Saturday 4th November 2017**\
