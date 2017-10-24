@@ -2,26 +2,6 @@
 
 **VICTORIA**       
 
-**Friday 20th October 2017**\
-NURMURKAH FOODBOWL FESTIVAL\     
-Monichinos Winery, **NURMURKAH**\            
-with JO JO SMITH\    
-6pm\      
-
-**Saturday 21st October 2017**\
-UNDER THE SUN CAFE\     
-Ford St, **STRATHBOGIE**\            
-with JO JO SMITH\    
-7.30pm\     
-*presales sold out! call Doug 0490774070 for last tickets*\      
-
-**Sunday 22nd October 2017**\
-HOUSE CONCERT\     
-**GREEN GULLY**\            
-with JO JO SMITH\    
-4pm\     
-sold out!\  
-
 **Sunday 29th October 2017**\
 The G.R.A.I.N Store\     
 Blake St, **NATHALIA**\            
