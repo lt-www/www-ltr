@@ -80,7 +80,7 @@ Tickets are now on sale for a big fundraising shindig concert to support the Beg
 
 In other news - we're delighted to let you know that Lucie & Hamish will be performing at this year's Bello Winter Music Festival in Bellingen in July, and tickets are now on sale for that too!   
 
-![](data/image/photos/PINK Poster for K -page-001.jpg)   
+![](data/image/photos/PINK_Poster_for_K_page_001.jpg)   
  
 * * * *
 
@@ -94,7 +94,7 @@ Four shows coming up in Tassie this week - in Burnie, Myalla, Sheffield and Swan
 
 Tickets for Lucie's upcoming shows with The Yearlings are now all on sale. And more Tassie dates have just been announced for feb/march... [details here](shows).      
 
-![](data/image/news/yearling thornes_webber.jpg)  
+![](data/image/news/yearling_thornes_webber.jpg)  
 
 * * * *  
 
