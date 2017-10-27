@@ -39,7 +39,7 @@ img_set (cl,rd) (rt,bs) is ar =
     let (Just a) = lookup ar is
         fn n = rt </> "rgen/photos" </> img_resize_dir rd </> n <.> "jpg"
         ln n = bs ("photos" </> n)
-        cl' = H.class' cl
+        cl' = H.class_attr cl
         f (n,_) = H.a [H.href (ln n)] [H.img [cl',H.src (fn n),H.alt n]]
     in H.div [cl'] (map f a)
 
@@ -50,7 +50,7 @@ img_preload :: Int -> (FilePath,Renamer) -> [Img] -> Area -> H.Content
 img_preload sz = img_set ("img-preload",sz)
 
 img_no_preload :: H.Content
-img_no_preload = H.div [H.class' "img-preload"] []
+img_no_preload = H.div [H.class_attr "img-preload"] []
 
 img_submenu :: Renamer -> [Img] -> H.Content
 img_submenu p d =
