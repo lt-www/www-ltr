@@ -8,8 +8,6 @@ import System.Directory {- directory -}
 import System.FilePath {- filepath -}
 import System.Process {- process -}
 
-import qualified Text.XML.Light as X {- xml -}
-
 import qualified Text.HTML.Minus as H {- html-minus -}
 
 type Area = String
@@ -36,25 +34,25 @@ img_resize_dir n = "r-" ++ show n
 
 type Renamer = FilePath -> FilePath
 
-img_set :: (Class,Int) -> (FilePath,Renamer) -> [Img] -> Area -> X.Content
+img_set :: (Class,Int) -> (FilePath,Renamer) -> [Img] -> Area -> H.Content
 img_set (cl,rd) (rt,bs) is ar =
     let (Just a) = lookup ar is
         fn n = rt </> "rgen/photos" </> img_resize_dir rd </> n <.> "jpg"
         ln n = bs ("photos" </> n)
-        cl' = H.class' cl
+        cl' = H.class_attr cl
         f (n,_) = H.a [H.href (ln n)] [H.img [cl',H.src (fn n),H.alt n]]
     in H.div [cl'] (map f a)
 
-img_preview :: (FilePath,Renamer) -> [Img] -> Area -> X.Content
+img_preview :: (FilePath,Renamer) -> [Img] -> Area -> H.Content
 img_preview = img_set ("img-preview",60)
 
-img_preload :: Int -> (FilePath,Renamer) -> [Img] -> Area -> X.Content
+img_preload :: Int -> (FilePath,Renamer) -> [Img] -> Area -> H.Content
 img_preload sz = img_set ("img-preload",sz)
 
-img_no_preload :: X.Content
-img_no_preload = H.div [H.class' "img-preload"] []
+img_no_preload :: H.Content
+img_no_preload = H.div [H.class_attr "img-preload"] []
 
-img_submenu :: Renamer -> [Img] -> X.Content
+img_submenu :: Renamer -> [Img] -> H.Content
 img_submenu p d =
     let adr i = p ("photos" </> i)
         f (n,((i,_):_)) = (map toUpper n,i,Just (adr i))

@@ -8,12 +8,10 @@ import System.FilePath {- filepath -}
 import Text.Printf {- base -}
 
 import qualified System.Directory.Tree as T {- directory-tree -}
-import qualified Text.XML.Light as X {- xml -}
-
-import qualified Text.Pandoc.Minus as P {- pandoc-minus -}
 
 import qualified Text.HTML.Minus as H {- html-minus -}
-import qualified WWW.Minus.IO as W {- www-minus -}
+import qualified WWW.Minus.IO as IO {- www-minus -}
+import qualified WWW.Minus.MD as MD {- www-minus -}
 
 import qualified Img as I
 
@@ -69,7 +67,7 @@ lt_class_tag p =
 -- * HTML
 
 -- dsc = description
-std_meta :: Config -> String -> [X.Content]
+std_meta :: Config -> String -> [H.Content]
 std_meta cf dsc =
     [H.title [] [H.cdata ("lucie thorne: " ++ dsc)]
     ,H.meta_description dsc
@@ -79,14 +77,14 @@ std_meta cf dsc =
     ,H.link_rss "rss" "?p=news/rss.xml"
     ,H.meta_viewport "width=device-width,initial-scale=1,user-scalable=yes"]
 
-std_html :: [X.Content] -> X.Element
+std_html :: [H.Content] -> H.Element
 std_html = H.html [H.lang "en"]
 
 -- p = path to page
-std_copyright :: Config -> FilePath -> X.Content
+std_copyright :: Config -> FilePath -> H.Content
 std_copyright cf p =
     let rss_v = H.w3_rss_validator lt_site
-        mk_i :: String -> Int -> X.Content
+        mk_i :: String -> Int -> H.Content
         mk_i nm sz = H.img [H.src (printf "data/png/icon/%s-%d.gr.png" nm sz)
                            ,H.alt nm]
         rss_i = mk_i "rss" 14
@@ -95,7 +93,7 @@ std_copyright cf p =
         sc_i = mk_i "sc" 14
         ig_i = mk_i "ig" 14
     in H.footer
-        [H.class' "footer"]
+        [H.class_attr "footer"]
         [H.p []
          [H.a [H.href "?p=news/rss.xml"] [rss_i]
          ,H.a [H.href "http://www.facebook.com/lucie.thorne"] [fb_i]
@@ -113,33 +111,33 @@ std_copyright cf p =
          ,H.a [H.href rss_v] [H.cdata "rss"]
          ,H.a [H.href (lt_edit_ln cf p)] [H.cdata "."]]]
 
-std_menu :: Config -> String -> X.Content
+std_menu :: Config -> String -> H.Content
 std_menu cf =
     let f (m,p_) = (m,p_,Just (lt_base cf p_))
     in H.nav_menu_span id "menu" (map f (lt_menu upper_case))
 
-lt_h1 :: X.Content
+lt_h1 :: H.Content
 lt_h1 =
-    let t = H.h1 [H.title' "lucie thorne"] [H.cdata (upper_case "Lucie Thorne")]
-    in H.a [H.class' "h1",H.href lt_site] [t]
+    let t = H.h1 [H.title_attr "lucie thorne"] [H.cdata (upper_case "Lucie Thorne")]
+    in H.a [H.class_attr "h1",H.href lt_site] [t]
 
 -- > joinPath ["a","b"] == "a/b"
-lt_std_html :: Config -> [String] -> X.Content -> X.Element
+lt_std_html :: Config -> [String] -> H.Content -> H.Element
 lt_std_html cf p t =
     let n_ = lt_class_tag p
         a_ = joinPath p
         m_ = std_meta cf a_
-        x_ = H.div [H.class' "content"] [lt_h1,t]
+        x_ = H.div [H.class_attr "content"] [lt_h1,t]
         b_ = [std_menu cf n_,x_,std_copyright cf a_]
     in std_html [H.head [] m_
-                ,H.body [H.class' n_] [H.div [H.class' "main"] b_]]
+                ,H.body [H.class_attr n_] [H.div [H.class_attr "main"] b_]]
 
 -- * Markdown
 
 read_file_or :: String -> FilePath -> IO String
 read_file_or s f = do
   x <- doesFileExist f
-  if x then W.read_file_utf8 f else return s
+  if x then IO.read_file_utf8 f else return s
 
 lt_no_file :: String
 lt_no_file =
@@ -147,16 +145,15 @@ lt_no_file =
             ,"we might have moved it a little?"
             ,"please try finding it using the menu."]
 
-lt_markdown_to_html :: String -> String
-lt_markdown_to_html s =
-    let p = P.defaultParserState {P.stateSmart = True}
-        d = P.readMarkdown p (s ++ "\n")
-    in P.writeHtmlString P.defaultWriterOptions d
+lt_markdown_to_html :: String -> IO String
+lt_markdown_to_html = MD.md_to_html
 
+{-
 lt_markdown_to_html_io :: FilePath -> IO String
 lt_markdown_to_html_io fn =
     let f = lt_markdown_to_html
     in fmap f (read_file_or lt_no_file fn)
+-}
 
 -- | Special case for the 'home' file.
 lt_markdown_file_name_f :: FilePath -> FilePath
@@ -176,18 +173,18 @@ lt_img_data cf = do
   s <- readFile (lt_root cf </> "data/config/photos.hs")
   return (read s)
 
-arrows :: Config -> I.Neighbours -> X.Content
+arrows :: Config -> I.Neighbours -> H.Content
 arrows cf (l,_,r) =
     let f s (Just n) = H.a [H.href (lt_base cf ("photos" </> n))] [s]
         f s Nothing = s
-    in H.span [H.class' "arrows"] [f H.larr l,H.nbsp,H.nbsp,f H.rarr r]
+    in H.span [H.class_attr "arrows"] [f H.larr l,H.nbsp,H.nbsp,f H.rarr r]
 
 photos_page :: Config ->
                [I.Img] ->
-               X.Content ->
+               H.Content ->
                I.Area ->
                I.Neighbours ->
-               X.Element
+               H.Element
 photos_page cf im sm c nb =
     let rt = lt_root cf
         (_,(n,t),_) = nb
@@ -202,10 +199,10 @@ photos_page cf im sm c nb =
                     ,H.span [] [H.a [H.href f_] [H.cdata "high resolution file"]]
                     ,H.span [] c_
                     ,arrows cf nb]
-        x_ = H.div [H.class' "content"] [g_,i_,I.img_preload 450 (rt,lt_base cf) im c]
+        x_ = H.div [H.class_attr "content"] [g_,i_,I.img_preload 450 (rt,lt_base cf) im c]
         b_ = [std_menu cf "photos",lt_h1,sm,x_,std_copyright cf "photos"]
     in std_html [H.head [] m_
-                ,H.body [H.class' "photos"] [H.div [H.class' "main"] b_]]
+                ,H.body [H.class_attr "photos"] [H.div [H.class_attr "main"] b_]]
 
 -- generate single camera page
 lt_photo_page :: Config -> (I.Area, I.Id) -> [I.Img] -> String
