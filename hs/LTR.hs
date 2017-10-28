@@ -70,7 +70,7 @@ std_meta cf dsc =
     ,H.meta_author "lucie thorne"
     ,H.meta_content_type "text/html; charset=UTF-8"
     ,H.link_css "all" (lt_css cf)
-    ,H.link_rss "rss" "?p=news/rss.xml"
+    {-,H.link_rss "rss" "?p=news/rss.xml"-}
     ,H.meta_viewport "width=device-width,initial-scale=1,user-scalable=yes"]
 
 std_html :: [H.Content] -> H.Element
@@ -78,12 +78,12 @@ std_html = H.html [H.lang "en"]
 
 -- p = path to page
 std_copyright :: Config -> FilePath -> H.Content
-std_copyright cf p =
-    let rss_v = H.w3_rss_validator lt_site
+std_copyright _cf _p =
+    let --rss_v = H.w3_rss_validator lt_site
         mk_i :: String -> Int -> H.Content
         mk_i nm sz = H.img [H.src (printf "data/png/icon/%s-%d.gr.png" nm sz)
                            ,H.alt nm]
-        rss_i = mk_i "rss" 14
+        --rss_i = mk_i "rss" 14
         fb_i = mk_i "fb" 14
         --ms_i = mk_i "ms" 14
         sc_i = mk_i "sc" 14
@@ -91,8 +91,8 @@ std_copyright cf p =
     in H.footer
         [H.class_attr "footer"]
         [H.p []
-         [H.a [H.href "?p=news/rss.xml"] [rss_i]
-         ,H.a [H.href "http://www.facebook.com/lucie.thorne"] [fb_i]
+         [{-H.a [H.href "?p=news/rss.xml"] [rss_i]
+         ,-}H.a [H.href "http://www.facebook.com/lucie.thorne"] [fb_i]
          ,H.a [H.href "http://soundcloud.com/lucie-1-2"] [sc_i]
          ,H.a [H.href "http://instagram.com/luciennethorne"] [ig_i]
          --,H.a [H.href "http://www.myspace.com/luciethornemusic"] [ms_i]
@@ -103,9 +103,9 @@ std_copyright cf p =
          ,H.a [H.href H.w3_html_validator] [H.cdata "html"]
          ,H.cdata ", "
          ,H.a [H.href H.w3_css_validator] [H.cdata "css"]
-         ,H.cdata ", "
+         {-,H.cdata ", "
          ,H.a [H.href rss_v] [H.cdata "rss"]
-         ,H.a [H.href (lt_edit_ln cf p)] [H.cdata "."]]]
+         ,H.a [H.href (lt_edit_ln cf p)] [H.cdata "."]-}]]
 
 std_menu :: Config -> String -> H.Content
 std_menu cf =
@@ -142,7 +142,7 @@ lt_no_file =
             ,"please try finding it using the menu."]
 
 lt_markdown_to_html :: String -> IO String
-lt_markdown_to_html = MD.md_to_html
+lt_markdown_to_html = MD.md_to_html "bin"
 
 {-
 lt_markdown_to_html_io :: FilePath -> IO String

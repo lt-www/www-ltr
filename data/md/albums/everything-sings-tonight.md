@@ -1,14 +1,17 @@
 <!--| ## EVERYTHING SINGS TONIGHT |-->
 
-Release date: 1st June 2015.  
+Release date: 1st June 2015.
 
-Direct mail-order your copy of Everything Sings Tonight on CD (Includes shipping):\
+Direct mail-order your copy of Everything Sings Tonight on CD (Includes shipping):
 
 **CD**:
-<a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H9G7WHRG5LDPA">AUS\ $25AUD</a>
-<a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZEYKQFY7C744N">WORLD\ $28AUD</a>
+<a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H9G7WHRG5LDPA">AUS $25AUD</a>
+<a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZEYKQFY7C744N">WORLD $28AUD</a>
 
-Also available through [iTunes][144] and in all fine record stores across Australia through [Vitamin Distribution][145].  
+Also available through
+[iTunes](https://itunes.apple.com/au/album/everything-sings-tonight/id998796975)
+and in all fine record stores across Australia through
+[Vitamin Distribution](http://www.vitamin.net.au/albumdefault.asp?ai=637).
 
 ![](data/image/cover/everything-sings.jpg)
 
@@ -25,24 +28,21 @@ Also available through [iTunes][144] and in all fine record stores across Austra
 
 ## credits
 
-All songs written by Lucie Thorne   
-Produced by Lucie Thorne & Hamish Stuart  
+All songs written by Lucie Thorne\
+Produced by Lucie Thorne & Hamish Stuart
 
-Performed by Lucie Thorne & Hamish Stuart, plus special guests Chris Abrahams, Bo Ramsey, Dave Symes, Greg Brown, Tim Thorne, Chris Parkinson & Pieta Brown   
+Performed by Lucie Thorne & Hamish Stuart, plus special guests Chris Abrahams, Bo Ramsey, Dave Symes, Greg Brown, Tim Thorne, Chris Parkinson & Pieta Brown
 
-Recorded by Rainer Robben at AudioCue Studio, Berlin, Germany   
-Assisting engineer Julian Kretschel  
-Additional recording by John Svec at Earth Tone Studio, Iowa City, USA     
-*and also in Maslin Beach, Bronte, Deloraine, and a tour bus across Manitoba and Illinois*    
+Recorded by Rainer Robben at AudioCue Studio, Berlin, Germany\
+Assisting engineer Julian Kretschel\
+Additional recording by John Svec at Earth Tone Studio, Iowa City, USA \
+*and also in Maslin Beach, Bronte, Deloraine, and a tour bus across Manitoba and Illinois*
 
-Mixed by Shane Fahey at Reaktor, Sydney, Australia    
-Mastered by Darren Ziesing at Polybonk, Kairong, Australia  
+Mixed by Shane Fahey at Reaktor, Sydney, Australia\
+Mastered by Darren Ziesing at Polybonk, Kairong, Australia
 
-Cover painting by Yodhi Bergman. Design and Photography by Heike Qualitz   
+Cover painting by Yodhi Bergman. Design and Photography by Heike Qualitz
 
-&copy; Lucie Thorne 2015, *Little Secret Records*    
+&copy; Lucie Thorne 2015, *Little Secret Records*
 
-![](data/image/ground/lsr-35.png)  
-
-[144]: https://itunes.apple.com/au/album/everything-sings-tonight/id998796975
-[145]: https://www.vitamin.net.au/albumdefault.asp?ai=637 
+![](data/image/ground/lsr-35.png)

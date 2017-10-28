@@ -1,6 +1,6 @@
 build-ghc:
 	(cd hs ; make build-ghc)
-	(rm cmark ; ln -s ~/opt/bin/cmark .)
+	(rm -f bin/cmark ; mkdir -p bin ; ln -s ~/opt/bin/cmark bin/cmark)
 
 resize-genera:
 	sh sh/cover.sh

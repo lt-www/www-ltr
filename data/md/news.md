@@ -1,130 +1,130 @@
-### 5 October 2017 | Back on the road with JO JO SMITH  
+### 5 October 2017 | Back on the road with JO JO SMITH
 
 The second half of this big national tour celebrating soulful sensation JO JO SMITH in her 50th year of making the musics starts now! Lucie & Hamish Stuart hit the road with Jo Jo this week, and on through the rest of the spring, starting in Griffith on Friday night, followed by a matinee at Melbourne's beautiful Bella Union on Sunday afternoon. All dates and details up on the [shows](shows) page...
 
-![](data/image/news/IMG_9755_lo.jpg)    
+![](data/image/news/IMG_9755_lo.jpg)
 
 * * * *
 
-### 6 September 2017 | Songs From Dan  
+### 6 September 2017 | Songs From Dan
 
 Lucie plays two rare shows in the [SONGS FROM DAN](https://www.songsfromdan.com) band this month; Sep 21st at Melbourne's Spotted Mallard, and Sep 29th at [Dashville Skyline Festival](http://www.dashville.com.au) in the Hunter Valley. Starring the stories and songs of Dan Tuffy, (Big Low, Wild Pumpkins at Midnight) the band also features Matt Walker, Shane Reilly and Grant Cummerford. The Melbourne show will also feature cameo performances by The Yearlings and George & Fenn Wilson, hosted by the one n only Brian Nankervis! Tickets and details on the [shows](shows) page...
 
 * * * *
 
-### 12 August 2017 | South Australia  
+### 12 August 2017 | South Australia
 
 Back on the road and heading to South Australia for three shows; The Stone Pony, Willunga, The Wheatsheaf Adelaide - with SA sweethearts [The Yearlings](https://www.theyearlings.net) - and a very special House Concert in Maslin Beach. Also - just announced! another double-bill with those Yearlings in Castlemaine in September. Tickets and details on the [shows](shows) page x
 
-![](data/image/news/TY_LT_pic.jpg)  
+![](data/image/news/TY_LT_pic.jpg)
 
 * * * *
 
-### 20 July 2017 | Spring festivals  
+### 20 July 2017 | Spring festivals
 
 Just announced! Two of the sweetest spring fests around! Lucie will be performing at [Dashville Skyline](http://dashville.com.au/skyline-2016/) and [Mullum Music Fest](http://www.mullummusicfestival.com)! For more dates and info check the [shows](shows) page x
 
-![](data/image/news/IMG_7773.JPG)  
+![](data/image/news/IMG_7773.JPG)
 
 * * * *
 
-### 28 June 2017 | More shows..!  
+### 28 June 2017 | More shows..!
 
 Loving thanks to all who've helped make this tour such an amazing time! This week Lucie, Hamish & JO JO SMITH play in Brisbane, Gold Coast, Mullumbimby and Tintenbar. Next weekend they're all at the beautiful Bello Winter Music Festival. And... more tour dates have just been announced for the spring, including a whole lot of dates around Victoria and Tasmania! [Details here](shows) x
 
-![](data/image/news/JJLTpromo.jpg)  
+![](data/image/news/JJLTpromo.jpg)
 
 * * * *
 
-### 1 June 2017 | Western Australia  
+### 1 June 2017 | Western Australia
 
 the tour rolls on with shows in WA; tonight at the beautiful Ellington Jazz Club in Perth, and then at the Denmark Festival of Voice over the weekend. [Details here](shows) x
 
 * * * *
 
-### 10 May 2017 | On the road with Jo Jo Smith and Hamish Stuart!  
+### 10 May 2017 | On the road with Jo Jo Smith and Hamish Stuart!
 
 Massive celebratory tour to mark Jo Jo's 50th year as a performing musician! starts this weekend!! First stop: South Australia, with shows in Finniss, McLaren Vale and Adelaide, followed by four shows around regional Victoria - Bright, Violet Town, Mansfield and Bendigo - next week. [Details here](shows) x
 
-![](data/image/news/JJLTpromo.jpg)  
+![](data/image/news/JJLTpromo.jpg)
 
 * * * *
 
-### 28 April 2017 | Back to the Valley  
+### 28 April 2017 | Back to the Valley
 
 Tomorrow night at the Bega Valley Civic Centre Lucie joins forces with Jackie Marshall, Aine Tyrell, Melanie Horsnell and Ilona Harker for a big ol fundraising shindig for the Bega Women's Resource Centre - [tickets  here](shows)
 
-![](data/image/photos/LucieThorneBW.jpg)  
+![](data/image/photos/LucieThorneBW.jpg)
 
 * * * *
 
-### 18 April 2017 | Neil Murray  
+### 18 April 2017 | Neil Murray
 
 Three shows coming up with NEIL MURRAY this week > in Ararat, Melbourne and Hepburn Springs. [Details here](shows)
 
-![](data/image/news/LT_NM.jpg)  
+![](data/image/news/LT_NM.jpg)
 
 * * * *
 
-### 22 March 2017 | Jo Jo Smith Celebrates her 50th year in the biz!  
+### 22 March 2017 | Jo Jo Smith Celebrates her 50th year in the biz!
 
 Delighted and excited to announce national tour dates with the one n only Jo Jo Smith! Lucie & Hamish will be joining Jo Jo for a huge run of shows around Australia - celebrating Jo Jo's 50th year as a performing musician!! The first round of these dates includes shows in some of their favourite intimate venues in South Australia, Victoria, Western Australia, NSW, ACT and Queensland. (the second round of the tour takes place in the Spring and includes dates in Tasmania, Northern Territory, and more shows in Vic & NSW). [Tickets on sale now!](shows) x
 
-![](data/image/news/JJLTpromo.jpg)  
+![](data/image/news/JJLTpromo.jpg)
 
 * * * *
 
 ### 8 March 2017 | It's International Women's Day and...
 
-Tickets are now on sale for a big fundraising shindig concert to support the Bega Women's Resource Centre - who do amazing work in the community, and who have recently lost nearly all their funding. And it's a mighty lineup! > Lucie Thorne, Jackie Marshall, Aine Tyrell and Melanie Horsnell! The show takes place at the Bega Civic Centre on Saturday 29th April. Bookings info [here](shows).    
+Tickets are now on sale for a big fundraising shindig concert to support the Bega Women's Resource Centre - who do amazing work in the community, and who have recently lost nearly all their funding. And it's a mighty lineup! > Lucie Thorne, Jackie Marshall, Aine Tyrell and Melanie Horsnell! The show takes place at the Bega Civic Centre on Saturday 29th April. Bookings info [here](shows).
 
-In other news - we're delighted to let you know that Lucie & Hamish will be performing at this year's Bello Winter Music Festival in Bellingen in July, and tickets are now on sale for that too!   
+In other news - we're delighted to let you know that Lucie & Hamish will be performing at this year's Bello Winter Music Festival in Bellingen in July, and tickets are now on sale for that too!
 
-![](data/image/photos/PINK_Poster_for_K_page_001.jpg)   
- 
+![](data/image/photos/PINK_Poster_for_K_page_001.jpg)
+
 * * * *
 
 ### 28 February 2017 | Tassie!
 
-Four shows coming up in Tassie this week - in Burnie, Myalla, Sheffield and Swansea. And some Victorian dates in April have just been announced; three double-bill concerts with the one n only Neil Murray! in Melbourne, Ararat and Hepburn Springs. Details and bookings info [here](shows).    
+Four shows coming up in Tassie this week - in Burnie, Myalla, Sheffield and Swansea. And some Victorian dates in April have just been announced; three double-bill concerts with the one n only Neil Murray! in Melbourne, Ararat and Hepburn Springs. Details and bookings info [here](shows).
 
 * * * *
 
 ### 17 January 2017 | Summer shows
 
-Tickets for Lucie's upcoming shows with The Yearlings are now all on sale. And more Tassie dates have just been announced for feb/march... [details here](shows).      
+Tickets for Lucie's upcoming shows with The Yearlings are now all on sale. And more Tassie dates have just been announced for feb/march... [details here](shows).
 
-![](data/image/news/yearling_thornes_webber.jpg)  
-
-* * * *  
-
-### 12 December 2016 | Tour dates with The Yearlings announced     
-
-Lucie will be teaming up with SA sweethearts The Yearlings for a whole bunch of shows together at the other end of the summer; in Melbourne, Castlemaine, Yackandandah, Sydney, Newcastle, Mittagong and Canberra.  [Details here](shows).      
+![](data/image/news/yearling_thornes_webber.jpg)
 
 * * * *
 
-### 7 November 2016 | More dates announced  
+### 12 December 2016 | Tour dates with The Yearlings announced
 
-More dates have just been announced, including new year performances with Ireland's Wallis Bird and at the Tamar Valley Folk Festival, and the very special Legacy of Jesse Younan - 8th Anniversary Tribute Show in Melbourne on December 4th. [Tickets on sale now](shows).      
-
-* * * *
-
-### 11 October 2016 | Southern Spring  
-
-Lucie will be headlining a selection of Australian festivals - along with a whole host of other shows - across the country through till the end of spring. [Details here](shows).    
+Lucie will be teaming up with SA sweethearts The Yearlings for a whole bunch of shows together at the other end of the summer; in Melbourne, Castlemaine, Yackandandah, Sydney, Newcastle, Mittagong and Canberra.  [Details here](shows).
 
 * * * *
 
-### 27 August 2016 | USA!  
+### 7 November 2016 | More dates announced
 
-Shows coming up in New York and across the Midwest over the next few weeks! [Details here](shows).  
-  
+More dates have just been announced, including new year performances with Ireland's Wallis Bird and at the Tamar Valley Folk Festival, and the very special Legacy of Jesse Younan - 8th Anniversary Tribute Show in Melbourne on December 4th. [Tickets on sale now](shows).
+
+* * * *
+
+### 11 October 2016 | Southern Spring
+
+Lucie will be headlining a selection of Australian festivals - along with a whole host of other shows - across the country through till the end of spring. [Details here](shows).
+
+* * * *
+
+### 27 August 2016 | USA!
+
+Shows coming up in New York and across the Midwest over the next few weeks! [Details here](shows).
+
 ![](data/image/news/LucieThorneUSA.jpg)
 
 * * * *
 
-### 11 August 2016 | Songs from Dan  
+### 11 August 2016 | Songs from Dan
 
 A very special series of shows coming up in and around Melbourne over the next two weekends - celebrating the Australian release of [Songs from Dan](http://www.songsfromdan.com) - the new (and debut!) solo album from the one n only DAN TUFFY (of Big Low / Wild Pumpkins at Midnight fame).  The album was recorded partly in the Netherlands (where Dan has been based for many years) and partly here in Melbourne, and features cameo performances from Lucie, Matt Walker, Shane Reilly and Grant Cummerford. Dan's in town and the aussie contingent are joining forces for a selection of super-group [shows!](shows)
 

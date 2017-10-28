@@ -15,7 +15,6 @@ clean:
 	rm -f *.hi *.o
 	rm -f ltr-cgi ltr-cgi-static
 
-# symlink html-minus/www-minus
 ln-local:
 	rm -f WWW Text/HTML
 	mkdir -p Text
