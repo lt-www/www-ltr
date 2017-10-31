@@ -25,9 +25,8 @@ free *Art After Hours* concert for the opening of the [Robert Mapplethorpe Exhib
 **SOUTH AUSTRALIA**
 
 **Saturday 4th November 2017**\
-WOODLANDS RUN FESTIVAL\
-Signal Flat Rd, **FINNISS**\
-[tickets](https://www.trybooking.com/book/event?eid=309846)
+WOODLANDS RUN\
+Signal Flat Rd, **FINNISS**
 
 **Sunday 5th November 2017**\
 THE WHEATSHEAF\
@@ -55,6 +54,16 @@ with JO JO SMITH & HAMISH STUART\
 [MULLUM MUSIC FESTIVAL](http://www.mullummusicfestival.com)\
 **MULLUMBIMBY**\
 with JO JO SMITH & HAMISH STUART
+
+* * * * *
+
+**VICTORIA**
+
+Sunday 26th November 2017\
+HOUSE CONCERT\
+Preston\
+with JO JO SMITH\
+2pm
 
 * * * * *
 

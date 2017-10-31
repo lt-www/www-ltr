@@ -1,614 +1,621 @@
-## shows/archive   
+## shows/archive
 
-* * * * *     
+* * * * *
 
-**VICTORIA**       
+**VICTORIA**
+
+**Sunday 29th October 2017**\
+The G.R.A.I.N Store\
+Blake St, **NATHALIA**\
+with JO JO SMITH & HAMISH STUART\
+4pm\
+[tickets](https://www.trybooking.com/QOLU)
 
 **Sunday 22nd October 2017**\
-HOUSE CONCERT\     
-**GREEN GULLY**\            
-with JO JO SMITH\    
-sold out!\   
+HOUSE CONCERT\
+**GREEN GULLY**\
+with JO JO SMITH\
+sold out!
 
 **Saturday 21st October 2017**\
-UNDER THE SUN CAFE\     
-Ford St, **STRATHBOGIE**\            
-with JO JO SMITH\         
-sold out!\      
+UNDER THE SUN CAFE\
+Ford St, **STRATHBOGIE**\
+with JO JO SMITH\
+sold out!
 
 **Friday 20th October 2017**\
-NURMURKAH FOODBOWL FESTIVAL\     
-Monichinos Winery, **NURMURKAH**\            
-with JO JO SMITH\        
+NURMURKAH FOODBOWL FESTIVAL\
+Monichinos Winery, **NURMURKAH**\
+with JO JO SMITH
 
 **Sunday 8th October 2017**\
-BELLA UNION at TRADES HALL\     
-Lygon St, **MELBOURNE**\            
-with JO JO SMITH & HAMISH STUART\    
+BELLA UNION at TRADES HALL\
+Lygon St, **MELBOURNE**\
+with JO JO SMITH & HAMISH STUART
 
-* * * * *     
+* * * * *
 
-**NSW**     
+**NSW**
 
 **Friday 6th October 2017**\
-SOUTHSIDE LEAGUES CLUB\     
-Bridge Rd, **GRIFFITH**\            
-with JO JO SMITH & HAMISH STUART\    
- 
+SOUTHSIDE LEAGUES CLUB\
+Bridge Rd, **GRIFFITH**\
+with JO JO SMITH & HAMISH STUART
+
 **Saturday 30th September 2017**\
-[DASHVILLE SKYLINE](http://dashville.com.au/skyline-2016/)\        
-Belford, **HUNTER VALLEY**\                 
+[DASHVILLE SKYLINE](http://dashville.com.au/skyline-2016/)\
+Belford, **HUNTER VALLEY**
 
 **Friday 29th September 2017**\
-[DASHVILLE SKYLINE](http://dashville.com.au/skyline-2016/)\        
-Belford, **HUNTER VALLEY**\           
-*with the SONGS FROM DAN band, featuring Dan Tuffy, Matt Walker, Shane Reilly and Grant Cummerford*\            
-     
-* * * * *     
+[DASHVILLE SKYLINE](http://dashville.com.au/skyline-2016/)\
+Belford, **HUNTER VALLEY**\
+*with the SONGS FROM DAN band, featuring Dan Tuffy, Matt Walker, Shane Reilly and Grant Cummerford*
 
-**VICTORIA**     
+* * * * *
+
+**VICTORIA**
 
 **Friday 22nd September 2017**\
-THE DIGGERS STORE\        
-Main Rd, **CAMPBELLS CREEK**\   
-with The Yearlings\         
+THE DIGGERS STORE\
+Main Rd, **CAMPBELLS CREEK**\
+with The Yearlings
 
 **Thursday 21st September 2017**\
-THE SPOTTED MALLARD\     
-Sydney Rd, **BRUNSWICK**\            
-*with the SONGS FROM DAN band, featuring Dan Tuffy, Matt Walker, Shane Reilly and Grant Cummerford, plus special guests The Yearlings and Fenn & George Wilson*\      
-*hosted by Brian Nankervis!*\      
+THE SPOTTED MALLARD\
+Sydney Rd, **BRUNSWICK**\
+*with the SONGS FROM DAN band, featuring Dan Tuffy, Matt Walker, Shane Reilly and Grant Cummerford, plus special guests The Yearlings and Fenn & George Wilson*\
+*hosted by Brian Nankervis!*
 
-* * * * *     
+* * * * *
 
-**SOUTH AUSTRALIA**     
+**SOUTH AUSTRALIA**
 
 **Sunday 20th August 2017**\
-HOUSE CONCERT\        
-**MASLIN BEACH**\                           
+HOUSE CONCERT\
+**MASLIN BEACH**
 
 **Saturday 19th August 2017**\
-THE WHEATSHEAF\        
-George St, Thebarton, **ADELAIDE**\   
-with The Yearlings\          
+THE WHEATSHEAF\
+George St, Thebarton, **ADELAIDE**\
+with The Yearlings
 
 **Friday 18th August 2017**\
-STONE PONY\        
-Main Rd, **WILUNGA**\   
-with Dr Desoto\           
-  
-* * * * *     
+STONE PONY\
+Main Rd, **WILUNGA**\
+with Dr Desoto
 
-**VICTORIA**     
+* * * * *
+
+**VICTORIA**
 
 **Saturday 22nd July 2017**\
-CERES SUPPER CLUB\     
-Learning Centre, CERES\    
-Stewart St, **BRUNSWICK**\        
+CERES SUPPER CLUB\
+Learning Centre, CERES\
+Stewart St, **BRUNSWICK**
 
-* * * * *   
+* * * * *
 
-**NSW**     
+**NSW**
 
 **Sunday 9th July 2017**\
-[BELLO WINTER MUSIC FESTIVAL](http://www.bellowintermusic.com)\        
-St Margarets, **BELLINGEN**\        
-with HAMISH STUART\       
+[BELLO WINTER MUSIC FESTIVAL](http://www.bellowintermusic.com)\
+St Margarets, **BELLINGEN**\
+with HAMISH STUART
 
 **Saturday 8th July 2017**\
-[BELLO WINTER MUSIC FESTIVAL](http://www.bellowintermusic.com)\     
-Golf Club, **BELLINGEN**\        
-with HAMISH STUART\    
-    
+[BELLO WINTER MUSIC FESTIVAL](http://www.bellowintermusic.com)\
+Golf Club, **BELLINGEN**\
+with HAMISH STUART
+
 **Saturday 8th July 2017**\
-[BELLO WINTER MUSIC FESTIVAL](http://www.bellowintermusic.com)\        
-Memorial Hall, **BELLINGEN**\        
-with JO JO SMITH & HAMISH STUART\       
+[BELLO WINTER MUSIC FESTIVAL](http://www.bellowintermusic.com)\
+Memorial Hall, **BELLINGEN**\
+with JO JO SMITH & HAMISH STUART
 
 **Friday 7th July 2017**\
-[BELLO WINTER MUSIC FESTIVAL](http://www.bellowintermusic.com)\     
-Cedar Bar, **BELLINGEN**\        
-with HAMISH STUART\      
+[BELLO WINTER MUSIC FESTIVAL](http://www.bellowintermusic.com)\
+Cedar Bar, **BELLINGEN**\
+with HAMISH STUART
 
 **Sunday 2nd July 2017**\
-THE TINTENBAR HALL\     
-George St, **TINTENBAR**\            
-with JO JO SMITH & HAMISH STUART\        
+THE TINTENBAR HALL\
+George St, **TINTENBAR**\
+with JO JO SMITH & HAMISH STUART
 
 **Saturday 1st July 2017**\
-EX SERVICES CLUB\     
-58 Dalley St, **MULLUMBIMBY**\            
-with JO JO SMITH & HAMISH STUART\    
+EX SERVICES CLUB\
+58 Dalley St, **MULLUMBIMBY**\
+with JO JO SMITH & HAMISH STUART
 
-* * * * *     
+* * * * *
 
-**QLD**     
+**QLD**
 
 **Friday 30th June 2017**\
-HOUSE CONCERT\     
-**GOLD COAST**\            
-with JO JO SMITH & HAMISH STUART\    
+HOUSE CONCERT\
+**GOLD COAST**\
+with JO JO SMITH & HAMISH STUART
 
 **Thursday 29th June 2017**\
-THE JUNK BAR\     
-215 Waterworks Rd, Ashgrove, **BRISBANE**\            
-with JO JO SMITH & HAMISH STUART\        
-     
-* * * * *   
+THE JUNK BAR\
+215 Waterworks Rd, Ashgrove, **BRISBANE**\
+with JO JO SMITH & HAMISH STUART
 
-**NSW**     
+* * * * *
+
+**NSW**
 
 **Sunday 25th June 2017**\
-BOO RADLEY'S HALL\     
-42 Coramba St, **GLENREAGH**\        
-with JO JO SMITH & HAMISH STUART\        
+BOO RADLEY'S HALL\
+42 Coramba St, **GLENREAGH**\
+with JO JO SMITH & HAMISH STUART
 
 **Saturday 24th June 2017**\
-COMMUNITY ARTS HALL\     
-Oxley Lane, **WAUCHOPE**\            
-with JO JO SMITH & HAMISH STUART\     
+COMMUNITY ARTS HALL\
+Oxley Lane, **WAUCHOPE**\
+with JO JO SMITH & HAMISH STUART
 
 **Friday 23rd June 2017**\
-SUNSET STUDIO\     
-1 Maitland Rd, Mayfield, **NEWCASTLE**\    
-with JO JO SMITH & HAMISH STUART\                 
+SUNSET STUDIO\
+1 Maitland Rd, Mayfield, **NEWCASTLE**\
+with JO JO SMITH & HAMISH STUART
 
 **Thursday 22nd June 2017**\
-505\     
-280 Cleveland St, Surry Hills, **SYDNEY**\    
-with JO JO SMITH & HAMISH STUART\                 
+505\
+280 Cleveland St, Surry Hills, **SYDNEY**\
+with JO JO SMITH & HAMISH STUART
 
 **Sunday 18th June 2017**\
-THE TOWN HALL\     
-William St, **CANDELO**\            
-with JO JO SMITH & HAMISH STUART\    
+THE TOWN HALL\
+William St, **CANDELO**\
+with JO JO SMITH & HAMISH STUART
 
-**ACT**     
+**ACT**
 
 **Saturday 17th June 2017**\
-THE POLISH CLUB\     
-38 David St, Turner, **CANBERRA**\        
-with JO JO SMITH & HAMISH STUART\        
+THE POLISH CLUB\
+38 David St, Turner, **CANBERRA**\
+with JO JO SMITH & HAMISH STUART
 
-* * * * *   
+* * * * *
 
-**NSW**     
+**NSW**
 
 **Friday 16th June 2017**\
-the CORRIDORS project\     
-The Riverslea Station Woolshed\  
-2997 Darby Falls Rd, **COWRA**\            
-with JO JO SMITH & HAMISH STUART\      
+the CORRIDORS project\
+The Riverslea Station Woolshed\
+2997 Darby Falls Rd, **COWRA**\
+with JO JO SMITH & HAMISH STUART
 
 **Thursday 15th June 2017**\
-METROPOLE\     
-Gang Gang St, **KATOOMBA**\            
-with JO JO SMITH & HAMISH STUART\       
+METROPOLE\
+Gang Gang St, **KATOOMBA**\
+with JO JO SMITH & HAMISH STUART
 
-* * * * *   
+* * * * *
 
-**WESTERN AUSTRALIA**    
+**WESTERN AUSTRALIA**
 
 **Sunday 4th June 2017**\
-[DENMARK FESTIVAL OF VOICE](http://www.denmarkfestivalofvoice.com.au)\        
-The Riverside Club, **DENMARK**\            
-with HAMISH STUART & JO JO SMITH\      
+[DENMARK FESTIVAL OF VOICE](http://www.denmarkfestivalofvoice.com.au)\
+The Riverside Club, **DENMARK**\
+with HAMISH STUART & JO JO SMITH
 
 **Saturday 3rd June 2017**\
-[DENMARK FESTIVAL OF VOICE](http://www.denmarkfestivalofvoice.com.au)\     
-The Civic Centre, **DENMARK**\            
-with HAMISH STUART\         
+[DENMARK FESTIVAL OF VOICE](http://www.denmarkfestivalofvoice.com.au)\
+The Civic Centre, **DENMARK**\
+with HAMISH STUART
 
 **Friday 2nd June 2017**\
-[DENMARK FESTIVAL OF VOICE](http://www.denmarkfestivalofvoice.com.au)\     
-The Festival Club, **DENMARK**\            
-with HAMISH STUART\    
-  
+[DENMARK FESTIVAL OF VOICE](http://www.denmarkfestivalofvoice.com.au)\
+The Festival Club, **DENMARK**\
+with HAMISH STUART
+
 **Thursday 1st June 2017**\
-THE ELLINGTON JAZZ CLUB\     
-with JO JO SMITH & HAMISH STUART\    
-191 Beaufort St, **PERTH**\           
+THE ELLINGTON JAZZ CLUB\
+with JO JO SMITH & HAMISH STUART\
+191 Beaufort St, **PERTH**
 
-* * * * *   
+* * * * *
 
-**VICTORIA**    
+**VICTORIA**
 
 **Sunday 21st May 2017**\
-THE OLD CHURCH ON THE HILL\     
-36 Russell St, Quarry Hill, **BENDIGO**\   
-with JO JO SMITH & HAMISH STUART\                
+THE OLD CHURCH ON THE HILL\
+36 Russell St, Quarry Hill, **BENDIGO**\
+with JO JO SMITH & HAMISH STUART
 
 **Saturday 20th May 2017**\
-THE PRODUCE STORE\     
-68 High St, **MANSFIELD**\            
-with JO JO SMITH & HAMISH STUART\    
+THE PRODUCE STORE\
+68 High St, **MANSFIELD**\
+with JO JO SMITH & HAMISH STUART
 
 **Friday 19th May 2017**\
-THE PARISH\     
-41 Primrose St, **VIOLET TOWN**\           
-with JO JO SMITH & HAMISH STUART\     
+THE PARISH\
+41 Primrose St, **VIOLET TOWN**\
+with JO JO SMITH & HAMISH STUART
 
 **Thursday 18th May 2017**\
-THE COURTHOUSE THEATRE\     
-2 Park St, **BRIGHT**\            
-with JO JO SMITH & HAMISH STUART\      
+THE COURTHOUSE THEATRE\
+2 Park St, **BRIGHT**\
+with JO JO SMITH & HAMISH STUART
 
-* * * * *   
+* * * * *
 
-**SOUTH AUSTRALIA**    
+**SOUTH AUSTRALIA**
 
 **Sunday 14th May 2017**\
-THE WHEATSHEAF\     
-39 George St, **THEBARTON**\            
-with JO JO SMITH & HAMISH STUART\      
+THE WHEATSHEAF\
+39 George St, **THEBARTON**\
+with JO JO SMITH & HAMISH STUART
 
 **Saturday 13th May 2017**\
-THE SINGING GALLERY\     
-133 Main Rd, **McLAREN VALE**\            
-with JO JO SMITH & HAMISH STUART\        
+THE SINGING GALLERY\
+133 Main Rd, **McLAREN VALE**\
+with JO JO SMITH & HAMISH STUART
 
 **Friday 12th May 2017**\
-WOODLANDS RUN\    
-713 Signal Flat Rd, **FINNISS**\            
-with JO JO SMITH & HAMISH STUART\       
+WOODLANDS RUN\
+713 Signal Flat Rd, **FINNISS**\
+with JO JO SMITH & HAMISH STUART
 
-* * * * *   
+* * * * *
 
-**NSW**    
+**NSW**
 
 **Saturday 29th April 2017**\
-BEGA CIVIC CENTRE\     
- **BEGA**\        
-with JACKIE MARSHALL, AINE TYRELL and MELANIE HORSNELL\       
-*fundraiser for the Bega Women's Resource Centre*\         
+BEGA CIVIC CENTRE\
+ **BEGA**\
+with JACKIE MARSHALL, AINE TYRELL and MELANIE HORSNELL\
+*fundraiser for the Bega Women's Resource Centre*
 
-* * * * *   
+* * * * *
 
-**VICTORIA**  
+**VICTORIA**
 
 **Sunday 23rd April 2017**\
-THE GRANDE\     
- **HEPBURN SPRINGS**\        
-with Neil Murray\             
- 
+THE GRANDE\
+ **HEPBURN SPRINGS**\
+with Neil Murray
+
 **Saturday 22nd April 2017**\
-THE SPOTTED MALLARD\     
- **MELBOURNE**\        
-with Neil Murray\      
+THE SPOTTED MALLARD\
+ **MELBOURNE**\
+with Neil Murray
 
 **Wednesday 19th April 2017**\
-ARARAT LIVE\     
- **ARARAT**\        
-with Neil Murray\    
+ARARAT LIVE\
+ **ARARAT**\
+with Neil Murray
 
-* * * * *  
+* * * * *
 
-**TASMANIA**  
+**TASMANIA**
 
 **Sunday 5th March 2017**\
-HOUSE CONCERT\     
- **SWANSEA**\    
+HOUSE CONCERT\
+ **SWANSEA**
 
 **Saturday 4th March 2017**\
-MOUNTAIN MUMMA\     
- **SHEFFIELD**\        
-with The East Pointers\   
+MOUNTAIN MUMMA\
+ **SHEFFIELD**\
+with The East Pointers
 
 **Friday 3rd March 2017**\
-MYALLA HALL\     
- **MYALLA**\        
-with Claire Anne Taylor\    
+MYALLA HALL\
+ **MYALLA**\
+with Claire Anne Taylor
 
 **Thursday 2nd March 2017**\
-THE CHAPEL\     
- **BURNIE**\        
-with Claire Anne Taylor\    
+THE CHAPEL\
+ **BURNIE**\
+with Claire Anne Taylor
 
 **Friday 24th February 2017**\
-HOUSE CONCERT\     
- **DEVONPORT**\        
-with Claire Anne Taylor\    
-SOLD OUT\   
+HOUSE CONCERT\
+ **DEVONPORT**\
+with Claire Anne Taylor\
+SOLD OUT
 
 * * * * *
 
-**ACT**    
+**ACT**
 
 **Sunday 19th February 2017**\
-SMITH'S\     
- **CANBERRA**\        
-with The Yearlings\    
-SOLD OUT\   
+SMITH'S\
+ **CANBERRA**\
+with The Yearlings\
+SOLD OUT
 
 * * * * *
 
-**NSW**    
+**NSW**
 
 **Saturday 18th February 2017**\
-HOUSE CONCERT\     
- **MITTAGONG**\                         
-with The Yearlings\        
-SOLD OUT\   
+HOUSE CONCERT\
+ **MITTAGONG**\
+with The Yearlings\
+SOLD OUT
 
 **Friday 17th February 2017**\
-SUNSET STUDIO\     
- **NEWCASTLE**\    
-with The Yearlings\    
-SOLD OUT\   
-    
+SUNSET STUDIO\
+ **NEWCASTLE**\
+with The Yearlings\
+SOLD OUT
+
 **Thursday 16th February 2017**\
-505\     
- **SYDNEY**\    
-duet with Hamish Stuart\    
-with The Yearlings\      
+505\
+ **SYDNEY**\
+duet with Hamish Stuart\
+with The Yearlings
 
-* * * * *    
+* * * * *
 
-**VICTORIA**    
+**VICTORIA**
 
 **Wednesday 15th February 2017**\
-SAINT MONDAY\     
-**YACKANDANDAH**\       
-with The Yearlings\    
-SOLD OUT\   
+SAINT MONDAY\
+**YACKANDANDAH**\
+with The Yearlings\
+SOLD OUT
 
 **Sunday 12th February 2017**\
-LOT 19\     
- **CASTLEMAINE**\          
-with The Yearlings\    
+LOT 19\
+ **CASTLEMAINE**\
+with The Yearlings
 
 **Friday 10th February 2017**\
-BELLA UNION\     
- **MELBOURNE**\          
-with The Yearlings\    
+BELLA UNION\
+ **MELBOURNE**\
+with The Yearlings
 
 * * * * *
 
-**TASMANIA**  
+**TASMANIA**
 
 **Saturday 21st January 2017**\
-TAMAR VALLEY FOLK FESTIVAL\    
-Memorial Hall\      
-**GEORGETOWN**\         
+TAMAR VALLEY FOLK FESTIVAL\
+Memorial Hall\
+**GEORGETOWN**
 
 **Friday 20th January 2017**\
-TAMAR VALLEY FOLK FESTIVAL\    
-Memorial Hall\      
-**GEORGETOWN**\                
+TAMAR VALLEY FOLK FESTIVAL\
+Memorial Hall\
+**GEORGETOWN**
 
 * * * * *
 
-**VICTORIA**    
-    
+**VICTORIA**
+
 **Saturday 14th January 2017**\
-THE UNION HOTEL\        
-Brunswick, **MELBOURNE**\    
+THE UNION HOTEL\
+Brunswick, **MELBOURNE**
 
 **Saturday 7th January 2017**\
-THE UNION HOTEL\        
-Brunswick, **MELBOURNE**\    
+THE UNION HOTEL\
+Brunswick, **MELBOURNE**
 
 **Thursday 5th January 2017**\
-NORTHCOTE SOCIAL CLUB\     
-with WALLIS BIRD\    
-**MELBOURNE**\    
-  
+NORTHCOTE SOCIAL CLUB\
+with WALLIS BIRD\
+**MELBOURNE**
+
 **Sunday 4th December 2016**\
-THE LEGACY OF JESSE YOUNNAN\    
-8th Anniversary Tribute Concert\    
-THE YARRA HOTEL\      
-**MELBOURNE**\    
+THE LEGACY OF JESSE YOUNNAN\
+8th Anniversary Tribute Concert\
+THE YARRA HOTEL\
+**MELBOURNE**
 
 * * * * *
 
-**NSW**  
-  
+**NSW**
+
 **Sunday 27th November 2016**\
 HOUSE CONCERT\
-**OCEAN SHORES**\    
-with Sara Tindley\       
+**OCEAN SHORES**\
+with Sara Tindley
 
 * * * * *
 
-**QLD**  
-  
+**QLD**
+
 **Saturday 26th November 2016**\
 HOUSE CONCERT\
-**CURRUMBIN**\    
-with Claire Anne Taylor\    
+**CURRUMBIN**\
+with Claire Anne Taylor
 
 * * * * *
 
-**NSW**  
-     
+**NSW**
+
 **Friday 25th November 2016**\
 BOO RADLEY HALL\
-**GLENREAGH**\      
-  
+**GLENREAGH**
+
 **Thursday 24th November 2016**\
 LADY LISMORE'S LOFT\
-**LISMORE**\    
-with Jimmy Dowling\  
+**LISMORE**\
+with Jimmy Dowling
 
 * * * * *
 
-**QLD**  
-  
+**QLD**
+
 **Wednesday 23rd November 2016**\
 THE JUNK BAR\
-**BRISBANE**\    
-with Claire Anne Taylor\       
+**BRISBANE**\
+with Claire Anne Taylor
 
 * * * * *
 
-**NSW**  
+**NSW**
 
 **Wednesday 16th November 2016**\
-WOOLOWEYAH HALL\        
-**YAMBA**\    
+WOOLOWEYAH HALL\
+**YAMBA**
 
 * * * * *
 
-**NSW**  
+**NSW**
 
 **Sunday 13th November 2016**\
-MAJORS CREEK FOLK FESTIVAL\      
-Pete's Lounge\    
+MAJORS CREEK FOLK FESTIVAL\
+Pete's Lounge
 
 **Saturday 12th November 2016**\
-MAJORS CREEK FOLK FESTIVAL\      
-Pete's Lounge\    
+MAJORS CREEK FOLK FESTIVAL\
+Pete's Lounge
 
 **Friday 11th November 2016**\
-MAJORS CREEK FOLK FESTIVAL\      
-Main Stage\    
-   
+MAJORS CREEK FOLK FESTIVAL\
+Main Stage
+
 * * * * *
 
-**VICTORIA**  
+**VICTORIA**
 
 **Sunday 6th November 2016**\
-[BENDIGO BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\    
-The Engine Room\    
-**BENDIGO**\    
+[BENDIGO BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\
+The Engine Room\
+**BENDIGO**
 
 **Saturday 5th November 2016**\
-[BENDIGO BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\    
-The Schaller Studio\    
-**BENDIGO**\      
+[BENDIGO BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\
+The Schaller Studio\
+**BENDIGO**
 
 **Friday 4th November 2016**\
-[BENDIGO BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\    
-La Trobe University Visual Art Centre\    
-**BENDIGO**\    
+[BENDIGO BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\
+La Trobe University Visual Art Centre\
+**BENDIGO**
 
 **Thursday 3rd November 2016**\
-[BENDIGO BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\    
-Gold Dust Lounge\    
-**BENDIGO**\    
+[BENDIGO BLUES & ROOTS FESTIVAL](http://www.bendigobluesandroots.com.au)\
+Gold Dust Lounge\
+**BENDIGO**
 
 **Sunday 30th October 2016**\
-[HAPPY WANDERER FESTIVAL](http://www.happywandererfestival.com/tickets-1/)\    
-**BENALLA**\    
-Main Stage\   
+[HAPPY WANDERER FESTIVAL](http://www.happywandererfestival.com/tickets-1/)\
+**BENALLA**\
+Main Stage
 
 **Friday 28th October 2016**\
-[HAPPY WANDERER FESTIVAL](http://www.happywandererfestival.com/tickets-1/)\    
-**BENALLA**\    
-Main Stage\     
+[HAPPY WANDERER FESTIVAL](http://www.happywandererfestival.com/tickets-1/)\
+**BENALLA**\
+Main Stage
 
 **Saturday 15th October 2016**\
-THE VERY ROUND ROBIN\    
-Willaura Town Hall\    
-WILLAURA\         
-with Roesy and Gallie\    
+THE VERY ROUND ROBIN\
+Willaura Town Hall\
+WILLAURA\
+with Roesy and Gallie
 
 **Thursday 13th October 2016**\
 THE RETREAT\
-**BRUNSWICK**\  
+**BRUNSWICK**
 
 **Saturday 8th October 2016**\
 THE CARAVAN CLUB\
 **OAKLEIGH**\
-with CHRIS WILSON & SHANE O'MARA\     
+with CHRIS WILSON & SHANE O'MARA
 
 **Friday 7th October 2016**\
 THE CARAVAN CLUB\
 **OAKLEIGH**\
-with CHRIS WILSON & SHANE O'MARA\  
-
-* * * * *  
-
-**USA**   
-
-**Sunday 18th September 2016**\    
-CAFE CARPE\       
-**FORT ATKINSON**\    
-Wisconsin\      
-with The Yearlings & Hayward Williams\        
-
-**Saturday 17th September 2016**\    
-OUTER EDGE STAGE\    
-**APPLETON**\    
-Wisconsin\    
-with The Yearlings & Hayward Williams\      
-
-**Friday 16th September 2016**\    
-HOUSE CONCERT\    
-**SHEBOYGAN**\    
-Wisconsin\    
-with The Yearlings & Hayward Williams\      
-
-**Wednesday 14th September 2016**\    
-HOUSE OF GUINNESS\     
-**WAUKESHA**\    
-Wisconsin\     
-with The Yearlings & Hayward Williams\      
-
-**Tuesday 13th September 2016**\    
-THE ASTER\    
-**MINNEAPOLIS**\    
-Minnesota\    
-with The Yearlings & Hayward Williams\       
-
-**Sunday 11th September 2016**\   
-THE MILL\    
-**IOWA CITY**\    
-Iowa\      
-with Lucy Wainwright Roche\   
-
-**Saturday 10th September 2016**\    
-UPTOWN THEATRE\    
-**MOUNT VERNON**\    
-Iowa\      
-with The Yearlings\    
-
-**Thursday 8th September 2016**\    
-NORTH BAR\     
-**CHICAGO**\    
-Illinois\      
-with The Yearlings and Adam Ness\      
-
-**Sunday 4 September 2016**\    
-HOUSE CONCERT\     
-**HARLEMVILLE**\    
-New York\      
-with The Yearlings\   
-
-**Friday 2nd September 2016**\     
-UNIT J\        
-338 Moffat St\    
-**BROOKLYN**\     
-New York\    
-with The Yearlings, BR Mackie & Mama Juke\      
- 
-**Wednesday 31st August 2016**\    
-ROCKWOOD MUSIC HALL\    
-196 Allen St\    
-**NEW YORK**\        
-New York\      
+with CHRIS WILSON & SHANE O'MARA
 
 * * * * *
 
-**VICTORIA**  
+**USA**
+
+**Sunday 18th September 2016**\
+CAFE CARPE\
+**FORT ATKINSON**\
+Wisconsin\
+with The Yearlings & Hayward Williams
+
+**Saturday 17th September 2016**\
+OUTER EDGE STAGE\
+**APPLETON**\
+Wisconsin\
+with The Yearlings & Hayward Williams
+
+**Friday 16th September 2016**\
+HOUSE CONCERT\
+**SHEBOYGAN**\
+Wisconsin\
+with The Yearlings & Hayward Williams
+
+**Wednesday 14th September 2016**\
+HOUSE OF GUINNESS\
+**WAUKESHA**\
+Wisconsin\
+with The Yearlings & Hayward Williams
+
+**Tuesday 13th September 2016**\
+THE ASTER\
+**MINNEAPOLIS**\
+Minnesota\
+with The Yearlings & Hayward Williams
+
+**Sunday 11th September 2016**\
+THE MILL\
+**IOWA CITY**\
+Iowa\
+with Lucy Wainwright Roche
+
+**Saturday 10th September 2016**\
+UPTOWN THEATRE\
+**MOUNT VERNON**\
+Iowa\
+with The Yearlings
+
+**Thursday 8th September 2016**\
+NORTH BAR\
+**CHICAGO**\
+Illinois\
+with The Yearlings and Adam Ness
+
+**Sunday 4 September 2016**\
+HOUSE CONCERT\
+**HARLEMVILLE**\
+New York\
+with The Yearlings
+
+**Friday 2nd September 2016**\
+UNIT J\
+338 Moffat St\
+**BROOKLYN**\
+New York\
+with The Yearlings, BR Mackie & Mama Juke
+
+**Wednesday 31st August 2016**\
+ROCKWOOD MUSIC HALL\
+196 Allen St\
+**NEW YORK**\
+New York
+
+* * * * *
+
+**VICTORIA**
 
 **Sunday 21st August 2016**\
 THE SHED\
 **MARYKNOLL**\
-with the DAN TUFFY BAND\    
-plus the DAN PARSONS BAND\      
+with the DAN TUFFY BAND\
+plus the DAN PARSONS BAND
 
 **Saturday 20th August 2016**\
 THE UNION\
 Brunswick **MELBOURNE**\
-*Lucie plays a solo set from 9pm, followed by the SONGS FROM DAN show at 10pm - 
-with Dan Tuffy, Lucie Thorne, Matt Walker, Shane Reilly and Tim Keegan*\    
+*Lucie plays a solo set from 9pm, followed by the SONGS FROM DAN show at 10pm -
+with Dan Tuffy, Lucie Thorne, Matt Walker, Shane Reilly and Tim Keegan*
 
 **Saturday 13th August 2016**\
 THE UNION\
 Brunswick **MELBOURNE**\
-*Lucie plays a solo set from 9pm, followed by the SONGS FROM DAN show at 10pm - 
-with Dan Tuffy, Lucie Thorne, Matt Walker, Shane Reilly and Grant Cummerford*\    
+*Lucie plays a solo set from 9pm, followed by the SONGS FROM DAN show at 10pm -
+with Dan Tuffy, Lucie Thorne, Matt Walker, Shane Reilly and Grant Cummerford*
 
 * * * * *
 
@@ -617,16 +624,16 @@ with Dan Tuffy, Lucie Thorne, Matt Walker, Shane Reilly and Grant Cummerford*\
 **Sunday 31st July 2016**\
 THE WHEATSHEAF\
 George St, Thebarton **ADELAIDE**\
-with THE YEARLINGS\  
+with THE YEARLINGS
 
 **Saturday 30th July 2016**\
 THE ASHBOURNE HALL\
 **ASHBOURNE**\
-with THE YEARLINGS\  
+with THE YEARLINGS
 
 **Friday 29th July 2016**\
 THE BARN\
-Mt Barker Rd **STIRLING**\  
+Mt Barker Rd **STIRLING**
 
 * * * * *
 

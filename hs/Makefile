@@ -16,10 +16,8 @@ clean:
 	rm -f ltr-cgi ltr-cgi-static
 
 ln-local:
-	rm -f WWW Text/HTML
+	rm -f WWW Text
 	mkdir -p Text
 	ln -s $(HOME)/sw/www-minus/WWW WWW
 	ln -s $(HOME)/sw/html-minus/Text/HTML Text/HTML
-
-cabal-dep:
-	cabal install $(shell hsc3-setup pkg-dep -non-local *.hs)
+	ln -s $(HOME)/opt/src/xml-1.3.9/Text/XML Text/XML
