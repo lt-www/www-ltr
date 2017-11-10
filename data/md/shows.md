@@ -74,8 +74,10 @@ Bookings: 0400 467 317
 
 **Saturday 2nd December 2017**\
 HOUSE CONCERT\
-**SCAMANDER**\
-with JO JO SMITH & HAMISH STUART
+**BEAUMARIS**\
+with JO JO SMITH & HAMISH STUART\
+3pm\
+[tickets](https://www.trybooking.com/SZCE)
 
 **Sunday 3rd December 2017**\
 HOUSE CONCERT\
