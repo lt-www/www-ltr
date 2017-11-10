@@ -46,7 +46,7 @@ else:
     result_txt = fs.getvalue("f_text", "").decode("utf-8")
     f_fp = io.open(f_fn, mode="w", encoding="utf-8")
     f_fp.write(result_txt)
-    io.close(f_fp)
+    f_fp.close()
 
 
     print("""
