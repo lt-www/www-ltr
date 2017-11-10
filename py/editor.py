@@ -43,7 +43,7 @@ if q_fn != "" and os.path.isfile(q_fn) :
 else:
 
     f_fn = fs.getvalue("f_filename","")
-    result_txt = fs.getvalue("f_text", "")
+    result_txt = fs.getvalue("f_text", "").decode("utf-8")
     f_fp = io.open(f_fn, mode="w", encoding="utf-8")
     f_fp.write(result_txt)
     io.close(f_fp)
