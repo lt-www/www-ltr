@@ -6,6 +6,12 @@ resize-genera:
 	sh sh/cover.sh
 	(cd data/png/icon ; make all)
 
+setup-editor:
+	(cd py ; make all)
+
+
+all: resize-genera build-ghc setup-editor
+
 clean:
 	(cd hs ; make clean)
 	rm -f index.cgi
@@ -20,4 +26,4 @@ remote-update:
 	ssh lucie@luciethorne.com "(cd luciethorne.com;make pull-sp)"
 
 remote-rebuild:
-	ssh lucie@luciethorne.com "(cd luciethorne.com;make pull-sp resize-genera build-ghc)"
+	ssh lucie@luciethorne.com "(cd luciethorne.com;make pull-sp all)"
