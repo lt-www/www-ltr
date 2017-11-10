@@ -49,7 +49,7 @@ else:
     f_fp.close()
 
     print("""
-  <p>f_fn=%(f_fn)s; file stored"</p>
+  <p>f_fn=%(f_fn)s; file stored</p>
   <pre>%(result_txt)s</pre>
 </body>
 </html>
