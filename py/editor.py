@@ -9,6 +9,9 @@ import subprocess
 
 cgitb.enable()
 
+def rem_cr (s) :
+    return s.replace("\r","")
+
 print("Content-type: text/html; charset=utf-8")
 print("")
 
@@ -60,8 +63,8 @@ else:
 
     f_fn = fs.getvalue("f_filename", "")
     result_txt = fs.getvalue("f_text", "").decode("utf-8")
-    f_fp = io.open(f_fn, mode="wb", encoding="utf-8")
-    f_fp.write(result_txt)
+    f_fp = io.open(f_fn, mode="w", encoding="utf-8")
+    f_fp.write(rem_cr(result_txt))
     f_fp.close()
     print(h_begin)
     print(h_result(f_fn, result_txt))
