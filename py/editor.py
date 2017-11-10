@@ -45,7 +45,7 @@ else:
     f_fn = fs.getvalue("f_filename","")
     result_txt = fs.getvalue("f_text", "")
     f_fp = io.open(f_fn, mode="w", encoding="utf-8")
-    q_fp.write(result_txt)
+    f_fp.write(result_txt)
     io.close(f_fp)
 
 
