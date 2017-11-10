@@ -2,8 +2,10 @@
 
 import cgi
 import cgitb
+import datetime
 import io
 import os.path
+import subprocess
 
 cgitb.enable()
 
@@ -64,4 +66,5 @@ else:
     print(h_begin)
     print(h_result(f_fn, result_txt))
     print(h_end)
-
+    commit_msg = datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%S')
+    subprocess.call(["git", "commit", f_fn, "-m", commit_msg, "--quiet"])
