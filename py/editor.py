@@ -21,7 +21,7 @@ print """
 # q = query, f = form
 
 fs = cgi.FieldStorage()
-q_fn = fs.getvalue("t","")
+q_fn = fs.getvalue("t", "")
 
 if q_fn != "" and os.path.isfile(q_fn) :
 
@@ -42,7 +42,7 @@ if q_fn != "" and os.path.isfile(q_fn) :
 
 else:
 
-    f_fn = fs.getvalue("f_filename","")
+    f_fn = fs.getvalue("f_filename", "")
     result_txt = fs.getvalue("f_text", "").decode("utf-8")
     f_fp = io.open(f_fn, mode="w", encoding="utf-8")
     f_fp.write(result_txt)
