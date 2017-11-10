@@ -19,7 +19,7 @@ h_begin = """
 """
 
 def h_editor (fn,txt) :
-    ("""
+    return ("""
     <p>q_fn=%(fn)s</p>
     <form accept-charset="utf-8" method="post" enctype="multipart/form-data" action="index.cgi">
     <textarea name="f_text" rows="30" cols="80">%(txt)s</textarea>
@@ -30,7 +30,7 @@ def h_editor (fn,txt) :
     """ % {'fn': fn, 'txt': txt})
 
 def h_result (fn,txt) :
-    ("""
+    return ("""
     <p>fn=%(fn)s; file stored</p>
     <pre>%(txt)s</pre>
     """ % {'fn': fn, 'txt': txt})
@@ -50,7 +50,6 @@ if q_fn != "" and os.path.isfile(q_fn) :
     q_fp = io.open(q_fn, mode="r", encoding="utf-8")
     file_txt = q_fp.read()
     q_fp.close()
-
     print(h_begin)
     print(h_editor(q_fn, file_txt))
     print(h_end)
@@ -62,8 +61,7 @@ else:
     f_fp = io.open(f_fn, mode="w", encoding="utf-8")
     f_fp.write(result_txt)
     f_fp.close()
-
     print(h_begin)
-    print(h_result(f_fn,result_txt))
+    print(h_result(f_fn, result_txt))
     print(h_end)
 
