@@ -5,7 +5,7 @@
 **Wednesday 15th November 2017**\
 HOUSE CONCERT\
 **URALLA**\
-with HAMISH STUART
+with HAMISH STUART\  
 7pm\    
 
 **Thursday 16th November 2017**\
