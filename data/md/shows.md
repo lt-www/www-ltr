@@ -2,41 +2,17 @@
 
 **NSW**
 
-**Wednesday 1st November 2017**\
-[Art Gallery of NSW](https://www.artgallery.nsw.gov.au/calendar/live-music-lucie-thorne/)\
-The Domain, **SYDNEY**\
-with HAMISH STUART\
-7.30pm\
-free *Art After Hours* concert for the opening of the [Robert Mapplethorpe Exhibition](https://www.artgallery.nsw.gov.au/exhibitions/robert-mapplethorpe/)
-
-* * * * *
-
-**SOUTH AUSTRALIA**
-
-**Saturday 4th November 2017**\
-WOODLANDS RUN\
-Signal Flat Rd, **FINNISS**
-
-**Sunday 5th November 2017**\
-THE WHEATSHEAF\
-George St, Thebarton **ADELAIDE**\
-with PONY FACE\
-4pm
-
-* * * * *
-
-**NSW**
-
 **Wednesday 15th November 2017**\
 HOUSE CONCERT\
 **URALLA**\
 with HAMISH STUART
+7pm\  
 
 **Thursday 16th November 2017**\
 Number 5\
 Church St, **BELLINGEN**\
 with JO JO SMITH & HAMISH STUART\
-7pm\
+7pm\  
 [tickets](https://www.trybooking.com/ROUI)
 
 **Fri 17th - Sun 19th November 2017**\
