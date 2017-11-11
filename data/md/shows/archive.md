@@ -8,7 +8,7 @@
 **Sunday 5th November 2017**\
 THE WHEATSHEAF\
 George St, Thebarton **ADELAIDE**\
-with PONY FACE\  
+with PONY FACE\    
 
 **Saturday 4th November 2017**\
 WOODLANDS RUN\
