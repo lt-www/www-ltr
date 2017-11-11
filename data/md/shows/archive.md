@@ -1,6 +1,30 @@
 ## shows/archive
 
+
 * * * * *
+
+**SOUTH AUSTRALIA**
+
+**Sunday 5th November 2017**\
+THE WHEATSHEAF\
+George St, Thebarton **ADELAIDE**\
+with PONY FACE\  
+
+**Saturday 4th November 2017**\
+WOODLANDS RUN\
+Signal Flat Rd, **FINNISS**
+
+* * * * *
+
+**NSW**
+
+**Wednesday 1st November 2017**\
+[Art Gallery of NSW](https://www.artgallery.nsw.gov.au/calendar/live-music-lucie-thorne/)\
+The Domain, **SYDNEY**\
+with HAMISH STUART\
+free *Art After Hours* concert for the opening of the [Robert Mapplethorpe Exhibition](https://www.artgallery.nsw.gov.au/exhibitions/robert-mapplethorpe/)
+
+* * * * *  
 
 **VICTORIA**
 
