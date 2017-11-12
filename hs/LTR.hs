@@ -152,6 +152,8 @@ lt_markdown_to_html_io fn =
 -}
 
 -- | Special case for the 'home' file.
+--
+-- > lt_markdown_file_name_f "news"
 lt_markdown_file_name_f :: FilePath -> FilePath
 lt_markdown_file_name_f p =
     case p of

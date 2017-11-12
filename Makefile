@@ -27,3 +27,8 @@ remote-update:
 
 remote-rebuild:
 	ssh lucie@luciethorne.com "(cd luciethorne.com;make pull-sp all)"
+
+remote-fetch:
+	ssh lucie@luciethorne.com "(cd luciethorne.com;make push-sp)"
+	make pull-sp
+

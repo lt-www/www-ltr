@@ -130,6 +130,7 @@ dispatch cf (m,q) =
          ("GET",[("p",d)]) -> d_page cf (splitDirectories d)
          ("GET",[("o","resize")]) -> resize_get cf >> v_page cf []
          ("GET",[("v",d)]) -> v_page cf d
+         ("GET",[("e",d)]) -> putStr (CGI.cgi_redirect_307 ("e?t=../" ++ L.lt_markdown_file_name_f d))
          ("GET",[]) -> d_page cf []
          _ -> CGI.utf8_text_output "ltr: unknown_request"
 {-
