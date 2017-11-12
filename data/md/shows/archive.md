@@ -8,7 +8,7 @@
 **Sunday 5th November 2017**\
 THE WHEATSHEAF\
 George St, Thebarton **ADELAIDE**\
-with PONY FACE\    
+with PONY FACE
 
 **Saturday 4th November 2017**\
 WOODLANDS RUN\
@@ -24,7 +24,7 @@ The Domain, **SYDNEY**\
 with HAMISH STUART\
 free *Art After Hours* concert for the opening of the [Robert Mapplethorpe Exhibition](https://www.artgallery.nsw.gov.au/exhibitions/robert-mapplethorpe/)
 
-* * * * *  
+* * * * *
 
 **VICTORIA**
 
