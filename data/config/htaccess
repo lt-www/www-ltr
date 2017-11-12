@@ -3,8 +3,6 @@ ErrorDocument 404 http://luciethorne.com/?p=error/404
 ErrorDocument 500 http://luciethorne.com/?p=error/500
 Options -Indexes
 
-Redirect 307 /edit/ /e/?t=../data/md/
-
 Redirect permanent /albums /?p=albums
 Redirect permanent /contact /?p=contact
 Redirect permanent /error /?p=error

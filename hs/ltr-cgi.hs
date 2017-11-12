@@ -117,6 +117,7 @@ news_d cf d = do
       h = L.lt_std_html cf ["?n="++d] (H.cdata_raw (f m))
   CGI.utf8_html_output (H.renderHTML5 h)
 
+-- | Works at localhost, not at lt.com (also fails with absolute path).
 e_redirect :: FilePath -> IO ()
 e_redirect d =
   let u = "e/?t=../" ++ L.lt_markdown_file_name_f d
