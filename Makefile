@@ -31,4 +31,3 @@ remote-rebuild:
 remote-fetch:
 	ssh lucie@luciethorne.com "(cd luciethorne.com;make push-sp)"
 	make pull-sp
-
