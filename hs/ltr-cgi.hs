@@ -118,6 +118,11 @@ news_d cf d = do
   CGI.utf8_html_output (H.renderHTML5 h)
 -}
 
+e_redirect :: FilePath -> IO ()
+e_redirect d =
+  let u = "http://luciethorne.com/e/?t=../" ++ L.lt_markdown_file_name_f d
+  in putStr (CGI.cgi_redirect_307 u)
+
 -- > splitDirectories "photos/fence" == ["photos","fence"]
 dispatch :: L.Config -> CGI.Parameters -> IO ()
 dispatch cf (m,q) =
@@ -130,7 +135,7 @@ dispatch cf (m,q) =
          ("GET",[("p",d)]) -> d_page cf (splitDirectories d)
          ("GET",[("o","resize")]) -> resize_get cf >> v_page cf []
          ("GET",[("v",d)]) -> v_page cf d
-         ("GET",[("e",d)]) -> putStr (CGI.cgi_redirect_307 ("e/?t=../" ++ L.lt_markdown_file_name_f d))
+         ("GET",[("e",d)]) -> e_redirect d
          ("GET",[]) -> d_page cf []
          _ -> CGI.utf8_text_output "ltr: unknown_request"
 {-
