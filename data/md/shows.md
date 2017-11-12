@@ -5,14 +5,14 @@
 **Wednesday 15th November 2017**\
 HOUSE CONCERT\
 **URALLA**\
-with HAMISH STUART      
-7pm        
+with HAMISH STUART\
+7pm
 
 **Thursday 16th November 2017**\
 Number 5\
 Church St, **BELLINGEN**\
-with JO JO SMITH & HAMISH STUART   
-7pm  
+with JO JO SMITH & HAMISH STUART\
+7pm\
 [tickets](https://www.trybooking.com/ROUI)
 
 **Fri 17th - Sun 19th November 2017**\
