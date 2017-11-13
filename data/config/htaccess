@@ -2,7 +2,6 @@ ErrorDocument 403 http://luciethorne.com/?p=error/403
 ErrorDocument 404 http://luciethorne.com/?p=error/404
 ErrorDocument 500 http://luciethorne.com/?p=error/500
 
-Options +FollowSymLinks
 Options -Indexes
 
 Redirect permanent /albums /?p=albums

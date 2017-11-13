@@ -9,7 +9,7 @@ resize-genera:
 setup-editor:
 	mkdir -p e
 	rm -f e/index.cgi
-	ln -s $(HOME)/sw/www-minus/py/editor.py e/index.cgi
+	cp $(HOME)/sw/www-minus/py/editor.py e/index.cgi
 
 all: resize-genera build-ghc setup-editor
 
