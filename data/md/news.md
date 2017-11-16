@@ -1,3 +1,9 @@
+### 16 November 2017 | This weekend  
+
+Tonight Lucie, Hamish & Jo Jo Smith play at #5 Church St Bellingen - and there are literally only a few tickets left! Then it's on to one of their very favourite festivals in the land > the [Mullum Music Festival](http://www.mullummusicfestival.com) this weekend!! 
+
+* * * * *
+
 ### 1 November 2017 | Robert Mapplethorpe
 
 Lucie & Hamish will be performing at the Art Gallery of New South Wales this evening for the opening of the Robert Mapplethorpe exhibition. Details [here](?p=shows)
