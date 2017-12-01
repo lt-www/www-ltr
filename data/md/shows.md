@@ -24,10 +24,10 @@ with JO JO SMITH & HAMISH STUART\
 [tickets](https://www.trybooking.com/SZCE)
 
 **Sunday 3rd December 2017**\
-HOUSE CONCERT\
-**NEIKA**\
+PEPPERMINT BAY RESORT\
+3435 Channel Hwy **WOODBRIDGE**\
 with JO JO SMITH & HAMISH STUART\
-2pm
+3pm
 
 * * * * *
 
