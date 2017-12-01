@@ -3,6 +3,34 @@
 
 * * * * *
 
+**VICTORIA**
+
+Sunday 26th November 2017\
+HOUSE CONCERT\
+Preston\
+with JO JO SMITH\  
+
+* * * * *
+
+**NSW**
+
+**Fri 17th - Sun 19th November 2017**\
+[MULLUM MUSIC FESTIVAL](http://www.mullummusicfestival.com)\
+**MULLUMBIMBY**\
+with JO JO SMITH & HAMISH STUART
+
+**Thursday 16th November 2017**\
+Number 5\
+Church St, **BELLINGEN**\
+with JO JO SMITH & HAMISH STUART\
+
+**Wednesday 15th November 2017**\
+HOUSE CONCERT\
+**URALLA**\
+with HAMISH STUART\
+
+* * * * *
+
 **SOUTH AUSTRALIA**
 
 **Sunday 5th November 2017**\
