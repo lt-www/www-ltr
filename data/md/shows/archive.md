@@ -1,5 +1,26 @@
 ## shows/archive
 
+**TASMANIA**
+
+**Sunday 3rd December 2017**\
+PEPPERMINT BAY RESORT\
+3435 Channel Hwy **WOODBRIDGE**\
+with JO JO SMITH & HAMISH STUART\
+
+**Saturday 2nd December 2017**\
+HOUSE CONCERT\
+**BEAUMARIS**\
+with JO JO SMITH & HAMISH STUART\
+
+**Friday 1st December 2017**\
+MOUNTAIN MUMMA\
+Main St, **SHEFFIELD**\
+with JO JO SMITH & HAMISH STUART\
+
+**Thursday 30th November 2017**\
+SAINT JOHN CRAFT BEER BAR\
+St John St, **LAUNCESTON**\
+with JO JO SMITH & HAMISH STUART\
 
 * * * * *
 
