@@ -14,7 +14,7 @@ with JO JO SMITH
 
 **Saturday 17th February 2018**\
 HOUSE CONCERT\
-**MITTAGONG**\
+**MITTAGONG**
 
 * * * * *
 
