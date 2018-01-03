@@ -4,6 +4,18 @@ this is all old news, perhaps you want the [new news](?p=news/)?
 
 * * * * *
 
+### 1 December 2017 | Tassie!
+
+It's the final week of this huge national tour with Jo Jo Smith celebrating her 50th year as a performing musician - with four shows across Tassie! Loving thanks to everyone who filled-to-overflowing the Launceston show last night! Tonight Jo Jo, Lucie & Hamish Stuart play Mountain Mumma in Sheffield, Saturday afternoon a House Concert in Beaumaris, and Sunday afternoon's concert has now been moved to the beautiful Peppermint Bay Resort in Woodbridge. Details and bookings [here](http://www.luciethorne.com/?p=shows).
+
+* * * * *
+
+### 16 November 2017 | This weekend
+
+Tonight Lucie, Hamish & Jo Jo Smith play at #5 Church St Bellingen - and there are literally only a few tickets left! Then it's on to one of their very favourite festivals in the land the [Mullum Music Festival](http://www.mullummusicfestival.com/) this weekend!!
+
+* * * * *
+
 ### 1 November 2017 | Robert Mapplethorpe
 
 Lucie & Hamish will be performing at the Art Gallery of New South Wales this evening for the opening of the Robert Mapplethorpe exhibition. Details [here](?p=shows)
