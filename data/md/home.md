@@ -1,8 +1,9 @@
-> [buy lucie's albums](https://luciethorne.bandcamp.com/)
+> [buy](https://luciethorne.bandcamp.com/) lucie's albums
+> |
+> [join](?p=forms/mailing-list) lucie's mailing list
 
-> [![](data/image/front/close.jpg)](?p=albums/everything-sings-tonight)
+![](data/image/front/close.jpg)
 
 > "some of the most simple and beautiful songs you will hear" _The Age_
 
-> join lucie's [mailing list](?p=forms/mailing-list)
 
