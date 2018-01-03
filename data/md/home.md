@@ -1,10 +1,8 @@
-> NEW ALBUM [__EVERYTHING SINGS TONIGHT__](?p=albums/everything-sings-tonight) OUT NOW
+> [buy lucie's albums](https://luciethorne.bandcamp.com/)
 
-> [![](data/image/front/everything.jpg)](?p=albums/everything-sings-tonight)
+> [![](data/image/front/close.jpg)](?p=albums/everything-sings-tonight)
 
-**"Thorne writes some of the most simple and beautiful songs you
-will hear"** _**** The Age_
+> "some of the most simple and beautiful songs you will hear" _The Age_
 
-join lucie's [mailing list](?p=forms/mailing-list)
+> join lucie's [mailing list](?p=forms/mailing-list)
 
-[1]: ?p=albums/everything-sings-tonight
