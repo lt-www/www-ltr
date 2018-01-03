@@ -7,6 +7,3 @@ Loving thanks to all who helped make 2017 such a heartening and amazing time out
 ### old news | archive
 
 if you care to know it, there is still all of the [old news](?p=news/archive)...
-
-[shows]: http://luciethorne.com/?p=shows
-[albums]: http://luciethorne.com/?p=albums
