@@ -22,7 +22,7 @@ HOUSE CONCERT\
 
 **Saturday 24th February 2018**\
 HOUSE CONCERT\
-**CLIFTON SPRINGS**
+**CLIFTON SPRINGS**  
 with JO JO SMITH  
 
 * * * * *
