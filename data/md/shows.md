@@ -6,7 +6,7 @@
 SAINT MONDAY\
 **YACKANDANDAH**\
 with JO JO SMITH  
-Dinner from 6pm / Show 7.30pm 
+Dinner from 6pm / Show 7.30pm  
 [tickets](https://www.trybooking.com/TKAH)
   
 * * * * *
