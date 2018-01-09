@@ -6,8 +6,9 @@
 SAINT MONDAY\
 **YACKANDANDAH**\
 with JO JO SMITH  
+Dinner from 6pm / Show 7.30pm 
 [tickets](https://www.trybooking.com/TKAH)
-
+  
 * * * * *
 
 **NSW**
@@ -23,7 +24,9 @@ HOUSE CONCERT\
 **Saturday 24th February 2018**\
 HOUSE CONCERT\
 **CLIFTON SPRINGS**  
-with JO JO SMITH  
+with JO JO SMITH    
+7pm  
+[tickets](https://www.trybooking.com/TQIN)  
 
 * * * * *
 
