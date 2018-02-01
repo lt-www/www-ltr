@@ -44,15 +44,6 @@ with JO JO SMITH
 
 * * * * *
 
-**SOUTH AUSTRALIA**
-
-**Friday 6th April 2018**\
-ASHBOURE HALL\
-**ASHBOURNE**  
-details tba  
-
-* * * * *
-
 **VICTORIA**
 
 **Thursday 26th April 2018**\
