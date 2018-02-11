@@ -1,21 +1,10 @@
 * * * * *
 
-**VICTORIA**
-
-**Saturday 3rd February 2018**\
-SAINT MONDAY\
-**YACKANDANDAH**\
-with JO JO SMITH  
-Dinner from 6pm / Show 7.30pm  
-[tickets](https://www.trybooking.com/TKAH)
-  
-* * * * *
-
 **NSW**
 
 **Saturday 17th February 2018**\
 HOUSE CONCERT\
-**MITTAGONG**
+**BALMORAL**
 
 * * * * *
 
