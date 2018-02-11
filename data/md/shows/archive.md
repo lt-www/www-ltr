@@ -1,5 +1,17 @@
 ## shows/archive
 
+* * * * *
+
+**VICTORIA**
+
+**Saturday 3rd February 2018**\
+SAINT MONDAY\
+**YACKANDANDAH**\
+with JO JO SMITH  
+SOLD OUT  
+
+* * * * *  
+
 **TASMANIA**
 
 **Sunday 3rd December 2017**\
