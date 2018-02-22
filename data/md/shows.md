@@ -50,21 +50,21 @@ THE OLD CHURCH ON THE HILL\
 **BENDIGO**  
 with THE YEARLINGS    
 7-10pm  
-[tickets](www.trybooking.com/UIZK)  
+[tickets](http://www.trybooking.com/UIZK)  
 
 **Saturday 26th May 2018**\
 HOUSE CONCERT\
 **MELBOURNE**  
 with THE YEARLINGS    
 7-10pm  
-[tickets](www.trybooking.com/UJAG)  
+[tickets](http://www.trybooking.com/UJAG)  
 
 **Sunday 27th May 2018**\
 THE BRIDGE HOTEL\
 **CASTLEMAINE**  
 with THE YEARLINGS    
 4-7pm  
-[tickets](www.trybooking.com/UIZC)  
+[tickets](http://www.trybooking.com/UIZC)  
 
 * * * * *
 
