@@ -1,13 +1,5 @@
 * * * * *
 
-**NSW**
-
-**Saturday 17th February 2018**\
-HOUSE CONCERT\
-**BALMORAL**
-
-* * * * *
-
 **VICTORIA**
 
 **Saturday 24th February 2018**\
