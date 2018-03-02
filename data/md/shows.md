@@ -52,13 +52,6 @@ with THE YEARLINGS
 7-10pm  
 [tickets](http://www.trybooking.com/UIZK)  
 
-**Saturday 26th May 2018**\
-HOUSE CONCERT\
-**MELBOURNE**  
-with THE YEARLINGS    
-7-10pm  
-[tickets](http://www.trybooking.com/UJAG)  
-
 **Sunday 27th May 2018**\
 THE BRIDGE HOTEL\
 **CASTLEMAINE**  
