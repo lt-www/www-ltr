@@ -2,13 +2,6 @@
 
 **VICTORIA**
 
-**Saturday 24th February 2018**\
-HOUSE CONCERT\
-**CLIFTON SPRINGS**  
-with JO JO SMITH    
-7pm  
-[tickets](https://www.trybooking.com/TQIN)  
-
 **Friday 9th March 2018**\
 SOOKI LOUNGE\
 **BELGRAVE**  
