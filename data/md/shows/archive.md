@@ -2,6 +2,15 @@
 
 * * * * *
 
+**VICTORIA**
+
+**Saturday 24th February 2018**\
+HOUSE CONCERT\
+**CLIFTON SPRINGS**  
+with JO JO SMITH  
+
+* * * * *
+
 **NSW**
 
 **Saturday 17th February 2018**\
