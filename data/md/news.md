@@ -1,6 +1,6 @@
 ### 23 February 2018  
 
-Just a handful of tickets left for tomorrow's House Concert in Clifton Springs with Jo Jo Smith! And... just announced - four shows around Vic in May with The Yearlings! Details [here](shows) x
+Just a handful of tickets left for tomorrow's House Concert in Clifton Springs with Jo Jo Smith! And... just announced - shows around Vic in May with The Yearlings! Details [here](shows) x
 
 * * * * * 
 
