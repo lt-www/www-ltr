@@ -6,7 +6,7 @@
 SOOKI LOUNGE\
 **BELGRAVE**  
 with PONY FACE    
-8pm  
+Doors 8pm / LT 9pm / PF 10.15pm   
 [tickets](https://sookilounge.oztix.com.au/Default.aspx?Event=83646)  
 
 **Saturday 17th March 2018**\
