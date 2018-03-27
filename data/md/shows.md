@@ -35,7 +35,7 @@ with THE YEARLINGS
 [tickets](https://www.trybooking.com/book/event?eid=363026&)   
 
 **Sunday 27th May 2018**\
-THE BRIDGE HOTEL\
+[THE BRIDGE HOTEL](https://thebridgehotelcastlemaine.com/gigs/)\
 **CASTLEMAINE**  
 with THE YEARLINGS    
 4-7pm  
