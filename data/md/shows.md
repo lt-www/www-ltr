@@ -2,24 +2,6 @@
 
 **VICTORIA**
 
-**Friday 9th March 2018**\
-SOOKI LOUNGE\
-**BELGRAVE**  
-with PONY FACE    
-Doors 8pm / LT 9pm / PF 10.15pm   
-[tickets](https://sookilounge.oztix.com.au/Default.aspx?Event=83646)  
-
-**Saturday 17th March 2018**\
-HOUSE CONCERT\
-**GREEN GULLY**  
-with JO JO SMITH    
-3.30pm  
-[tickets](https://www.trybooking.com/TYGF)  
-
-* * * * *
-
-**VICTORIA**
-
 **Thursday 26th April 2018**\
 THE SPOTTED MALLARD\
 **MELBOURNE**  
