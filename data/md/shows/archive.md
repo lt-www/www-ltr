@@ -4,6 +4,16 @@
 
 **VICTORIA**
 
+**Saturday 17th March 2018**\
+HOUSE CONCERT\
+**GREEN GULLY**  
+with JO JO SMITH    
+ 
+**Friday 9th March 2018**\
+SOOKI LOUNGE\
+**BELGRAVE**  
+with PONY FACE     
+
 **Saturday 24th February 2018**\
 HOUSE CONCERT\
 **CLIFTON SPRINGS**  
