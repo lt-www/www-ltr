@@ -1,19 +1,19 @@
 <!--| ## where night birds call |-->
 
-**CD**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FJSQG7ANKLKYS">AUS $25AUD</a> <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=47WAUMKHTPLDJ">WORLD $28AUD</a>  (Includes shipping)
+[Buy CD / Digital](https://luciethorne.bandcamp.com/album/where-night-birds-call)
 
 ![where night birds call][8]
 
 1.  [the upfield line][9]
--   [the movies][10]
--   [great wave][11]
--   [home sized town][12]
--   [walking late][13]
--   [five years][14]
--   [night drive][15]
--   [shot in the dark][16]
--   [i have been a soldier too][17]
--   [winter sun][18]
+2.  [the movies][10]
+3.  [great wave][11]
+4.  [home sized town][12]
+5.  [walking late][13]
+6.  [five years][14]
+7.  [night drive][15]
+8.  [shot in the dark][16]
+9.  [i have been a soldier too][17]
+10. [winter sun][18]
 
   [8]: data/image/cover/where-night-birds-call.jpg
   [9]: ?p=songs/the-upfield-line
