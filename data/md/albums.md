@@ -3,7 +3,6 @@
 [![Everything Sings Tonight][9.1]][9.2]
 *Everything Sings Tonight*\
 Release date: 1st June 2015. [Details][9.2]\  
-
 [Shop](https://luciethorne.bandcamp.com/album/everything-sings-tonight)
   
   [9.1]: rgen/cover/r-80/everything-sings.jpg
