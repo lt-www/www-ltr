@@ -6,15 +6,15 @@
 ![Black Across The Field][8]
 
 1.  [As You Find It][9]
--   [Alice][10]
--   [When The Lights Go Down][11]
--   [Northern Town][12]
--   [Under The Night][13]
--   [Over In Threes][14]
--   [Please Don't Let's Begin][15]
--   [The Basic Rules][16]
--   [Before The Cold][17]
--   [Open Sky][18]
+2.  [Alice][10]
+3.  [When The Lights Go Down][11]
+4.  [Northern Town][12]
+5.  [Under The Night][13]
+6.  [Over In Threes][14]
+7.  [Please Don't Let's Begin][15]
+8.  [The Basic Rules][16]
+9.  [Before The Cold][17]
+10.  [Open Sky][18]
 
   [8]: data/image/cover/black-across-the-field.jpg
   [9]: ?p=songs/as-you-find-it
