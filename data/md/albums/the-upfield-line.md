@@ -5,8 +5,8 @@ limited edition 3 track single featuring songs from lucie's long player *where n
 ![the upfield line][10]
 
 1.  [the upfield line][11]
--   [the movies][12]
--   [walking late][13]
+2.  [the movies][12]
+3.  [walking late][13]
 
   [10]: data/image/cover/the-upfield-line.jpg
   [11]: ?p=songs/the-upfield-line
