@@ -1,5 +1,5 @@
 **SHOP:**\
-physical & digital discography available through [bandcamp](https://luciethorne.bandcamp.com/)  
+physical & digital discography [available here](https://luciethorne.bandcamp.com/)  
 
 [![Everything Sings Tonight][9.1]][9.2]
 *Everything Sings Tonight*\
@@ -61,8 +61,8 @@ three track single, *out of print*.
 [![the bud][3.1]][3.2]
 *the bud*\
 Released June 2004. [Details][3.2]\
-[buy](https://luciethorne.bandcamp.com/album/the-bud)  
 [limited edition LP][3.3] also released. *Vinyl out of print*.
+[buy](https://luciethorne.bandcamp.com/album/the-bud) 
 
   [3.1]: rgen/cover/r-80/the-bud.jpg
   [3.2]: ?p=albums/the-bud
