@@ -18,9 +18,9 @@
 **write to Lucie:**
 
 > C/ - Little Secret Records  
-> PO Box 204    
-> Pascoe Vale South  
-> Victoria 3044    
+> PO Box 26    
+> Reservoir  
+> Victoria 3073    
 > Australia  
 > <lucie@luciethorne.com>
 
