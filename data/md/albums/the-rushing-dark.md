@@ -2,9 +2,8 @@
 
 Release date: 16 March 2015.
 
-First Single from forthcoming album [Everything Sings Tonight](?p=albums/everything-sings-tonight).\
-Available on [iTunes](https://itunes.apple.com/au/album/rushing-dark-single-rushing/id976471411)
-through [Vitamin Records](https://www.vitamin.net.au/albumdefault.asp?ai=632).
+First Single from [Everything Sings Tonight](?p=albums/everything-sings-tonight).\
+
 
 ![](data/image/cover/the-rushing-dark.jpg)
 
