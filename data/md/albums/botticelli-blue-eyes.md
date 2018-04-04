@@ -1,22 +1,22 @@
 <!--| ## botticelli blue eyes |-->
 
-**CD**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M2RSJSQB6GJG2">AUS $25AUD</a> <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2VFSGZ339MKA2">WORLD $28AUD</a>  (Includes shipping)
+[Buy CD / Digital}(https://luciethorne.bandcamp.com/album/botticelli-blue-eyes)  
 
 ![botticelli blue eyes][8]
 
 1.  [big decision][9]
--   [stubborn][10]
--   [left standing][11]
--   [window seat][12]
--   [lack of light][13]
--   [these hands][14]
--   [somewhere around][15]
--   [botticelli blue eyes][16]
--   [different postcodes][17]
--   [untitled][18]
--   [not grown ups][19]
--   [your shelter][20]
--   [song for zoe][21]
+2.  [stubborn][10]
+3.  [left standing][11]
+4.  [window seat][12]
+5.  [lack of light][13]
+6.  [these hands][14]
+7.  [somewhere around][15]
+8.  [botticelli blue eyes][16]
+9.  [different postcodes][17]
+10.  [untitled][18]
+11.  [not grown ups][19]
+12.  [your shelter][20]
+13.  [song for zoe][21]
 
 [8]: data/image/cover/botticelli-blue-eyes.jpg
 [9]: ?p=songs/big-decision
