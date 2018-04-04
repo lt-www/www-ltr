@@ -60,7 +60,7 @@ three track single, *out of print*.
 [![the bud][3.1]][3.2]
 *the bud*\
 Released June 2004. [Details][3.2]\
-[limited edition LP][3.3] also released. *Vinyl out of print*.
+[limited edition LP][3.3] also released. *Vinyl out of print*.    
 [Shop](https://luciethorne.bandcamp.com/album/the-bud) 
 
   [3.1]: rgen/cover/r-80/the-bud.jpg
