@@ -1,7 +1,8 @@
 **MAIL ORDER ALBUMS:**\
 via paypal or with your credit card direct from us via the buttons below.\
 or you can send a cheque or money to us at
-[Little Secret Records](http://www.luciethorne.com/contact)
+[Little Secret Records](http://www.luciethorne.com/contact)  
+You can also buy Lucie's albums (physical or digital) at [bandcamp](https://luciethorne.bandcamp.com/)  
 
 [![Everything Sings Tonight][9.1]][9.2]
 *Everything Sings Tonight*\
