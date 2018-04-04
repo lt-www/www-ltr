@@ -1,19 +1,19 @@
 <!--| ## the bud |-->
 
-**CD**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V9G3J7CTWC8YA">AUS $25AUD</a> <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=75VMCCAP3ZX3S">WORLD $28AUD</a>  (Includes shipping)
+[Buy CD / Digital](https://luciethorne.bandcamp.com/album/the-bud)   
 
 ![the bud][10]
 
 1.  [before the cold][11]
--   [evie & i][12]
--   [made a lie][13]
--   [quiet island][14]
--   [flood][15]
--   [for wanting][16]
--   [night walking][17]
--   [making the space][18]
--   [in between][19]
--   [the bud][20]
+2.  [evie & i][12]
+3  [made a lie][13]
+4.  [quiet island][14]
+5.  [flood][15]
+6.  [for wanting][16]
+7.  [night walking][17]
+8.  [making the space][18]
+9.  [in between][19]
+10.  [the bud][20]
 
   [10]: data/image/cover/the-bud.jpg
   [11]: ?p=songs/before-the-cold
