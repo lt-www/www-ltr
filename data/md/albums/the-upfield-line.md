@@ -1,14 +1,6 @@
 <!--| ## the upfield line |-->
 
-this limited edition 3 track single features songs from lucie's
-forthcoming long player *where night birds call*. it was recorded by
-lucie and heath in a little wooden cottage on australia's far south
-coast, with additional recording by rohan drape and steph o'hara in
-melbourne, and by tom hall in cambridge.  *the upfield line* is only
-available at [shows][8], or by [direct mail order][9] from lucie.
-
-  [8]: ?p=shows
-  [9]: ?p=shop/direct
+limited edition 3 track single featuring songs from lucie's long player *where night birds call*. 
 
 ![the upfield line][10]
 
