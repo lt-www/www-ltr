@@ -2,7 +2,7 @@
 
 Release date: 1st June 2015.
 
-[purchase Everything Sings Tonight](https://luciethorne.bandcamp.com/album/everything-sings-tonight) CD/ Digital (*LP currently out of print*)
+[Buy CD / Digital](https://luciethorne.bandcamp.com/album/everything-sings-tonight)(*LP currently out of print*)
 
 ![](data/image/cover/everything-sings.jpg)
 
