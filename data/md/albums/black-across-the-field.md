@@ -1,6 +1,7 @@
 <!--| ## Black Across The Field |-->
 
-**CD**: <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BQ48Q67F7BJVY">AUS $25AUD</a> <a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F75K6NDBMFD6C">WORLD $28AUD</a>  (Includes shipping)
+[Buy CD / Digital](https://luciethorne.bandcamp.com/album/black-across-the-field)
+
 
 ![Black Across The Field][8]
 
