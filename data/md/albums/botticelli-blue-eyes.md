@@ -1,6 +1,6 @@
 <!--| ## botticelli blue eyes |-->
 
-[Buy CD / Digital}(https://luciethorne.bandcamp.com/album/botticelli-blue-eyes)  
+[Buy CD / Digital](https://luciethorne.bandcamp.com/album/botticelli-blue-eyes)  
 
 ![botticelli blue eyes][8]
 
