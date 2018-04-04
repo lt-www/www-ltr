@@ -2,16 +2,7 @@
 
 Release date: 1st June 2015.
 
-Direct mail-order your copy of Everything Sings Tonight on CD (Includes shipping):
-
-**CD**:
-<a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H9G7WHRG5LDPA">AUS $25AUD</a>
-<a class="purchase" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZEYKQFY7C744N">WORLD $28AUD</a>
-
-Also available through
-[iTunes](https://itunes.apple.com/au/album/everything-sings-tonight/id998796975)
-and in all fine record stores across Australia through
-[Vitamin Distribution](http://www.vitamin.net.au/albumdefault.asp?ai=637).
+[purchase Everything Sings Tonight](https://luciethorne.bandcamp.com/album/everything-sings-tonight) CD/ Digital (*LP currently out of print*)
 
 ![](data/image/cover/everything-sings.jpg)
 
@@ -43,6 +34,6 @@ Mastered by Darren Ziesing at Polybonk, Kairong, Australia
 
 Cover painting by Yodhi Bergman. Design and Photography by Heike Qualitz
 
-&copy; Lucie Thorne 2015, *Little Secret Records*
+© Lucie Thorne 2015, *Little Secret Records*
 
 ![](data/image/ground/lsr-35.png)
