@@ -2,7 +2,7 @@
 
 ### 10 April 2018  
 
-Teaming up with two fabulous Canadians - Corin Raymond & Scott Cook - for a show at Melbourne's Spotted Mallard on April 26th. [Tickets here](shows) x
+Teaming up with two fabulous Canadians - Corin Raymond & Scott Cook - for a show at Melbourne's Spotted Mallard on April 26th. [Tickets here](shows)  
 
 * * * * * 
 
