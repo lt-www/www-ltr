@@ -1,5 +1,11 @@
 * * * * * 
 
+### 10 April 2018  
+
+Teaming up with two fabulous Canadians - Corin Raymond & Scott Cook - for a show at Melbourne's Spotted Mallard on April 26th. [Tickets here](shows) x
+
+* * * * * 
+
 ### 9 March 2018  
 
 Tonight! at the Sooki Lounge in Belgrave, with Pony Face! tickets [here](shows) x
