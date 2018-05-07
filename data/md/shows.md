@@ -194,7 +194,7 @@ with DAN TUFFY & MATT WALKER
  
 **Sunday 2nd September 2018**  
 HOUSE CONCERT  
-DURANBAH  
+**DURANBAH**  
 with DAN TUFFY & MATT WALKER  
 3.30pm / BYO  
 [tickets](www.trybooking.com/VPAO)  
