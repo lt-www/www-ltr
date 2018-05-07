@@ -74,4 +74,30 @@ with DAN TUFFY, SHANE REILLY & GRANT CUMMERFORD
  
 * * * * *   
 
+**TASMANIA**
+
+**Thursday 5th July 2018**  
+HOUSE CONCERT  
+**UPPER WOODSTOCK**  
+with DAN TUFFY  
+plus special guest CLAIRE ANNE TAYLOR  
+6.30pm / BYO
+[tickets](www.trybooking.com/VQOJ)  
+  
+**Friday 6th July 2018**  
+COPPING COMMUNITY HALL  
+**COPPING**  
+with DAN TUFFY  
+7pm / BYO  
+[tickets](www.trybooking.com/VORU)  
+
+**Saturday 7th July 2018**  
+SAINT JOHN CRAFT BEER BAR  
+**LAUNCESTON**  
+with DAN TUFFY  
+8pm  
+[tickets](www.trybooking.com/VOSQ)  
+
+* * * * *     
+
 [past shows](?p=shows/archive/)
