@@ -122,7 +122,7 @@ DJANGO BAR
 Marrickville, **SYDNEY**  
 with DAN TUFFY  
 7pm  
-[tickets](https://www.stickytickets.com.au/68553/dan_tuffy__lucie_thorne__django_%40_camelot.aspx  
+[tickets](https://www.stickytickets.com.au/68553)    
  
 **Thursday 19th July 2018**  
 GRAND JUNCTION HOTEL  
