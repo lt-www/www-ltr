@@ -142,6 +142,63 @@ with DAN TUFFY
 3pm / BYO  
 [tickets](www.trybooking.com/VQOE)    
 
-* * * * *     
+**Friday 27th July 2018**  
+LENNOX SESSIONS  
+**LENNOX HEAD**  
+with JO JO SMITH  
+
+* * * * *   
+
+**QUEENSLAND**  
+
+**Saturday 28th July 2018
+HOUSE CONCERT
+GOLD COAST
+with JO JO SMITH
+
+* * * * *   
+
+**NSW**   
+
+**Sunday 29th July 2018**  
+EX-SERVICES CLUB
+**MULLUMBIMBY**  
+with SARA TINDLEY & ASH BELL  
+*tickets on sale soon*  
+
+* * * * *   
+
+**NSW**    
+
+**Friday 31st August 2018**  
+EX-SERVICES CLUB  
+**MULLUMBIMBY**  
+with DAN TUFFY & MATT WALKER
+plus special guest JIMMY DOWLING
+*tickets on sale soon*  
+
+* * * * *   
+
+**QUEENSLAND**    
+
+**Saturday 1st September 2018**  
+SANDGATE TOWN HALL
+**BRISBANE**  
+with DAN TUFFY & MATT WALKER  
+7.30pm 
+[tickets](https://www.trybooking.com/356253)  
+
+* * * * *   
+
+**NSW**    
+ 
+**Sunday 2nd September 2018**  
+HOUSE CONCERT  
+DURANBAH  
+with DAN TUFFY & MATT WALKER  
+3.30/ BYO  
+[tickets](www.trybooking.com/VPAO)  
+  
+* * * * *       
 
 [past shows](?p=shows/archive/)
