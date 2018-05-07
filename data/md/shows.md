@@ -35,12 +35,12 @@ with THE YEARLINGS
 **SOUTH AUSTRALIA**
 
 **Saturday 23rd June 2018**   
-THE WHEATSHEAF HOTEL\ 
-**ADELAIDE**\ 
-with DAN TUFFY\ 
-plus special guest THE YEARLINGS\
-8.30pm\
-[tickets](www.trybooking.com/VNQE)\  
+THE WHEATSHEAF HOTEL
+**ADELAIDE**  
+with DAN TUFFY  
+plus special guest THE YEARLINGS  
+8.30pm  
+[tickets](www.trybooking.com/VNQE)  
   
 **Sunday 24th June 2018** 
 THE MEMORIAL HALL
