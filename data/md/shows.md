@@ -2,17 +2,6 @@
 
 **VICTORIA**
 
-**Thursday 26th April 2018**\
-[THE SPOTTED MALLARD](https://www.spottedmallard.com/events)  
-**MELBOURNE**  
-with CORIN RAYMOND & SCOTT COOK    
-8pm  
-[tickets](http://www.moshtix.com.au/v2/event/corin-raymond-can-lucie-thorne-and-scott-cook-can-with-special-guest-liz-f/101047)  
-  
-* * * * *
-
-**VICTORIA**
-
 **Thursday 24th May 2018**\
 THE LOST ONES BAR\
 **BALLARAT**  
