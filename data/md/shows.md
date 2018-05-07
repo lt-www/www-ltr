@@ -137,7 +137,7 @@ with DAN TUFFY
 
 **Sunday 22nd July 2018**  
 BOO RADLEY HALL  
-GLENREAGH  
+**GLENREAGH**  
 with DAN TUFFY  
 3pm / BYO  
 [tickets](www.trybooking.com/VQOE)    
@@ -161,7 +161,7 @@ with JO JO SMITH
 **NSW**   
 
 **Sunday 29th July 2018**  
-EX-SERVICES CLUB
+EX-SERVICES CLUB  
 **MULLUMBIMBY**  
 with SARA TINDLEY & ASH BELL  
 *tickets on sale soon*  
@@ -173,16 +173,16 @@ with SARA TINDLEY & ASH BELL
 **Friday 31st August 2018**  
 EX-SERVICES CLUB  
 **MULLUMBIMBY**  
-with DAN TUFFY & MATT WALKER
-plus special guest JIMMY DOWLING
+with DAN TUFFY & MATT WALKER  
+plus special guest JIMMY DOWLING  
 *tickets on sale soon*  
-
+  
 * * * * *   
 
 **QUEENSLAND**    
 
 **Saturday 1st September 2018**  
-SANDGATE TOWN HALL
+SANDGATE TOWN HALL  
 **BRISBANE**  
 with DAN TUFFY & MATT WALKER  
 7.30pm 
