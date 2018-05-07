@@ -42,14 +42,14 @@ plus special guest THE YEARLINGS
 8.30pm  
 [tickets](www.trybooking.com/VNQE)  
   
-**Sunday 24th June 2018** 
-THE MEMORIAL HALL
-**ASHBOURNE** 
-with DAN TUFFY
-plus special guest THE YEARLINGS  
-3.30pm / BYO 
+**Sunday 24th June 2018**  
+THE MEMORIAL HALL  
+**ASHBOURNE**   
+with DAN TUFFY  
+plus special guest THE YEARLINGS    
+3.30pm / BYO  
 [tickets](www.trybooking.com/VNQE)  
-
+  
 * * * * *   
 
 [past shows](?p=shows/archive/)
