@@ -1,4 +1,12 @@
 ## shows/archive
+* * * * *
+
+**VICTORIA**
+
+**Thursday 26th April 2018**\
+THE SPOTTED MALLARD  
+**MELBOURNE**  
+with CORIN RAYMOND & SCOTT COOK    
 
 * * * * *
 
