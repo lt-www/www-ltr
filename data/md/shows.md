@@ -123,6 +123,25 @@ Marrickville, **SYDNEY**
 with DAN TUFFY  
 7.30pm  
  
+**Thursday 19th July 2018**  
+GRAND JUNCTION HOTEL  
+**MAITLAND**  
+with DAN TUFFY  
+7.30pm / free entry!  
+
+**Saturday 21st July 2018**  
+McCROSSIN'S MILL HALL  
+**URALLA**  
+with DAN TUFFY  
+7.30pm    
+
+**Sunday 22nd July 2018**  
+BOO RADLEY HALL  
+GLENREAGH  
+with DAN TUFFY  
+3pm / BYO  
+[tickets](www.trybooking.com/VQOE)    
+
 * * * * *     
 
 [past shows](?p=shows/archive/)
