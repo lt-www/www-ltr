@@ -99,6 +99,30 @@ with DAN TUFFY
 8pm  
 [tickets](www.trybooking.com/VOSQ)  
 
+* * * * *   
+
+**NSW**  
+  
+**Friday 13th July 2018**  
+HOUSE CONCERT  
+Hazelbrook, **BLUE MOUNTAINS**  
+with DAN TUFFY  
+7.30pm / BYO  
+[tickets](www.trybooking.com/VPAH)  
+
+**Saturday 14th July 2018**  
+ROSNAY WINERY  
+**CANOWINDRA**  
+with DAN TUFFY  
+6.30pm  
+[tickets](www.trybooking.com/VQWZ)  
+   
+**Sunday 15th July 2018**  
+DJANGO BAR
+Marrickville, **SYDNEY**  
+with DAN TUFFY  
+7.30pm  
+ 
 * * * * *     
 
 [past shows](?p=shows/archive/)
