@@ -82,7 +82,7 @@ HOUSE CONCERT
 **UPPER WOODSTOCK**  
 with DAN TUFFY  
 plus special guest CLAIRE ANNE TAYLOR  
-6.30pm / BYO
+6.30pm / BYO  
 [tickets](www.trybooking.com/VQOJ)  
   
 **Friday 6th July 2018**  
