@@ -69,7 +69,7 @@ Dinner from 6pm / Show from 7.30pm
 **Sunday 1st July 2018**  
 NORTHCOTE SOCIAL CLUB  
 **MELBOURNE**  
-with DAN TUFFY, SHANE REILLY & GRANT CUMMERFORD 
+with DAN TUFFY, SHANE REILLY & GRANT CUMMERFORD  
 2pm / *tickets on sale soon*  
  
 * * * * *   
