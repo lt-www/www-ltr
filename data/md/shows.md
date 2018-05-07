@@ -151,10 +151,10 @@ with JO JO SMITH
 
 **QUEENSLAND**  
 
-**Saturday 28th July 2018
-HOUSE CONCERT
-GOLD COAST
-with JO JO SMITH
+**Saturday 28th July 2018**  
+HOUSE CONCERT  
+**GOLD COAST**  
+with JO JO SMITH  
 
 * * * * *   
 
