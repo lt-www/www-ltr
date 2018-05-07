@@ -118,7 +118,7 @@ with DAN TUFFY
 [tickets](www.trybooking.com/VQWZ)  
    
 **Sunday 15th July 2018**  
-DJANGO BAR
+DJANGO BAR  
 Marrickville, **SYDNEY**  
 with DAN TUFFY  
 7.30pm  
