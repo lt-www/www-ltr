@@ -35,7 +35,7 @@ with THE YEARLINGS
 **SOUTH AUSTRALIA**
 
 **Saturday 23rd June 2018**   
-THE WHEATSHEAF HOTEL
+THE WHEATSHEAF HOTEL  
 **ADELAIDE**  
 with DAN TUFFY  
 plus special guest THE YEARLINGS  
