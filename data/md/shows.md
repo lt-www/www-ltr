@@ -50,6 +50,28 @@ plus special guest THE YEARLINGS
 3.30pm / BYO  
 [tickets](www.trybooking.com/VNQE)  
   
+* * * * *
+
+**VICTORIA**
+
+**Friday 29th June 2018**  
+THE SKYLARK ROOM  
+**UPWEY**  
+with DAN TUFFY & MATT WALKER  
+ 
+**Saturday 30th June 2018**  
+SAINT MONDAY  
+**YACKANDANDAH**  
+with DAN TUFFY  
+Dinner from 6pm / Show from 7.30pm  
+[tickets](www.trybooking.com/VNQO)  
+ 
+**Sunday 1st July 2018**  
+NORTHCOTE SOCIAL CLUB  
+**MELBOURNE**  
+with DAN TUFFY, SHANE REILLY & GRANT CUMMERFORD 
+2pm / *tickets on sale soon*  
+ 
 * * * * *   
 
 [past shows](?p=shows/archive/)
