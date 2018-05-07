@@ -185,7 +185,7 @@ plus special guest JIMMY DOWLING
 SANDGATE TOWN HALL  
 **BRISBANE**  
 with DAN TUFFY & MATT WALKER  
-7.30pm 
+7.30pm  
 [tickets](https://www.trybooking.com/356253)  
 
 * * * * *   
