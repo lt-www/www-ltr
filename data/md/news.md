@@ -2,7 +2,7 @@
 
 ### 7 May 2018  
 
-Lots of winter tour dates just announced! I'll be on the road with all sorts of favourite folks in the winter months - including *lots* of double-bill shows with the fabulous Dan Tuffy who'll be out from the Netherlands, as well as more shows with The Yearlings, and Claire Anne Taylor, Jimmy Dowling, Jo Jo Smith, Sara Tindley & Ash Bell, and Matt Walker! Dates & details [here](shows).    
+Lots of winter tour dates just announced! I'll be on the road with all sorts of favourite folks in the winter months - including *lots* of double-bill shows with the fabulous Dan Tuffy who'll be out from the Netherlands, as well as more shows with The Yearlings, and Claire Anne Taylor, Jimmy Dowling, The Cartridge Family, Jo Jo Smith, Sara Tindley & Ash Bell, and Matt Walker! Dates & details [here](shows).    
 
 * * * * *   
 
