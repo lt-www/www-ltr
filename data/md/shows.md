@@ -158,6 +158,7 @@ with JO JO SMITH
 HOUSE CONCERT  
 **GOLD COAST**  
 with JO JO SMITH  
+2pm  
 
 * * * * *   
 
