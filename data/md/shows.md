@@ -71,6 +71,7 @@ Dinner from 6pm / Show from 7.30pm
 NORTHCOTE SOCIAL CLUB  
 **MELBOURNE**  
 with DAN TUFFY, SHANE REILLY & GRANT CUMMERFORD  
+plus special guests THE CARTRIDGE FAMILY  
 2pm / *tickets on sale soon*  
  
 * * * * *   
