@@ -131,11 +131,12 @@ with DAN TUFFY
 7.30pm / free entry!  
 
 **Saturday 21st July 2018**  
-McCROSSIN'S MILL HALL  
+McCROSSIN'S MILL    
 **URALLA**  
 with DAN TUFFY  
-7.30pm    
-
+7.30pm  
+[tickets](www.trybooking.com/VSKT)  
+      
 **Sunday 22nd July 2018**  
 BOO RADLEY HALL  
 **GLENREAGH**  
