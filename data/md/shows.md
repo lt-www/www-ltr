@@ -180,7 +180,8 @@ EX-SERVICES CLUB
 **MULLUMBIMBY**  
 with DAN TUFFY & MATT WALKER  
 plus special guest JIMMY DOWLING  
-*tickets on sale soon*  
+8pm  
+[tickets](https://mullumexservices.com.au/event/2307967/469914100/songs-from-dan)  
   
 * * * * *   
 
