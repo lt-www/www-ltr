@@ -203,7 +203,7 @@ HOUSE CONCERT
 **DURANBAH**  
 with DAN TUFFY & MATT WALKER  
 3.30pm / BYO  
-[tickets](www.trybooking.com/VPAO)  
+[tickets](http://www.trybooking.com/VPAO)  
   
 * * * * *       
 
