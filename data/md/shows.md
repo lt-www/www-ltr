@@ -40,7 +40,7 @@ THE WHEATSHEAF HOTEL
 with DAN TUFFY  
 plus special guest THE YEARLINGS  
 8.30pm  
-[tickets](www.trybooking.com/VNQE)  
+[tickets](http://www.trybooking.com/VNQE)  
   
 **Sunday 24th June 2018**  
 THE MEMORIAL HALL  
@@ -48,7 +48,7 @@ THE MEMORIAL HALL
 with DAN TUFFY  
 plus special guest THE YEARLINGS    
 3.30pm / BYO  
-[tickets](www.trybooking.com/VNQE)  
+[tickets](http://www.trybooking.com/VNQE)  
   
 * * * * *
 
@@ -65,7 +65,7 @@ SAINT MONDAY
 **YACKANDANDAH**  
 with DAN TUFFY  
 Dinner from 6pm / Show from 7.30pm  
-[tickets](www.trybooking.com/VNQO)  
+[tickets](http://www.trybooking.com/VNQO)  
  
 **Sunday 1st July 2018**  
 NORTHCOTE SOCIAL CLUB  
@@ -85,21 +85,21 @@ HOUSE CONCERT
 with DAN TUFFY  
 plus special guest CLAIRE ANNE TAYLOR  
 6.30pm / BYO  
-[tickets](www.trybooking.com/VQOJ)  
+[tickets](http://www.trybooking.com/VQOJ)  
   
 **Friday 6th July 2018**  
 COPPING COMMUNITY HALL  
 **COPPING**  
 with DAN TUFFY  
 7pm / BYO  
-[tickets](www.trybooking.com/VORU)  
+[tickets](http://www.trybooking.com/VORU)  
 
 **Saturday 7th July 2018**  
 SAINT JOHN CRAFT BEER BAR  
 **LAUNCESTON**  
 with DAN TUFFY  
 8pm  
-[tickets](www.trybooking.com/VOSQ)  
+[tickets](http://www.trybooking.com/VOSQ)  
 
 * * * * *   
 
@@ -110,14 +110,14 @@ HOUSE CONCERT
 Hazelbrook, **BLUE MOUNTAINS**  
 with DAN TUFFY  
 7.30pm / BYO  
-[tickets](www.trybooking.com/VPAH)  
+[tickets](http://www.trybooking.com/VPAH)  
 
 **Saturday 14th July 2018**  
 ROSNAY WINERY  
 **CANOWINDRA**  
 with DAN TUFFY  
 6.30pm  
-[tickets](www.trybooking.com/VQWZ)  
+[tickets](http://www.trybooking.com/VQWZ)  
    
 **Sunday 15th July 2018**  
 DJANGO BAR  
@@ -137,14 +137,14 @@ McCROSSIN'S MILL
 **URALLA**  
 with DAN TUFFY  
 7.30pm  
-[tickets](www.trybooking.com/VSKT)  
+[tickets](http://www.trybooking.com/VSKT)  
       
 **Sunday 22nd July 2018**  
 BOO RADLEY HALL  
 **GLENREAGH**  
 with DAN TUFFY  
 3pm / BYO  
-[tickets](www.trybooking.com/VQOE)    
+[tickets](http://www.trybooking.com/VQOE)    
 
 **Friday 27th July 2018**  
 LENNOX SESSIONS  
