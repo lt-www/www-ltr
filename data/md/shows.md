@@ -58,7 +58,8 @@ plus special guest THE YEARLINGS
 THE SKYLARK ROOM  
 **UPWEY**  
 with DAN TUFFY & MATT WALKER  
-*tickets on sale soon*    
+7.30pm  
+[tickets](http://www.theskylarkroom.com/upcoming-gigs/mattwalker)     
 
 **Saturday 30th June 2018**  
 SAINT MONDAY  
