@@ -48,7 +48,7 @@ THE MEMORIAL HALL
 with DAN TUFFY  
 plus special guest THE YEARLINGS    
 3.30pm / BYO  
-[tickets](http://www.trybooking.com/VNQE)  
+[tickets](http://www.trybooking.com/VNQG)  
   
 * * * * *
 
