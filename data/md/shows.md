@@ -27,7 +27,7 @@ with THE YEARLINGS
 [THE BRIDGE HOTEL](https://thebridgehotelcastlemaine.com/gigs/)\
 **CASTLEMAINE**  
 with THE YEARLINGS    
-4-7pm  
+3pm  
 [tickets](http://www.trybooking.com/UIZC)  
 
 * * * * *
