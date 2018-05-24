@@ -1,5 +1,11 @@
 * * * * * 
 
+### 24 May 2018  
+
+Three shows coming up with those SA sweethearts The Yearlings > tonight in Ballarat, Friday night in Bendigo and Sunday afternoon in Castlemaine. And on Saturday night we'll be joining in on Bob Dylan's birthday/tribute celebrations at The Caravan Club alongside Linda Bull, Chris Wilson, Angie Hart, Charles Jenkins, Lisa Miller and Rob Snarski. [Details here](shows).    
+
+* * * * * 
+
 ### 7 May 2018  
 
 Lots of winter tour dates just announced! I'll be on the road with all sorts of favourite folks in the winter months - including *lots* of double-bill shows with the fabulous Dan Tuffy who'll be out from the Netherlands, as well as more shows with The Yearlings, and Claire Anne Taylor, Jimmy Dowling, The Cartridge Family, Jo Jo Smith, Sara Tindley & Ash Bell, and Matt Walker! Dates & details [here](shows).    
