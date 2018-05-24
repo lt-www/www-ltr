@@ -7,9 +7,10 @@ resize-genera:
 	(cd data/png/icon ; make all)
 
 setup-editor:
-	mkdir -p e
-	rm -f e/index.cgi
+	mkdir -p e u
+	rm -f e/index.cgi u/index.cgi
 	cp $(HOME)/sw/www-minus/py/editor.py e/index.cgi
+	cp $(HOME)/sw/www-minus/py/upload.py u/index.cgi
 
 all: resize-genera build-ghc setup-editor
 
