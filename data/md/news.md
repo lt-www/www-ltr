@@ -2,7 +2,9 @@
 
 ### 24 May 2018  
 
-Three shows coming up with those SA sweethearts The Yearlings > tonight in Ballarat, Friday night in Bendigo and Sunday afternoon in Castlemaine. And on Saturday night we'll be joining in on Bob Dylan's birthday/tribute celebrations at The Caravan Club alongside Linda Bull, Chris Wilson, Angie Hart, Charles Jenkins, Lisa Miller and Rob Snarski. [Details here](shows).    
+Three shows coming up with those SA sweethearts The Yearlings > tonight in Ballarat, Friday night in Bendigo and Sunday afternoon in Castlemaine. And on Saturday night we'll be joining in on Bob Dylan's birthday/tribute celebrations at The Caravan Club alongside Linda Bull, Chris Wilson, Angie Hart, Charles Jenkins, Lisa Miller and Rob Snarski. [Details here](shows).
+
+![](data/image/news/TY_LT_pic.jpeg)
 
 * * * * * 
 
