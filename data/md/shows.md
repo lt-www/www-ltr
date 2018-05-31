@@ -5,16 +5,14 @@
 **Saturday 23rd June 2018**   
 THE WHEATSHEAF HOTEL  
 **ADELAIDE**  
-with DAN TUFFY  
-plus special guest THE YEARLINGS  
+with DAN TUFFY & THE YEARLINGS  
 8.30pm  
 [tickets](http://www.trybooking.com/VNQE)  
   
 **Sunday 24th June 2018**  
 THE MEMORIAL HALL  
 **ASHBOURNE**   
-with DAN TUFFY  
-plus special guest THE YEARLINGS    
+with DAN TUFFY & THE YEARLINGS    
 3.30pm / BYO  
 [tickets](http://www.trybooking.com/VNQG)  
   
