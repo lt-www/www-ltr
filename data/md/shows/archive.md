@@ -1,4 +1,29 @@
 ## shows/archive
+
+* * * * *
+
+**VICTORIA**
+
+**Sunday 27th May 2018**\
+[THE BRIDGE HOTEL](https://thebridgehotelcastlemaine.com/gigs/)\
+**CASTLEMAINE**  
+with THE YEARLINGS 
+
+**Saturday 26th May 2018**\
+[THE CARAVAN CLUB](http://www.caravanmusic.com.au/)\
+**BENTLEIGH EAST**  
+*for Bob Dylan's 77th Birthday Tribute Concert*      
+
+**Friday 25th May 2018**\
+THE OLD CHURCH ON THE HILL\
+**BENDIGO**  
+with THE YEARLINGS        
+
+**Thursday 24th May 2018**\
+THE LOST ONES BAR\
+**BALLARAT**  
+with THE YEARLINGS       
+
 * * * * *
 
 **VICTORIA**
