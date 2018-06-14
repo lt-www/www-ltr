@@ -2,7 +2,7 @@
 
 ### 14 June 2018  
 
-Big ol winter tour starts next week! with two shows in South Australia.. and then on through Vic, Tas & NSW. Most of these shows are double-bills with excellent song&story fella Dan Tuffy (Big Low, Wild Pumpkins at Midnight). [Dates & details here](shows).
+Big ol winter tour starts next week! with two shows in South Australia.. and then on through Vic, Tas & NSW. Most of these shows are double-bills with excellent song&story fella [Dan Tuffy](http://www.songsfromdan.com) (Big Low, Wild Pumpkins at Midnight) whose album 'Songs from Dan' is one of my favourites! (and... features me on a few songs:) You can check out DT's music here.  And all our [tour dates here](shows).
 
 ![](data/image/news/DTLTpic.jpeg)
 
