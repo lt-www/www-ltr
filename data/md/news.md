@@ -1,5 +1,13 @@
 * * * * * 
 
+### 14 June 2018  
+
+Big ol winter tour starts next week in South Australia.. and then on to lots of my favourite corners of Vic, Tas & NSW. Most of these shows are double-bills with  excellent song&story fella Dan Tuffy (Big Low, Wild Pumpkins at Midnight) and there are plenty of other fabulous favourites joining us along the way. [Dates & details here](shows).
+
+![](data/image/news/DTLTpic.jpeg)
+
+* * * * * 
+
 ### 24 May 2018  
 
 Three shows coming up with those SA sweethearts The Yearlings > tonight in Ballarat, Friday night in Bendigo and Sunday afternoon in Castlemaine. And on Saturday night we'll be joining in on Bob Dylan's birthday/tribute celebrations at The Caravan Club alongside Linda Bull, Chris Wilson, Angie Hart, Charles Jenkins, Lisa Miller and Rob Snarski. [Details here](shows).
