@@ -2,6 +2,20 @@
 
 * * * * *
 
+**SOUTH AUSTRALIA**
+
+**Sunday 24th June 2018**  
+THE MEMORIAL HALL  
+**ASHBOURNE**   
+with DAN TUFFY & THE YEARLINGS    
+
+**Saturday 23rd June 2018**   
+THE WHEATSHEAF HOTEL  
+**ADELAIDE**  
+with DAN TUFFY & THE YEARLINGS    
+  
+* * * * *
+
 **VICTORIA**
 
 **Sunday 27th May 2018**\
