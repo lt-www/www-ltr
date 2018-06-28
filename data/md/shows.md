@@ -1,23 +1,5 @@
 * * * * *
 
-**SOUTH AUSTRALIA**
-
-**Saturday 23rd June 2018**   
-THE WHEATSHEAF HOTEL  
-**ADELAIDE**  
-with DAN TUFFY & THE YEARLINGS  
-8.30pm  
-[tickets](http://www.trybooking.com/VNQE)  
-  
-**Sunday 24th June 2018**  
-THE MEMORIAL HALL  
-**ASHBOURNE**   
-with DAN TUFFY & THE YEARLINGS    
-3.30pm / BYO  
-[tickets](http://www.trybooking.com/VNQG)  
-  
-* * * * *
-
 **VICTORIA**
 
 **Friday 29th June 2018**  
@@ -30,9 +12,7 @@ with DAN TUFFY & MATT WALKER
 **Saturday 30th June 2018**  
 SAINT MONDAY  
 **YACKANDANDAH**  
-with DAN TUFFY  
-Dinner from 6pm / Show from 7.30pm  
-[tickets](http://www.trybooking.com/VNQO)  
+*show canceled - sorry folks!*   
  
 **Sunday 1st July 2018**  
 NORTHCOTE SOCIAL CLUB  
