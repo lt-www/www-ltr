@@ -1,4 +1,18 @@
 ## shows/archive
+* * * * *
+
+**VICTORIA**
+
+**Sunday 1st July 2018**  
+NORTHCOTE SOCIAL CLUB  
+**MELBOURNE**  
+with DAN TUFFY, SHANE REILLY & GRANT CUMMERFORD  
+plus special guests THE CARTRIDGE FAMILY *featuring Suzannah Espie & Sarah Carroll*  
+
+**Friday 29th June 2018**  
+THE SKYLARK ROOM  
+**UPWEY**  
+with DAN TUFFY & MATT WALKER   
 
 * * * * *
 
