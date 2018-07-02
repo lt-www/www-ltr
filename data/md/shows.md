@@ -1,27 +1,3 @@
-* * * * *
-
-**VICTORIA**
-
-**Friday 29th June 2018**  
-THE SKYLARK ROOM  
-**UPWEY**  
-with DAN TUFFY & MATT WALKER  
-7.30pm  
-[tickets](http://www.theskylarkroom.com/upcoming-gigs/mattwalker)     
-
-**Saturday 30th June 2018**  
-SAINT MONDAY  
-**YACKANDANDAH**  
-*show canceled - sorry folks!*   
- 
-**Sunday 1st July 2018**  
-NORTHCOTE SOCIAL CLUB  
-**MELBOURNE**  
-with DAN TUFFY, SHANE REILLY & GRANT CUMMERFORD  
-plus special guests THE CARTRIDGE FAMILY *featuring Suzannah Espie & Sarah Carroll*  
-2pm  
-[tickets](https://www.eventbrite.com/e/songs-from-dan-tickets-45887180793)  
-  
 * * * * *   
 
 **TASMANIA**
