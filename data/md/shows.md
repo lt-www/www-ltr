@@ -92,7 +92,8 @@ with JO JO SMITH
 EX-SERVICES CLUB  
 **MULLUMBIMBY**  
 with SARA TINDLEY & ASH BELL  
-*tickets on sale soon*  
+[tickets](https://www.mullumexservices.com.au/what-s-on) 
+3pm  
 
 * * * * *   
 
