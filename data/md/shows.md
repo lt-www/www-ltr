@@ -91,10 +91,10 @@ with JO JO SMITH
 **Sunday 29th July 2018**  
 EX-SERVICES CLUB  
 **MULLUMBIMBY**  
-with SARA TINDLEY & ASH BELL  
+with SARA TINDLEY & ASH BELL   
+3pm    
 [tickets](https://www.mullumexservices.com.au/what-s-on) 
-3pm  
-
+ 
 * * * * *   
 
 **NSW**    
