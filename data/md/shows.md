@@ -5,7 +5,7 @@
 **Friday 13th July 2018**  
 HOUSE CONCERT  
 Hazelbrook, **BLUE MOUNTAINS**  
-with DAN TUFFY  
+with DAN TUFFY 
 7.30pm / BYO  
 [tickets](http://www.trybooking.com/VPAH)  
 
