@@ -1,4 +1,24 @@
 ## shows/archive
+
+* * * * *   
+
+**TASMANIA**
+
+**Saturday 7th July 2018**  
+SAINT JOHN CRAFT BEER BAR  
+**LAUNCESTON**  
+with DAN TUFFY   
+
+**Friday 6th July 2018**  
+COPPING COMMUNITY HALL  
+**COPPING**  
+with DAN TUFFY  
+
+**Thursday 5th July 2018**  
+HOUSE CONCERT  
+**UPPER WOODSTOCK**  
+with DAN TUFFY + CLAIRE ANNE TAYLOR  
+  
 * * * * *
 
 **VICTORIA**
