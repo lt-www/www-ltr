@@ -1,31 +1,5 @@
 * * * * *   
 
-**TASMANIA**
-
-**Thursday 5th July 2018**  
-HOUSE CONCERT  
-**UPPER WOODSTOCK**  
-with DAN TUFFY  
-plus special guest CLAIRE ANNE TAYLOR  
-6.30pm / BYO  
-[tickets](http://www.trybooking.com/VQOJ)  
-  
-**Friday 6th July 2018**  
-COPPING COMMUNITY HALL  
-**COPPING**  
-with DAN TUFFY  
-7pm / BYO  
-[tickets](http://www.trybooking.com/VORU)  
-
-**Saturday 7th July 2018**  
-SAINT JOHN CRAFT BEER BAR  
-**LAUNCESTON**  
-with DAN TUFFY  
-8pm  
-[tickets](http://www.trybooking.com/VOSQ)  
-
-* * * * *   
-
 **NSW**  
   
 **Friday 13th July 2018**  
