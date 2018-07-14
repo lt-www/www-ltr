@@ -14,13 +14,13 @@ ROSNAY WINERY
 **CANOWINDRA**  
 with DAN TUFFY  
 6.30pm  
-[tickets](http://www.trybooking.com/VQWZ)  
+SOLD OUT   
    
 **Sunday 15th July 2018**  
 DJANGO BAR  
 Marrickville, **SYDNEY**  
 with DAN TUFFY  
-7pm  
+Doors 7pm / Show 8pm    
 [tickets](https://www.stickytickets.com.au/68553)    
  
 **Thursday 19th July 2018**  
@@ -47,6 +47,8 @@ with DAN TUFFY
 LENNOX SESSIONS  
 **LENNOX HEAD**  
 with JO JO SMITH  
+7pm  
+Bookings: lennoxsessions@gmail.com    
 
 * * * * *   
 
