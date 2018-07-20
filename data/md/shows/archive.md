@@ -2,6 +2,31 @@
 
 * * * * *   
 
+**NSW**  
+  
+**Thursday 19th July 2018**  
+GRAND JUNCTION HOTEL  
+**MAITLAND**  
+with DAN TUFFY  
+
+**Sunday 15th July 2018**  
+DJANGO BAR  
+Marrickville, **SYDNEY**  
+with DAN TUFFY  
+
+**Saturday 14th July 2018**  
+ROSNAY WINERY  
+**CANOWINDRA**  
+with DAN TUFFY  
+SOLD OUT   
+
+**Friday 13th July 2018**  
+HOUSE CONCERT  
+Hazelbrook, **BLUE MOUNTAINS**  
+with DAN TUFFY    
+ 
+* * * * *   
+
 **TASMANIA**
 
 **Saturday 7th July 2018**  
