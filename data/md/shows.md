@@ -2,33 +2,6 @@
 
 **NSW**  
   
-**Friday 13th July 2018**  
-HOUSE CONCERT  
-Hazelbrook, **BLUE MOUNTAINS**  
-with DAN TUFFY  
- 7.30pm / BYO  
-[tickets](http://www.trybooking.com/VPAH)  
-
-**Saturday 14th July 2018**  
-ROSNAY WINERY  
-**CANOWINDRA**  
-with DAN TUFFY  
-6.30pm  
-SOLD OUT   
-   
-**Sunday 15th July 2018**  
-DJANGO BAR  
-Marrickville, **SYDNEY**  
-with DAN TUFFY  
-Doors 7pm / Show 8pm    
-[tickets](https://www.stickytickets.com.au/68553)    
- 
-**Thursday 19th July 2018**  
-GRAND JUNCTION HOTEL  
-**MAITLAND**  
-with DAN TUFFY  
-7.30pm / free entry!  
-
 **Saturday 21st July 2018**  
 McCROSSIN'S MILL    
 **URALLA**  
