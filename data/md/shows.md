@@ -1,49 +1,4 @@
-* * * * *   
 
-**NSW**  
-  
-**Saturday 21st July 2018**  
-McCROSSIN'S MILL    
-**URALLA**  
-with DAN TUFFY  
-7.30pm  
-[tickets](http://www.trybooking.com/VSKT)  
-      
-**Sunday 22nd July 2018**  
-BOO RADLEY HALL  
-**GLENREAGH**  
-with DAN TUFFY  
-3pm / BYO  
-[tickets](http://www.trybooking.com/VQOE)    
-
-**Friday 27th July 2018**  
-LENNOX SESSIONS  
-**LENNOX HEAD**  
-with JO JO SMITH  
-7pm  
-Bookings: lennoxsessions@gmail.com    
-
-* * * * *   
-
-**QUEENSLAND**  
-
-**Saturday 28th July 2018**  
-HOUSE CONCERT  
-**GOLD COAST**  
-with JO JO SMITH  
-2pm  
-
-* * * * *   
-
-**NSW**   
-
-**Sunday 29th July 2018**  
-EX-SERVICES CLUB  
-**MULLUMBIMBY**  
-with SARA TINDLEY & ASH BELL   
-3pm    
-[tickets](https://www.mullumexservices.com.au/what-s-on) 
- 
 * * * * *   
 
 **NSW**    
