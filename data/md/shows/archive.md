@@ -2,6 +2,43 @@
 
 * * * * *   
 
+**NSW**   
+
+**Sunday 29th July 2018**  
+EX-SERVICES CLUB  
+**MULLUMBIMBY**  
+with SARA TINDLEY & ASH BELL   
+ 
+* * * * *   
+
+**QUEENSLAND**  
+
+**Saturday 28th July 2018**  
+HOUSE CONCERT  
+**GOLD COAST**  
+with JO JO SMITH  
+
+* * * * *   
+
+**NSW**  
+
+**Friday 27th July 2018**  
+LENNOX SESSIONS  
+**LENNOX HEAD**  
+with JO JO SMITH  
+      
+**Sunday 22nd July 2018**  
+BOO RADLEY HALL  
+**GLENREAGH**  
+with DAN TUFFY  
+
+**Saturday 21st July 2018**  
+McCROSSIN'S MILL    
+**URALLA**  
+with DAN TUFFY  
+   
+* * * * *   
+
 **NSW**  
   
 **Thursday 19th July 2018**  
