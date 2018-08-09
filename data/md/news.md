@@ -1,5 +1,11 @@
 * * * * * 
 
+### 9 August 2018  
+
+Three more shows coming up with Dan Tuffy - in Mullumbimby, Brisbane & Duranbah - and we'll be in cahoots with the one n only Matt Walker for all of these too! Another favourite - the fabulous Jimmy Dowling! will be opening the Mullum show. [Details here](shows).  
+
+* * * * * 
+
 ### 14 June 2018  
 
 Big ol winter tour starts next week! with two shows in South Australia.. and then on through Vic, Tas & NSW. Most of these shows are double-bills with excellent song&story fella [Dan Tuffy](http://www.songsfromdan.com) (Big Low, Wild Pumpkins at Midnight) whose album 'Songs from Dan' is one of my favourites! You can check out DT's music [here](http://www.songsfromdan.com). And all our [tour dates here](shows).
