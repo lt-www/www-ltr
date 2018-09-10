@@ -1,5 +1,32 @@
 ## shows/archive
+* * * * *   
 
+**NSW**    
+ 
+**Sunday 2nd September 2018**  
+HOUSE CONCERT  
+**DURANBAH**  
+with DAN TUFFY & MATT WALKER    
+
+* * * * *   
+
+**QUEENSLAND**    
+
+**Saturday 1st September 2018**  
+SANDGATE TOWN HALL  
+**BRISBANE**  
+with DAN TUFFY & MATT WALKER   
+
+* * * * *   
+
+**NSW**    
+
+**Friday 31st August 2018**  
+EX-SERVICES CLUB  
+**MULLUMBIMBY**  
+with DAN TUFFY & MATT WALKER  
+plus special guest JIMMY DOWLING   
+  
 * * * * *   
 
 **NSW**   
