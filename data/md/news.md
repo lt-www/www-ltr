@@ -1,5 +1,13 @@
 * * * * * 
 
+### 9 September 2018  
+
+Two very special shows coming up in Vic in November: a two-set solo show at Melbourne's beautiful new Merri Creek Tavern (tix go on sale Mon 24th Sep - sign up to the mailing list to get first dibs!:) - and a sunday set at a super-spesh mini-fest - Shivoostock! More spring news coming soon... xo  
+
+![](data/image/news/Shivoostock.jpeg)  
+
+* * * * * 
+
 ### 9 August 2018  
 
 Three more shows coming up with Dan Tuffy - in Mullumbimby, Brisbane & Duranbah - and we'll be in cahoots with the one n only Matt Walker for all of these too! Another favourite - the fabulous Jimmy Dowling! will be opening the Mullum show. [Details here](shows).  
