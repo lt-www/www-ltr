@@ -2,7 +2,7 @@
 
 ### 9 September 2018  
 
-Two very special shows coming up in Vic in November: a two-set solo show at Melbourne's beautiful new Merri Creek Tavern (tix go on sale Mon 24th Sep - sign up to the mailing list to get first dibs!:) - and a sunday set at a super-spesh mini-fest - Shivoostock! More spring news coming soon... xo  
+Two very special shows coming up in Vic in November: a two-set solo show at Melbourne's beautiful new Merri Creek Tavern (tix go on sale Mon 24th Sep - [sign up to the mailing list](http://luciethorne.com/?p=forms/mailing-list) to get first dibs!:) - and a sunday set at a super-spesh mini-fest - Shivoostock! More spring news coming soon... xo  
 
 ![](data/image/news/Shivoostock.jpeg)  
 
