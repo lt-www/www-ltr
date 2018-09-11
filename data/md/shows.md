@@ -2,11 +2,10 @@
 
 **VICTORIA**    
 
-**Saturday 17 November 2018**
+**Saturday 17 November 2018**  
 MERRI CREEK TAVERN  
 Westgarth, MELBOURNE  
-**tickets on sale Monday 24 September!**  
-*limited tickets available - sign up to Lucie's mailing list for presales offer*
+*tickets on sale Monday 24 September!*  
 
 **Sunday 18 November 2018**  
 SHIVOOSTOCK  
