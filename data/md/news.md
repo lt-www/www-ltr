@@ -1,5 +1,13 @@
 * * * * * 
 
+### 12 September 2018  
+
+Delighted to announce i'll be joining my sweet friend and gorgeous poet/song-maker [PIETA BROWN](http://www.pietabrown.com) for her tour of the Netherlands in October! [Dates and details here](shows).  
+
+![](data/image/news/PBNetherlands.jpeg) 
+
+* * * * * 
+
 ### 9 September 2018  
 
 Two very special shows coming up Victoria in November: a two-set solo show at Melbourne's beautiful new Merri Creek Tavern (*tix go on sale Mon 24th Sep* - [sign up to the mailing list](http://luciethorne.com/?p=forms/mailing-list) to get first dibs!:) - and a sweet Sunday set at new mini-fest - [Shivoostock!](https://www.trybooking.com/book/event?eid=419474)   
