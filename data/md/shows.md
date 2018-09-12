@@ -3,7 +3,7 @@
 **NETHERLANDS**    
 
 **Friday 19th October 2018**  
-NIEUWE DIJKHUIS
+NIEUWE DIJKHUIS  
 **DOETINCHEM**  
  with [PIETA BROWN](http://www.pietabrown.com)     
 
