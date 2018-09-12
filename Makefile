@@ -18,11 +18,11 @@ clean:
 	(cd hs ; make clean)
 	rm -f index.cgi
 
-push-sp:
-	git push ssh://rd@slavepianos.org/~rd/ut/www-ltr.git master
+push-rd:
+	git push ssh://rd@rohandrape.net/~rd/ut/www-ltr.git master
 
-pull-sp:
-	git pull ssh://rd@slavepianos.org/~rd/ut/www-ltr.git
+pull-rd:
+	git pull ssh://rd@rohandrape.net/~rd/ut/www-ltr.git
 
 remote-update:
 	ssh lucie@luciethorne.com "(cd luciethorne.com;make pull-sp)"
