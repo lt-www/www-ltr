@@ -21,6 +21,8 @@ More spring news coming soon... xo
 
 Three more shows coming up with Dan Tuffy - in Mullumbimby, Brisbane & Duranbah - and we'll be in cahoots with the one n only Matt Walker for all of these too! Another favourite - the fabulous Jimmy Dowling! will be opening the Mullum show. [Details here](shows).  
 
+![](data/image/news/TWT.jpeg)  
+
 * * * * * 
 
 ### 14 June 2018  
