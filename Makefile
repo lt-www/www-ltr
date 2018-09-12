@@ -25,11 +25,11 @@ pull-rd:
 	git pull ssh://rd@rohandrape.net/~rd/ut/www-ltr.git
 
 remote-update:
-	ssh lucie@luciethorne.com "(cd luciethorne.com;make pull-sp)"
+	ssh lucie@luciethorne.com "(cd luciethorne.com;make pull-rd)"
 
 remote-rebuild:
-	ssh lucie@luciethorne.com "(cd luciethorne.com;make pull-sp all)"
+	ssh lucie@luciethorne.com "(cd luciethorne.com;make pull-rd all)"
 
 remote-fetch:
-	ssh lucie@luciethorne.com "(cd luciethorne.com;make push-sp)"
-	make pull-sp
+	ssh lucie@luciethorne.com "(cd luciethorne.com;make push-rd)"
+	make pull-rd
