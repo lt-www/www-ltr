@@ -44,6 +44,7 @@ with [PIETA BROWN](http://www.pietabrown.com)
 MERRI CREEK TAVERN  
 Westgarth, MELBOURNE  
 *tickets on sale Monday 24 September!*  
+[sign up to the mailing list](http://luciethorne.com/?p=forms/mailing-list) *to get first dibs*!:)  
 
 **Sunday 18 November 2018**  
 SHIVOOSTOCK  
