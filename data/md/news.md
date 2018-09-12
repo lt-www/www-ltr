@@ -13,6 +13,8 @@ Delighted to announce i'll be joining my sweet friend and gorgeous poet/song-mak
 Two very special shows coming up Victoria in November: a two-set solo show at Melbourne's beautiful new Merri Creek Tavern (*tix go on sale Mon 24th Sep* - [sign up to the mailing list](http://luciethorne.com/?p=forms/mailing-list) to get first dibs!:) - and a sweet Sunday set at new mini-fest - [Shivoostock!](https://www.trybooking.com/book/event?eid=419474)   
 More spring news coming soon... xo  
 
+![](data/image/news/Shivoostock.jpeg)  
+
 * * * * * 
 
 ### 9 August 2018  
