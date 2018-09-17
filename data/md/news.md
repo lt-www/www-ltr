@@ -1,5 +1,13 @@
 * * * * * 
 
+### 17 September 2018  
+
+Tickets for my Merri Creek Tavern show in Melbourne - on Sat 18th November - will go on sale next Monday 24th September. [Join the mailing list](http://luciethorne.com/?p=forms/mailing-list) to get first offer on tickets.. xo 
+
+![](data/image/news/LT_MCT.jpeg) 
+
+* * * * * 
+
 ### 12 September 2018  
 
 Delighted to announce i'll be joining my sweet friend and gorgeous poet/song-maker [PIETA BROWN](http://www.pietabrown.com) for her tour of the Netherlands in October! [Dates and details here](shows).  
