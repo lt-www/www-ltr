@@ -1,5 +1,14 @@
 * * * * * 
 
+### 24 September 2018  
+
+[Tickets are now on sale](http://www.trybooking.com/YKUQ) for my Merri Creek Tavern show in Melbourne on Saturday 17th November! 
+
+![](data/image/news/LT_MerriPoster.jpeg) 
+
+
+* * * * * 
+
 ### 17 September 2018  
 
 Tickets for my Merri Creek Tavern show in Melbourne - on Sat 17th November - will go on sale next Monday 24th September. [Join the mailing list](http://luciethorne.com/?p=forms/mailing-list) to get first offer on tickets.. xo 
