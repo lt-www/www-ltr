@@ -55,7 +55,8 @@ with DAN TUFFY
 **Saturday 17 November 2018**  
 MERRI CREEK TAVERN  
 Westgarth, MELBOURNE  
-*tickets on sale Monday 24 September!* [join the mailing list](http://luciethorne.com/?p=forms/mailing-list) *to get first dibs!:)*  
+[tickets on sale now](http://www.trybooking.com/YKUQ)  
+8pm  
 
 **Sunday 18 November 2018**  
 SHIVOOSTOCK  
