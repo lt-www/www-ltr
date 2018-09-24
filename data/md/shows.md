@@ -44,7 +44,7 @@ HOUSE CONCERT
 BREBL  
 **NIJMEGEN**  
    
-**Friday 2 November 2018** 
+**Friday 2 November 2018**  
 **WAGENINGEN**  
 with DAN TUFFY  
   
