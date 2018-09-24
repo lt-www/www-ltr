@@ -36,14 +36,14 @@ THEATER WALHALLA
 **ROTTERDAM**   
 with [PIETA BROWN](http://www.pietabrown.com)  
 
-**Wednesday 31 October 2018** 
-HOUSE CONCERT    
-**SCHIMMERT**     
- 
-**Thursday 1 November 2018** 
-BREBL    
-**NIJMEGEN**   
-
+**Wednesday 31 October 2018**  
+HOUSE CONCERT  
+**SCHIMMERT**  
+     
+**Thursday 1 November 2018**   
+BREBL  
+**NIJMEGEN**  
+   
 **Friday 2 November 2018** 
 tba    
 **WAGENINGEN**        
