@@ -45,7 +45,6 @@ BREBL
 **NIJMEGEN**  
    
 **Friday 2 November 2018** 
-tba    
 **WAGENINGEN**        
 with DAN TUFFY 
   
