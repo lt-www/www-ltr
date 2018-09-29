@@ -17,6 +17,15 @@ MUSEUM NIC JONK
 **GROOTSCHERMER**  
 with [PIETA BROWN](http://www.pietabrown.com)  
     
+**SWITZERLAND**    
+
+**Monday 22 October 2018**  
+EL LOKAL  
+**ZURICH**   
+with [PIETA BROWN](http://www.pietabrown.com) and HOWE GELB     
+
+**NETHERLANDS**    
+
 **Tuesday 23 October 2018**  
 [BLUE ROOM SESSIONS](http://www.blueroomsessions.nl/)  
 Verkadefabriek, **DEN BOSCH**  
