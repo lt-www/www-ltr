@@ -3,12 +3,12 @@
 **NETHERLANDS**    
 
 **Friday 19 October 2018**  
-NIEUWE DIJKHUIS  
+[NIEUWE DIJKHUIS](http://www.hetnieuwedijkhuis.nl/agendaitem.php?id=58)    
 **DOETINCHEM**  
  with [PIETA BROWN](http://www.pietabrown.com)     
 
 **Saturday 20 October 2018**  
-RAMBLIN ROOTS FESTIVAL  
+[RAMBLIN ROOTS FESTIVAL](https://www.tivolivredenburg.nl/agenda/ramblin-roots-20-10-2018)  
 Tivolivredenburg, **UTRECHT**  
 with [PIETA BROWN](http://www.pietabrown.com)    
 
@@ -18,12 +18,12 @@ MUSEUM NIC JONK
 with [PIETA BROWN](http://www.pietabrown.com)  
     
 **Tuesday 23 October 2018**  
-BLUE ROOM SESSIONS  
+[BLUE ROOM SESSIONS](http://www.blueroomsessions.nl/)  
 Verkadefabriek, **DEN BOSCH**  
 with [PIETA BROWN](http://www.pietabrown.com)    
 
 **Thursday 25 October 2018**  
-LUXORLIVE  
+[LUXORLIVE](https://www.luxorlive.nl/agenda/pieta-brown/)  
 **ARNHEM**  
 with [PIETA BROWN](http://www.pietabrown.com)  
    
@@ -32,7 +32,7 @@ DE AMER, **AMEN**
 with [PIETA BROWN](http://www.pietabrown.com)  
     
 **Sunday 28 October 2018**  
-THEATER WALHALLA  
+[THEATER WALHALLA](https://www.theaterwalhalla.nl/voorstelling/pieta-brown/)  
 **ROTTERDAM**   
 with [PIETA BROWN](http://www.pietabrown.com)  
 
