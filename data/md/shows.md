@@ -71,8 +71,13 @@ Westgarth, MELBOURNE
 [tickets on sale now](http://www.trybooking.com/YKUQ)  
 8pm  
 
-**Sunday 18 November 2018**  
+* * * * *   
+
+**VICTORIA**    
+
+**Friday 12 - Sunday 14 April 2019**  
 SHIVOOSTOCK  
+*postponed from November 2018 to April 2019!*  
 Caringal Scout Camp, **CARINGAL**  
 [tickets](https://www.trybooking.com/book/event?eid=419474)     
 
