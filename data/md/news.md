@@ -1,9 +1,8 @@
-
 * * * * * 
 
 ### 15 October 2018  
 
-Tour of The Netherlands with Pieta Brown starts this week! Plus more shows have been added!  - in Zurich, Schimmert, Nijmegen and Wageningen. [All info here](shows) xx
+Tour of The Netherlands with Pieta Brown starts this week! And more shows have been added!  in Zurich with Pieta & Howe Gelb, plus solo-LT-shows in Schimmert and Nijmegen, and in Wageningen with Dan Tuffy. [All info here](shows) xx
 
 ![](data/image/news/PBNetherlands.jpeg) 
 
