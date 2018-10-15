@@ -5,17 +5,20 @@
 **Friday 19 October 2018**  
 [NIEUWE DIJKHUIS](http://www.hetnieuwedijkhuis.nl/agendaitem.php?id=58)    
 **DOETINCHEM**  
- with [PIETA BROWN](http://www.pietabrown.com)     
+ with [PIETA BROWN](http://www.pietabrown.com)   
+8pm    
 
 **Saturday 20 October 2018**  
 [RAMBLIN ROOTS FESTIVAL](https://www.tivolivredenburg.nl/agenda/ramblin-roots-20-10-2018)  
 Tivolivredenburg, **UTRECHT**  
 with [PIETA BROWN](http://www.pietabrown.com)    
+11pm 
 
 **Sunday 21 October 2018**  
 MUSEUM NIC JONK  
 **GROOTSCHERMER**  
 with [PIETA BROWN](http://www.pietabrown.com)  
+5pm  
     
 * * * * *    
 
@@ -25,6 +28,7 @@ with [PIETA BROWN](http://www.pietabrown.com)
 EL LOKAL  
 **ZURICH**   
 with [PIETA BROWN](http://www.pietabrown.com) and HOWE GELB     
+9pm  
 
 * * * * *   
 
@@ -34,20 +38,24 @@ with [PIETA BROWN](http://www.pietabrown.com) and HOWE GELB
 [BLUE ROOM SESSIONS](http://www.blueroomsessions.nl/)  
 Verkadefabriek, **DEN BOSCH**  
 with [PIETA BROWN](http://www.pietabrown.com)    
+8.30pm 
 
 **Thursday 25 October 2018**  
 [LUXORLIVE](https://www.luxorlive.nl/agenda/pieta-brown/)  
 **ARNHEM**  
 with [PIETA BROWN](http://www.pietabrown.com)  
+9pm  
    
 **Saturday 27 October 2018**  
 DE AMER, **AMEN**  
 with [PIETA BROWN](http://www.pietabrown.com)  
+8pm  
     
 **Sunday 28 October 2018**  
 [THEATER WALHALLA](https://www.theaterwalhalla.nl/voorstelling/pieta-brown/)  
 **ROTTERDAM**   
 with [PIETA BROWN](http://www.pietabrown.com)  
+3pm  
 
 **Wednesday 31 October 2018**  
 HOUSE CONCERT  
