@@ -25,7 +25,7 @@ with [PIETA BROWN](http://www.pietabrown.com)
 **SWITZERLAND**    
 
 **Monday 22 October 2018**  
-EL LOKAL  
+[EL LOKAL](http://www.ellokal.ch/)  
 **ZURICH**   
 with [PIETA BROWN](http://www.pietabrown.com) and HOWE GELB     
 9pm  
