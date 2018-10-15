@@ -1,3 +1,12 @@
+
+* * * * * 
+
+### 15 October 2018  
+
+Tour of The Netherlands with Pieta Brown starts this week! Plus more shows have been added!  - in Zurich, Schimmert, Nijmegen and Wageningen. [All info here](shows) xx
+
+![](data/image/news/PBNetherlands.jpeg) 
+
 * * * * * 
 
 ### 24 September 2018  
@@ -5,7 +14,6 @@
 [Tickets are now on sale](http://www.trybooking.com/YKUQ) for my Merri Creek Tavern show in Melbourne on Saturday 17th November! 
 
 ![](data/image/news/LT_MerriPoster.jpeg) 
-
 
 * * * * * 
 
