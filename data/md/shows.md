@@ -66,6 +66,7 @@ BREBL
 **NIJMEGEN**  
    
 **Friday 2 November 2018**  
+MUZIEK SALON  
 **WAGENINGEN**  
 with DAN TUFFY  
   
