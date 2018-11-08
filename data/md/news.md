@@ -2,7 +2,7 @@
 
 ### 8 November 2018  
 
-Just announced: Hamish Stuart & I will be playing at the inaugural Bendigo Autumn Music Festival! Check out this line up..  xx
+Just announced: I'll be playing at the inaugural Bendigo Autumn Music Festival in duet with th one n only Hamish Stuart. Check out this line up..  xx
 
 ![](data/image/news/BAM.jpeg) 
 
