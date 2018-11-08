@@ -1,32 +1,4 @@
-* * * * *   
 
-**NETHERLANDS**    
-
-**Friday 19 October 2018**  
-[NIEUWE DIJKHUIS](http://www.hetnieuwedijkhuis.nl/agendaitem.php?id=58)    
-**DOETINCHEM**  
- with [PIETA BROWN](http://www.pietabrown.com)   
-
-**Saturday 20 October 2018**  
-[RAMBLIN ROOTS FESTIVAL](https://www.tivolivredenburg.nl/agenda/ramblin-roots-20-10-2018)  
-Tivolivredenburg, **UTRECHT**  
-with [PIETA BROWN](http://www.pietabrown.com)    
-
-**Sunday 21 October 2018**  
-MUSEUM NIC JONK  
-**GROOTSCHERMER**  
-with [PIETA BROWN](http://www.pietabrown.com)  
-    
-* * * * *    
-
-**SWITZERLAND**    
-
-**Monday 22 October 2018**  
-[EL LOKAL](http://www.ellokal.ch/)  
-**ZURICH**   
-with [PIETA BROWN](http://www.pietabrown.com) and HOWE GELB     
-
-* * * * *   
 
 **NETHERLANDS**    
 
