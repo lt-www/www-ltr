@@ -2,7 +2,7 @@
 
 ### 8 November 2018  
 
-Loving thanks to all who made these past few weeks around The Netherlands such a great time! Just announced: Hamish Stuart & I will be playing at the inaugural Bendigo Autumn Music Festival! Check out this line up..  xx
+Just announced: Hamish Stuart & I will be playing at the inaugural Bendigo Autumn Music Festival! Check out this line up..  xx
 
 ![](data/image/news/BAM.jpeg) 
 
