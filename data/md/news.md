@@ -2,7 +2,7 @@
 
 ### 8 November 2018  
 
-Just announced: the inaugural Bendigo Autumn Music Festival! in duet with th one n only Hamish Stuart! xx
+Just announced: the inaugural Bendigo Autumn Music Festival! and I'll be playing in duo-mode with th one n only Hamish Stuart! xx
 
 ![](data/image/news/BAM.jpeg) 
 
