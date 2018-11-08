@@ -10,6 +10,9 @@ Westgarth, MELBOURNE
 
 * * * * *   
 
+*...more New Year dates in South Australia, Victoria & Tasmania coming soon!*
+* * * * *   
+
 **VICTORIA**    
 
 **Friday 12 - Sunday 14 April 2019**  
