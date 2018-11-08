@@ -1,5 +1,42 @@
 ## shows/archive
 
+* * * * *     
+
+**NETHERLANDS**    
+
+**Friday 2 November 2018**  
+MUZIEK SALON  
+**WAGENINGEN**  
+with DAN TUFFY  
+SOLD OUT   
+     
+**Thursday 1 November 2018**   
+BREBL  
+**NIJMEGEN**  
+   
+**Wednesday 31 October 2018**  
+HOUSE CONCERT  
+**SCHIMMERT**  
+
+**Sunday 28 October 2018**  
+[THEATER WALHALLA](https://www.theaterwalhalla.nl/voorstelling/pieta-brown/)  
+**ROTTERDAM**   
+with [PIETA BROWN](http://www.pietabrown.com)  
+   
+**Saturday 27 October 2018**  
+DE AMER, **AMEN**  
+with [PIETA BROWN](http://www.pietabrown.com)  
+    
+**Thursday 25 October 2018**  
+[LUXORLIVE](https://www.luxorlive.nl/agenda/pieta-brown/)  
+**ARNHEM**  
+with [PIETA BROWN](http://www.pietabrown.com)  
+
+**Tuesday 23 October 2018**  
+[BLUE ROOM SESSIONS](http://www.blueroomsessions.nl/)  
+Verkadefabriek, **DEN BOSCH**  
+with [PIETA BROWN](http://www.pietabrown.com)    
+
 * * * * *    
 
 **SWITZERLAND**    
