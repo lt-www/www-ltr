@@ -10,7 +10,8 @@ Westgarth, MELBOURNE
 
 * * * * *   
 
-*...more New Year dates in South Australia, Victoria & Tasmania coming soon!*
+*...more New Year dates in South Australia, Victoria & Tasmania announced soon!*
+
 * * * * *   
 
 **VICTORIA**    
