@@ -1,5 +1,14 @@
 * * * * * 
 
+### 8 November 2018  
+
+Loving thanks to all who made these past few weeks around The Netherlands such a great time! Just announced: Hamish Stuart & I will be playing at the inaugural Bendigo Autumn Music Festival! Check out this line up..  xx
+
+![](data/image/news/BAM.jpeg) 
+
+
+* * * * * 
+
 ### 15 October 2018  
 
 Tour of The Netherlands with Pieta Brown starts this week! And more shows have been added!  in Zurich with Pieta & Howe Gelb, plus solo-LT-shows in Schimmert and Nijmegen, and in Wageningen with Dan Tuffy. [All info here](shows) xx
