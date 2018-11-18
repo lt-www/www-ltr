@@ -5,8 +5,7 @@
 **Saturday 17 November 2018**  
 MERRI CREEK TAVERN  
 Westgarth, MELBOURNE  
-[tickets](http://www.trybooking.com/YKUQ)  
-8pm  
+SOLD OUT   
 
 * * * * *   
 
