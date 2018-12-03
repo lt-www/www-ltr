@@ -1,4 +1,12 @@
 ## shows/archive
+* * * * *   
+
+**VICTORIA**    
+
+**Saturday 17 November 2018**  
+MERRI CREEK TAVERN  
+Westgarth, MELBOURNE  
+SOLD OUT   
 
 * * * * *     
 
