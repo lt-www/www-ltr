@@ -45,7 +45,7 @@ tickets on sale soon
 **Sunday 7 April 2019**  
 THE BRIDGE HOTEL      
 Walker St, CASTLEMAINE        
-with JO JO SMITH
+with JO JO SMITH  
 3pm       
 
 **Friday 12 - Sunday 14 April 2019**  
