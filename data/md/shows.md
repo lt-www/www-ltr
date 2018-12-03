@@ -42,17 +42,16 @@ tickets on sale soon
 
 **VICTORIA**    
 
-**Friday 12 - Sunday 14 April 2019**  
-SHIVOOSTOCK  
-Caringal Scout Camp, **CARINGAL**  
-[tickets](https://www.trybooking.com/book/event?eid=419474)     
-
 **Sunday 7 April 2019**  
 THE BRIDGE HOTEL      
 Walker St, CASTLEMAINE        
 with JO JO SMITH
-3pm      
-[tickets](http://www.trybooking.com/ZTIU)  
+3pm       
+
+**Friday 12 - Sunday 14 April 2019**  
+SHIVOOSTOCK  
+Caringal Scout Camp, **CARINGAL**  
+[tickets](https://www.trybooking.com/book/event?eid=419474)     
     
 **Friday 26 - Sunday 28 April 2019**  
 [BENDIGO AUTUMN MUSIC FESTIVAL](http://www.bendigoautumnmusic.com)     
