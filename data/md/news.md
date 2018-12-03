@@ -6,6 +6,8 @@ Huge sale at the [bandcamp store](https://luciethorne.bandcamp.com) starts now! 
 
 In other news - new tour dates have just been announced for South Australia, Tassie & Vic! [Details here](shows) xx
 
+![](data/image/news/bandcamp.jpeg) 
+
 * * * * * 
 
 ### 8 November 2018  
