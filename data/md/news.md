@@ -1,5 +1,13 @@
 * * * * * 
 
+### 3 December 2018  
+
+Huge sale at the [bandcamp store](https://luciethorne.bandcamp.com) starts now! From today through till December 17th all prices on CDs and digi downloads are slashed! Go get yrselves a bargain! or... buy some music for a friend? xx  
+
+In other news - new tour dates announced in South Australia, Tassie & Vic! [Details here](shows) xx
+
+* * * * * 
+
 ### 8 November 2018  
 
 Just announced: the inaugural Bendigo Autumn Music Festival! and I'll be playing in duo-mode with th one n only Hamish Stuart! xx
