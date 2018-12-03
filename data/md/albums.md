@@ -1,4 +1,4 @@
-**BUY ALBUMS:** physical & digital discography [available here](https://luciethorne.bandcamp.com/)  
+**BUY ALBUMS:** physical & digital discography [available here](https://luciethorne.bandcamp.com/) **PRICES SLASHED ON ALL CDs & DIGI DOWNLOADS till DEC 17th!**   
 
 [![Everything Sings Tonight][9.1]][9.2]
 *Everything Sings Tonight*\
