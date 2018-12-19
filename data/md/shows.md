@@ -8,7 +8,7 @@ Currie St, ADELAIDE
 with THE YEARLINGS  
 [tickets](http://www.trybooking.com/ZSUZ) 
    
-**Saturday 23 February 2019**  
+**Saturday 23 February 2019**    
 COOEE ARTHOUSE  
 Old Coach Rd, ALDINGA  
 with THE YEARLINGS  
