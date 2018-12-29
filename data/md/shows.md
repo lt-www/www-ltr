@@ -36,7 +36,8 @@ with CLAIRE ANNE TAYLOR & JO JO SMITH
 TWO OAKS      
 Bass Hwy, SOMERSET     
 with CLAIRE ANNE TAYLOR & JO JO SMITH    
-tickets on sale soon   
+3pm  
+[tickets](http://www.trybooking.com/BABTP)       
 
 * * * * *   
 
