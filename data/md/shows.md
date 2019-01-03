@@ -47,7 +47,8 @@ with CLAIRE ANNE TAYLOR & JO JO SMITH
 THE BRIDGE HOTEL      
 Walker St, CASTLEMAINE        
 with JO JO SMITH  
-3pm       
+3pm  
+[tickets](https://thebridgehotel.oztix.com.au/outlet/event/10815e50-e816-4e15-b386-ddde4cdbffb5)          
 
 **Friday 12 - Sunday 14 April 2019**  
 SHIVOOSTOCK  
