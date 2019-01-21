@@ -1,5 +1,16 @@
 * * * * *   
 
+**VICTORIA**    
+
+**Saturday 16 February 2019**  
+CARAVAN MUSIC CLUB    
+Victor Rd, EAST BENTLEIGH      
+with DON WALKER & THE SUAVE FUCKS  
+8pm      
+[tickets](https://www.trybooking.com/book/event?eid=435075&) 
+
+* * * * *   
+
 **SOUTH AUSTRALIA**    
 
 **Friday 22 February 2019**  
