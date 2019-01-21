@@ -1,5 +1,15 @@
 * * * * * 
 
+### 21 January 2019  
+
+Exciting times out here brewing up a brand-new record! Most of the album has been tracked at Marrickville's fabulous Golden Retriever Studios and i'm currently working away on the finishing touches. Here's a pic of the band - Hamish Stuart, Chris Abrahams & Dave Symes - in action. More news on all that soon!
+
+My first show for the year will be opening for the one n only Don Walker & The Suave Fucks at Melbourne's Caravan Club, followed by a couple of shows in South Australia with The Yearlings! [Tickets and more info here](shows).  
+
+![](data/image/news/Recording.jpeg) 
+
+* * * * * 
+
 ### 3 December 2018  
 
 Huge sale at the [bandcamp store](https://luciethorne.bandcamp.com) starts now! From today through till December 17th all prices on CDs and digi downloads are slashed! Go get yrselves a bargain! or... buy some music for a friend? xx  
