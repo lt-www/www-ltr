@@ -18,12 +18,14 @@ VINTAGE VULTURE
 Currie St, ADELAIDE  
 with THE YEARLINGS  
 [tickets](http://www.trybooking.com/ZSUZ) 
+8pm  
    
 **Saturday 23 February 2019**    
 COOEE ARTHOUSE  
 Old Coach Rd, ALDINGA  
 with THE YEARLINGS  
 [tickets](https://www.eventbrite.com.au/e/lucie-thorne-the-yearlings-tickets-53040143497 )
+8pm    
 
 * * * * *   
 
