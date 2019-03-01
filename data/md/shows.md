@@ -1,21 +1,12 @@
 * * * * *   
 
-**SOUTH AUSTRALIA**    
+**VICTORIA**    
 
-**Friday 22 February 2019**  
-VINTAGE VULTURE  
-Currie St, ADELAIDE  
-with THE YEARLINGS  
-8pm    
-[tickets](http://www.trybooking.com/ZSUZ)   
-
-   
-**Saturday 23 February 2019**    
-COOEE ARTHOUSE  
-Old Coach Rd, ALDINGA  
-with THE YEARLINGS  
-8pm  
-[tickets](https://www.eventbrite.com.au/e/lucie-thorne-the-yearlings-tickets-53040143497 )  
+**Sunday 10 March 2019**  
+THE UNION HOTEL  
+Union St, BRUNSWICK    
+IWD with SUZANNAH ESPIE, TRACEY McNEIL, ALISON FERRIER, KATIE BATES    
+4pm    
    
 * * * * *   
 
