@@ -1,5 +1,20 @@
 ## shows/archive
 
+
+* * * * *   
+
+**SOUTH AUSTRALIA**    
+
+**Saturday 23 February 2019**    
+COOEE ARTHOUSE  
+Old Coach Rd, ALDINGA  
+with THE YEARLINGS    
+
+**Friday 22 February 2019**  
+VINTAGE VULTURE  
+Currie St, ADELAIDE  
+with THE YEARLINGS  
+
 * * * * *   
 
 **VICTORIA**    
