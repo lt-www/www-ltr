@@ -2,7 +2,9 @@
 
 ### 14 March 2019  
 
-Three shows in Tassie this weekend with Jo Jo Smith & Claire Anne Taylor! Limited tix left for each of these - [book here](shows).  
+Three shows in Tassie this weekend with Jo Jo Smith & Claire Anne Taylor! Limited tix left for each of these - [bookings here](shows).  
+
+![](data/image/news/JJ_LT_CAT.jpeg)  
 
 * * * * * 
 
