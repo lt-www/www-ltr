@@ -1,5 +1,13 @@
 ## shows/archive
 
+* * * * *   
+
+**VICTORIA**    
+
+**Sunday 10 March 2019**  
+THE UNION HOTEL  
+Union St, BRUNSWICK    
+IWD with SUZANNAH ESPIE, TRACEY McNEIL, ALISON FERRIER, KATIE BATES     
 
 * * * * *   
 
