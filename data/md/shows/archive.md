@@ -2,6 +2,26 @@
 
 * * * * *   
 
+**TASMANIA**
+
+**Sunday 17 March 2019**  
+TWO OAKS      
+Bass Hwy, SOMERSET     
+with JO JO SMITH      
+
+**Saturday 16 March 2019**  
+SAINT JOHN CRAFT BEER BAR     
+St John St, LAUNCESTON    
+with JO JO SMITH         
+
+**Friday 15 March 2019**  
+THE COPPING HALL   
+Allanby St, COPPING  
+with CLAIRE ANNE TAYLOR & JO JO SMITH    
+SOLD OUT             
+
+* * * * *   
+
 **VICTORIA**    
 
 **Sunday 10 March 2019**  
