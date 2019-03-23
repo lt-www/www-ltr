@@ -12,13 +12,24 @@ SHIVOOSTOCK
 Caringal Scout Camp, **CARINGAL**  
 [tickets](https://www.trybooking.com/book/event?eid=419474)     
     
-**Friday 26 - Sunday 28 April 2019**  
+**Friday 26 April 2019**  
 [BENDIGO AUTUMN MUSIC FESTIVAL](http://www.bendigoautumnmusic.com)     
-**BENDIGO**  
-with HAMISH STUART    
-[tickets](http://www.bendigoautumnmusic.com/)     
+The Engine Room, **BENDIGO**  
+with HAMISH STUART 
+8-9pm         
 
+**Saturday 27 April 2019**  
+[BENDIGO AUTUMN MUSIC FESTIVAL](http://www.bendigoautumnmusic.com)     
+The Engine Room, **BENDIGO**  
+with HAMISH STUART 
+9-10pm  
+
+**Sunday 28 April 2019**  
+[BENDIGO AUTUMN MUSIC FESTIVAL](http://www.bendigoautumnmusic.com)     
+The Rifle Brigade, **BENDIGO**  
+with HAMISH STUART 
+9-10pm  
+  
 * * * * *  
  
-
 [past shows](?p=shows/archive/)
