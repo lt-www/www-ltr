@@ -6,7 +6,8 @@
 NORTH EAST ARTISANS       
 Bridge St East, BENALLA        
 with JO JO SMITH  
-6.30pm  
+6.30pm    
+[tickets](https://www.trybooking.com/BBUIX)   
 
 **Sunday 7 April 2019**  
 THE BRIDGE HOTEL      
@@ -19,19 +20,24 @@ with JO JO SMITH
 
 **VICTORIA**    
 
-**Friday 12 - Sunday 14 April 2019**  
-SHIVOOSTOCK  
-Caringal Scout Camp, **CARINGAL**     
-[EVENT CANCELED](https://www.shivoostock.com/?fbclid=IwAR3RDkTu5Vbz8vnbBj71CRISaYCNCHtG_Z90CL9Vnm_6kkFjlJHdrCW0mmY)  
-    
-* * * * * 
+**Thursday 2 May 2019**  
+NORTHCOTE SOCIAL CLUB         
+MELBOURNE          
+with JOAN AS POLICEWOMAN     
+SOLD OUT    
 
-**VICTORIA**    
-
-**Friday 26 - Sunday 28 April 2019**  
-BENDIGO AUTUMN MUSIC FESTIVAL  
-[*EVENT CANCELED*](http://www.bendigoautumnmusic.com)  
+**Friday 3 May 2019**  
+CARAVAN MUSIC CLUB         
+BENTLEIGH EAST            
+with JOAN AS POLICEWOMAN     
+SOLD OUT    
     
+**Friday 10 May 2019**  
+NORTHCOTE SOCIAL CLUB         
+MELBOURNE          
+with JOAN AS POLICEWOMAN     
+SOLD OUT    
+
 * * * * *  
  
 [past shows](?p=shows/archive/)
