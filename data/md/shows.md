@@ -22,6 +22,7 @@ with JO JO SMITH
 **Friday 12 - Sunday 14 April 2019**  
 SHIVOOSTOCK  
 Caringal Scout Camp, **CARINGAL**     
+[EVENT CANCELED](https://www.shivoostock.com/?fbclid=IwAR3RDkTu5Vbz8vnbBj71CRISaYCNCHtG_Z90CL9Vnm_6kkFjlJHdrCW0mmY)  
     
 * * * * * 
 
