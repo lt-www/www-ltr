@@ -35,7 +35,7 @@ SOLD OUT
 **Friday 10 May 2019**  
 NORTHCOTE SOCIAL CLUB         
 High St, Northcote, MELBOURNE          
-with J[JOAN AS POLICEWOMAN](http://joanaspolicewoman.com/)       
+with [JOAN AS POLICEWOMAN](http://joanaspolicewoman.com/)       
 SOLD OUT    
 
 * * * * *  
