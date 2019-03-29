@@ -22,20 +22,20 @@ with JO JO SMITH
 
 **Thursday 2 May 2019**  
 NORTHCOTE SOCIAL CLUB         
-MELBOURNE          
-with JOAN AS POLICEWOMAN     
+High St, Northcote, MELBOURNE          
+with [JOAN AS POLICEWOMAN](http://joanaspolicewoman.com/)       
 SOLD OUT    
 
 **Friday 3 May 2019**  
-CARAVAN MUSIC CLUB         
-BENTLEIGH EAST            
-with JOAN AS POLICEWOMAN     
+[CARAVAN MUSIC CLUB](https://www.caravanmusic.com.au/gigs/joan-as-police-woman-damned-devotion-tour/)           
+Victor Rd, EAST BENTLEIGH           
+with [JOAN AS POLICEWOMAN](http://joanaspolicewoman.com/)       
 SOLD OUT    
     
 **Friday 10 May 2019**  
 NORTHCOTE SOCIAL CLUB         
-MELBOURNE          
-with JOAN AS POLICEWOMAN     
+High St, Northcote, MELBOURNE          
+with J[JOAN AS POLICEWOMAN](http://joanaspolicewoman.com/)       
 SOLD OUT    
 
 * * * * *  
