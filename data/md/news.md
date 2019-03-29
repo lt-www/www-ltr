@@ -2,7 +2,7 @@
 
 ### 29 March 2019  
 
-Delighted to share the news that i'll be opening several shows for [Joan As Policewoman](http://joanaspolicewoman.com/) in Melbourne in May. [Details here](shows). And.. sorry to share the news that not one but two fledgling festivals have been canceled in April!; [Bendigo Autumn Music](http://www.bendigoautumnmusic.com/) & [Shivoostock](https://www.shivoostock.com/). Details at the event's sites. Next up: two shows with Jo Jo Smith next weekend in Benalla & Castlemaine. Hope to see you out there for some [real live music](shows)... xx 
+Delighted to share the news that i'll be opening several shows for [Joan As Policewoman](http://joanaspolicewoman.com/) in Melbourne in May. [Details here](shows). And.. sorry to share the news that not one but two fledgling festivals have been canceled in April!; [Bendigo Autumn Music](http://www.bendigoautumnmusic.com/) & [Shivoostock](https://www.shivoostock.com/). Details at the event's sites. Next up: two shows with the wonderful Jo Jo Smith coming up in Benalla & Castlemaine next weekend. Hope to see you out there for some [real live music](shows)... xx 
 
 * * * * * 
 
