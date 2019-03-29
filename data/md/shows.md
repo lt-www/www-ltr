@@ -21,31 +21,16 @@ with JO JO SMITH
 
 **Friday 12 - Sunday 14 April 2019**  
 SHIVOOSTOCK  
-Caringal Scout Camp, **CARINGAL**  
-[tickets](https://www.trybooking.com/book/event?eid=419474)     
+Caringal Scout Camp, **CARINGAL**     
     
 * * * * * 
 
 **VICTORIA**    
 
-**Friday 26 April 2019**  
-[BENDIGO AUTUMN MUSIC FESTIVAL](http://www.bendigoautumnmusic.com)     
-The Engine Room, **BENDIGO**  
-with HAMISH STUART   
-8-9pm         
-
-**Saturday 27 April 2019**  
-[BENDIGO AUTUMN MUSIC FESTIVAL](http://www.bendigoautumnmusic.com)     
-The Engine Room, **BENDIGO**  
-with HAMISH STUART  
-9-10pm  
-  
-**Sunday 28 April 2019**  
-[BENDIGO AUTUMN MUSIC FESTIVAL](http://www.bendigoautumnmusic.com)     
-The Rifle Brigade, **BENDIGO**  
-with HAMISH STUART  
-9-10pm  
-   
+**Friday 26 - Sunday 28 April 2019**  
+BENDIGO AUTUMN MUSIC FESTIVAL  
+[*EVENT CANCELED*](http://www.bendigoautumnmusic.com)  
+    
 * * * * *  
  
 [past shows](?p=shows/archive/)
