@@ -4,6 +4,8 @@
 
 This weekend! Two shows with the fabulous Jo Jo Smith! in Benalla & Castlemaine >> [tix and details here](shows) 
 
+![](data/image/news/JJ+LT.jpeg)  
+
 * * * * * 
 
 ### 29 March 2019  
