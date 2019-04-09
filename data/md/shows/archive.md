@@ -1,5 +1,19 @@
 ## shows/archive
 
+* * * * * 
+
+**VICTORIA**    
+
+**Sunday 7 April 2019**  
+THE BRIDGE HOTEL      
+Walker St, CASTLEMAINE        
+with JO JO SMITH      
+
+**Saturday 6 April 2019**  
+NORTH EAST ARTISANS       
+Bridge St East, BENALLA        
+with JO JO SMITH    
+
 * * * * *   
 
 **TASMANIA**
