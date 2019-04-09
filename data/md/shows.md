@@ -2,24 +2,6 @@
 
 **VICTORIA**    
 
-**Saturday 6 April 2019**  
-NORTH EAST ARTISANS       
-Bridge St East, BENALLA        
-with JO JO SMITH  
-6.30pm    
-[tickets](https://www.trybooking.com/BBUIX)   
-
-**Sunday 7 April 2019**  
-THE BRIDGE HOTEL      
-Walker St, CASTLEMAINE        
-with JO JO SMITH  
-3-5pm  
-[tickets](https://thebridgehotel.oztix.com.au/outlet/event/10815e50-e816-4e15-b386-ddde4cdbffb5)          
-
-* * * * * 
-
-**VICTORIA**    
-
 **Thursday 2 May 2019**  
 NORTHCOTE SOCIAL CLUB         
 High St, Northcote, MELBOURNE          
