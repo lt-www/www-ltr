@@ -34,18 +34,18 @@ for [BOB DYLAN'S BIRTHDAY](https://www.caravanmusic.com.au/gigs/bob-dylans-70th-
 
 **VICTORIA**    
 
-**Friday 7 June 2019** 
+**Friday 7 June 2019**   
 MERRI CREEK TAVERN  
-High St, WESTGARTH   
-w HAMISH STUART
-7.30pm
+High St, WESTGARTH  
+w HAMISH STUART  
+7.30pm  
 [tickets](https://tix.fomoevents.com/e/krm5ecW61tnp1XRaNl0)  
 
-**Saturday 8 June 2019** 
+**Saturday 8 June 2019**  
 MERRI CREEK TAVERN  
-High St, WESTGARTH   
-w HAMISH STUART
-7.30pm
+High St, WESTGARTH  
+w HAMISH STUART  
+7.30pm  
 [tickets](https://tix.fomoevents.com/e/JvBXFcI_xEmlLswUBkk)  
 
 * * * * *    
