@@ -58,7 +58,7 @@ Woodlark Street, LISMORE
 8pm  
 [tickets](http://www.trybooking.com/BCCBY)    
 
-**Friday 15 June 2019**  
+**Friday 14 June 2019**  
 HOUSE CONCERT  
 DURANBAH  
 with very special guests SARA TINDLEY & ASH BELL  
