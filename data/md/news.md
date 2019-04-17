@@ -1,5 +1,13 @@
 * * * * * 
 
+### 17 April 2019  
+
+Just announced! A selection of intimate shows in June in VIC, ACT, NSW & QLD! Most of them with Hamish Stuart! And we'll be celebrating the release of the FIRST SONG from the forthcoming album! That's right folks... the new album - *Kitty & Frank* - is set for release at the end of August and the first single will be hitting the internets on May 14th! Tix for these June shows are [on sale now](shows). And there'll be more news on the new musics coming real soon! Stay tuned xx
+
+![](data/image/news/LucieThorneBW1.jpeg)  
+
+* * * * * 
+
 ### 5 April 2019  
 
 This weekend! Two shows with the fabulous Jo Jo Smith! in Benalla & Castlemaine >> [tix and details here](shows) 
