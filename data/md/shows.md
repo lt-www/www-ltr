@@ -95,7 +95,7 @@ SMITHS ALTERNATIVE
 CANBERRA  
 with HAMISH STUART  
 show 7-9pm  
-tickets on sale soon  
+[tickets](https://www.smithsalternative.com/events/lucie-thorne-hamish-stuart-57893?fbclid=IwAR1VHp7kG8UgJj3hxGt6fl5BaADSoLF24lFCWOF4ZvjAPAM4GEk7CWVZpww)   
   
 * * * * *    
 
