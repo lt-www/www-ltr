@@ -53,16 +53,16 @@ w HAMISH STUART
 **NSW**    
 
 **Thursday 13 June 2019**  
-DUSTY ATTIC   
-Woodlark Street, LISMORE
-8pm 
+DUSTY ATTIC  
+Woodlark Street, LISMORE  
+8pm  
 [tickets](http://www.trybooking.com/BCCBY)    
 
 **Friday 15 June 2019**  
 HOUSE CONCERT  
 DURANBAH  
-with very special guests SARA TINDLEY & ASH BELL 
-Doors 6pm / show 7pm / BYO 
+with very special guests SARA TINDLEY & ASH BELL  
+Doors 6pm / show 7pm / BYO  
 [tickets](https://www.trybooking.com/BCCQX)  
 
 * * * * *    
@@ -81,9 +81,9 @@ BRISBANE
 
 **Friday 21 June 2019**  
 HOUSE CONCERT  
-MITTAGONG    
+MITTAGONG  
 with HAMISH STUART  
-Doors 7pm / show 8pm / BYO 
+Doors 7pm / show 8pm / BYO  
 [tickets](https://www.trybooking.com/BCCDY)  
  
 * * * * *    
@@ -91,21 +91,21 @@ Doors 7pm / show 8pm / BYO
 **ACT**    
 
 **Saturday 22 June 2019**  
-SMITHS ALTERNATIVE    
-CANBERRA      
+SMITHS ALTERNATIVE  
+CANBERRA  
 with HAMISH STUART  
-show 7-9pm 
+show 7-9pm  
 tickets on sale soon  
-
+  
 * * * * *    
 
 **NSW**    
 
-**Sunday 23 June 2019**  
-DJANGO @ CAMELOT    
-Marrickville, SYDNEY      
+**Sunday 23 June 2019**    
+DJANGO @ CAMELOT
+Marrickville, SYDNEY  
 with HAMISH STUART  
-Doors 7pm / show 8pm 
+Doors 7pm / show 8pm   
 [tickets](https://www.stickytickets.com.au/85552/lucie_thorne__hamish_stuart_single_launch__django_%40_camelot.aspx)  
 
 * * * * *    
