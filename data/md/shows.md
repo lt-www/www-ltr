@@ -102,7 +102,7 @@ tickets on sale soon
 **NSW**    
 
 **Sunday 23 June 2019**    
-DJANGO @ CAMELOT
+DJANGO @ CAMELOT  
 Marrickville, SYDNEY  
 with HAMISH STUART  
 Doors 7pm / show 8pm   
