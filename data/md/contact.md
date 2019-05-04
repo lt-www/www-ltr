@@ -10,14 +10,14 @@
 
 or write to;
 
-> Lucie Thorne
+> Lucie Thorne  
 > C/- Little Secret Records  
 > PO Box 26    
 > Reservoir  
 > Victoria 3073    
 > Australia  
 
-you can [join Lucie's mailing list][9], visit [Lucie's facebook page][23], or [send lucie a message][11] online.
+you can [join Lucie's mailing list][9], visit [Lucie's facebook page][23], or [send lucie a message][11] online. 
 
   [9]: ?p=forms/mailing-list
   [11]: ?p=forms/send-message
