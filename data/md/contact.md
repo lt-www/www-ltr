@@ -17,7 +17,7 @@ or write to;
 > Victoria 3073    
 > Australia  
 
-you can [join Lucie's mailing list][9], visit [Lucie's facebook page][23], or [send lucie a message][11] online. 
+you can [join Lucie's mailing list][9], visit [Lucie's facebook page][23], or [send Lucie a message][11] online. 
 
   [9]: ?p=forms/mailing-list
   [11]: ?p=forms/send-message
