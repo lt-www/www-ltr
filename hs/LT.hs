@@ -91,9 +91,10 @@ std_copyright :: Config -> FilePath -> H.Content
 std_copyright _ _ =
   H.footer
         [H.class_attr "footer"]
-        [H.a [H.href "http://www.facebook.com/lucie.thorne"] [H.cdata "FB"]
-        ,H.a [H.href "http://soundcloud.com/lucie-1-2"] [H.cdata "SC"]
+        [H.a [H.href "https://luciethorne.bandcamp.com"] [H.cdata "BC"]
         ,H.a [H.href "http://instagram.com/luciennethorne"] [H.cdata "IG"]
+        ,H.a [H.href "http://www.facebook.com/lucie.thorne"] [H.cdata "FB"]
+        ,H.a [H.href "http://soundcloud.com/lucie-1-2"] [H.cdata "SC"]
         ,H.copy
         ,H.a [H.href lt_site] [H.cdata "lucie thorne"]
         ,H.cdata ", 2019. "]
