@@ -2,18 +2,13 @@ HS_OPT = -Wall -fwarn-tabs -O2
 STATIC_OPT = -static -optc-static -optl-static -optl-pthread
 
 build-ghc:
-	ghc $(HS_OPT) --make ltr-cgi.hs -o ltr-cgi
-	strip -s ltr-cgi
-	cp ltr-cgi ../index.cgi
-
-build-ghc-static:
-	ghc $(HS_OPT) $(STATIC_OPT) --make ltr-cgi.hs -o ltr-cgi-static
-	strip -s ltr-cgi-static
-	cp ltr-cgi-static ../index.static.cgi
+	ghc $(HS_OPT) --make lt-cgi.hs -o lt-cgi
+	strip -s lt-cgi
+	cp lt-cgi ../index.cgi
 
 clean:
 	rm -f *.hi *.o
-	rm -f ltr-cgi ltr-cgi-static
+	rm -f lt-cgi
 
 ln-local:
 	rm -f WWW Text

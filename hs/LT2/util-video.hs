@@ -1,4 +1,4 @@
-import LTR
+import qualified LT2.LTR as LT2
 
 type LT_VID = (String,String,String,String)
 
@@ -40,4 +40,4 @@ videos_html :: [String]
 videos_html = concatMap gen_video lt_videos ++ ["","<div class=\"clear\"></div>",""]
 
 videos_io :: IO ()
-videos_io = writeFile (lt_file "data/md/video.md") (unlines videos_html)
+videos_io = writeFile (LT2.lt_file "data/md/video.md") (unlines videos_html)
