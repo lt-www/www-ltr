@@ -99,7 +99,7 @@ std_copyright _cf _p =
          --,H.br []
          ,H.copy
          ,H.a [H.href lt_site] [H.cdata "lucie thorne"]
-         ,H.cdata " 2017. " {- 1998- -}
+         ,H.cdata " 2019. " {- 1998- -}
          ,H.a [H.href H.w3_html_validator] [H.cdata "html"]
          ,H.cdata ", "
          ,H.a [H.href H.w3_css_validator] [H.cdata "css"]
@@ -207,7 +207,7 @@ lt_photo_page :: Config -> (I.Area, I.Id) -> [I.Img] -> String
 lt_photo_page cf (c,n) im =
   let sm = I.img_submenu (lt_base cf) im
       h = photos_page cf im sm c (I.img_neighbours im (c,n))
-  in H.renderHTML5 h
+  in H.renderHTML5_pp h
 
 lt_photo_page_io :: Config -> (I.Area,I.Id) -> IO String
 lt_photo_page_io cf i = lt_img_data cf >>= return . lt_photo_page cf i

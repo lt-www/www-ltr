@@ -14,7 +14,7 @@ md_page cf p = do
   md <- IO.read_file_utf8 fn
   h <- L.lt_markdown_to_html md
   let h' = L.lt_std_html cf p (H.cdata_raw h)
-  CGI.utf8_html_output (H.renderHTML5 h')
+  CGI.utf8_html_output (H.renderHTML5_pp h')
 
 ph_page_def :: L.Config -> IO ()
 ph_page_def cf = do
@@ -61,7 +61,7 @@ mk_viewer v =
 v_page :: L.Config -> String -> IO ()
 v_page cf d = do
   let h' = L.lt_std_html cf ["?v="++d] (mk_viewer d)
-  CGI.utf8_html_output (H.renderHTML5 h')
+  CGI.utf8_html_output (H.renderHTML5_pp h')
 
 resize_get :: L.Config -> IO ()
 resize_get cf = do
