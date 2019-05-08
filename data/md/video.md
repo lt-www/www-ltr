@@ -10,19 +10,20 @@
   </div>
 </div>
 
-<!--
+
 <div class="yt-entry">
   <div class="yt-img">
-    <a href="?v=XUfGjLWvW9g">
+    <a href="https://www.youtube.com/watch?v=XUfGjLWvW9g">
       <img src="http://i.ytimg.com/vi/XUfGjLWvW9g/default.jpg" width="120" height="90" />
     </a>
   </div>
   <div class="yt-txt">
-    <a href="?v=XUfGjLWvW9g">Blackwing / Moving Colours / Green & Blue</a><br />
+    <a href="https://www.youtube.com/watch?v=XUfGjLWvW9g">Blackwing / Moving Colours / Green & Blue</a><br />
     Live in Session - 2SER radio Sydney
   </div>
 </div>
 
+<!--
 <div class="yt-entry">
   <div class="yt-img">
     <a href="?v=2DJJfnrM7hw">
