@@ -4,3 +4,4 @@
 
 [Lucie Thorne Bio](?p=media/bio) 
 
+[Media Release: WHEOGO HILL](data/pr/WheogoHill_MediaRelease_May2019.pdf) 
