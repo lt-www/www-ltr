@@ -1,4 +1,4 @@
-![](data/image/news/clouds.jpg)
+![](data/image/news/bay1.jpg)
 
 **VICTORIA**
 
