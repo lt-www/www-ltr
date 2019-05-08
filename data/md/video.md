@@ -10,7 +10,7 @@
   </div>
 </div>
 
-
+<!--
 <div class="yt-entry">
   <div class="yt-img">
     <a href="https://www.youtube.com/watch?v=XUfGjLWvW9g">
@@ -23,7 +23,6 @@
   </div>
 </div>
 
-<!--
 <div class="yt-entry">
   <div class="yt-img">
     <a href="?v=2DJJfnrM7hw">
