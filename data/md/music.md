@@ -1,3 +1,5 @@
+![](data/image/news/ltrain1.jpg)
+
 New music coming very soon! Stay tuned 
 
 [DISCOGRAPHY](?p=albums)
