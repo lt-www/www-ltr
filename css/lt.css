@@ -25,6 +25,7 @@ h1 {font-weight: bold}
 h1 {text-align: left}
 h1 {margin: 0.25em 0.15em}
 h2 {font-size: 1.1em}
+h2 {clear: both}
 h3 {font-size: 1em}
 h3 {margin: 0 0 -1em 0}
 p {}
@@ -32,6 +33,7 @@ hr {height: 1px}
 hr {border: 0}
 hr {color: #2F4F4F}
 hr {background-color: #2F4F4F}
+/*hr {clear: both}*/
 nav {text-align: right}
 nav {font-weight: normal}
 nav {margin: 1em 0em}
@@ -81,31 +83,11 @@ a.h1 {text-decoration: none}
 
 .contact code {font-family: "Arial",sans-serif}
 
-.fall-to-rise h3 {clear: both}
-
-/* author credit */
-.fall-to-rise blockquote {
- font-size: 0.85em;
- color: #666;
- margin: -0.5em 0em 0em 9em;
-}
-
-/* shopping */
-a.purchase {
- text-decoration:none;
- color: #000;
- padding:2px 8px;
- background-color:#6BC4D9; /* 6BC4D9 DCAFDA */
- -moz-border-radius:10px;
- border-radius:10px;
- vertical-align:middle;
- border: 1px #999 solid;
-}
-
-a.purchase:hover{
- text-decoration:none;
- background-color:#5FADBF; /* 5FADBF BF9BBE */
-}
+/***** albums (overview page) *****/
+.albums p {clear: both}
+.albums div.content img {float: left}
+.albums div.content img {margin: 0px 50px 15px 0px}
+.albums div div p {margin: 15px 0px 15px 0px}
 
 /***** forms *****/
 table {font-size: 100%} /* IE */
