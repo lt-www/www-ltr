@@ -1,10 +1,8 @@
 <!-- KITTY & FRANK -->
 
-Release Date: 26th August 2019
-
-[Kitty & Frank Media Release](data/pr/Kitty_and_Frank_Longlead_MediaRelease_May2019.pdf) (pdf)
-
-[Liner Notes - Craig Lawler](?p=albums/kitty-and-frank/lawler)
+Release Date: 26th August 2019\
+[Kitty & Frank MEDIA RELEASE](data/pr/Kitty_and_Frank_Longlead_MediaRelease_May2019.pdf) (pdf)\
+[LINER NOTES - Craig Lawler](?p=albums/kitty-and-frank/lawler)
 
 1. Golden Plains
 2. Thief
