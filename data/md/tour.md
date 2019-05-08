@@ -1,4 +1,4 @@
-![](data/image/ground/clouds.jpg)
+![](data/image/news/tourbanner.jpg)
 
 **VICTORIA**
 
