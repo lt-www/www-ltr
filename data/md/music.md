@@ -2,6 +2,8 @@ New music coming very soon! Stay tuned
 
 [DISCOGRAPHY](?p=albums)
 
+[LISTEN & SHOP at BANDCAMP](https://luciethorne.bandcamp.com/)
+
 <div class="yt-entry">
   <div class="yt-img">
     <a href="?v=DxTKUIL_tpI">
