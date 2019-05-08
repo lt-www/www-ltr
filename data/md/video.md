@@ -1,15 +1,16 @@
 <div class="yt-entry">
   <div class="yt-img">
-    <a href="?v=DxTKUIL_tpI">
+    <a href="https://www.youtube.com/watch?v=DxTKUIL_tpI">
       <img src="http://i.ytimg.com/vi/DxTKUIL_tpI/default.jpg" width="120" height="90" />
     </a>
   </div>
   <div class="yt-txt">
-    <a href="?v=DxTKUIL_tpI">The Rushing Dark</a><br />
+    <a href="https://www.youtube.com/watch?v=DxTKUIL_tpI">The Rushing Dark</a><br />
     Video by Heike Qualitz
   </div>
 </div>
 
+<!--
 <div class="yt-entry">
   <div class="yt-img">
     <a href="?v=XUfGjLWvW9g">
@@ -22,7 +23,6 @@
   </div>
 </div>
 
-<!--
 <div class="yt-entry">
   <div class="yt-img">
     <a href="?v=2DJJfnrM7hw">
@@ -34,7 +34,6 @@
     SBS TV 'Rockwiz'
   </div>
 </div>
--->
 
 <div class="yt-entry">
   <div class="yt-img">
@@ -61,3 +60,4 @@
 </div>
 
 <div class="clear"></div>
+-->
