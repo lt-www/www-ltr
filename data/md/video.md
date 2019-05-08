@@ -22,6 +22,7 @@
   </div>
 </div>
 
+<!--
 <div class="yt-entry">
   <div class="yt-img">
     <a href="?v=2DJJfnrM7hw">
@@ -33,6 +34,7 @@
     SBS TV 'Rockwiz'
   </div>
 </div>
+-->
 
 <div class="yt-entry">
   <div class="yt-img">
