@@ -7,7 +7,7 @@ NEW MUSIC COMING SOON! Stay tuned
 
 [LISTEN & SHOP at BANDCAMP](https://luciethorne.bandcamp.com/)
 
-[VIDEO]((?p=video)
+[VIDEO](?p=video)
 
 <!--
 <div class="yt-entry">
