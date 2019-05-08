@@ -4,6 +4,8 @@ New music coming very soon! Stay tuned
 
 [LISTEN & SHOP at BANDCAMP](https://luciethorne.bandcamp.com/)
 
+VIDEO:
+
 <div class="yt-entry">
   <div class="yt-img">
     <a href="?v=DxTKUIL_tpI">
