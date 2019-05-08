@@ -1,3 +1,5 @@
+![](data/image/news/contact1.jpg)
+
 **Media inquiries:**
 
 > Clare McGregor Publicity  
