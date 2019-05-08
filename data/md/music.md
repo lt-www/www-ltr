@@ -7,8 +7,9 @@ NEW MUSIC COMING SOON! Stay tuned
 
 [LISTEN & SHOP at BANDCAMP](https://luciethorne.bandcamp.com/)
 
-VIDEO:
+[VIDEO]((?p=video)
 
+<!--
 <div class="yt-entry">
   <div class="yt-img">
     <a href="https://www.youtube.com/watch?v=DxTKUIL_tpI">
@@ -20,3 +21,4 @@ VIDEO:
     Video by Heike Qualitz
   </div>
 </div>
+-->
