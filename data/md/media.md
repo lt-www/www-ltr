@@ -4,4 +4,4 @@
 
 [Lucie Thorne Bio](?p=media/bio) 
 
-[Media Release: WHEOGO HILL](data/pr/WheogoHill_MediaRelease_May2019.pdf) 
+WHEOGO HILL - Single & Tour [Media Release May 2019](data/pr/WheogoHill_MediaRelease_May2019.pdf)pdf 
