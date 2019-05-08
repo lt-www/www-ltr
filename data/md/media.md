@@ -1,1 +1,1 @@
-![](data/image/media/LT-3-PHOTO.jpg)
+![](data/image/media/LT-3-PHOTO.png)
