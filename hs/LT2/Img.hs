@@ -1,4 +1,4 @@
-module Img where
+module LT2.Img where
 
 import Control.Monad {- base -}
 import Data.Char {- base -}

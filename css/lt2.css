@@ -1,0 +1,221 @@
+/* @ */
+@media screen {
+ body {margin: 2.5em auto}
+ h1 {font-size: 4em}
+}
+
+@media all and (max-width: 800px) {
+ body {margin: 0em auto}
+ h1 {font-size: 3.25em}
+}
+
+@font-face {
+  font-family: lt-normal;
+  src: url(../data/font/futura.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: lt-header;
+  src: url(../data/font/futura.ttf) format("truetype");
+}
+
+/* plain */
+html {}
+body {background-color: #000} /* #101010 #060606 #fffff0 #212321 #392313 #442922 #53a0a8*/
+body {color: #f0f0f0} /* #2f4f4f #fdf5e0 #fdf5e0*/
+body {font-family: /*lt-normal, "Arial",*/ sans-serif}
+body {font-size: 0.9em}
+body {max-width: 45em}
+h1, h2, h3, h4 {font-family: /*lt-header, "Arial",*/ sans-serif}
+h1, h2, h3, h4 {clear: both}
+p {line-height: 1.15em}
+a {color: #f0f0f0}  /* #2F4F4F #F3E667 #fefced */
+a:visited {}
+ol {}
+ul {list-style: none;}
+li {margin-top: 0.15em} /* list spacing == line-height (1.25em) */
+footer {font-size: 84%}
+footer {margin: 2em 0em 0.15em 0em}
+footer p a img {margin: 0px 4px 0px 0px}
+img {border: 0px} /* images are never the only link, don't indicate link */
+img {max-width: 100%}
+img {height: auto}
+/* tables for form layout, dl variants take up too much space */
+table {font-size: 100%} /* IE */
+th {text-align: right}
+th {font-weight: normal}
+td {}
+
+h1 {
+ font-weight: normal;
+ letter-spacing: 0.25em;
+ white-space: nowrap;
+ margin: 0em 0em 0.25em 0em;
+ padding-top: 0.1em;
+}
+
+h2 {
+ font-size: 110%;
+ font-weight: normal;
+ margin: 0em;
+}
+
+h3 {
+ font-size: 100%;
+ font-weight: bold; /* normal */
+ margin: 0em;
+}
+
+blockquote {
+ margin: 0em 1em;
+ padding: 0em 1em;
+ border: none;
+ border-color: #f0f0f0; /* #2F4F4F */
+ border-width: 0px;
+}
+
+hr {
+ width: 100%;
+ height: 1px;
+ border: 0;
+ color: #333; /* #f0f0f0 #2F4F4F #fdf5e0 */
+ background-color: #333; /* #f0f0f0 #2F4F4F #fdf5e0 */
+}
+
+
+/* classes */
+
+div.main {}
+.main {display: block}
+.main {position: relative}
+.main {background-color:#000} /* #060606 cancelled below if CSS3 */
+.main {background-color:rgba(0,0,0,1)}
+.main {padding: 1em}
+
+div.clear {clear: both}
+nav {font-weight: normal}
+nav a.not-here:hover {color: #060606; background-color: #f0f0f0}
+nav.menu, nav.submenu {font-family: /*lt-normal, "Arial",*/ sans-serif}
+nav.submenu {padding: 0.5em 0em 0em 0em}
+.menu a {text-decoration: none}
+.menu a {font-weight: bold}
+.menu a {font-size: 1.15em}
+ul.menu, ul.submenu {margin: 0em; padding: 0em;} /* nav_menu_list */
+li.menu, li.submenu {display: inline; padding-right: 1em;}
+span.menu, span.submenu {padding-right: 1em;} /* nav_menu_span */
+span.menu-separator {display: none;}
+p.caption {display: none}
+div.content ul li:before {content: "\00BB \0020"}
+img.tag {display: none}
+body.photos div.main h1 {margin: 0em 0em -0.25em 0em}
+img.img-preview {padding-right: 0.5em}
+div.img-preload {display: none}
+span.arrows {padding-left: 2em}
+.contact code {font-family: /*lt-normal, "Arial",*/ sans-serif}
+
+div.img-preview {
+ width: 500%; /* stop image previews from wrapping */
+ padding-top: 0.5em;
+}
+
+div.radio {
+ border: none;
+ border-width: 1px;
+ margin: 1em 1em;
+}
+
+/* a */
+a.here {color: #666} /* #000 #011e48 #2F4F4F */
+a.h1, a.edit, a.edit:visited {text-decoration: none}
+
+/***** albums (overview page) *****/
+.albums p {clear: both}
+.albums div.content img {float: left}
+.albums div.content img {margin: 0px 50px 15px 0px}
+.albums div div p {margin: 15px 0px 15px 0px}
+
+/***** album (singular, ie. actual page) *****/
+body.albums div.main div.content div.figure {float: right}
+
+body.home blockquote {
+    font-size: 115%;
+    text-align: center;
+}
+
+body.albums div.main div.content ol {
+ margin: 0em 0em 2em 0em;
+ padding: 0em 2em;
+}
+
+/***** forms *****/
+textarea, input {
+ font-size: 100%;
+ border-width: 1px;
+ border-style: dotted;
+ border-color: #f0f0f0; /* #2F4F4F */
+}
+
+input {
+ background-color: transparent;
+ border-width: 1px;
+ border-style: dotted;
+ border-color: #f0f0f0; /* #2F4F4F */
+ color: #f0f0f0; /* #2F4F4F #fefced */
+}
+
+form dl dt {display: inline}
+
+.forms img {
+ /*padding: 0px;*/
+ /*margin: 0px;*/
+}
+
+/* yt */
+div.yt-entry {clear: both}
+div.yt-img {float: left}
+div.yt-img a img {padding-right: 1em}
+
+/* shopping */
+a.purchase {
+ text-decoration:none;
+ color: #000; /* #000 */
+ font-family: /*lt-normal, "Arial",*/ sans-serif;
+ font-size: 0.85em;
+ padding: 0px 2px;
+ background-color:#DCAFDA; /* 6BC4D9 DCAFDA */
+ -moz-border-radius:10px;
+ border-radius:10px;
+ vertical-align:middle;
+ border: 1px #999 dotted;
+}
+
+a.purchase:hover{
+ text-decoration:none;
+ background-color:#BF9BBE; /* 5FADBF BF9BBE */
+}
+
+/*
+
+basic page layout:
+
+ +-----------------------------+  <- main
+ +-----------------------------+  <- menu
+ +-----------------------------+  <- submenu
+ +                             +  <- content
+ +                             +
+ +                             +
+ +                             +
+ +                             +
+ +                             +
+ +-----------------------------+
+ +-----------------------------+  <- footer
+
+bisc design:
+
+ dark blue = 011e48
+ light blue = 53a0a8
+ red = bf1e2e
+ white = fdf5e0
+ fonts = "Betty Noir"
+
+*/

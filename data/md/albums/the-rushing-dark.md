@@ -4,8 +4,9 @@ Release date: 16 March 2015.
 
 First Single from [Everything Sings Tonight](?p=albums/everything-sings-tonight)  
 
-
 ![](data/image/cover/the-rushing-dark.jpg)
+
+* * *
 
 ## CREDITS
 

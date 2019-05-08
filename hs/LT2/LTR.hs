@@ -1,4 +1,4 @@
-module LTR where
+module LT2.LTR where
 
 import Data.Char {- base -}
 import System.Directory {- directory -}
@@ -9,7 +9,7 @@ import qualified Text.HTML.Minus as H {- html-minus -}
 import qualified WWW.Minus.IO as IO {- www-minus -}
 import qualified WWW.Minus.MD as MD {- www-minus -}
 
-import qualified Img as I
+import qualified LT2.Img as I
 
 -- * Genera
 

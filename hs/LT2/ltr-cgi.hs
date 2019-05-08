@@ -5,8 +5,8 @@ import qualified Text.HTML.Minus as H {- html-minus -}
 import qualified WWW.Minus.CGI as CGI {- www-minus -}
 import qualified WWW.Minus.IO as IO {- www-minus -}
 
-import qualified Img as I
-import qualified LTR as L
+import qualified LT2.Img as I
+import qualified LT2.LTR as L
 
 md_page :: L.Config -> [FilePath] -> IO ()
 md_page cf p = do
