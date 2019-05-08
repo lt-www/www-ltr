@@ -9,7 +9,7 @@
     Video by Heike Qualitz
   </div>
 </div>
-
+\
 
 <div class="yt-entry">
   <div class="yt-img">
