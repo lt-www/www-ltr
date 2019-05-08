@@ -1,4 +1,4 @@
-![](data/image/news/contact2.jpg)
+![](data/image/news/contact3.jpg)
 
 **Media inquiries:**
 
