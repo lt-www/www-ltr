@@ -1,4 +1,4 @@
-![](data/image/news/mungo1.JPG)
+![](data/image/news/mungo1.jpg)
 
 New music coming very soon! Stay tuned 
 
