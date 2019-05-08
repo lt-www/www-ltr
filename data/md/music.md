@@ -1,6 +1,7 @@
 ![](data/image/news/mungo1.jpg)
 
-New music coming very soon! Stay tuned 
+
+NEW MUSIC COMING SOON! Stay tuned 
 
 [DISCOGRAPHY](?p=albums)
 
