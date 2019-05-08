@@ -1,4 +1,4 @@
-![](data/image/news/tourbanner.jpg)
+![](data/image/news/tourbanner2.jpg)
 
 **VICTORIA**
 
