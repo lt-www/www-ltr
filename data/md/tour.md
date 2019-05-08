@@ -1,5 +1,3 @@
-![](data/image/news/mungo1.jpg)
-
 **VICTORIA**
 
 **Friday 10 May 2019**\
