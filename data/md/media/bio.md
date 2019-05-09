@@ -25,6 +25,4 @@ selected DISCOGRAPHY:
 - Black Across The Field - 2009
 - Where Night Birds Call - 2007
 
-Media enquiries: Clare McGregor  (+61)(0)418 192 524 <clarempublicity@gmail.com>
-
 [luciethorne.com](http://luciethorne.com)
