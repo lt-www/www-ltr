@@ -9,7 +9,7 @@
 [**MORE PRESS**](?p=press)
 
 
-**Media inquiries:**
+**Media Enquiries:**
 
 > Clare McGregor Publicity  
 > clarempublicity[at]gmail[dot]com
