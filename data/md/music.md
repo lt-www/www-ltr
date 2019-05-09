@@ -1,7 +1,6 @@
-![](data/image/news/ltrain1.JPG)
+![](data/image/news/ltrain1.jpg)
 
-
-**NEW MUSIC COMING SOON!** 
+**NEW MUSIC COMING SOON!**
 
 [**LISTEN & SHOP at BANDCAMP**](https://luciethorne.bandcamp.com/)
 

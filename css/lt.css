@@ -1,12 +1,9 @@
 /* @ */
 @media screen {
  body {margin: 1.5em auto}
- .music img {float: right}
 }
 @media all and (max-width: 800px) {
  body {margin: 0em auto}
- /*body {overflow-y: hidden}*/
- .music img {float: none}
 }
 
 /* plain */

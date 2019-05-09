@@ -2,7 +2,7 @@
 
 [**DOWNLOAD HIGH RES PRESS PHOTOS**](https://www.dropbox.com/sh/aje3cry6elw37dw/AABqXSSVJ3vsxVBCFcMZAh4Pa?dl=0) 
 
-[**LUCIE THORNE BIO**](?p=media/bio)
+[**LUCIE THORNE BIO**](?p=about/bio)
 
 [**MEDIA RELEASE**](data/pr/WheogoHill_MediaRelease_May2019.pdf) MAY 2019 (PDF) - WHEOGO HILL SINGLE RELEASE & TOUR
 
