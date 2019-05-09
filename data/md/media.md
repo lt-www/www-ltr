@@ -6,11 +6,7 @@
 
 [**MEDIA RELEASE**](data/pr/WheogoHill_MediaRelease_May2019.pdf) MAY 2019 (pdf) - WHEOGO HILL SINGLE RELEASE & TOUR
 
-[**MORE PRESS**](?p=press)
+[**PRESS QUOTES**](?p=press)
 
-
-**Media Enquiries:**
-
-> Clare McGregor Publicity  
-> clarempublicity[at]gmail[dot]com
+Media Enquiries: Clare McGregor Publicity > clarempublicity[at]gmail[dot]com
 
