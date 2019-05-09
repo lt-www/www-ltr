@@ -19,7 +19,7 @@ Along with a remarkably consistent Australian touring schedule, Lucie also tours
 selected DISCOGRAPHY:
 
 - [Kitty & Frank](albums/kitty-and-frank) - Release date: 26 August 2019
-- Everything Sings Tonight - 2015
+- [Everything Sings Tonight](albums/everything-sings-tonight) - 2015
 - Fall to Rise [as LOVE OVER GOLD w Pieta Brown] - 2013
 - Bonfires In Silver City - 2011
 - Black Across The Field - 2009
