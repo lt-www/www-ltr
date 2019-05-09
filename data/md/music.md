@@ -1,13 +1,13 @@
 ![](data/image/news/ltrain1.JPG)
 
 
-NEW MUSIC COMING SOON! Stay tuned 
+**NEW MUSIC COMING SOON!** Stay tuned 
 
-[LISTEN & SHOP at BANDCAMP](https://luciethorne.bandcamp.com/)
+[**LISTEN & SHOP at BANDCAMP**](https://luciethorne.bandcamp.com/)
 
-[DISCOGRAPHY](?p=albums)
+[**DISCOGRAPHY**](?p=albums)
 
-[VIDEO](?p=video)
+[**VIDEO**](?p=video)
 
 <!--
 <div class="yt-entry">
