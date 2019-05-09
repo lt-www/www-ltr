@@ -1,5 +1,3 @@
-- Lucie Thorne [Biography][32] (pdf)      
-
 * * * * * 
 
 ### Everything Sings Tonight  
