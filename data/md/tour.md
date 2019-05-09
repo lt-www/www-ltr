@@ -26,6 +26,7 @@ for [BOB DYLAN'S BIRTHDAY](https://www.caravanmusic.com.au/gigs/bob-dylans-70th-
 MERRI CREEK TAVERN\
 High St, WESTGARTH\
 w HAMISH STUART\
+plus very special guest ALICE PEARL WILLIAMS\
 7.30pm\
 [tickets](https://tix.fomoevents.com/e/krm5ecW61tnp1XRaNl0)
 
@@ -33,6 +34,7 @@ w HAMISH STUART\
 MERRI CREEK TAVERN\
 High St, WESTGARTH\
 w HAMISH STUART\
+plus very special guest ALICE PEARL WILLIAMS\
 7.30pm\
 [tickets](https://tix.fomoevents.com/e/JvBXFcI_xEmlLswUBkk)
 
