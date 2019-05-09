@@ -1,11 +1,5 @@
 ![](data/image/news/contact3.jpg)
 
-**Media inquiries:**
-
-> Clare McGregor Publicity  
-> +61 (0) 418 192 524  
-> <clarempublicity@gmail.com>
-
 **Contact Lucie**  
 
 > <lucie@luciethorne.com>
