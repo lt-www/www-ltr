@@ -1,4 +1,4 @@
-![](data/image/ground/horses1.jpg)
+![](data/image/news/horses1.jpg)
 
 **VICTORIA**
 
