@@ -1,5 +1,13 @@
 * * * * * 
 
+### 10 May 2019  
+
+In anticipation of new musics hitting the internets very soon, a fair swag of the back catalogue is now available on **all the streams! That's right folks, you can now find me up on [spotify](spotify:artist:5AFG7hoXakdwcBxwaV3NLN), and wherever else you stream the musics... Follow, like, share, play it on repeat, etc.. x Me, I like to sit by a stream, lie on it's banks, swim in it, float down it.. keep real still and watch for platypus.. Anyways, it's 2019, and i'm gonna join the other streaming world for a bit too x  And as ever, all the musics are available to purchase directly from me - in either digital or physical form - via [bandcamp](https://luciethorne.bandcamp.com/). 
+
+In other news, playing one more SOLD OUT show with JOAN AS POLICE WOMAN in Melbourne tonight! X
+
+* * * * * 
+
 ### 17 April 2019  
 
 Just announced! A selection of intimate shows in June in VIC, ACT, NSW & QLD! Most of them with Hamish Stuart! And we'll be celebrating the release of the FIRST SONG from the forthcoming album! That's right folks... the new album - *Kitty & Frank* - is set for release at the end of August and the first single will be hitting the internets on May 14th! Tix for these June shows are [on sale now](shows). And there'll be more news on the new musics coming real soon! Stay tuned xx
