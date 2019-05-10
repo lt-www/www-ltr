@@ -36,6 +36,5 @@ Frank gained release after just ten years in gaol, but it was under the conditio
 Australia. He ended up in San Francisco where he opened a bar called the Twilight Saloon. He
 lost his bar due to extending too much credit and ended up sleeping on the docks. He died in a pauper’s hospital in 1882.
 
-Craig Lawler, Operator, [Blind Freddy’s Bushranger Tours](http://www.blindfreddytours.com), Canowindra, NSW.\ 
-[Get in touch & take a tour!](http://www.blindfreddytours.com) 
+Craig Lawler, Operator, [Blind Freddy’s Bushranger Tours](http://www.blindfreddytours.com), Canowindra, NSW. [Get in touch & take a tour!](http://www.blindfreddytours.com) 
 
