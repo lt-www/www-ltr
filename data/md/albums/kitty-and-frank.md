@@ -2,7 +2,8 @@
 
 Release Date: 26th August 2019\
 [Kitty & Frank MEDIA RELEASE](data/pr/Kitty_and_Frank_Longlead_MediaRelease_May2019.pdf) (PDF)\
-[LINER NOTES - Craig Lawler](?p=albums/kitty-and-frank/lawler)
+[LINER NOTES - Craig Lawler](?p=albums/kitty-and-frank/lawler)\
+[Lucie Thorne BIO](?p=about/bio)
 
 1. Golden Plains
 2. Thief
