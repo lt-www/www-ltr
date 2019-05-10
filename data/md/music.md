@@ -6,6 +6,8 @@
 
 [**DISCOGRAPHY**](?p=albums)
 
+[**LISTEN on SPOTIFY**](spotify:artist:5AFG7hoXakdwcBxwaV3NLN)
+
 [**VIDEO**](?p=video)
 
 <!--
