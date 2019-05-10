@@ -8,5 +8,5 @@
 
 [**PRESS QUOTES**](?p=press)
 
-MEDIA ENQUIRIES: Clare McGregor Publicity > clarempublicity[at]gmail[dot]com
+**MEDIA ENQUIRIES**: Clare McGregor Publicity > clarempublicity[at]gmail[dot]com
 
