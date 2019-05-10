@@ -4,7 +4,7 @@
 
 In anticipation of new musics hitting the internets very soon, a fair swag of the back catalogue is now available on all the streams! You can now find me up on [spotify](spotify:artist:5AFG7hoXakdwcBxwaV3NLN), and wherever else you stream the musics... Follow, like, share, play it on repeat, etc.. x Me, I like to sit by a stream, lie on it's banks, swim in it, float down it.. keep real still and watch for platypus.. Anyways, it's 2019, and i'm gonna join the other streaming world for a bit too x  And as ever, all the musics are available to purchase directly from me - in either digital or physical form - via [bandcamp](https://luciethorne.bandcamp.com/). 
 
-In other news, playing one more SOLD OUT [show](tour) with JOAN AS POLICE WOMAN in Melbourne tonight! X
+In other news, playing one more SOLD OUT show with JOAN AS POLICE WOMAN in Melbourne tonight! X
 
 * * * * * 
 
