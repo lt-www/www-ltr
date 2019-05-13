@@ -9,7 +9,7 @@ The first single from the forthcoming album is OUT NOW!
 
 [**LISTEN & SHOP at BANDCAMP**](https://luciethorne.bandcamp.com/)
 
-[**LISTEN on SPOTIFY**](spotify:artist:5AFG7hoXakdwcBxwaV3NLN)
+[**LISTEN on SPOTIFY**](spotify:album:35nF8PingAXxlpSx9hLpKq)
 
 [**DISCOGRAPHY**](?p=albums)
 
