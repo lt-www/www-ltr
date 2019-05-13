@@ -6,6 +6,8 @@
 
 [**MEDIA RELEASE**](data/pr/WheogoHill_MediaRelease_May2019.pdf) MAY 2019 (PDF) - WHEOGO HILL SINGLE RELEASE & TOUR
 
+[Find out more about KITTY & FRANK](?p=albums/kitty-and-frank) 
+
 [**PRESS QUOTES**](?p=press)
 
 **MEDIA ENQUIRIES**: Clare McGregor Publicity > clarempublicity[at]gmail[dot]com
