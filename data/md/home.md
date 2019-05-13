@@ -3,6 +3,8 @@
 
 ![](data/image/front/lt-kitty-and-frank.jpg)
 
+> [JOIN LUCIE'S MAILING LIST](?p=forms/mailing-list)
+
 > "some of the most simple and beautiful songs you will hear" _The Age_
 
-> [join](?p=forms/mailing-list) Lucie's mailing list
+
