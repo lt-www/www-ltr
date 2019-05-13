@@ -1,6 +1,6 @@
 <!-- KITTY & FRANK -->
 
-Release Date: 26th August 2019\
+Release Date: 26th August 2019
 
 [**PREORDER KITTY & FRANK**](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) on LP / CD / Digital, and get a free download of WHEOGO HILL x 
 
