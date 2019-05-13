@@ -1,5 +1,22 @@
 * * * * * 
 
+### 14 May 2019  
+
+The first song from [KITTY & FRANK](?p=albums/kitty-and-frank) is out today! Listen to WHEOGO HILL on [spotify]( and all the other streams, and buy your very own copy through [bandcamp](https://luciethorne.bandcamp.com/). 
+
+We've also just launched the [ALBUM PREORDER CAMPAIGN!](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) You can purchase your copy of KITTY & FRANK now (on LP, CD, or as a digital download) and you'll receive it before its offical release date in August.
+
+You'll also get a free download of the first single WHEOGO HILL when you [pre-order the album](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank).
+
+And... in purchasing your copy of KITTY & FRANK now you're also *really* helping me get this whole kit-and-caboodle over the line! And I thank you xx 
+
+Happy Listening 
+xo LT
+
+![](data/image/front/lt-kitty-and-frank.jpg)
+
+* * * * * 
+
 ### 10 May 2019  
 
 In anticipation of new musics hitting the internets very soon, a fair swag of the back catalogue is now available on all the streams! You can now find me up on [spotify](spotify:artist:5AFG7hoXakdwcBxwaV3NLN), and wherever else you stream the musics... Follow, like, share, play it on repeat, etc.. x Me, I like to sit by a stream, lie on its banks, swim in it, float down it.. keep real still and watch for platypus.. Anyways, it's 2019, and i'm gonna join the other streaming world for a bit too x  And as ever, all the musics are available to purchase directly from me - in either digital or physical form - via [bandcamp](https://luciethorne.bandcamp.com/). 
