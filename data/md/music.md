@@ -1,12 +1,17 @@
 ![](data/image/news/ltrain1.jpg)
 
-**NEW MUSIC COMING SOON!**
+The first single from the forthcoming album is OUT NOW! 
+Listen/buy **WHEOGO HILL** on [bandcamp](https://luciethorne.bandcamp.com/track/wheogo-hill-single-2) | stream it on [spotify](spotify:album:35nF8PingAXxlpSx9hLpKq)
+
+[**PREORDER KITTY & FRANK**](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) 
+
+[Find out more about KITTY & FRANK](?p=albums/kitty-and-frank) 
 
 [**LISTEN & SHOP at BANDCAMP**](https://luciethorne.bandcamp.com/)
 
-[**DISCOGRAPHY**](?p=albums)
-
 [**LISTEN on SPOTIFY**](spotify:artist:5AFG7hoXakdwcBxwaV3NLN)
+
+[**DISCOGRAPHY**](?p=albums)
 
 [**VIDEO**](?p=video)
 
