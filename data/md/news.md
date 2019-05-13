@@ -4,9 +4,7 @@
   
 The first song from [KITTY & FRANK](?p=albums/kitty-and-frank) is out today! Listen to WHEOGO HILL on [spotify](spotify:album:35nF8PingAXxlpSx9hLpKq) and all the other streams, and buy your very own copy through [bandcamp](https://luciethorne.bandcamp.com/). 
 
-We've also just launched the [ALBUM PREORDER CAMPAIGN!](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) You can purchase your copy of KITTY & FRANK now (on LP, CD, or as a digital download) and you'll receive it before its offical release date in August.
-
-You'll also get a free download of the first single WHEOGO HILL when you [pre-order the album](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank).
+We've also just launched the [ALBUM PREORDER CAMPAIGN!](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) You can purchase your copy of KITTY & FRANK now (on LP, CD, or as a digital download) and you'll receive it before its offical release date in August. You'll also get a free download of the first single WHEOGO HILL when you [pre-order the album](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank).
 
 And... in purchasing your copy of KITTY & FRANK now you're also *really* helping me get this whole kit-and-caboodle over the line! And I thank you xx 
 
