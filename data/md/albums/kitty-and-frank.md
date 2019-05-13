@@ -1,8 +1,12 @@
 <!-- KITTY & FRANK -->
 
 Release Date: 26th August 2019\
-[Kitty & Frank MEDIA RELEASE](data/pr/Kitty_and_Frank_Longlead_MediaRelease_May2019.pdf) (PDF)\
-[LINER NOTES - Craig Lawler](?p=albums/kitty-and-frank/lawler)\
+[**PREORDER KITTY & FRANK**](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) on LP / CD / Digital, and get a free download of WHEOGO HILL x 
+
+[Kitty & Frank **MEDIA RELEASE**](data/pr/Kitty_and_Frank_Longlead_MediaRelease_May2019.pdf) (PDF)\
+
+[**LINER NOTES** - Craig Lawler](?p=albums/kitty-and-frank/lawler)\
+
 [Lucie Thorne BIO](?p=about/bio)
 
 1. Golden Plains
