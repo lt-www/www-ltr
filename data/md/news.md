@@ -8,7 +8,7 @@ We've also just launched the [ALBUM PREORDER CAMPAIGN!](https://luciethorne.band
 
 And... in purchasing your copy of KITTY & FRANK now you're also *really* helping me get this whole kit-and-caboodle over the line! And I thank you xx 
 
-Happy Listening 
+Happy Listening\
 xo LT
 
 ![](data/image/front/lt-kitty-and-frank.jpg)
