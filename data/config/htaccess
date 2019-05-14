@@ -4,16 +4,18 @@ ErrorDocument 500 http://luciethorne.com/?p=error/500
 
 Options -Indexes
 
+Redirect permanent /about /?p=about
 Redirect permanent /albums /?p=albums
 Redirect permanent /contact /?p=contact
 Redirect permanent /error /?p=error
 Redirect permanent /forms /?p=forms
 Redirect permanent /home /?p=home
+Redirect permanent /music /?p=music
 Redirect permanent /news /?p=news
 Redirect permanent /photos /?p=photos
 Redirect permanent /press /?p=press
 Redirect permanent /shop /?p=shop
-Redirect permanent /shows /?p=shows
+Redirect permanent /shows /?p=tour
 Redirect permanent /songs /?p=songs
 Redirect permanent /success /?p=success
 Redirect permanent /video /?p=video
