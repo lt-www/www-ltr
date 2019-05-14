@@ -16,7 +16,7 @@ ln-config:
 	ln -s data/config/htaccess .htaccess
 
 ln-shows:
-	ln -s data/md/tour.md data/md/shows.md
+	(cd data/md ; ln -s tour.md shows.md)
 
 all: resize-genera build-ghc setup-editor
 
