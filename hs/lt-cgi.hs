@@ -16,7 +16,7 @@ dispatch :: LT.Config -> CGI.Parameters -> IO ()
 dispatch cf (m,q) =
     case (m,q) of
       ("GET",[]) -> md_page cf []
-      ("GET",[("p",d)]) -> md_page cf (splitDirectories d)
+      ("GET",("p",d):_) -> md_page cf (splitDirectories d)
       _ -> CGI.utf8_text_output "unknown request?"
 
 main :: IO ()
