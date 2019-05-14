@@ -12,10 +12,13 @@ setup-editor:
 	cp $(HOME)/sw/www-minus/py/editor.py e/index.cgi
 	cp $(HOME)/sw/www-minus/py/upload.py u/index.cgi
 
-copy-config:
-	cp data/config/htaccess .htaccess
+ln-config:
+	ln -s data/config/htaccess .htaccess
 
-all: resize-genera build-ghc setup-editor copy-config
+ln-shows:
+	ln -s data/md/tour.md data/md/shows.md
+
+all: resize-genera build-ghc setup-editor
 
 clean:
 	(cd hs ; make clean)
