@@ -1,4 +1,4 @@
-[![](data/image/media/LT-3-PHOTO.png)](https://www.dropbox.com/sh/aje3cry6elw37dw/AABqXSSVJ3vsxVBCFcMZAh4Pa?dl=0)
+[![](data/image/about/LT-3-PHOTO.png)](https://www.dropbox.com/sh/aje3cry6elw37dw/AABqXSSVJ3vsxVBCFcMZAh4Pa?dl=0)
 
 [**DOWNLOAD HIGH RES PRESS PHOTOS**](https://www.dropbox.com/sh/aje3cry6elw37dw/AABqXSSVJ3vsxVBCFcMZAh4Pa?dl=0) 
 
