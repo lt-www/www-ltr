@@ -2,16 +2,6 @@
 
 **VICTORIA**
 
-**Friday 10 May 2019**\
-NORTHCOTE SOCIAL CLUB\
-High St, Northcote, MELBOURNE\
-with [JOAN AS POLICE WOMAN](http://joanaspolicewoman.com/)\
-SOLD OUT
-
-* * * * *
-
-**VICTORIA**
-
 **Friday 24 May 2019**\
 CARAVAN MUSIC CLUB\
 Victor Rd, EAST BENTLEIGH\
