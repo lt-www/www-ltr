@@ -2,8 +2,6 @@
 
 **VICTORIA**
 
-**VICTORIA**
-
 **Friday 24 May 2019**\
 CARAVAN MUSIC CLUB\
 Victor Rd, EAST BENTLEIGH\
