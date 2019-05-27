@@ -2,6 +2,13 @@
 
 **VICTORIA**
 
+**VICTORIA**
+
+**Friday 24 May 2019**\
+CARAVAN MUSIC CLUB\
+Victor Rd, EAST BENTLEIGH\
+for [BOB DYLAN'S BIRTHDAY](https://www.caravanmusic.com.au/gigs/bob-dylans-70th-birthday-celebration-3-2/)\
+
 **Friday 10 May 2019**\
 NORTHCOTE SOCIAL CLUB\
 High St, Northcote, MELBOURNE\
