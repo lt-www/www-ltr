@@ -1,5 +1,15 @@
 * * * * * 
 
+### 5 June 2019
+
+We made a video for WHEOGO HILL! Starring.. WHEOGO HILL! [Footage by Craig Lawler & John Daly, edited by Simon Bailey & Damian Fitzgerlad]. To quote Lawler, 'In the 18060's Gold Fever came to Wheogo, and like *Deadwood*, it didn't end well'. In the central west of NSW, in the heart of Wiradjuri country, Wheogo is where Kitty's family, the Walshes, were peaceably farming cattle before gold was discovered at Lambing Flat. It's where Kitty first met Frank. And its where they ran from when the heat of the law hit fever pitch. (Find out more about Kitty & Frank)(albums/kitty-and-frank). 
+
+WHEOGO HILL Single tour starts this weekend in Melbourne with two shows at the Merri Creek Tavern, with Hamish Stuart & Alice Pearl Williams. All details and ticket links [here](shows).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yIl6_gXz4XA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* * * * * 
+
 ### 14 May 2019
   
 The first song from [KITTY & FRANK](?p=albums/kitty-and-frank) is released today! All over the internets! You can listen to WHEOGO HILL & buy a copy of it here on [bandcamp](https://luciethorne.bandcamp.com/), and you can also listen to it on all the various streams including [spotify](spotify:album:35nF8PingAXxlpSx9hLpKq).
