@@ -83,7 +83,7 @@ lt_h1 :: H.Content
 lt_h1 =
     let t = H.h1
             [H.title_attr "lucie thorne"]
-            [H.img [H.alt "LUCIE THORN"
+            [H.img [H.alt "LUCIE THORNE"
                    ,H.src "data/image/ground/lucie-thorne.png"]]
     in div_c "lucie-thorne" [H.a [H.class_attr "h1",H.href lt_site] [t]]
 
