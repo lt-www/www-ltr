@@ -2,7 +2,7 @@
 
 ### 5 June 2019
 
-We made a video for WHEOGO HILL! Starring.. WHEOGO HILL! [Footage by Craig Lawler & John Daly, edited by Simon Bailey & Damian Fitzgerlad]. To quote Lawler, 'In the 18060's Gold Fever came to Wheogo, and like *Deadwood*, it didn't end well'. In the central west of NSW, in the heart of Wiradjuri country, Wheogo is where Kitty's family, the Walshes, were peaceably farming cattle before gold was discovered at Lambing Flat. It's where Kitty first met Frank. And it's where they ran from when the heat of the law hit fever pitch. [Find out more about Kitty & Frank](albums/kitty-and-frank). 
+We made a video for WHEOGO HILL! Starring.. WHEOGO HILL! [Footage by Craig Lawler & John Daly, edited by Simon Bailey & Damian Fitzgerald]. To quote Lawler, 'In the 18060's Gold Fever came to Wheogo, and like *Deadwood*, it didn't end well'. In the central west of NSW, in the heart of Wiradjuri country, Wheogo is where Kitty's family, the Walshes, were peaceably farming cattle before gold was discovered at Lambing Flat. It's where Kitty first met Frank. And it's where they ran from when the heat of the law hit fever pitch. [Find out more about Kitty & Frank](albums/kitty-and-frank). 
 
 WHEOGO HILL Single tour starts this weekend in Melbourne with two shows at the Merri Creek Tavern, with Hamish Stuart & Alice Pearl Williams. All details and ticket links [here](shows).
 
