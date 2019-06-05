@@ -1,9 +1,11 @@
 /* @ */
 @media screen {
  body {margin: 1.5em auto}
+ iframe {width: 560px; height: 315px}
 }
 @media all and (max-width: 800px) {
  body {margin: 0em auto}
+ iframe {}
 }
 
 /* plain */
