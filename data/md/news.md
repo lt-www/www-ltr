@@ -6,7 +6,7 @@ We made a video for WHEOGO HILL! Starring.. WHEOGO HILL! [Footage by Craig Lawle
 
 WHEOGO HILL Single tour starts this weekend in Melbourne with two shows at the Merri Creek Tavern, with Hamish Stuart & Alice Pearl Williams. All details and ticket links [here](shows).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yIl6_gXz4XA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/yIl6_gXz4XA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * * * * * 
 
