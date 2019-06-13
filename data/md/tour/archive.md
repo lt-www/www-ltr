@@ -1,5 +1,23 @@
 <!-- ## shows/archive -->
 
+* * * * *
+
+**VICTORIA**
+
+**Friday 7 June 2019**\
+MERRI CREEK TAVERN\
+High St, WESTGARTH\
+w HAMISH STUART\
+plus very special guest ALICE PEARL WILLIAMS\
+
+**Saturday 8 June 2019**\
+MERRI CREEK TAVERN\
+High St, WESTGARTH\
+w HAMISH STUART\
+plus very special guest ALICE PEARL WILLIAMS\
+
+* * * * * 
+
 **VICTORIA**
 
 **Friday 24 May 2019**\
