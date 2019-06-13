@@ -2,33 +2,13 @@
 
 * * * * *
 
-**VICTORIA**
-
-**Friday 7 June 2019**\
-MERRI CREEK TAVERN\
-High St, WESTGARTH\
-w HAMISH STUART\
-plus very special guest ALICE PEARL WILLIAMS\
-7.30pm\
-[tickets](https://tix.fomoevents.com/e/krm5ecW61tnp1XRaNl0)
-
-**Saturday 8 June 2019**\
-MERRI CREEK TAVERN\
-High St, WESTGARTH\
-w HAMISH STUART\
-plus very special guest ALICE PEARL WILLIAMS\
-7.30pm\
-[tickets](https://tix.fomoevents.com/e/JvBXFcI_xEmlLswUBkk)
-
-* * * * *
-
 **NSW**
 
 **Thursday 13 June 2019**\
 DUSTY ATTIC\
 Woodlark Street, LISMORE\
 8pm\
-[tickets](http://www.trybooking.com/BCCBY)
+SOLD OUT
 
 **Friday 14 June 2019**\
 HOUSE CONCERT\
