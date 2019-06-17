@@ -4,33 +4,6 @@
 
 **NSW**
 
-**Thursday 13 June 2019**\
-DUSTY ATTIC\
-Woodlark Street, LISMORE\
-8pm\
-SOLD OUT
-
-**Friday 14 June 2019**\
-HOUSE CONCERT\
-DURANBAH\
-with very special guests SARA TINDLEY & ASH BELL\
-Doors 6pm / show 7pm / BYO\
-[tickets](https://www.trybooking.com/BCCQX)
-
-* * * * *
-
-**QLD**
-
-**Sunday 16 June 2019**\
-HOUSE CONCERT\
-BRISBANE\
-3.30pm / BYO\
-[tickets](https://www.trybooking.com/BCCCN)
-
-* * * * *
-
-**NSW**
-
 **Friday 21 June 2019**\
 HOUSE CONCERT\
 MITTAGONG\
@@ -46,7 +19,7 @@ Doors 7pm / show 8pm / BYO\
 SMITHS ALTERNATIVE\
 CANBERRA\
 with HAMISH STUART\
-show 7-9pm\
+Doors 6.30pm / show 7-9pm\
 [tickets](https://www.smithsalternative.com/events/lucie-thorne-hamish-stuart-57893)
 
 * * * * *
