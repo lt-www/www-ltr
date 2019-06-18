@@ -6,7 +6,7 @@
 
 **Sunday 16 June 2019**\
 HOUSE CONCERT\
-BRISBANE\
+BRISBANE
 
 
 * * * * *
@@ -16,7 +16,7 @@ BRISBANE\
 **Friday 14 June 2019**\
 HOUSE CONCERT\
 DURANBAH\
-with very special guests SARA TINDLEY & ASH BELL\
+with very special guests SARA TINDLEY & ASH BELL
 
 **Thursday 13 June 2019**\
 DUSTY ATTIC\
