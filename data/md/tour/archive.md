@@ -2,6 +2,28 @@
 
 * * * * *
 
+**QLD**
+
+**Sunday 16 June 2019**\
+HOUSE CONCERT\
+BRISBANE\
+
+* * * * *
+
+**NSW**
+
+**Friday 14 June 2019**\
+HOUSE CONCERT\
+DURANBAH\
+with very special guests SARA TINDLEY & ASH BELL\
+
+**Thursday 13 June 2019**\
+DUSTY ATTIC\
+Woodlark Street, LISMORE\
+SOLD OUT
+
+* * * * *
+
 **VICTORIA**
 
 **Friday 7 June 2019**\
