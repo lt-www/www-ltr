@@ -1,5 +1,13 @@
 * * * * * 
 
+### 27 June 2019
+
+Loving thanks to everyone who came out to the Wheogo Hill shows this month! It's been a fabulous, musical, heartening June! We'll be touring far n wide throughout the Spring to launch Kitty & Frank! Stay tuned for details. And... just announced! We'll be back at one of our very favourite  festivals in the land - [Mullum Music Festival](https://www.mullummusicfestival.com)! this November. Tix on sale now. 
+
+![](data/image/news/LThorneBW3.jpeg)  
+
+* * * * * 
+
 ### 5 June 2019
 
 We made a video for WHEOGO HILL! Starring.. WHEOGO HILL! Footage by Craig Lawler (of [Blind Freddy's Bushranger Tours](https://www.blindfreddytours.com/) fame) & John Daly, edited by Simon Bailey & Damian Fitzgerald. To quote Lawler, 'In the 1860's Gold Fever came to Wheogo, and like *Deadwood*, it didn't end well'. In the central west of NSW, in the heart of Wiradjuri country, Wheogo is where Kitty's family, the Walshes, were peaceably farming cattle before gold was discovered at Lambing Flat. It's where Kitty first met Frank. And it's where they ran from when the heat of the law hit fever pitch. [Find out more about Kitty & Frank](albums/kitty-and-frank). 
