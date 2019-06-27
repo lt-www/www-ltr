@@ -2,12 +2,40 @@
 
 * * * * *
 
+**NSW**
+
+**Sunday 23 June 2019**\
+DJANGO @ CAMELOT\
+Marrickville, SYDNEY\
+with HAMISH STUART\
+and special guest ALICE PEARL WILLIAMS
+
+* * * * *
+
+**ACT**
+
+**Saturday 22 June 2019**\
+SMITHS ALTERNATIVE\
+CANBERRA\
+with HAMISH STUART\
+
+* * * * *
+
+**NSW**
+
+**Friday 21 June 2019**\
+HOUSE CONCERT\
+MITTAGONG\
+with HAMISH STUART\
+SOLD OUT
+
+* * * * *
+
 **QLD**
 
 **Sunday 16 June 2019**\
 HOUSE CONCERT\
 BRISBANE
-
 
 * * * * *
 
