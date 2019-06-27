@@ -2,10 +2,9 @@
 
 ### 27 June 2019
 
-Loving thanks to everyone who came out to the Wheogo Hill shows this month! It's been a fabulous, musical, heartening June! We'll be touring far n wide throughout the Spring to launch Kitty & Frank! Stay tuned for details. And... just announced! We'll be back at one of our very favourite festivals in the land - [Mullum Music Festival](https://www.mullummusicfestival.com)! this November!\
+Loving thanks to everyone who came out to the Wheogo Hill shows this month! It's been a fabulous, musical, heartening June! We'll be touring far n wide throughout the Spring to launch Kitty & Frank! Stay tuned for details. And... just announced! We'll be back at one of our very favourite festivals in the land - [Mullum Music Festival](https://www.mullummusicfestival.com)! this November!
 
-You can [join the mailing list here](forms/mailing-list) for tour news - and purchase your copy of KITTY & FRANK now (on LP, CD, or as a digital download) and we'll send it to you before its offical release date in August. You'll also get a free download of the first single WHEOGO HILL when you [pre-order the album](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) xx
-
+You can [join the mailing list here](forms/mailing-list) for tour news - and [purchase your copy of KITTY & FRANK](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) now (on LP, CD, or as a digital download) and we'll send it to you before its offical release date in August. You'll also get a free download of the first single WHEOGO HILL when you [pre-order the album](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) xx
  
 
 ![](data/image/news/LThorneBW3.jpeg)  
