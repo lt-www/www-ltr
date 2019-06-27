@@ -8,7 +8,7 @@
 DJANGO @ CAMELOT\
 Marrickville, SYDNEY\
 with HAMISH STUART\
-and special guest ALICE PEARL WILLIAMS
+plus very special guest ALICE PEARL WILLIAMS
 
 * * * * *
 
@@ -17,7 +17,7 @@ and special guest ALICE PEARL WILLIAMS
 **Saturday 22 June 2019**\
 SMITHS ALTERNATIVE\
 CANBERRA\
-with HAMISH STUART\
+with HAMISH STUART
 
 * * * * *
 
