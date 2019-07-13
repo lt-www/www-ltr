@@ -8,7 +8,7 @@
 
 **Friday 13 September 2019**\
 the CORRIDOR project\
-COWRA\ 
+**COWRA**\ 
 7pm
 
 * * * * *
@@ -17,7 +17,7 @@ COWRA\
 
 **Saturday 14 September 2019**\
 Smith's\
-CANBERRA\
+**CANBERRA**\
 6.30pm 
 
 * * * * *
@@ -26,7 +26,7 @@ CANBERRA\
 
 **Sunday 15 September 2019**\
 The Town Hall\
-CANDELO\ 
+**CANDELO**\
 3pm
 
 * * * * *
