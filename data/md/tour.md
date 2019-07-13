@@ -1,6 +1,6 @@
 ![](data/image/news/horses1.jpg)
 
-**KITTY & FRANK** Album Launch Tour 
+**KITTY & FRANK** ALBUM LAUNCH TOUR 
 
 * * * * *
 
