@@ -8,7 +8,7 @@
 
 **Friday 13 September 2019**\
 the CORRIDOR project\
-**COWRA**\ 
+**COWRA**\
 7pm
 
 * * * * *
@@ -35,16 +35,17 @@ The Town Hall\
 
 **Friday 4 October 2019**\
 Music on the Hill\
-RED HILL\  
+RED HILL\
+7pm
 
 **Saturday 5 October 2019**\
 Old Church on the Hill\
-BENDIGO\ 
+BENDIGO\
 7pm 
 
 **Sunday 6 October 2019**\
 Northcote Social Club\
-MELBOURNE\ 
+MELBOURNE\
 2pm
  
 * * * * *
