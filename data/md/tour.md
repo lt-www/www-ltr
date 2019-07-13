@@ -1,5 +1,7 @@
 ![](data/image/news/horses1.jpg)
 
+* * * * *
+
 **KITTY & FRANK ALBUM LAUNCH TOUR - ALL TICKETS ON SALE TUES 16th JULY 2019**
 
 * * * * *
