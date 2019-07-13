@@ -59,17 +59,17 @@ Camelot Lounge\
 
 **Friday 18 October 2019**\
 McCrossin's Mill\
-URALLA\  
+**URALLA**\
 7pm
 
 **Saturday 19 October 2019**\
 Community Arts Hall\
-WAUCHOPE\  
+**WAUCHOPE**\
 7pm
 
 **Sunday 20 October 2019**\
 The Grand Junction\
-MAITLAND\  
+**MAITLAND**\
 3pm
 
 * * * * *
@@ -78,7 +78,7 @@ MAITLAND\
 
 **Thursday 14 November 2019**\
 The Junk Bar\
-BRISBANE\  
+**BRISBANE**\
 7pm
 
 * * * * *
@@ -87,7 +87,7 @@ BRISBANE\
 
 **Friday 15 - Sunday 17 November 2019**\
 [MULLUM MUSIC FESTIVAL](https://www.mullummusicfestival.com/)\
-MULLUMBIMBY
+**MULLUMBIMBY**
 
 * * * * *
 
@@ -95,17 +95,17 @@ MULLUMBIMBY
 
 **Friday 22 November 2019**\
 Cooee Arthouse\
-ALDINGA  
+**ALDINGA**\
 7pm
 
 **Saturday 23 November 2019**\
 The Wheatsheaf\
-ADELAIDE 
+**ADELAIDE**\
 8pm
 
 **Sunday 24 November 2019**\
 Memorial Hall\
-ASHBOURNE\  
+**ASHBOURNE**\
 3pm
 
 * * * * *
