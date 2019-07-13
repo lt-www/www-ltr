@@ -1,5 +1,13 @@
 * * * * * 
 
+### 13 July 2019
+
+Our Kitty & Frank Album Launch tour dates have just been announced! All tickets will go on sale this Tuesday 16th July. Check out the [tour dates here](tour), watch the video for [Wheogo Hill here](https://www.youtube.com/watch?v=yIl6_gXz4XA), and preorder [your copy of the album here](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank). xx
+
+![](data/image/news/LT_H3.jpeg)  
+
+* * * * * 
+
 ### 9 July 2019
 
 Delighted to be unveiling the [Kitty & Frank](albums/kitty-and-frank) cover art! A painting by fabulous Australian artist Jonathon Throsby. I've been a fan of Jonno's work for years and first saw this painting - entitled 'Mungo' - at an exhibition of JT's in Melbourne many moons ago. I'm so thrilled that it's gracing the cover.  You can [purchase your copy now](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) - on LP, CD, or as a digital download - and we'll lovingly send out all preorders from the start of August! xx
