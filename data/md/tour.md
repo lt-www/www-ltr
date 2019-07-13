@@ -35,17 +35,17 @@ The Town Hall\
 
 **Friday 4 October 2019**\
 Music on the Hill\
-RED HILL\
+**RED HILL**\
 7pm
 
 **Saturday 5 October 2019**\
 Old Church on the Hill\
-BENDIGO\
+**BENDIGO**\
 7pm 
 
 **Sunday 6 October 2019**\
 Northcote Social Club\
-MELBOURNE\
+**MELBOURNE**\
 2pm
  
 * * * * *
@@ -54,7 +54,7 @@ MELBOURNE\
 
 **Thursday 17 October 2019**\
 Camelot Lounge\
-MARRICKVILLE\  
+**SYDNEY**\
 7pm
 
 **Friday 18 October 2019**\
