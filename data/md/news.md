@@ -2,7 +2,7 @@
 
 ### 13 July 2019
 
-Our Kitty & Frank Album Launch tour dates have just been announced! All tickets will go on sale this Tuesday 16th July. Check out the [tour dates here](tour), watch the video for [Wheogo Hill here](https://www.youtube.com/watch?v=yIl6_gXz4XA), and preorder [your copy of the album here](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank). More news - and the next single! - coming soon xx
+Our Kitty & Frank Album Launch tour dates have just been announced! All tickets will go on sale this Tuesday 16th July. Check out the [tour dates here](tour), watch the video for [Wheogo Hill here](https://www.youtube.com/watch?v=yIl6_gXz4XA), and preorder [your copy of the album here](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank). More news - and the next single! - coming real soon xx
 
 ![](data/image/news/LT_H3.jpeg)  
 
