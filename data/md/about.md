@@ -4,7 +4,7 @@
 
 [**LUCIE THORNE BIO**](?p=about/bio)
 
-[**MEDIA RELEASE** - **WHEOGO HILL**](data/pr/WheogoHill_MediaRelease_May2019.pdf) MAY 2019 (PDF) -  SINGLE RELEASE & TOUR
+<!--[**MEDIA RELEASE** - **WHEOGO HILL**](data/pr/WheogoHill_MediaRelease_May2019.pdf) MAY 2019 (PDF) -  SINGLE RELEASE & TOUR-->
 
 [Find out more about **KITTY & FRANK**](?p=albums/kitty-and-frank) 
 
