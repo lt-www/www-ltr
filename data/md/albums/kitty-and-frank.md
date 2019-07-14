@@ -2,9 +2,9 @@
 
 Release Date: 26th August 2019
 
-[**PREORDER KITTY & FRANK**](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) on LP / CD / Digital, and get a free download of WHEOGO HILL x 
+[**PREORDER KITTY & FRANK**](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) on LP / CD / Digital, and get a free download of WHEOGO HILL x
 
-[Kitty & Frank **MEDIA RELEASE**](data/pr/Kitty_and_Frank_Longlead_MediaRelease_May2019.pdf) (PDF)\
+[Kitty & Frank **MEDIA RELEASE**](LucieThorne_MediaRelease_July2019.pdf) (PDF)\
 [**LINER NOTES** - Craig Lawler](?p=albums/kitty-and-frank/lawler)\
 [Lucie Thorne BIO](?p=about/bio)
 
