@@ -6,7 +6,8 @@ Release Date: 26th August 2019
 
 [**MEDIA RELEASE - KITTY & FRANK**](data/pr/LucieThorne_MediaRelease_July2019.pdf) JULY 2019 (PDF)
 
-[**LINER NOTES** - Craig Lawler](?p=albums/kitty-and-frank/lawler)\
+[**LINER NOTES** - Craig Lawler](?p=albums/kitty-and-frank/lawler)
+
 [Lucie Thorne BIO](?p=about/bio)
 
 1. Golden Plains
