@@ -95,6 +95,10 @@ div.yt-entry {clear: both;margin-bottom: 50px}
 div.yt-img {float: left}
 div.yt-img a img {padding-right: 1em}
 
+/* social */
+div.social {text-align: left; margin-left: 4em}
+div.social img {display: inline; padding-right: 1em}
+
 /***** forms *****/
 table {font-size: 100%} /* IE */
 th {text-align: right}

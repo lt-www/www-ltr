@@ -1,21 +1,25 @@
 ![](data/image/news/contact3.jpg)
 
-**Contact Lucie**  
+**Contact Lucie**
 
 > <lucie@luciethorne.com>
 
 or write to;
 
-> Lucie Thorne  
-> C/- Little Secret Records  
-> PO Box 26    
-> Reservoir  
-> Victoria 3073    
-> Australia  
+> Lucie Thorne\
+> C/- Little Secret Records\
+> PO Box 26, Reservoir\
+> Victoria 3073, Australia
 
-you can [join Lucie's mailing list][9], visit [Lucie's facebook page][23], or [send Lucie a message][11] online. 
+you can [join Lucie's mailing list](?p=forms/mailing-list),
+visit [Lucie's facebook page](http://www.facebook.com/lucie.thorne#!/lucie.thorne),
+or [send Lucie a message](?p=forms/send-message) online.
 
-  [9]: ?p=forms/mailing-list
-  [11]: ?p=forms/send-message
-  [23]: http://www.facebook.com/lucie.thorne#!/lucie.thorne
+<div class="social">
 
+[![](data/png/icon/bc-28.png)](https://luciethorne.bandcamp.com/)
+[![](data/png/icon/ig-28.png)](https://www.instagram.com/luciennethorne/)
+[![](data/png/icon/fb-28.png)](https://www.facebook.com/lucie.thorne)
+[![](data/png/icon/sc-28.png)](https://soundcloud.com/lucie-1-2)
+
+</div>
