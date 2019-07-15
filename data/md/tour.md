@@ -2,7 +2,7 @@
 
 * * * * *
 
-**KITTY & FRANK ALBUM LAUNCH TOUR - ALL TICKETS ON SALE TUES 16th JULY 2019**
+**KITTY & FRANK ALBUM LAUNCH TOUR**
 
 * * * * *
 
@@ -11,7 +11,8 @@
 **Friday 13 September 2019**\
 the CORRIDOR project\
 **COWRA**\
-7pm
+7pm\
+[TICKETS](http://www.trybooking.com/BDYND)
 
 * * * * *
 
