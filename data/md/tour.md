@@ -54,7 +54,7 @@ Old Church on the Hill\
 Northcote Social Club\
 **MELBOURNE**\
 2pm\
-[Tickets](https://northcotesocialclub.com)
+[Tickets](https://northcotesocialclub.com/gig/65290037259/)
 
 * * * * *
 
