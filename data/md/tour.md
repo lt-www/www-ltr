@@ -41,18 +41,21 @@ The Town Hall\
 **Friday 4 October 2019**\
 Music on the Hill\
 **RED HILL**\
-7pm
+7pm\
+[Tickets](http://www.musiconthehill.com.au)
 
 **Saturday 5 October 2019**\
 Old Church on the Hill\
 **BENDIGO**\
-7pm 
+7pm\
+[Tickets](http://www.trybooking.com/BDZUH)
 
 **Sunday 6 October 2019**\
 Northcote Social Club\
 **MELBOURNE**\
-2pm
- 
+2pm\
+[Tickets](https://northcotesocialclub.com)
+
 * * * * *
 
 **NSW**
