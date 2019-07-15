@@ -1,5 +1,13 @@
 * * * * * 
 
+### 16 July 2019
+
+Tickets are now on sale for the [Spring album launch tour](tour)! And I'm excited & delighted to share the next sneak preview...! If you head over to the bandcamp page you can now stream the album's opening track and next single - Golden Plains (and you can download it too with an [album preorder](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) xx). The music video for Golden Plains will be officially premiered next week... but here's a little pressie for your ears in the meantime.. xx 
+
+![](data/image/news/LT_GP1.jpeg) 
+
+* * * * * 
+
 ### 13 July 2019
 
 Our Kitty & Frank Album Launch tour dates have just been announced! All tickets will go on sale this Tuesday 16th July. Check out the [tour dates here](tour), watch the video for [Wheogo Hill here](https://www.youtube.com/watch?v=yIl6_gXz4XA), and preorder [your copy of the album here](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank). More news - and the next single! - coming real soon xx
