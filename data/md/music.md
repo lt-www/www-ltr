@@ -9,9 +9,9 @@
  
 [FIND OUT MORE ABOUT **KITTY & FRANK**](?p=albums/kitty-and-frank) 
 
-[**LISTEN & SHOP at BANDCAMP**](https://luciethorne.bandcamp.com/)
+<!--[**LISTEN & SHOP at BANDCAMP**](https://luciethorne.bandcamp.com/)
 
-[**LISTEN on SPOTIFY**](spotify:album:35nF8PingAXxlpSx9hLpKq)
+[**LISTEN on SPOTIFY**](spotify:album:35nF8PingAXxlpSx9hLpKq)-->
 
 [**DISCOGRAPHY**](?p=albums)
 
