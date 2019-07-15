@@ -2,7 +2,7 @@
 
 [**WATCH WHEOGO HILL** on **YOUTUBE**](https://www.youtube.com/watch?v=yIl6_gXz4XA)
 
-[**LISTEN TO WHEOGO HILL** on **BANDCAMP**](https://luciethorne.bandcamp.com/track/wheogo-hill-single-2) or [**SPOTIFY**](spotify:album:35nF8PingAXxlpSx9hLpKq)
+<!--[**LISTEN TO WHEOGO HILL** on **BANDCAMP**](https://luciethorne.bandcamp.com/track/wheogo-hill-single-2) or [**SPOTIFY**](spotify:album:35nF8PingAXxlpSx9hLpKq)-->
 
 [**LISTEN TO GOLDEN PLAINS** on **BANDCAMP**](http://luciethorne.bandcamp.com/track/golden-plains)
 
