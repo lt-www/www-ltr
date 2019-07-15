@@ -1,7 +1,9 @@
 ![](data/image/news/ltrain1.jpg)
 
-The first song - **WHEOGO HILL** - from the forthcoming album is OUT NOW!\
-**WATCH** on [**YOUTUBE**](https://www.youtube.com/watch?v=yIl6_gXz4XA) | **STREAM/BUY** on [**BANDCAMP**](https://luciethorne.bandcamp.com/track/wheogo-hill-single-2) | **STREAM** on [**SPOTIFY**](spotify:album:35nF8PingAXxlpSx9hLpKq)
+**WATCH WHEOGO HILL** on [**YOUTUBE**](https://www.youtube.com/watch?v=yIl6_gXz4XA)\
+**LISTEN TO WHEOGO HILL** on [**BANDCAMP**](https://luciethorne.bandcamp.com/track/wheogo-hill-single-2) or [**SPOTIFY**](spotify:album:35nF8PingAXxlpSx9hLpKq)
+
+**LISTEN TO GOLDEN PLAINS** on [**BANDCAMP**](http://luciethorne.bandcamp.com/track/golden-plains)
 
 [**PREORDER KITTY & FRANK**](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) on LP / CD / Digital
  
