@@ -63,17 +63,20 @@ Northcote Social Club\
 **Thursday 17 October 2019**\
 Camelot Lounge\
 **SYDNEY**\
-7pm
+7pm\
+[Tickets](http://www.camelotlounge.com)
 
 **Friday 18 October 2019**\
 McCrossin's Mill\
 **URALLA**\
-7pm
+7pm\
+[Tickets](https://www.trybooking.com/BEATW)
 
 **Saturday 19 October 2019**\
 Community Arts Hall\
 **WAUCHOPE**\
-7pm
+7pm\
+[Tickets](https://www.trybooking.com/BEAQD)
 
 **Sunday 20 October 2019**\
 The Grand Junction\
@@ -87,7 +90,8 @@ The Grand Junction\
 **Thursday 14 November 2019**\
 The Junk Bar\
 **BRISBANE**\
-7pm
+7pm\
+[Tickets](http://www.trybooking.com/BEAUC)
 
 * * * * *
 
@@ -104,17 +108,20 @@ The Junk Bar\
 **Friday 22 November 2019**\
 Cooee Arthouse\
 **ALDINGA**\
-7pm
+7pm\
+[Tickets](https://www.eventbrite.com.au/e/lucie-thorne-kitty-frank-album-launch-tickets-65167321212)
 
 **Saturday 23 November 2019**\
 The Wheatsheaf\
 **ADELAIDE**\
-8pm
+8pm\
+[Tickets](http://www.trybooking.com/BEAUJ)
 
 **Sunday 24 November 2019**\
 Memorial Hall\
 **ASHBOURNE**\
-3pm
+3pm\
+[Tickets](http://www.trybooking.com/BEAUK)
 
 * * * * *
 
