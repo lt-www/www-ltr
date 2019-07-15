@@ -64,7 +64,7 @@ Northcote Social Club\
 Camelot Lounge\
 **SYDNEY**\
 7pm\
-[Tickets](http://www.camelotlounge.com)
+[Tickets](https://www.stickytickets.com.au/90127)
 
 **Friday 18 October 2019**\
 McCrossin's Mill\
