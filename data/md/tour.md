@@ -11,6 +11,7 @@
 **Friday 13 September 2019**\
 the CORRIDOR project\
 **COWRA**\
+presented in collaboration with [*Blind Freddy's Bushranger Tours*](https://www.blindfreddytours.com) and the [CORRIDOR project](https://www.thecorridorproject.org)
 7pm\
 [Tickets](http://www.trybooking.com/BDYND)
 
