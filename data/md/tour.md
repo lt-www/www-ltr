@@ -20,7 +20,7 @@ presented in collaboration with [*Blind Freddy's Bushranger Tours*](https://www.
 **ACT**
 
 **Saturday 14 September 2019**\
-Smith's\
+Smith's Alternative\
 **CANBERRA**\
 6.30pm\
 [Tickets](https://www.smithsalternative.com/events/lucie-thorne-61568?d=14%2F09%2F2019+7%3A00%3A00+PM)
