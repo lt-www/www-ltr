@@ -1,4 +1,9 @@
-**BUY ALBUMS:** physical & digital discography [available here](https://luciethorne.bandcamp.com/)  
+**BUY ALBUMS:** physical & digital discography [available here](https://luciethorne.bandcamp.com/)
+
+![](rgen/cover/r-80/kitty-and-frank.jpg)
+*Kitty & Frank*\
+Release date: August 2019.
+[Shop](https://luciethorne.bandcamp.com/)
 
 ![](rgen/cover/r-80/wheogo-hill.jpg)
 *Wheogo Hill*\
@@ -7,9 +12,9 @@ Release date: 14th May 2019.
 
 [![Everything Sings Tonight][9.1]][9.2]
 *Everything Sings Tonight*\
-Release date: 1st June 2015. [Details][9.2]  
+Release date: 1st June 2015. [Details][9.2]\
 [Shop](https://luciethorne.bandcamp.com/album/everything-sings-tonight)
-  
+
   [9.1]: rgen/cover/r-80/everything-sings.jpg
   [9.2]: ?p=albums/everything-sings-tonight
 
@@ -33,7 +38,7 @@ Released 9th September 2013. [Details][8.2]
 [![Bonfires In Silver City][7.1]][7.2]
 *Bonfires In Silver City*\
 Released 8th August 2011. [Details][7.2]\
-[Shop](https://luciethorne.bandcamp.com/album/bonfires-in-silver-city)  
+[Shop](https://luciethorne.bandcamp.com/album/bonfires-in-silver-city)
 
   [7.1]: rgen/cover/r-80/bonfires-in-silver-city.jpg
   [7.2]: ?p=albums/bonfires-in-silver-city
@@ -41,7 +46,7 @@ Released 8th August 2011. [Details][7.2]\
 [![black across the field][6.1]][6.2]
 *Black Across The Field*\
 Released 2nd March 2009. [Details][6.2]\
-[Shop](https://luciethorne.bandcamp.com/album/black-across-the-field)  
+[Shop](https://luciethorne.bandcamp.com/album/black-across-the-field)
 
   [6.1]: rgen/cover/r-80/black-across-the-field.jpg
   [6.2]: ?p=albums/black-across-the-field
@@ -49,7 +54,7 @@ Released 2nd March 2009. [Details][6.2]\
 [![where night birds call][5.1]][5.2]
 *Where Night Birds Call*\
 Released 5th March 2007. [Details][5.2]\
-[Shop](https://luciethorne.bandcamp.com/album/where-night-birds-call)  
+[Shop](https://luciethorne.bandcamp.com/album/where-night-birds-call)
 
   [5.1]: rgen/cover/r-80/where-night-birds-call.jpg
   [5.2]: ?p=albums/where-night-birds-call
@@ -65,8 +70,8 @@ three track single, *out of print*.
 [![the bud][3.1]][3.2]
 *the bud*\
 Released June 2004. [Details][3.2]\
-[limited edition LP][3.3] also released. *Vinyl out of print*.    
-[Shop](https://luciethorne.bandcamp.com/album/the-bud) 
+[limited edition LP][3.3] also released. *Vinyl out of print*.
+[Shop](https://luciethorne.bandcamp.com/album/the-bud)
 
   [3.1]: rgen/cover/r-80/the-bud.jpg
   [3.2]: ?p=albums/the-bud
@@ -75,7 +80,7 @@ Released June 2004. [Details][3.2]\
 [![botticelli blue eyes][2.1]][2.2]
 *botticelli blue eyes*\
 Released April 2002. [Details][2.2]\
-[Shop](https://luciethorne.bandcamp.com/album/botticelli-blue-eyes)  
+[Shop](https://luciethorne.bandcamp.com/album/botticelli-blue-eyes)
 
   [2.1]: rgen/cover/r-80/botticelli-blue-eyes.jpg
   [2.2]: ?p=albums/botticelli-blue-eyes
