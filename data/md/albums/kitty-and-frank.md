@@ -7,6 +7,8 @@ Release Date: 26th August 2019
 [**LINER NOTES** - by Craig Lawler](?p=albums/kitty-and-frank/lawler)\
 [Lucie Thorne BIO](?p=about/bio)
 
+![Kitty and Frank](rgen/cover/r-200/kitty-and-frank.jpg)
+
 1. Golden Plains
 2. Thief
 3. Wheogo Hill

@@ -1,6 +1,6 @@
 **BUY ALBUMS:** physical & digital discography [available here](https://luciethorne.bandcamp.com/)
 
-![](rgen/cover/r-80/kitty-and-frank.jpg)
+[![](rgen/cover/r-80/kitty-and-frank.jpg)](?p=albums/kitty-and-frank)
 *Kitty & Frank*\
 Release date: August 2019.
 [Shop](https://luciethorne.bandcamp.com/)
