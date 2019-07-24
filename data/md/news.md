@@ -1,5 +1,13 @@
 * * * * *
 
+### 24 July 2019
+
+Here's the music video for the new single Golden Plains! Starring magic-mover Courtney Meacham, filmed & edited by Andrew Watson at Semiconductor Media. Thanks to [theMUSIC](https://themusic.com.au/videos/video-premiere-lucie-thorne-golden-plains/iOWQmp2cn54) for premiering the video yesterday. [Album preorders](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) will be shipped from the start of August, and all [spring tour dates](tour) are on sale now.. xx
+
+<iframe src="https://www.youtube.com/embed/0n690pcpRtI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* * * * *
+
 ### 16 July 2019
 
 Tickets are now on sale for the [Spring album launch tour](tour)! And I'm excited & delighted to share the next sneak preview...! If you head over to the [bandcamp](https://luciethorne.bandcamp.com/track/golden-plains) page you can now stream the album's opening track and next single - [Golden Plains](http://luciethorne.bandcamp.com/track/golden-plains) (and you can download it too with an [album preorder](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) xx). The music video for Golden Plains will be officially premiered next week... but here's a little [pressie for your ears](https://luciethorne.bandcamp.com/track/golden-plains) in the meantime.. xx
