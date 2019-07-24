@@ -1,5 +1,17 @@
 <div class="yt-entry">
   <div class="yt-img">
+    <a href="https://www.youtube.com/watch?v=0n690pcpRtI">
+      <img src="http://i.ytimg.com/vi/yIl6_gXz4XA/default.jpg" width="120" height="90" />
+    </a>
+  </div>
+  <div class="yt-txt">
+    <a href="https://www.youtube.com/watch?v=0n690pcpRtI">GOLDEN PLAINS</a><br />
+    Filmed & edited by Andrew Watson, Semiconductor Media. Dancer: Courtney Meacham. 
+  </div>
+</div>
+
+<div class="yt-entry">
+  <div class="yt-img">
     <a href="https://www.youtube.com/watch?v=yIl6_gXz4XA">
       <img src="http://i.ytimg.com/vi/yIl6_gXz4XA/default.jpg" width="120" height="90" />
     </a>
