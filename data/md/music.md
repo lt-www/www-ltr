@@ -1,10 +1,12 @@
 ![](data/image/news/ltrain1.jpg)
 
+[**WATCH GOLDEN PLAINS** on **YOUTUBE**](https://www.youtube.com/watch?v=0n690pcpRtI)
+
 [**WATCH WHEOGO HILL** on **YOUTUBE**](https://www.youtube.com/watch?v=yIl6_gXz4XA)
 
 <!--[**LISTEN TO WHEOGO HILL** on **BANDCAMP**](https://luciethorne.bandcamp.com/track/wheogo-hill-single-2) or [**SPOTIFY**](spotify:album:35nF8PingAXxlpSx9hLpKq)-->
 
-[**LISTEN TO GOLDEN PLAINS** on **BANDCAMP**](http://luciethorne.bandcamp.com/track/golden-plains)
+<!--[**LISTEN TO GOLDEN PLAINS** on **BANDCAMP**](http://luciethorne.bandcamp.com/track/golden-plains)--> 
 
 [**PREORDER KITTY & FRANK**](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) on LP / CD / Digital
  
@@ -16,7 +18,7 @@
 
 [**BANDCAMP**](https://luciethorne.bandcamp.com/)
 
-[**SPOTIFY**](spotify:album:35nF8PingAXxlpSx9hLpKq)
+[**SPOTIFY**](spotify:track:2XBK3BnKs1GaeEwbu3bioJ)
 
 <!--
 <div class="yt-entry">
