@@ -8,17 +8,17 @@
 
 <!--[**LISTEN TO GOLDEN PLAINS** on **BANDCAMP**](http://luciethorne.bandcamp.com/track/golden-plains)--> 
 
-[**PREORDER KITTY & FRANK**](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) on LP / CD / Digital
- 
-[FIND OUT MORE ABOUT **KITTY & FRANK**](?p=albums/kitty-and-frank) 
+[**BANDCAMP**](https://luciethorne.bandcamp.com/)
+
+[**SPOTIFY**](spotify:track:2XBK3BnKs1GaeEwbu3bioJ) 
 
 [**DISCOGRAPHY**](?p=albums)
 
 [**VIDEO**](?p=video)
 
-[**BANDCAMP**](https://luciethorne.bandcamp.com/)
-
-[**SPOTIFY**](spotify:track:2XBK3BnKs1GaeEwbu3bioJ)
+[**PREORDER KITTY & FRANK**](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) on LP / CD / Digital
+ 
+[FIND OUT MORE ABOUT **KITTY & FRANK**](?p=albums/kitty-and-frank) 
 
 <!--
 <div class="yt-entry">
