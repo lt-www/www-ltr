@@ -128,6 +128,7 @@ Memorial Hall\
 * * * * *
 
 **VICTORIA**
+
 **Friday 24 - Sunday 26 January 2020**\
 [NEWSTEAD LIVE](https://www.newsteadlive.com)\
 **NEWSTEAD**  
