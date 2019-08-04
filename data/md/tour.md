@@ -125,5 +125,13 @@ Memorial Hall\
 [Tickets](http://www.trybooking.com/BEAUK)
 
 * * * * *
+* * * * *
+
+**VICTORIA**
+**Friday 24 - Sunday 26 January 2020**\
+[NEWSTEAD LIVE](https://www.newsteadlive.com)\
+**NEWSTEAD**  
+
+* * * * *
 
 [Tour Archive](tour/archive)
