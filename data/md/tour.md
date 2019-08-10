@@ -21,8 +21,8 @@ w DON WALKER\
 **Friday 13 September 2019**\
 the CORRIDOR project\
 **COWRA**\
-presented in collaboration with [*Blind Freddy's Bushranger Tours*](https://www.blindfreddytours.com) and the [CORRIDOR project](https://www.thecorridorproject.org)\
 w Hamish Stuart, Chris Abrahams & Alice Williams\
+presented in collaboration with [*Blind Freddy's Bushranger Tours*](https://www.blindfreddytours.com) and the [CORRIDOR project](https://www.thecorridorproject.org)\
 7pm\
 [Tickets](http://www.trybooking.com/BDYND)
 
@@ -33,6 +33,7 @@ w Hamish Stuart, Chris Abrahams & Alice Williams\
 **Saturday 14 September 2019**\
 Smith's Alternative\
 **CANBERRA**\
+w Hamish Stuart, Chris Abrahams & Alice Williams\
 6.30pm\
 [Tickets](https://www.smithsalternative.com/events/lucie-thorne-61568?d=14%2F09%2F2019+7%3A00%3A00+PM)
 
@@ -43,6 +44,8 @@ Smith's Alternative\
 **Sunday 15 September 2019**\
 The Town Hall\
 **CANDELO**\
+w Hamish Stuart, Chris Abrahams & Alice Williams\
+plus ANACTORIA\
 3pm\
 [Tickets](https://www.trybooking.com/BEAYD)
 
