@@ -2,6 +2,16 @@
 
 * * * * *
 
+**VICTORIA**
+
+**Saturday 31st August 2019**\
+Meeniyan Town Hall\
+**MEENIYAN**\
+w DON WALKER\
+7pm\
+
+* * * * *
+
 **KITTY & FRANK ALBUM LAUNCH TOUR**
 
 * * * * *
@@ -11,7 +21,8 @@
 **Friday 13 September 2019**\
 the CORRIDOR project\
 **COWRA**\
-presented in collaboration with [*Blind Freddy's Bushranger Tours*](https://www.blindfreddytours.com) and the [CORRIDOR project](https://www.thecorridorproject.org)
+presented in collaboration with [*Blind Freddy's Bushranger Tours*](https://www.blindfreddytours.com) and the [CORRIDOR project](https://www.thecorridorproject.org)\
+w Hamish Stuart, Chris Abrahams & Alice Williams\ 
 7pm\
 [Tickets](http://www.trybooking.com/BDYND)
 
