@@ -1,5 +1,13 @@
 * * * * *
 
+### 18 August 2019
+
+The very first show of the [album launch tour](tour) is happening right in the heart of 'Kitty & Frank' territory! at the amazing [CORRIDOR project](https://www.thecorridorproject.org) near Cowra on Friday 13th September. Playing with my *all star band* Hamish Stuart, Alice Williams and Chris Abrahams! AND the one n only Craig Lawler (from Blind Freddy's Bushranger Tours - who also made this cracker poster!) is gonna be warming up the proceedings with a Special Presentation. ! And you can book for delicious dinner... and even accom! What a way to start th tour! Can't wait!! All dates & bookings info [here](tour).  
+
+![](data/image/news/Cowra.jpeg)
+
+* * * * *
+
 ### 24 July 2019
 
 Here's the music video for the new single Golden Plains! Starring magic-mover Courtney Meacham, filmed & edited by Andrew Watson at Semiconductor Media. Thanks to [theMUSIC](https://themusic.com.au/videos/video-premiere-lucie-thorne-golden-plains/iOWQmp2cn54) for premiering the video yesterday! [Album preorders](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) will be shipped from the start of August, and all [spring tour dates](tour) are on sale now.. xx
