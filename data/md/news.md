@@ -1,8 +1,8 @@
 * * * * *
 
-### 18 August 2019
+### 17 August 2019
 
-The very first show of the [album launch tour](tour) is happening right in the heart of 'Kitty & Frank' territory! at the amazing [CORRIDOR project](https://www.thecorridorproject.org) near Cowra on Friday 13th September. Playing with my *all star band* Hamish Stuart, Alice Williams and Chris Abrahams! AND the one n only Craig Lawler (from Blind Freddy's Bushranger Tours - who also made this cracker poster!) is gonna be warming up the proceedings with a Special Presentation. ! And you can book for delicious dinner... and even accom! What a way to start th tour! Can't wait!! All dates & bookings info [here](tour).  
+The very first show of the [album launch tour](tour) is happening right in the heart of 'Kitty & Frank' territory! at the amazing [CORRIDOR project](https://www.thecorridorproject.org) near Cowra on Friday 13th September. Playing with my *all star band* Hamish Stuart, Alice Williams and Chris Abrahams! AND the one n only Craig Lawler (from [Blind Freddy's Bushranger Tours](https://www.blindfreddytours.com) - who also made this cracker poster!) is gonna be warming up the proceedings with a Special Presentation. ! And you can book for delicious dinner... and even accom! What a way to start th tour! Can't wait!! All dates & bookings info [here](tour).  
 
 ![](data/image/news/Cowra.jpeg)
 
