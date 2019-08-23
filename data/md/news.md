@@ -1,5 +1,13 @@
 * * * * *
 
+### 23 August 2019
+
+the next song from Kitty & Frank - 'Catherine Christie' - is now streaming on all the streams! You can listen now on [spotify](spotify:track:7GVmxWyH7ePZo1OjURJUtW), [youtube](https://www.youtube.com/watch?v=LQrpHAn7lGU) or dial it up on your platform of choice. 'Catherine Christie' opens Side B of the album, and it's one of my favourite chapters in the 'Kitty & Frank' story; they've managed to escape the heat of the law in the south... and make it all the way to Queensland, where they start a new life - as Mr & Mrs Christie, running a general supplies store at Apis Creek, on the road to the Peak Downs goldfields. Featuring my mighty mighty band Hamish Stuart, Dave Symes and Chris Abrahams! 
+
+![](data/image/news/LT_CC1.jpeg)
+
+* * * * *
+
 ### 17 August 2019
 
 The very first show of the [album launch tour](tour) is happening right in the heart of 'Kitty & Frank' territory! at the amazing [CORRIDOR project](https://www.thecorridorproject.org) near Cowra on Friday 13th September. Playing with my *all star band* Hamish Stuart, Alice Williams and Chris Abrahams! AND the one n only Craig Lawler (from [Blind Freddy's Bushranger Tours](https://www.blindfreddytours.com) - who also made this cracker poster!) is gonna be warming up the proceedings with a Special Presentation. ! And you can book for delicious dinner... and even accom! What a way to start th tour! Can't wait!! All dates & bookings info [here](tour).  
