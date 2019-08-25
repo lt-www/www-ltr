@@ -2,9 +2,9 @@
 
 Release Date: 26th August 2019
 
-[**PREORDER KITTY & FRANK**](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) on LP / CD / Digital\
-[**MEDIA RELEASE - KITTY & FRANK**](data/pr/LucieThorne_MediaRelease_July2019.pdf) JULY 2019 (PDF)\
-[**LINER NOTES** - by Craig Lawler](?p=albums/kitty-and-frank/lawler)\
+[LISTEN / BUY **KITTY & FRANK** - BANDCAMP](https://luciethorne.bandcamp.com/album/kitty-frank) on LP / CD / DL\
+[**MEDIA RELEASE - KITTY & FRANK**](data/pr/LucieThorne_MediaRelease_July2019.pdf) AUGUST 2019 (PDF)\
+[**ALBUM LINER NOTES** - by Craig Lawler](?p=albums/kitty-and-frank/lawler)\
 [Lucie Thorne BIO](?p=about/bio)
 
 ![Kitty and Frank](rgen/cover/r-200/kitty-and-frank.jpg)
@@ -36,6 +36,10 @@ Mixed by John Lee, Phaedra Studio, Coburg\
 Mastered by Lachlan Carrick, Moose Mastering, Richmond\
 Hamish Stuart plays Craig Lauritsen custom cymbals and Gretsch drums
 
+Cover painting by Jonathan Throsby\
+Design layout by Anita Belia\
+LT photography by WILK
+ 
 © Lucienne Thorne | Little Secret Records 2019 | All rights reserved
 
 This project has been assisted by the Australia Council for the Arts
