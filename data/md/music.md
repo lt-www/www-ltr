@@ -1,22 +1,18 @@
 ![](data/image/news/ltrain1.jpg)
 
+[**STREAM / BUY KITTY & FRANK** - **BANDCAMP**](https://luciethorne.bandcamp.com/album/kitty-frank) on LP / CD / Digital
+
 [**WATCH GOLDEN PLAINS** on **YOUTUBE**](https://www.youtube.com/watch?v=0n690pcpRtI)
 
 [**WATCH WHEOGO HILL** on **YOUTUBE**](https://www.youtube.com/watch?v=yIl6_gXz4XA)
 
-<!--[**LISTEN TO WHEOGO HILL** on **BANDCAMP**](https://luciethorne.bandcamp.com/track/wheogo-hill-single-2) or [**SPOTIFY**](spotify:album:35nF8PingAXxlpSx9hLpKq)-->
-
-<!--[**LISTEN TO GOLDEN PLAINS** on **BANDCAMP**](http://luciethorne.bandcamp.com/track/golden-plains)--> 
-
-[**BANDCAMP**](https://luciethorne.bandcamp.com/)
-
-[**SPOTIFY**](spotify:track:2XBK3BnKs1GaeEwbu3bioJ) 
+[**LISTEN ON SPOTIFY**](https://open.spotify.com/track/7GVmxWyH7ePZo1OjURJUtW?si=XhevbIgZQJ6G79iXV_pgVQ) 
 
 [**DISCOGRAPHY**](?p=albums)
 
-[**VIDEO**](?p=video)
+[**BACK CATALOGUE - BANDCAMP**](https://luciethorne.bandcamp.com/)
 
-[**PREORDER KITTY & FRANK**](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) on LP / CD / Digital
+[**VIDEO**](?p=video)
  
 [FIND OUT MORE ABOUT **KITTY & FRANK**](?p=albums/kitty-and-frank) 
 
