@@ -6,13 +6,16 @@ Happy Release Day little rekkid! I proudly and lovingly present to you, dear lis
 
 ![](data/image/news/LT_RD2.jpeg)
 
-As many of you know by now, this is an album about two real-life characters, a 'concept record' about a young frontier woman, Kitty Walsh, and the charismatic bandit who became her lover, Frank Gardiner. I first heard the wild true tales of Kitty & Frank from Craig Lawler, tour operator at Blind Freddys Bushranger Tours, after a show at the Gooloogong Log Cabin back in 2015. By the time I'd landed back home in Melbourne I'd written 'Nothing Comes Close', and demo-d it that very night, in my little cabin in Pascoe Vale, under thunderous skies. (.. and there's a bloody loud thunder clap on that original demo right when I sing "strain for hooves like thunder." *Seriously.) Not long after, I wrote 'All The Love", and when I started playing those two songs out, the idea of writing a whole album for Kitty & Frank crept it. 
+As many of you know by now, this is an album about two real-life characters, a 'concept record' about a young frontier woman, Kitty Walsh, and the charismatic bandit who became her lover, Frank Gardiner. I first heard the wild true tales of Kitty & Frank from Craig Lawler, tour operator at Blind Freddys Bushranger Tours, after a show at the Gooloogong Log Cabin back in 2015. By the time I'd landed back home in Melbourne that night, I'd written 'Nothing Comes Close', and demo-d it there n then, in the wee hours, in my little cabin in Pascoe Vale, under thunderous skies. (There's a bloody loud thunder clap on that original demo right when I sing "strain for hooves like thunder." *Seriously. !) Not long after, I wrote 'All The Love", and when I started playing those two songs out, the idea of writing a whole album for Kitty & Frank crept in...  
 
-Fast forward to April 2018, when I sent myself off on a song-writing retreat to a little shack on the Howqua River in north eastern Victoria. I had a week's supplies, a simple recording set-up, and a borrowed midi-keyboard. The whole wild story of Kitty & Frank had clearly been rolling round my head for a long time by this stage, but it was there in that week on the Howqua that the *shape* of the record flew in, something shifted/lifted, and I knew just what kinda record i was gonna make. 
+Fast forward to April 2018, when I sent myself off on a song-writing retreat to a little shack on the Howqua River in north eastern Victoria. I had a week's supplies, a simple recording set-up, plenty of firewood, a borrowed midi-keyboard, and songs to write! The whole wild story of Kitty & Frank had clearly been rolling round my head for a long time by this stage, but it was there in that week on the Howqua that the *shape* of the record really flew in, something shifted/lifted, and I could suddenly taste just what kinda record I was gonna make. 
 
-In the spring of 2018 I assembled by *dreamteam* (again!!) - Hamish Stuart, Dave Symes and Chris Abrahams - and at the start of the summer we tracked nearly all of the album live to tape over three days at Sydney's Golden Retriever Studios with Simon Berckelman. I played around with those recordings back at the ranch over the summer, and mixed the album with John Lee at Phaedra Studios in April 2019. 
+In the spring of 2018 I assembled my *dreamteam* (again!!) - Hamish Stuart, Dave Symes and Chris Abrahams - and at the start of the summer we tracked nearly all of the album live to tape over three days at Sydney's Golden Retriever Studios with Simon Berckelman. I played around with those recordings some more back at the Rezza Ranch over the summer, and mixed the album with John Lee at Phaedra Studios in April 2019. 
 
-I'm so grateful to the whole beautiful team for everything everyone's brought to this project, bringing it all to life. I really love what we've made. And I'm SO EXCITED to finally share it with all of you! Happy listening xo 
+I'm so grateful to the whole beautiful team for everything everyone's brought to this project. I really love what we've made. And I'm SO EXCITED to finally share it all with all of you! 
+
+Happy listening, lovin comrades 
+xo LT 
 
 * * * * *
 
