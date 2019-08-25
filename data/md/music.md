@@ -1,6 +1,6 @@
 ![](data/image/news/ltrain1.jpg)
 
-[**STREAM / BUY KITTY & FRANK** - **BANDCAMP**](https://luciethorne.bandcamp.com/album/kitty-frank) [LP / CD / DL] 
+[LISTEN / BUY **KITTY & FRANK** - **BANDCAMP**](https://luciethorne.bandcamp.com/album/kitty-frank) [LP / CD / DL] 
 
 [**WATCH GOLDEN PLAINS** on **YOUTUBE**](https://www.youtube.com/watch?v=0n690pcpRtI)
 
