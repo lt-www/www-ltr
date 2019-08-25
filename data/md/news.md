@@ -2,7 +2,7 @@
 
 ### 26 August 2019
 
-Happy Release Day little rekkid! I proudly and lovingly present to you, dear listener, [KITTY & FRANK]. You can now listen to the whole album [right here on bandcamp](https://luciethorne.bandcamp.com/album/kitty-frank) - where you can also [purchase the album](https://luciethorne.bandcamp.com/album/kitty-frank) on LP, CD, or as a digital download. 
+Happy Release Day little rekkid! I proudly and lovingly present to you, dear listener, KITTY & FRANK. You can now listen to the whole album [right here on bandcamp](https://luciethorne.bandcamp.com/album/kitty-frank) - where you can also [purchase the album](https://luciethorne.bandcamp.com/album/kitty-frank) on LP, CD, or as a digital download. 
 
 ![](data/image/news/LT_RD2.jpeg)
 
