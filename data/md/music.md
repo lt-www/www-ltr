@@ -1,10 +1,10 @@
 ![](data/image/news/ltrain1.jpg)
 
-[LISTEN / BUY **KITTY & FRANK** - **BANDCAMP**](https://luciethorne.bandcamp.com/album/kitty-frank) [LP / CD / DL] 
+[LISTEN / BUY **KITTY & FRANK** - BANDCAMP](https://luciethorne.bandcamp.com/album/kitty-frank) [LP / CD / DL] 
 
-[**WATCH GOLDEN PLAINS** on **YOUTUBE**](https://www.youtube.com/watch?v=0n690pcpRtI)
+[WATCH **GOLDEN PLAINS VIDEO** - YOUTUBE](https://www.youtube.com/watch?v=0n690pcpRtI)
 
-[**WATCH WHEOGO HILL** on **YOUTUBE**](https://www.youtube.com/watch?v=yIl6_gXz4XA)
+[WATCH **WHEOGO HILL** VIDEO - YOUTUBE](https://www.youtube.com/watch?v=yIl6_gXz4XA)
 
 [**LISTEN ON SPOTIFY**](https://open.spotify.com/track/7GVmxWyH7ePZo1OjURJUtW?si=XhevbIgZQJ6G79iXV_pgVQ) 
 
