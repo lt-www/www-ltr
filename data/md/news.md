@@ -12,7 +12,7 @@ Fast forward to April 2018, when I sent myself off on a song-writing retreat to 
 
 In the spring of 2018 I assembled my *dreamteam* (again!!) - Hamish Stuart, Dave Symes and Chris Abrahams - and at the start of the summer we tracked nearly all of the album live to tape over three days at Sydney's Golden Retriever Studios with consummate engineer Simon Berckelman. I played around with those recordings some more back home at the Rezza ranch over the summer, and mixed the album with the wonderful John Lee at Phaedra Studios in April 2019. 
 
-I'm so grateful to the whole beautiful team for everything everyone's brought to the project. I really love what we've made. And I'm SO EXCITED to finally share it all with all of you! 
+I'm so grateful to the whole beautiful team for everything everyone's brought to this project. I really love what we've made. And I'm SO EXCITED to finally share it all with all of you! 
 
 Happy listening, lovin comrades 
 
