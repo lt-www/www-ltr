@@ -1,4 +1,4 @@
-> [**PREORDER KITTY & FRANK**](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) on LP / CD / Digital, and get a free download of the first single WHEOGO HILL
+> [**New Album KITTY & FRANK OUT NOW - LP / CD / DL**](https://luciethorne.bandcamp.com/album/kitty-frank) 
 
 ![](data/image/front/lt-kitty-and-frank.jpg)
 
