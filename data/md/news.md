@@ -1,5 +1,13 @@
 * * * * *
 
+### 26 August 2019
+
+Happy Release Day little rekkid! I proudly and lovingly present to you, dear listener, [KITTY & FRANK]. You can now listen to the whole album [right here on bandcamp](https://luciethorne.bandcamp.com/album/kitty-frank) - where you can also [purchase the album](https://luciethorne.bandcamp.com/album/kitty-frank) on LP, CD, or as a digital download. 
+
+![](data/image/news/LT_KF.jpeg)
+
+* * * * *
+
 ### 23 August 2019
 
 the next song from Kitty & Frank - 'Catherine Christie' - is now streaming on all the streams! You can listen now on [spotify](spotify:track:7GVmxWyH7ePZo1OjURJUtW), [youtube](https://www.youtube.com/watch?v=LQrpHAn7lGU) or dial it up on your platform of choice. 'Catherine Christie' opens Side B of the album, and it's one of my favourite chapters in the 'Kitty & Frank' story; they've managed to escape the heat of the law in the south... and make it all the way to Queensland, where they start a new life - as Mr & Mrs Christie, running a general supplies store at Apis Creek, on the road to the Peak Downs goldfields. Featuring my mighty mighty band Hamish Stuart, Dave Symes and Chris Abrahams! 
@@ -18,7 +26,7 @@ The very first show of the [album launch tour](tour) is happening right in the h
 
 ### 24 July 2019
 
-Here's the music video for the new single Golden Plains! Starring magic-mover Courtney Meacham, filmed & edited by Andrew Watson at Semiconductor Media. Thanks to [theMUSIC](https://themusic.com.au/videos/video-premiere-lucie-thorne-golden-plains/iOWQmp2cn54) for premiering the video yesterday! [Album preorders](https://luciethorne.bandcamp.com/album/pre-order-kitty-frank) will be shipped from the start of August, and all [spring tour dates](tour) are on sale now.. xx
+Here's the music video for the new single Golden Plains! Starring magic-mover Courtney Meacham, filmed & edited by Andrew Watson at Semiconductor Media. Thanks to [theMUSIC](https://themusic.com.au/videos/video-premiere-lucie-thorne-golden-plains/iOWQmp2cn54) for premiering the video yesterday! [Album preorders](https://luciethorne.bandcamp.com/album/kitty-frank) will be shipped from the start of August, and all [spring tour dates](tour) are on sale now.. xx
 
 <iframe src="https://www.youtube.com/embed/0n690pcpRtI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
