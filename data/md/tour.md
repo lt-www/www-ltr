@@ -20,10 +20,11 @@ w DON WALKER\
 
 **Friday 13 September 2019**\
 the CORRIDOR project\
-**COWRA**\
+Riverslea Station Woolshed, 2997 Darby’s Falls Road, **WYANGALA**\
 w Hamish Stuart, Chris Abrahams & Alice Williams\
-presented in collaboration with [*Blind Freddy's Bushranger Tours*](https://www.blindfreddytours.com) and the [CORRIDOR project](https://www.thecorridorproject.org)\
+presented in collaboration with [*Blind Freddy's Bushranger Tours*](https://www.blindfreddytours.com) and the [CORRIDOR project](https://www.thecorridorproject.org/blog)\
 7pm\
+DInner & Show tickets available - Bookings essential\
 [Tickets](http://www.trybooking.com/BDYND)
 
 * * * * *
