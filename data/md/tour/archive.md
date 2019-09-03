@@ -2,6 +2,16 @@
 
 * * * * *
 
+**VICTORIA**
+
+**Saturday 31st August 2019**\
+Meeniyan Town Hall\
+**MEENIYAN**\
+w DON WALKER\
+SOLD OUT
+
+* * * * *
+
 **NSW**
 
 **Sunday 23 June 2019**\
