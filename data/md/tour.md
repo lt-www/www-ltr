@@ -2,16 +2,6 @@
 
 * * * * *
 
-**VICTORIA**
-
-**Saturday 31st August 2019**\
-Meeniyan Town Hall\
-**MEENIYAN**\
-w DON WALKER\
-7pm
-
-* * * * *
-
 **KITTY & FRANK ALBUM LAUNCH TOUR**
 
 * * * * *
