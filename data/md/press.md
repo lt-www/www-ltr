@@ -1,5 +1,17 @@
 * * * * * 
 
+### KITTY & FRANK
+  
+"Vast and often breathtaking... these songs glow in the smoke of Thorne's incredibly expressive voice" **_Michael Dwyer, The Age_**     
+
+"So deep, lush and inventive you’re transported to a post-Radiohead rock soundscape" **_Martin Jones, Rhythms Magazine_**   
+
+"Bold, brave.. potent. Thorne’s a musician who has understood and conveyed desire better than most" **_Bernard Zuel, Sydney Morning Herald_**   
+
+"One of my favourite songwriters & performers in the known three Universes" **_Tim Rogers, Double J_**  
+
+* * * * * 
+
 ### Everything Sings Tonight  
 
 "exquisitely impressionistic... poetry in motion" **** **_Rolling Stone Magazine_**     
