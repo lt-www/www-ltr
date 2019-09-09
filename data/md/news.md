@@ -2,7 +2,7 @@
 
 ### 9 September 2019
 
-The KITTY & FRANK album launch tour starts this week! with shows in Cowra, Canberra and Candelo, all of 'em with Hamish Stuart, Alice Williams and Chris Abrahams! [Tix & details here](tour) 
+The KITTY & FRANK album launch tour starts this week! with shows in Cowra, Canberra & Candelo! All of 'em with Hamish Stuart, Alice Williams and Chris Abrahams! [Tix & details here](tour) 
 
 ![](data/image/news/LT_CCC.jpeg)
 
