@@ -1,7 +1,7 @@
 * * * * * 
 
-### KITTY & FRANK
-  
+### KITTY & FRANK\
+
 "Vast and often breathtaking... these songs glow in the smoke of Thorne's incredibly expressive voice" **_Michael Dwyer, The Age_**     
 
 "So deep, lush and inventive you’re transported to a post-Radiohead rock soundscape" **_Martin Jones, Rhythms Magazine_**   
