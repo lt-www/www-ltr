@@ -6,7 +6,7 @@ Since then Lucie has been touring far and wide in a sensational duo collaboratio
 
 Thorne & Stuart’s 2015 release Everything Sings Tonight was a bold, poetic and musically adventurous creative benchmark for the pair. Recorded predominately in Berlin and featuring heavyweight guests including Bo Ramsey, Chris Abrahams & Greg Brown, Everything Sings Tonight shines with “atmospheric, innovative brilliance” (**** Sydney Morning Herald).
 
-Thorne's new album - Kitty & Frank - will be released internationally on 26 August 2019.  An extraordinary art/pop concept record, Kitty & Frank traces the wild true stories of young frontier woman Kitty Walsh and her lover, the charismatic bandit and bushranger Frank Gardiner. In the 1860’s, Gold Fever came to  Wheogo NSW and, like Deadwood, it didn’t end well. Painting landscapes with dream-soaked synths, irresistible beats, poetry and pathos, with Kitty & Frank Thorne has woven an astonishing arc of vignettes to create an album which is at once timeless and utterly modern.
+Thorne's new album [Kitty & Frank](albums/kitty-and-frank) is an extraordinary art/pop concept record which traces the wild true stories of young frontier woman Kitty Walsh and her lover, the charismatic bandit and bushranger Frank Gardiner. In the 1860’s, Gold Fever came to  Wheogo NSW and, like Deadwood, it didn’t end well. Painting landscapes with dream-soaked synths, irresistible beats, poetry and pathos, with Kitty & Frank Thorne has woven an astonishing arc of vignettes to create an album which is at once timeless and utterly modern.
 
 Along with a remarkably consistent Australian touring schedule, Lucie also tours regularly across the European and North American continents. Born and raised in Launceston, Tasmania, Lucie now lives in Melbourne’s north.
 
@@ -18,7 +18,7 @@ Along with a remarkably consistent Australian touring schedule, Lucie also tours
 
 selected DISCOGRAPHY:
 
-- [Kitty & Frank](albums/kitty-and-frank) - Release date: 26 August 2019
+- [Kitty & Frank](albums/kitty-and-frank) - 2019
 - [Everything Sings Tonight](albums/everything-sings-tonight) - 2015
 - Fall to Rise [as LOVE OVER GOLD w Pieta Brown] - 2013
 - Bonfires In Silver City - 2011
