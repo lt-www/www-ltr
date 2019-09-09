@@ -1,6 +1,6 @@
 * * * * * 
 
-### KITTY & FRANK\
+### KITTY & FRANK
 
 "Vast and often breathtaking... these songs glow in the smoke of Thorne's incredibly expressive voice" **_Michael Dwyer, The Age_**     
 
