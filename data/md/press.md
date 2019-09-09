@@ -12,7 +12,7 @@
 
 * * * * * 
 
-### Everything Sings Tonight  
+### Everything Sings Tonight
 
 "exquisitely impressionistic... poetry in motion" **** **_Rolling Stone Magazine_**     
 
