@@ -1,5 +1,13 @@
 * * * * *
 
+### 9 September 2019
+
+The KITTY & FRANK album launch tour starts this week! with shows in Cowra, Canberra and Candelo, all of 'em with Hamish Stuart, Alice Williams and Chris Abrahams! [Tix & details here](tour) 
+
+![](data/image/news/LT_CCC.jpeg)
+
+* * * * *
+
 ### 26 August 2019
 
 Happy Release Day little rekkid! I proudly and lovingly present to you, dear listener, KITTY & FRANK. You can now listen to the whole album [right here on bandcamp](https://luciethorne.bandcamp.com/album/kitty-frank) - where you can also [purchase the album on LP, CD, or as a digital download](https://luciethorne.bandcamp.com/album/kitty-frank). 
