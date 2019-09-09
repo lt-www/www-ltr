@@ -20,7 +20,7 @@ selected DISCOGRAPHY:
 
 - [Kitty & Frank](albums/kitty-and-frank) - 2019
 - [Everything Sings Tonight](albums/everything-sings-tonight) - 2015
-- Fall to Rise [as LOVE OVER GOLD w Pieta Brown] - 2013
+- [Fall to Rise](albums/fall-to-rise) [as LOVE OVER GOLD w Pieta Brown] - 2013
 - [Bonfires In Silver City](albums/bonfires-in-silver-city) - 2011
 - [Black Across The Field](albums/black-across-the-field) - 2009
 - [Where Night Birds Call](albums/where-night-birds-call) - 2007
