@@ -25,7 +25,7 @@ DInner & Show tickets available - Bookings essential\
 Smith's Alternative\
 **CANBERRA**\
 w Hamish Stuart, Chris Abrahams & Alice Williams\
-6.30pm\
+Doors 6.30pm / Show 7-9pm\
 [Tickets](https://www.smithsalternative.com/events/lucie-thorne-61568?d=14%2F09%2F2019+7%3A00%3A00+PM)
 
 * * * * *
@@ -37,7 +37,7 @@ The Town Hall\
 **CANDELO**\
 w Hamish Stuart, Chris Abrahams & Alice Williams\
 plus ANACTORIA\
-3pm\
+3.30-6pm\
 [Tickets](https://www.trybooking.com/BEAYD)
 
 * * * * *
@@ -63,7 +63,7 @@ Northcote Social Club\
 **MELBOURNE**\
 w Hamish Stuart, Kade Brown & Alice Williams\
 plus LADYCHOIR\
-2pm\
+2-5pm\
 [Tickets](https://northcotesocialclub.com/gig/65290037259/)
 
 * * * * *
@@ -91,7 +91,7 @@ Community Arts Hall\
 **Sunday 20 October 2019**\
 The Grand Junction\
 **MAITLAND**\
-3pm
+4pm
 
 * * * * *
 
@@ -138,7 +138,7 @@ Memorial Hall\
 
 **VICTORIA**
 
-**Friday 24 - Sunday 26 January 2020**\
+**Friday 24 - Monday 27 January 2020**\
 [NEWSTEAD LIVE](https://www.newsteadlive.com)\
 **NEWSTEAD**  
 
