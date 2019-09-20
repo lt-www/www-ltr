@@ -2,45 +2,8 @@
 
 * * * * *
 
-**KITTY & FRANK ALBUM LAUNCH TOUR**
+**KITTY & FRANK ALBUM LAUNCH TOUR continues...**
 
-* * * * *
-
-**NSW**
-
-**Friday 13 September 2019**\
-the CORRIDOR project\
-Riverslea Station Woolshed, 2997 Darby’s Falls Road, **WYANGALA**\
-w Hamish Stuart, Chris Abrahams & Alice Williams\
-presented in collaboration with [*Blind Freddy's Bushranger Tours*](https://www.blindfreddytours.com) and the [CORRIDOR project](https://www.thecorridorproject.org/blog)\
-7pm\
-DInner & Show tickets available - Bookings essential\
-[Tickets](http://www.trybooking.com/BDYND)
-
-* * * * *
-
-**ACT**
-
-**Saturday 14 September 2019**\
-Smith's Alternative\
-**CANBERRA**\
-w Hamish Stuart, Chris Abrahams & Alice Williams\
-Doors 6.30pm / Show 7-9pm\
-[Tickets](https://www.smithsalternative.com/events/lucie-thorne-61568?d=14%2F09%2F2019+7%3A00%3A00+PM)
-
-* * * * *
-
-**NSW**
-
-**Sunday 15 September 2019**\
-The Town Hall\
-**CANDELO**\
-w Hamish Stuart, Chris Abrahams & Alice Williams\
-plus ANACTORIA\
-3.30-6pm\
-[Tickets](https://www.trybooking.com/BEAYD)
-
-* * * * *
 
 **VICTORIA**
 
