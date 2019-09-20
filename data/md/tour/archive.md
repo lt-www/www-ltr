@@ -1,8 +1,8 @@
 <!-- ## shows/archive -->
 
-**KITTY & FRANK ALBUM LAUNCH TOUR**
-
 * * * * *
+
+**KITTY & FRANK ALBUM LAUNCH TOUR**
 
 **NSW**
 
