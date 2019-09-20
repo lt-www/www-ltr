@@ -26,7 +26,7 @@ w Hamish Stuart, Chris Abrahams & Alice Williams
 the CORRIDOR project\
 Riverslea Station Woolshed, 2997 Darby’s Falls Road, **WYANGALA**\
 w Hamish Stuart, Chris Abrahams & Alice Williams\
-presented in collaboration with [*Blind Freddy's Bushranger Tours*](https://www.blindfreddytours.com) and the [CORRIDOR project](https://www.thecorridorproject.org/blog)\
+presented in collaboration with [*Blind Freddy's Bushranger Tours*](https://www.blindfreddytours.com) and the [CORRIDOR project](https://www.thecorridorproject.org/blog)
 
 * * * * *
 
