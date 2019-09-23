@@ -2,7 +2,7 @@
 
 [**DOWNLOAD HIGH RES PRESS PHOTOS**](https://www.dropbox.com/sh/aje3cry6elw37dw/AABqXSSVJ3vsxVBCFcMZAh4Pa?dl=0)
 
-[**MEDIA RELEASE - KITTY & FRANK**](data/pr/LucieThorne_MediaRelease_July2019.pdf) AUG 2019 (PDF)
+[**MEDIA RELEASE - KITTY & FRANK**](data/pr/LT_KF_MediaRelease_Sep2019.pdf) SEP 2019 (PDF)
 
 [FIND OUT MORE ABOUT **KITTY & FRANK**](?p=albums/kitty-and-frank)
 
