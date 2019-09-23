@@ -1,5 +1,13 @@
 * * * * *
 
+### 23 September 2019
+
+Loving thanks to everyone who came out to the first round of KITTY & FRANK launch shows!! Next up we're playing three shows in Victoria: Fri 4th Oct in Red Hill, Sat 5th Oct in Bendigo, and an early matinee show at The Northcote Social Club in Melbourne on Sun 6th Oct. [All tix links & details here](tour). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ql-dfdcqXNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* * * * *
+
 ### 9 September 2019
 
 The KITTY & FRANK album launch tour starts this week! with shows in Cowra, Canberra & Candelo! All of 'em with Hamish Stuart, Alice Williams and Chris Abrahams! [Tix & details here](tour) 
