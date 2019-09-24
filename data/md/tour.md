@@ -11,6 +11,7 @@
 Music on the Hill\
 **RED HILL**\
 w Hamish Stuart & Alice Williams\
+plus Amarina Waters\
 7pm\
 [Tickets](http://www.musiconthehill.com.au)
 
@@ -18,6 +19,7 @@ w Hamish Stuart & Alice Williams\
 Old Church on the Hill\
 **BENDIGO**\
 w Hamish Stuart & Alice Williams\
+plus Jess Parker\
 7pm\
 [Tickets](http://www.trybooking.com/BDZUH)
 
@@ -36,24 +38,30 @@ plus LADYCHOIR\
 **Thursday 17 October 2019**\
 Camelot Lounge\
 **SYDNEY**\
+w Hamish Stuart, Matt McMahon & Alice Williams\
 7pm\
 [Tickets](https://www.stickytickets.com.au/90127)
 
 **Friday 18 October 2019**\
 McCrossin's Mill\
 **URALLA**\
+w Hamish Stuart & Alice Williams\
+plus Jhana Allan\
 7pm\
 [Tickets](https://www.trybooking.com/BEATW)
 
 **Saturday 19 October 2019**\
 Community Arts Hall\
 **WAUCHOPE**\
+w Hamish Stuart & Alice Williams\
+plus Jhana Allan\
 7pm\
 [Tickets](https://www.trybooking.com/BEAQD)
 
 **Sunday 20 October 2019**\
 The Grand Junction\
 **MAITLAND**\
+w Hamish Stuart & Alice Williams\
 4pm
 
 * * * * *
