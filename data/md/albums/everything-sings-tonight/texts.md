@@ -173,7 +173,7 @@ Suspended in between the letting go and the holding on
 From that ledge I could see straight down\
 I was waiting then, but I’m not waiting now
 
-## Moving Colours
+## <a name="moving-colours">Moving Colours</a>
 
 From over here, without my glasses\
 It’s such a pretty smudge of moving colours
