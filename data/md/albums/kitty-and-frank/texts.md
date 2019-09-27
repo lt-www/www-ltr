@@ -188,7 +188,41 @@ me and Frankie we got all the love
 
 ## Catherine Christie
 
-## Apis Creek
+Yeah we got what you need\
+got flour, got tea and gin\
+yeah we got what you’re after\
+got sugar, lumber, nails and tin\
+yeah we got what you need\
+got picks and shovels, we got rum\
+keep rolling up from the harbour\
+all hoping they’ll be the lucky ones
+
+Me and my loving comrade\
+we found our treasure, love is king\
+and we made a chance to start it\
+all over, over again\
+here I can be your Catherine Christie\
+here you can be my loving man\
+we turned it in a new direction\
+living this big love in a big new land
+
+Yeah we got what you need\
+got rope and canvas by the pound\
+keep rolling up from the harbour\
+through Apis Creek to the Peak Downs\
+yeah we got what you need\
+got picks and shovels, we got rum\
+keep rolling in from every place\
+all hoping they’ll be the lucky ones
+
+Me and my loving comrade\
+we found our treasure, love is king\
+and we made a chance to start it\
+all over, over again\
+here I can be your Catherine Christie\
+here you can be my loving man\
+we turned it in a new direction\
+living this big love in a big new land
 
 ## Darlinghurst
 
