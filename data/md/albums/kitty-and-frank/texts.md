@@ -82,6 +82,22 @@ this thief of horses gonna steal my heart
 
 ## Wheogo Hill
 
+Blankets drawn against the sun\
+but still there’s sun on skin\
+shadows dance in the light\
+let it in, let it in
+
+Been watching the hens scratching\
+over frozen ground\
+oh how I’ve been dreaming\
+since you’ve been coming round
+
+One wild-wind night\
+you chanced to call\
+and if you call this thunder\
+then let it roll, let it roll
+
+
 ## Nothing Comes Close
 
 ## All The Love
