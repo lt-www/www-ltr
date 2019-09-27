@@ -299,3 +299,28 @@ in you I still confide\
 who’d’ve thought that it’d be you
 
 ## Twilight Star
+
+Sunday morning creeping\
+San Fran saloon\
+Jim’s fumbling dimes and nickels\
+he’ll be stumbling homeward soon
+
+Joe leans across the counter\
+one lazy eye, whiskey-slack grin\
+says come on Frankie tell us\
+some of them tales of yours again
+
+Of hold-ups, gold and horses\
+of cops and fires and fights\
+of Gilbert, Hall and O’Meally\
+racing with you through the night
+
+And when the last of them\
+have spilled out to the dawn\
+I’ll turn the latch and bolt it\
+sweep up the floor
+
+Let my old mind wander\
+rinse the tumblers, wipe the bar\
+it’s you I still dream Catherine\
+you’re my twilight star
