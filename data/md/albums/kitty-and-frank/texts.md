@@ -139,7 +139,7 @@ and what of you and Jim and Henry\
 Biddy, Frank's been talking about far away\
 talking just me and my Frankie
 
-It's a rough scrub it's a rocky soil\ 
+It's a rough scrub it's a rocky soil\
 that we keep toiling daily\
 one of these days we might get away\
 one of these days just maybe
