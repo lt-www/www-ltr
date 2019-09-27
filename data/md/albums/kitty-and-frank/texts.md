@@ -246,6 +246,34 @@ but will I ever get to see you again
 
 ## Valley
 
+Climb here from the valley below\
+wait until it’s dark\
+'til that heavy roll of thunder starts
+
+Storm coming to the valley below\
+I climb here above it all\
+high above the mud and brawl
+
+Been down in a festering hull\
+and it plagues me every night\
+all those wish-I’d-never-seen-em sights
+
+Been numb, I’ve been black and blue\
+and I’ve never been so sad\
+nor known of men so mean and mad
+
+It’s no living in that valley below\
+yes I’ve been beaten night and day\
+and the rest I hope I’ll never say
+
+Cold wind blowing in that valley below\
+just a streak of silver light\
+as morning sneaks up on the night
+
+One more time from that valley below\  
+the sky is grey across the land\
+your silver pistol in my hand
+
 ## Barbary Coast
 
 ## Twilight Star
