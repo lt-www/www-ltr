@@ -226,6 +226,24 @@ living this big love in a big new land
 
 ## Darlinghurst
 
+They work us to the bone for sure\
+brothers, fathers, lovers, all\
+it’s a wild wild thing to see\
+that petty crime and poverty\
+could lead you here
+
+Held in sandstone cut from hands like mine\
+a chink of light, the weight of time\
+it’s a wild wild thing is fear\
+oh Kitty I don’t know if i’ll ever make it out of here
+
+And most, it’s true, I’ve seen before\
+but in Darlinghurst I’ve seen it all\
+it’s a wild wild thing to know\
+the iron clang and hammer blow\
+yeah I’ve seen the best and worst of men\
+but will I ever get to see you again
+
 ## Valley
 
 ## Barbary Coast
