@@ -97,8 +97,52 @@ you chanced to call\
 and if you call this thunder\
 then let it roll, let it roll
 
-
 ## Nothing Comes Close
+
+My sister Biddy came by today\
+talking what she's talking lately\
+wondering if she'll go or if she'll stay\
+and so much crying about the babies
+
+Oh my little sister I'm troubled too\
+you know I've been down with sorrow\
+but it feels like things with Frank are true\
+it's got me thinking about tomorrows
+
+You know they'll keep being on out there mustering\
+and we'll keep toiling under\
+I look out across the rise for him\
+and my ears strain for hooves like thunder, like they’re straining now
+
+The way I've sailed me out to sea\
+gone n swept myself right off my feet\
+everything else you can have it back\
+Oh nothing comes close to me and my Frank
+
+Of course I know he's a wild one\
+course I know the troubles he's under\
+but in his arms a light lets in\
+a flood of hope and wonder
+
+They're flashing eyes, it's a wicked grin\
+and the way he says so sweetly\
+the things I love to hear him say\
+you know I think i'm gone completely, yeah I’m a goner now 
+
+The way I've sailed me out to sea\
+gone n swept myself right off my feet\
+everything else you can take it back\
+Oh nothing comes close to me and my Frank
+
+I wonder how long it could stay this way\
+and what of you and Jim and Henry\
+Biddy, Frank's been talking about far away\
+talking just me and my Frankie
+
+It's a rough scrub it's a rocky soil\ 
+that we keep toiling daily\
+one of these days we might get away\
+one of these days just maybe
 
 ## All The Love
 
