@@ -276,4 +276,26 @@ your silver pistol in my hand
 
 ## Barbary Coast
 
+Down by the pier, been coming here for years\
+it’s where I talk to you\
+and in the spring, when the fog rolls in\
+in to the afternoon\
+and there’s nothing like the show\
+the sun puts on from just below\
+throwing fire across the sky
+
+And in the fall, when the wind whips all\
+sweet darkening clair de lune
+
+Who’d’ve thought that it’d be me\
+left here instead of you, staring out to sea
+
+There’s not a smudge across the sky\
+I’m gonna hold that blue\
+in my head, and in my dreams at night\
+you’re still here by my side\
+beneath a rising moon\
+in you I still confide\
+who’d’ve thought that it’d be you
+
 ## Twilight Star
