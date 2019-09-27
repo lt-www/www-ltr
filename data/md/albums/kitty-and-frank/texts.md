@@ -147,7 +147,7 @@ one of these days just maybe
 ## All The Love
 
 Mares stirring out across the yard\
-heart churning as the night grows dark\ 
+heart churning as the night grows dark\
 me and Frankie got the stars to guide\
 pretty soon we're gonna run not hide
 
