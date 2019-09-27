@@ -146,6 +146,46 @@ one of these days just maybe
 
 ## All The Love
 
+Mares stirring out across the yard\
+heart churning as the night grows dark\ 
+me and Frankie got the stars to guide\
+pretty soon we're gonna run not hide
+
+We'll have all we gotta have\
+running rivers, got the heavens above\
+we have all we wanna have\
+me and Frankie we got all the love
+
+We'll be careful, we'll time it right\
+next dark moon in the dead of night\
+me and my baby and the guiding stars\
+it's now or never I’ve come this far
+
+I'll take all I gotta take\
+roll the blankets, tack her up to ride\
+I'll break what I gotta break\
+gonna make it 'cross that great divide
+
+You’ve known escapes and you've done em hard\
+like back in '51 when you rushed the guards\
+or down in Reid's Flat - such a terrible fight\
+you get some wrong but you get some right
+
+We’ll take all we’ve gotta take\
+roll the blankets, tack her up to ride\
+we'll make what we wanna make\
+gonna make it 'cross that great divide
+
+We'll be careful, we'll time it right\
+next dark moon in the dead of night\
+me and my baby and the heavens above\
+me and Frankie we got all the love
+
+We'll have all we gotta have\
+running rivers, got the heavens above\
+we have all we wanna have\
+me and Frankie we got all the love
+
 ## Catherine Christie
 
 ## Apis Creek
