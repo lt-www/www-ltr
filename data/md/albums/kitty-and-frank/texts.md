@@ -58,7 +58,7 @@ I can’t think straight, I’m in whirl\
 this thief of horses gonna steal my world
 
 I can’t think straight, I can’t eat\
-my heart is charging and I sure can’t sleep\ 
+my heart is charging and I sure can’t sleep\
 I’ve never known nothing like this charge and spark\ 
 this thief of horses gonna steal my heart
 
