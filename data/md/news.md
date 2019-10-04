@@ -1,5 +1,13 @@
 * * * * *
 
+### 4 October 2019
+
+The KITTY & FRANK launch tour resumes this weekend! Tonight in Red Hill, tomorrow night in Bendigo, and a matinee show at the Northcote Social Club in Melbourne on Sunday afternoon!  [All tix links & details here](tour). 
+
+![](data/image/news/LT_VIC.jpeg)
+
+* * * * *
+
 ### 23 September 2019
 
 Loving thanks to everyone who came out to the first round of KITTY & FRANK launch shows!! Next up we're playing three shows in Victoria: Fri 4th Oct in Red Hill, Sat 5th Oct in Bendigo, and an early matinee show at The Northcote Social Club in Melbourne on Sun 6th Oct. [All tix links & details here](tour). 
