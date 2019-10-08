@@ -4,6 +4,27 @@
 
 **KITTY & FRANK ALBUM LAUNCH TOUR**
 
+
+**VICTORIA**
+
+**Sunday 6 October 2019**\
+Northcote Social Club\
+**MELBOURNE**\
+w Hamish Stuart, Kade Brown & Alice Williams\
+plus LADYCHOIR\
+
+**Saturday 5 October 2019**\
+Old Church on the Hill\
+**BENDIGO**\
+w Hamish Stuart & Alice Williams\
+plus Jess Parker\
+
+**Friday 4 October 2019**\
+Music on the Hill\
+**RED HILL**\
+w Hamish Stuart & Alice Williams\
+plus Amarina Waters\
+
 **NSW**
 
 **Sunday 15 September 2019**\
