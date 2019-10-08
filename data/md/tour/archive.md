@@ -11,19 +11,19 @@
 Northcote Social Club\
 **MELBOURNE**\
 w Hamish Stuart, Kade Brown & Alice Williams\
-plus LADYCHOIR\
+plus LADYCHOIR
 
 **Saturday 5 October 2019**\
 Old Church on the Hill\
 **BENDIGO**\
 w Hamish Stuart & Alice Williams\
-plus Jess Parker\
+plus Jess Parker
 
 **Friday 4 October 2019**\
 Music on the Hill\
 **RED HILL**\
 w Hamish Stuart & Alice Williams\
-plus Amarina Waters\
+plus Amarina Waters
 
 **NSW**
 
