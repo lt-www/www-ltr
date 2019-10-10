@@ -42,6 +42,7 @@ w Hamish Stuart & Alice Williams\
 **Thursday 14 November 2019**\
 The Junk Bar\
 **BRISBANE**\
+w Hamish Stuart & Alice Williams\
 7pm\
 [Tickets](http://www.trybooking.com/BEAUC)
 
@@ -66,12 +67,14 @@ Cooee Arthouse\
 **Saturday 23 November 2019**\
 The Wheatsheaf\
 **ADELAIDE**\
+plus special guests The Yearlings\
 8pm\
 [Tickets](http://www.trybooking.com/BEAUJ)
 
 **Sunday 24 November 2019**\
 Memorial Hall\
 **ASHBOURNE**\
+plus special guests The Yearlings\
 3pm\
 [Tickets](http://www.trybooking.com/BEAUK)
 
