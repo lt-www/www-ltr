@@ -37,6 +37,26 @@ w Hamish Stuart & Alice Williams\
 
 * * * * *
 
+**VICTORIA**
+
+**Sunday 3 November 2019**\
+Happy Wanderer Festival\
+**BENALLA**\
+LT Solo Set on the Truck Stage\
+5.30pm
+
+**NSW**
+
+**Sunday 10 November 2019**
+Thirroul Music Festival\
+**THIRROUL**\
+LT Solo Set at Frank's Wild Years\ 
+7pm
+
+* * * * *
+
+**KITTY & FRANK ALBUM LAUNCH TOUR resumes...**
+
 **QLD**
 
 **Thursday 14 November 2019**\
