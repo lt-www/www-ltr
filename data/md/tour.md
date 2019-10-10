@@ -47,7 +47,7 @@ LT Solo Set on the Truck Stage\
 
 **NSW**
 
-**Sunday 10 November 2019**
+**Sunday 10 November 2019**\
 Thirroul Music Festival\
 **THIRROUL**\
 LT Solo Set at Frank's Wild Years\ 
