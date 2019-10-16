@@ -1,5 +1,13 @@
 * * * * *
 
+### 16 October 2019
+
+This week! We bring the Kitty & Frank show to Sydney, Uralla, Wauchope & Maitland. All shows with my darling band - the incomparable Hamish Stuart and fabulous Alice Pearl Williams!  PLUS tomorrow night in Sydney we'll be joined by very special guest Matt McMahon on extra-keys! Sublime x. [All tix & details here](tour) xx 
+
+![](data/image/news/LT_VIC.jpeg)
+
+* * * * *
+
 ### 11 October 2019
 
 Delighted to let you know KITTY & FRANK has been nominated for the Music Victoria Awards for 'Best Folk or Roots Album' of the year! In other delightful news just announced - The Yearlings will be joining us as our very special guests for the last two shows of the tour! The tour resumes next week with shows in Sydney, Uralla, Wauchope and Maitland - [all tix & details here](tour), and you can [listen for free &/or buy yrself a copy](https://luciethorne.bandcamp.com/album/kitty-frank) of the album (LP, CD, DL) [right here on bandcamp](https://luciethorne.bandcamp.com/album/kitty-frank). 
