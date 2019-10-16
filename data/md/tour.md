@@ -70,9 +70,23 @@ w Hamish Stuart & Alice Williams\
 
 **NSW**
 
-**Friday 15 - Sunday 17 November 2019**\
+**Friday 15 November 2019**\
 [MULLUM MUSIC FESTIVAL](https://www.mullummusicfestival.com/)\
-**MULLUMBIMBY**
+Village Vanguard, **MULLUMBIMBY**\
+w Hamish Stuart, Alice Williams & Kade Brown\
+6.30pm
+
+**Saturday 16 November 2019**\
+[MULLUM MUSIC FESTIVAL](https://www.mullummusicfestival.com/)\
+St Martin's Hall, **MULLUMBIMBY**\
+w Hamish Stuart, Alice Williams & Kade Brown\
+3pm
+
+**Sunday 17 November 2019**\
+[MULLUM MUSIC FESTIVAL](https://www.mullummusicfestival.com/)\
+Village Vanguard, **MULLUMBIMBY**\
+w Hamish Stuart, Alice Williams & Kade Brown\
+4.45pm
 
 * * * * *
 
