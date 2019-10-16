@@ -95,12 +95,14 @@ w Hamish Stuart, Alice Williams & Kade Brown\
 **Friday 22 November 2019**\
 Cooee Arthouse\
 **ALDINGA**\
+w Hamish Stuart & Alice Williams\
 7pm\
 [Tickets](https://www.eventbrite.com.au/e/lucie-thorne-kitty-frank-album-launch-tickets-65167321212)
 
 **Saturday 23 November 2019**\
 The Wheatsheaf\
 **ADELAIDE**\
+w Hamish Stuart & Alice Williams\
 plus special guests The Yearlings\
 8pm\
 [Tickets](http://www.trybooking.com/BEAUJ)
@@ -108,6 +110,7 @@ plus special guests The Yearlings\
 **Sunday 24 November 2019**\
 Memorial Hall\
 **ASHBOURNE**\
+w Hamish Stuart & Alice Williams\
 plus special guests The Yearlings\
 3pm\
 [Tickets](http://www.trybooking.com/BEAUK)
