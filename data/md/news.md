@@ -2,9 +2,9 @@
 
 ### 16 October 2019
 
-This week! We bring the Kitty & Frank show to Sydney, Uralla, Wauchope & Maitland. All shows with my darling band - the incomparable Hamish Stuart and fabulous Alice Pearl Williams!  PLUS tomorrow night in Sydney we'll be joined by very special guest Matt McMahon on extra-keys! Sublime x. [All tix & details here](tour) xx 
+This week! We bring the Kitty & Frank show to Sydney, Uralla, Wauchope & Maitland. All shows with my darling band - the incomparable Hamish Stuart and fabulous Alice Pearl Williams!  PLUS tomorrow night in Sydney we'll be joined by very special guest Matt McMahon on extra-keys! Sublime x. [All tix & details here](tour)
 
-![](data/image/news/LT_VIC.jpeg)
+![](data/image/news/LT_Oct.jpeg)
 
 * * * * *
 
