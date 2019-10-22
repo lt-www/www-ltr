@@ -6,8 +6,6 @@
 
 * * * * *
 
-**KITTY & FRANK ALBUM LAUNCH TOUR continues...**
-
 **NSW**
 
 **Sunday 20 October 2019**\
