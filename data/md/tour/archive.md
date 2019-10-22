@@ -4,6 +4,33 @@
 
 **KITTY & FRANK ALBUM LAUNCH TOUR**
 
+* * * * *
+
+**KITTY & FRANK ALBUM LAUNCH TOUR continues...**
+
+**NSW**
+
+**Sunday 20 October 2019**\
+The Grand Junction\
+**MAITLAND**\
+w Hamish Stuart & Alice Williams
+
+**Saturday 19 October 2019**\
+Community Arts Hall\
+**WAUCHOPE**\
+w Hamish Stuart & Alice Williams\
+plus Jhana Allan
+
+**Friday 18 October 2019**\
+McCrossin's Mill\
+**URALLA**\
+w Hamish Stuart & Alice Williams\
+plus Jhana Allan
+
+**Thursday 17 October 2019**\
+Camelot Lounge\
+**SYDNEY**\
+w Hamish Stuart, Matt McMahon & Alice Williams
 
 **VICTORIA**
 
