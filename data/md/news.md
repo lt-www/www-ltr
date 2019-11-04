@@ -1,5 +1,13 @@
 * * * * *
 
+### 5 November 2019
+
+The final round of KITTY & FRANK album launch shows for the spring start next week in Brisbane! then on to one of our favourite fests in the land - [Mullum Music Festival](www.mullummusicfestival.com) - and then three shows in South Australia! [All tix & details here](tour) xx
+
+![](data/image/news/banner.jpeg)
+
+* * * * *
+
 ### 16 October 2019
 
 This week! We bring the Kitty & Frank show to Sydney, Uralla, Wauchope & Maitland. All shows with my darling band - the incomparable Hamish Stuart on drums and fabulous Alice Pearl Williams on bass & harmonies!  PLUS tomorrow night in Sydney we'll have sublime extra-keys courtesy of the one-n-only Matt McMahon! [All tix & details here](tour) xx
