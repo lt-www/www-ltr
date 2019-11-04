@@ -73,6 +73,28 @@ plus special guests The Yearlings\
 * * * * *
 * * * * *
 
+* * * * *
+
+**South Australia**
+
+**Sunday 1 December 2019**\
+Dudley Wines\
+**KANGAROO ISLAND**\
+1pm
+
+* * * * *
+
+**VICTORIA**
+
+**Saturday 7 December 2019**\
+House Concert\
+**BELLS BEACH**\
+7pm\
+[tickets](http://www.trybooking.com/BGMMD)
+ 
+* * * * *
+* * * * *
+
 **VICTORIA**
 
 **Friday 24 - Monday 27 January 2020**\
