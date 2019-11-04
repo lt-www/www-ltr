@@ -2,6 +2,14 @@
 
 * * * * *
 
+**VICTORIA**
+
+**Sunday 3 November 2019**\
+Happy Wanderer Festival\
+**BENALLA**\
+
+* * * * * 
+
 **KITTY & FRANK ALBUM LAUNCH TOUR**
 
 * * * * *
