@@ -1,23 +1,12 @@
 ![](data/image/news/tourbanner2.jpg)
 
-
-* * * * *
-
-**VICTORIA**
-
-**Sunday 3 November 2019**\
-Happy Wanderer Festival\
-**BENALLA**\
-LT Solo Set on the Truck Stage\
-4.30pm
-
 **NSW**
 
 **Sunday 10 November 2019**\
 Thirroul Music Festival\
 **THIRROUL**\
 LT Solo Set at Frank's Wild Years\
-7pm
+6pm
 
 * * * * *
 
