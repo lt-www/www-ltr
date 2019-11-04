@@ -73,8 +73,6 @@ plus special guests The Yearlings\
 * * * * *
 * * * * *
 
-* * * * *
-
 **South Australia**
 
 **Sunday 1 December 2019**\
