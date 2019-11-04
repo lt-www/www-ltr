@@ -2,7 +2,7 @@
 
 ### 5 November 2019
 
-The final round of KITTY & FRANK album launch shows for the spring start next week in Brisbane! then on to one of our favourite fests in the land - [Mullum Music Festival](www.mullummusicfestival.com) - and then three shows in South Australia! [All tix & details here](tour) xx
+The final round of KITTY & FRANK album launch shows for the spring start next week in Brisbane! then on to one of our favourite fests in the land - [Mullum Music Festival](http://www.mullummusicfestival.com) - and then three shows in South Australia! [All tix & details here](tour) xx
 
 * * * * *
 
