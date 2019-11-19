@@ -1,16 +1,5 @@
 ![](data/image/news/tourbanner2.jpg)
 
-**KITTY & FRANK ALBUM LAUNCH TOUR resumes...**
-
-**QLD**
-
-**Thursday 14 November 2019**\
-The Junk Bar\
-**BRISBANE**\
-w Hamish Stuart & Alice Williams\
-7pm\
-[Tickets](http://www.trybooking.com/BEAUC)
-
 * * * * *
 
 **NSW**
