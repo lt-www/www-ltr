@@ -2,6 +2,15 @@
 
 * * * * *
 
+**QLD**
+
+**Thursday 14 November 2019**\
+The Junk Bar\
+**BRISBANE**\
+w Hamish Stuart & Alice Williams\
+
+* * * * *
+
 **NSW**
 
 **Sunday 10 November 2019**\
