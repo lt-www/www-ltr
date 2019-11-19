@@ -1,15 +1,5 @@
 ![](data/image/news/tourbanner2.jpg)
 
-**NSW**
-
-**Sunday 10 November 2019**\
-Thirroul Music Festival\
-**THIRROUL**\
-LT Solo Set at Frank's Wild Years\
-6pm
-
-* * * * *
-
 **KITTY & FRANK ALBUM LAUNCH TOUR resumes...**
 
 **QLD**
