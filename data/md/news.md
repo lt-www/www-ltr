@@ -2,7 +2,7 @@
 
 ### 19 November 2019
 
-South Australia! This weekend! 3 shows in trio-mode w Hamish Stuart & Alice Williams, plus in Adelaide & Ashbourne we'll be joined by very special guests The Yearlings! [All tix & details here](tour) xx
+South Australia! This weekend! Three shows in trio-mode with Hamish Stuart & Alice Williams, plus in Adelaide & Ashbourne we'll be joined by very special guests The Yearlings! [All tix & details here](tour) xx
 
 ![](data/image/news/LT_SA.jpeg)
 
