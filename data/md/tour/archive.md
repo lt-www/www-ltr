@@ -2,6 +2,15 @@
 
 * * * * *
 
+**NSW**
+
+**Sunday 10 November 2019**\
+Thirroul Music Festival\
+**THIRROUL**\
+LT Solo Set at Frank's Wild Years
+
+* * * * *
+
 **VICTORIA**
 
 **Sunday 3 November 2019**\
