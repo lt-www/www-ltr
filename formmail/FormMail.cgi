@@ -240,7 +240,7 @@ sub check_required {
     }
 
     if (!$Config{'recipient'}) {
-        if (!defined(%Form)) { &error('bad_referer') }
+        if (!%Form) { &error('bad_referer') }
         else                 { &error('no_recipient') }
     }
     else {
