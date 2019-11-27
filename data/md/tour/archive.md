@@ -2,6 +2,46 @@
 
 * * * * *
 
+**South Australia**
+
+**Sunday 24 November 2019**\
+Memorial Hall\
+**ASHBOURNE**\
+w Hamish Stuart & Alice Williams\
+plus special guests The Yearlings
+
+**Saturday 23 November 2019**\
+The Wheatsheaf\
+**ADELAIDE**\
+w Hamish Stuart & Alice Williams\
+plus special guests The Yearlings
+
+**Friday 22 November 2019**\
+Cooee Arthouse\
+**ALDINGA**\
+w Hamish Stuart & Alice Williams
+
+* * * * *
+
+**NSW**
+
+**Sunday 17 November 2019**\
+[MULLUM MUSIC FESTIVAL](https://www.mullummusicfestival.com/)\
+Village Vanguard, **MULLUMBIMBY**\
+w Hamish Stuart, Alice Williams & Kade Brown
+
+**Saturday 16 November 2019**\
+[MULLUM MUSIC FESTIVAL](https://www.mullummusicfestival.com/)\
+St Martin's Hall, **MULLUMBIMBY**\
+w Hamish Stuart, Alice Williams & Kade Brown
+
+**Friday 15 November 2019**\
+[MULLUM MUSIC FESTIVAL](https://www.mullummusicfestival.com/)\
+Village Vanguard, **MULLUMBIMBY**\
+w Hamish Stuart, Alice Williams & Kade Brown
+
+* * * * *
+
 **QLD**
 
 **Thursday 14 November 2019**\
