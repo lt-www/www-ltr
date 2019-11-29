@@ -1,5 +1,13 @@
 * * * * *
 
+### 29 November 2019
+
+...and that's a wrap! Huge loving thanks to all who've come out to these launch shows and to all who've helped along the way xx 
+
+![](data/image/news/CowraBand3.jpeg)
+
+* * * * *
+
 ### 19 November 2019
 
 South Australia! This weekend! Three shows in trio-mode with Hamish Stuart & Alice Williams, plus in Adelaide & Ashbourne we'll be joined by very special guests The Yearlings! [All tix & details here](tour) xx
