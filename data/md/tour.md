@@ -2,15 +2,6 @@
 
 * * * * *
 
-**South Australia**
-
-**Sunday 1 December 2019**\
-Dudley Wines\
-**KANGAROO ISLAND**\
-1pm
-
-* * * * *
-
 **VICTORIA**
 
 **Saturday 7 December 2019**\
