@@ -2,7 +2,7 @@
 
 ### 5 December 2019
 
-Big end-of-year sale starts now! All cds & digital downloads are ON SPECIAL for the next 3 weeks (or while stocks last)! And we've also added the gorgeous limited edition Kitty & Frank tote bags & tea-towels to the [online store](http://www.luciethorne.bandcamp.com) (both of which come with a free download of the new album!) Head over to [luciethorne.bandcamp.com](http://www.luciethorne.bandcamp.com) and get yrselves - or someone you love - a beautiful musical bargain! xo
+Big end-of-year sale starts now! All cds & digital downloads are ON SPECIAL for the next 3 weeks! And we've also added the gorgeous limited edition Kitty & Frank tote bags & tea-towels to the [online store](http://www.luciethorne.bandcamp.com) - both of which come with  a FREE download of the new album! Head over to [luciethorne.bandcamp.com](http://www.luciethorne.bandcamp.com) and get yrselves - or someone you love - a beautiful musical bargain! xo
 
 ![](data/image/cover/kitty-and-frank.jpg)
 
