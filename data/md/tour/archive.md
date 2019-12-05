@@ -10,8 +10,6 @@ Dudley Wines\
 
 * * * * *
 
-**KITTY & FRANK ALBUM LAUNCH TOUR**
-
 **South Australia**
 
 **Sunday 24 November 2019**\
