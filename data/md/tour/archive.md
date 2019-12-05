@@ -10,6 +10,8 @@ Dudley Wines\
 
 * * * * *
 
+**KITTY & FRANK ALBUM LAUNCH TOUR**
+
 **South Australia**
 
 **Sunday 24 November 2019**\
@@ -73,10 +75,6 @@ LT Solo Set at Frank's Wild Years
 **Sunday 3 November 2019**\
 Happy Wanderer Festival\
 **BENALLA**
-
-* * * * * 
-
-**KITTY & FRANK ALBUM LAUNCH TOUR**
 
 * * * * *
 
