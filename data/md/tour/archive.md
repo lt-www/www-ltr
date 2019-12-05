@@ -4,6 +4,14 @@
 
 **South Australia**
 
+**Sunday 1 December 2019**\
+Dudley Wines\
+**KANGAROO ISLAND**
+
+* * * * *
+
+**South Australia**
+
 **Sunday 24 November 2019**\
 Memorial Hall\
 **ASHBOURNE**\
@@ -47,7 +55,7 @@ w Hamish Stuart, Alice Williams & Kade Brown
 **Thursday 14 November 2019**\
 The Junk Bar\
 **BRISBANE**\
-w Hamish Stuart & Alice Williams\
+w Hamish Stuart & Alice Williams
 
 * * * * *
 
@@ -64,7 +72,7 @@ LT Solo Set at Frank's Wild Years
 
 **Sunday 3 November 2019**\
 Happy Wanderer Festival\
-**BENALLA**\
+**BENALLA**
 
 * * * * * 
 
