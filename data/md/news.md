@@ -1,6 +1,6 @@
 ### 14 January 2020
 
-Back to Tassie and playing one solo show this Saturday night at the Tamar Valley Folk Festival! And then next weekend - Jan 24-27 - i'll be performing at [Newstead Live Festival](https://www.newsteadlive.com) in Victoria. [Details here](tour) xo
+Back to Tassie and playing one solo show this Saturday night at the Tamar Valley Folk Festival! And then next weekend - Jan 24-27 - i'll be performing a series of solo shows at the [Newstead Live Festival](https://www.newsteadlive.com) in Victoria. [Details here](tour) xo
  
 ![](data/image/news/KF4.jpeg)
 
