@@ -1,3 +1,11 @@
+### 30 January 2020
+
+I'll be playing a solo 'pop-up' show in Mullumbimby on Saturday 15 Feb as part of Aine Tyrrell's *Bean An Ti* concert series. And... just announced: the KITTY & FRANK show comes to Tassie in April 2020! in cahoots with Hamish Stuart & Chris Abrahams!! [Details here](tour) xo
+ 
+![](data/image/news/BW2.jpeg)
+
+* * * * *
+
 ### 14 January 2020
 
 Back to Tassie and playing one solo show this Saturday night at the Tamar Valley Folk Festival! And then next weekend - Jan 24-27 - i'll be performing a series of solo shows at the [Newstead Live Festival](https://www.newsteadlive.com) in Victoria. [Details here](tour) xo
