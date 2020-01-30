@@ -4,6 +4,38 @@
 
 **VICTORIA**
 
+**Monday 27 January 2020**\
+[NEWSTEAD LIVE FESTIVAL](https://www.newsteadlive.com)\
+Community Centre Stage\
+**NEWSTEAD** 
+
+**Sunday 26 January 2020**\
+[NEWSTEAD LIVE FESTIVAL](https://www.newsteadlive.com)\
+Lilliput Stage\
+**NEWSTEAD**
+
+**Saturday 25 January 2020**\
+[NEWSTEAD LIVE FESTIVAL](https://www.newsteadlive.com)\
+Community Centre Stage\
+**NEWSTEAD**
+
+**Friday 24 January 2020**\
+[NEWSTEAD LIVE FESTIVAL](https://www.newsteadlive.com)\
+The Troubadour Stage\
+**NEWSTEAD**
+
+* * * * *
+
+**TASMANIA**
+
+**Saturday 18 January 2020**\
+Tamar Valley Folk Festival\
+Memorial Hall, **GEORGTOWN**
+
+* * * * *
+
+**VICTORIA**
+
 **Saturday 7 December 2019**\
 House Concert\
 **BELLS BEACH**
