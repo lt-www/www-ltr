@@ -9,7 +9,7 @@
 *Bean An Ti* at Mullum Heads, **MULLUMBIMBY**\
 w Aine Tyrrell\
 7pm\
-[Tickets](https://ainetyrrell.com/touring)
+[Tickets/info](https://ainetyrrell.com/touring)
 
 * * * * *
 
