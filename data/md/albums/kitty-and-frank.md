@@ -10,16 +10,16 @@ Release Date: 26th August 2019
 ![Kitty and Frank](rgen/cover/r-200/kitty-and-frank.jpg)
 
 1. [Golden Plains](?p=albums/kitty-and-frank/texts#goldenplains)
-2. Thief
-3. Wheogo Hill
-4. Nothing Comes Close
-5. All The Love
-6. Catherine Christie
+2. [Thief](?p=albums/kitty-and-frank/texts#thief)
+3. [Wheogo Hill](?p=albums/kitty-and-frank/texts#wheogohill)
+4. [Nothing Comes Close](?p=albums/kitty-and-frank/texts#nothingcomesclose)
+5. [All The Love](?p=albums/kitty-and-frank/texts#allthelove)
+6. [Catherine Christie](?p=albums/kitty-and-frank/texts#catherinechristie)
 7. Apis Creek
-8. Darlinghurst
-9. Valley
-10. Barbary Coast
-11. Twilight Star
+8. [Darlinghurst](?p=albums/kitty-and-frank/texts#darlinghurst)
+9. [Valley](?p=albums/kitty-and-frank/texts#valley)
+10. [Barbary Coast](?p=albums/kitty-and-frank/texts#barbarycoast)
+11. [Twilight Star](?p=albums/kitty-and-frank/texts#twilightstar)
 
 ## credits
 
