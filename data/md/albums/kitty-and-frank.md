@@ -9,7 +9,7 @@ Release Date: 26th August 2019
 
 ![Kitty and Frank](rgen/cover/r-200/kitty-and-frank.jpg)
 
-1. Golden Plains
+1. Golden Plains(?p=albums/everything-sings-tonight/texts#goldenplains)
 2. Thief
 3. Wheogo Hill
 4. Nothing Comes Close
