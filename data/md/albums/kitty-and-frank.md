@@ -4,7 +4,8 @@ Release Date: 26th August 2019
 
 [LISTEN / BUY **KITTY & FRANK** - BANDCAMP](https://luciethorne.bandcamp.com/album/kitty-frank) [LP / CD / DL]\
 [**ALBUM LINER NOTES** - by Craig Lawler](?p=albums/kitty-and-frank/lawler)\
-[**MEDIA RELEASE - KITTY & FRANK**](data/pr/LT_KF_MediaRelease_Sep2019.pdf) SEP 2019 (PDF)\
+[**MEDIA RELEASE - KITTY & FRANK**](data/pr/LT_KF_MediaRelease_2020.pdf) (PDF)\
+[**LYRICS**](?p=albums/kitty-and-frank/texts#goldenplains)\
 [Lucie Thorne BIO](?p=about/bio)
 
 ![Kitty and Frank](rgen/cover/r-200/kitty-and-frank.jpg)
