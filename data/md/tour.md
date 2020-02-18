@@ -1,16 +1,5 @@
 ![](data/image/news/tourbanner2.jpg)
 
-
-* * * * *
-
-**NSW**
-
-**Saturday 15 February 2020**\
-*Bean An Ti* at Mullum Heads, **MULLUMBIMBY**\
-w Aine Tyrrell\
-7pm\
-[Tickets/info](https://ainetyrrell.com/touring)
-
 * * * * *
 
 **TASMANIA**
