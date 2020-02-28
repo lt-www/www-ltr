@@ -1,3 +1,8 @@
+### 28 February 2020
+
+ 
+![](data/image/news/LTPB.jpeg)
+
 ### 30 January 2020
 
 I'll be playing a solo 'pop-up' show in Mullumbimby on Saturday 15 Feb as part of Aine Tyrrell's *Bean An Ti* concert series. And... just announced: the KITTY & FRANK show comes to Tassie in April 2020! in cahoots with Hamish Stuart & Chris Abrahams!! [Details here](tour) xo
