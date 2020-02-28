@@ -6,11 +6,23 @@
 
 **Sunday 1 March 2020**\
 Dakota, **MINNEAPOLIS**, MN\
-w [PIETA BROWN](http://www.pietabrown.com)\
+w [PIETA BROWN](http://www.pietabrown.com)
 
 **Wednesday 4 March 2020**\
 Atwood's Tavern, **CAMBRIDGE**, MA\
-w [PIETA BROWN](http://www.pietabrown.com)\
+w [PIETA BROWN](http://www.pietabrown.com)
+
+**Thursday 5 March 2020**\
+The Word Barn, **EXETER**, NH\
+w [PIETA BROWN](http://www.pietabrown.com) 
+
+**Friday 6 March 2020**\
+The Foundry, **WEST STOCKBRIDGE**, MA\
+w [PIETA BROWN](http://www.pietabrown.com) 
+
+**Saturday 7 March 2020**\
+Kathryn's Concerts **NEW YORK**, NY\
+w [PIETA BROWN](http://www.pietabrown.com) 
 
 * * * * *
 
