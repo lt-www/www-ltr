@@ -1,6 +1,6 @@
 ### 28 February 2020
 
-Delighted to announce i'll be joining my sweet friend and fabulous songwriter Pieta Brown on some upcoming shows in the USA! Starting this Sunday in Minneapolis, then through Massachusetts and New Hampshire, to New York City! [Details here](tour) xo 
+Delighted to announce i'll be joining my sweet friend and beautiful songwriter Pieta Brown on some upcoming shows in the USA! Starting this Sunday in Minneapolis, then through Massachusetts and New Hampshire, to New York City! [Details here](tour) xo 
 ![](data/image/news/LTPB.jpeg)
 
 ### 30 January 2020
