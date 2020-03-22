@@ -1,6 +1,7 @@
 ### 22 March 2020
 
-It'll come as no surprise that we've had to cancel the upcoming shows in Tasmania. Stay tuned for rescheduled dates at some point in the (unknown0 future. In the meantime - as ever - you can [shop right here on the internets for the musics](http://www.luciethorne.bandcamp.com); CDs, LPs, Kitty & Frank tote bags & teatowels, digital downloads of the whole back catalogue, etc.. all delivered lovingly from me to you.\ 
+It'll come as no surprise that we've had to cancel the upcoming shows in Tasmania. Stay tuned for rescheduled dates at some point in the (unknown) future. In the meantime - as ever - you can [shop right here on the internets for the musics](http://www.luciethorne.bandcamp.com); CDs, LPs, Kitty & Frank tote bags & teatowels, digital downloads of the whole back catalogue, etc.. all delivered lovingly from me to you.\
+ 
 be safe, be well, be kind, lovin comrades\
 xo LT
 
