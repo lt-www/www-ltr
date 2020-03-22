@@ -1,3 +1,9 @@
+### 22 March 2020
+
+It'll come as no surprise that we've had to cancel the upcoming shows in Tasmania. Stay tuned for rescheduled dates at some point in the (unknown0 future. In the meantime - as ever - you can [shop right here on the internets for the musics](http://www.luciethorne.bandcamp.com); CDs, LPs, Kitty & Frank tote bags & teatowels, digital downloads of the whole back catalogue, etc.. all delivered lovingly from me to you.\ 
+be safe, be well, be kind, lovin comrades\
+xo LT
+
 ### 28 February 2020
 
 Delighted to announce i'll be joining my sweet friend and beautiful songwriter Pieta Brown on some upcoming shows in the USA! Starting this Sunday in Minneapolis, then through Massachusetts and New Hampshire, to New York City! [Details here](tour) xo 
