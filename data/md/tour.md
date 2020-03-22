@@ -28,6 +28,9 @@ w [PIETA BROWN](http://www.pietabrown.com)
 
 **TASMANIA**
 
+**TOUR POSTPONED**\
+**stay tuned for rescheduled dates later in the year**
+
 **Saturday 25 April 2020**\
 The Copping Hall, **COPPING**\
 presenting *Kitty & Frank* with Hamish Stuart & Chris Abrahams\
