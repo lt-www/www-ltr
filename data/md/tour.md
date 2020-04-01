@@ -2,46 +2,11 @@
 
 * * * * *
 
-**USA**
+The tour schedule is on hold for now - but we've still got the musics!
+[Stream for free and/or Purchase via bandcamp](http://www.luciethorne.bandcamp.com) | [Watch Videos](video) | [Join the Mailing List](contact) |
 
-**Sunday 1 March 2020**\
-Dakota, **MINNEAPOLIS**, MN\
-w [PIETA BROWN](http://www.pietabrown.com)
+xx
 
-**Wednesday 4 March 2020**\
-Atwood's Tavern, **CAMBRIDGE**, MA\
-w [PIETA BROWN](http://www.pietabrown.com)
-
-**Thursday 5 March 2020**\
-The Word Barn, **EXETER**, NH\
-w [PIETA BROWN](http://www.pietabrown.com) 
-
-**Friday 6 March 2020**\
-The Foundry, **WEST STOCKBRIDGE**, MA\
-w [PIETA BROWN](http://www.pietabrown.com) 
-
-**Saturday 7 March 2020**\
-Kathryn's Concerts **NEW YORK**, NY\
-w [PIETA BROWN](http://www.pietabrown.com) 
-
-* * * * *
-
-**TASMANIA**
-
-**TOUR POSTPONED**\
-**stay tuned for rescheduled dates later in the year**
-
-**Saturday 25 April 2020**\
-The Copping Hall, **COPPING**\
-presenting *Kitty & Frank* with Hamish Stuart & Chris Abrahams\
-7pm / BYO\
-[Tickets](http://www.trybooking.com/BICJK)
-
-**Sunday 26 April 2020**\
-Saint John Craft Beer Bar, **LAUNCESTON**\
-presenting *Kitty & Frank* with Hamish Stuart & Chris Abrahams\
-4-6pm\
-[Tickets](http://www.trybooking.com/BICLE)
  
 * * * * *
 
