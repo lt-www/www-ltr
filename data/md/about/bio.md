@@ -8,7 +8,7 @@ Thorne & Stuart’s 2015 release Everything Sings Tonight was a bold, poetic and
 
 Thorne's new album [Kitty & Frank](albums/kitty-and-frank) is an extraordinary art/pop concept record which traces the wild true stories of young frontier woman Kitty Walsh and her lover, the charismatic bandit and bushranger Frank Gardiner. In the 1860’s, Gold Fever came to  Wheogo NSW and, like Deadwood, it didn’t end well. Painting landscapes with dream-soaked synths, irresistible beats, poetry and pathos, with Kitty & Frank Thorne has woven an astonishing arc of vignettes to create an album which is at once timeless and utterly modern.
 
-Along with a remarkably consistent Australian touring schedule, Lucie also tours regularly across the European and North American continents. Born and raised in Launceston, Tasmania, Lucie now lives in Melbourne’s north.
+Along with a remarkably consistent Australian touring schedule, Lucie also tours regularly across the European and North American continents. Born and raised in Launceston, Tasmania, Lucie is now based in Melbourne.
 
 “Thorne conjures a simple narrative flow that, like a Raymond Carver story, transforms everyday life into high art” (The Canberra Times)
 
