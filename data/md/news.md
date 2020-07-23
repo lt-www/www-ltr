@@ -6,6 +6,14 @@ So... I was invited to be the Special Guest on the latest episode of 'The Show' 
 
 * * * * *
 
+### 9 May 2020
+
+Here I am by a live stream:) ...Gonna be singing atcha via th other kind tomorrow afternoon - Sun 10th May, 4pm AEST - as part of the Saltwater Music Festival. Tune in [here](https://www.facebook.com/lucie.thorne) 
+
+![](data/image/news/LT_LS.jpeg)
+
+* * * * *
+
 ### 22 March 2020
 
 It'll come as no surprise that we've had to cancel the upcoming shows in Tasmania. Stay tuned for rescheduled dates at some point in the (unknown) future. In the meantime - as ever - you can [shop right here on the internets for the musics](http://www.luciethorne.bandcamp.com); CDs, LPs, Kitty & Frank tote bags & teatowels, digital downloads of the whole back catalogue, etc.. all delivered lovingly from me to you. 
