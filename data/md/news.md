@@ -1,6 +1,6 @@
 ### 23 July 2020
 
-So... I was invited to be the Special Guest on the latest episode of 'The Show' with Tex Perkins - an online concert series filmed in a great old hall up here in the Byron Hinterland hosted by Tex. There's a band, we play each others songs, some fun covers, there're a coupla solo LT-cameo moments, two smoke machines, a bar, a dog named Hector... it's A Show folks! Premieres on the nets this Sunday 26th July at 6pm AEST - & with the purchace of a ticket you can watch it whenever you like, & as often as you like?! [Tickets on sale here](http://www.oztix.com.au) 
+So... I was invited to be the Special Guest on the latest episode of 'The Show' with Tex Perkins - an online concert series filmed in a great old hall up here in the Byron Hinterland hosted by Tex. There's a band, we play each others songs, some fun covers, there're a coupla solo LT-cameo moments, two smoke machines, a bar, a dog named Hector... it's A Show folks! Premieres on the nets this Sunday 26th July at 6pm AEST - & with the purchase of a ticket you can watch it whenever you like, & as often as you like?! [Tickets on sale here](https://tickets.oztix.com.au/outlet/event/22bc894e-e128-4127-8690-494cfe84a874) 
 
 ![](data/image/news/TS_TP.jpeg)
 
