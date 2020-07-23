@@ -1,3 +1,11 @@
+### 23 July 2020
+
+So... I was invited to be the Special Guest on the latest episode of 'The Show' with Tex Perkins - an online concert series filmed in a great old hall up here in the Byron Hinterland hosted by Tex. There's a band, we play each others songs, some fun covers, there're a coupla solo LT-cameo moments, two smoke machines, a bar, a dog named Hector... it's A Show folks! Premieres on the nets this Sunday 26th July at 6pm AEST - & with the purchace of a ticket you can watch it whenever you like, & as often as you like?! [Tickets on sale here](http://www.oztix.com.au) 
+
+![](data/image/news/TS_TP.jpeg)
+
+* * * * *
+
 ### 22 March 2020
 
 It'll come as no surprise that we've had to cancel the upcoming shows in Tasmania. Stay tuned for rescheduled dates at some point in the (unknown) future. In the meantime - as ever - you can [shop right here on the internets for the musics](http://www.luciethorne.bandcamp.com); CDs, LPs, Kitty & Frank tote bags & teatowels, digital downloads of the whole back catalogue, etc.. all delivered lovingly from me to you. 
