@@ -2,12 +2,24 @@
 
 * * * * *
 
-The tour schedule is on hold for now - but we've still got the musics!\
-[Stream for free and/or Purchase via bandcamp](http://www.luciethorne.bandcamp.com) | [Watch Videos](video) | [Spotify](spotify:artist:5AFG7hoXakdwcBxwaV3NLN) | [Join the Mailing List](forms/mailing-list) |
+**QLD**
 
-xx
+**Friday 7 August 2020**\
+Miama Marketta **GOLD COAST**\
+w Tex Perkins\
+7pm\ 
+SOLD OUT\
 
- 
+**Saturday 8 August 2020**\
+Miama Marketta **GOLD COAST**\
+w Tex Perkins\
+SOLD OUT\
+
+**Sunday 9 August 2020**\
+Miama Marketta **GOLD COAST**\
+w Tex Perkins\
+SOLD OUT\
+
 * * * * *
 
 [Tour Archive](tour/archive)
