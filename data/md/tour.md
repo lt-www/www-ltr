@@ -21,4 +21,13 @@ SOLD OUT
 
 * * * * *
 
+**NSW**
+
+**Saturday 5 September 2020**\
+NORPA **LISMORE**\
+w Sara Tindley\
+[Tickets On Sale Now](http://www.norpa.org.au)  
+
+* * * * * 
+
 [Tour Archive](tour/archive)
