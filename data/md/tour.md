@@ -12,7 +12,14 @@ SOLD OUT
 **Saturday 8 August 2020**\
 Miama Marketta **GOLD COAST**\
 w Tex Perkins\
+4pm\
 SOLD OUT  
+
+**Saturday 8 August 2020**\
+Miama Marketta **GOLD COAST**\
+w Tex Perkins\
+7.30pm\
+SOLD OUT 
 
 **Sunday 9 August 2020**\
 Miama Marketta **GOLD COAST**\
@@ -24,9 +31,9 @@ SOLD OUT
 **NSW**
 
 **Saturday 5 September 2020**\
-NORPA **LISMORE**\
+[NORPA](http://www.norpa.org.au) **LISMORE**\
 w Sara Tindley\
-[Tickets On Sale Now](http://www.norpa.org.au)  
+SOLD OUT 
 
 * * * * * 
 
