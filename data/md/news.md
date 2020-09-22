@@ -1,5 +1,7 @@
 ### 22 September 2020
 
+More real live musics comin up! I'll be playing in the Tex Parkins Band for these two shows in Kingscliff NSW, and i'll also be opening each show with a solo LT set. These are limited capacity, covid-safe events that are gonna sell out quick folks! [Tickets here](tour)
+ 
 ![](data/image/news/TexOct.jpeg)
 
 * * * * * 
