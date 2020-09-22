@@ -1,3 +1,10 @@
+### 22 September 2020
+
+![](data/image/news/TexOct.jpeg)
+
+* * * * * 
+
+
 ### 12 August 2020
 
 Newsflash! Real Live Music! In cahoots with the fabulous Sara Tindley! There are very limited tickets available for this show - and they're [on sale now](https://norpa.org.au/buy/studio-sessions-lucie-thorne-sara-tindley/) - so get in quick folks xx  
