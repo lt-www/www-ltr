@@ -12,7 +12,7 @@ w Tex Perkins\
 
 **Saturday 17 October 2020**\
 Kingscliff Beach Hotel **KINGSCLIFF**\
-w Tex Perkins\  
+w Tex Perkins  
 [Tickets](https://kingscliffbeachhotel.oztix.com.au/outlet/event/8fff31f3-e152-47ec-92dd-9f167d3a6957?Event=116989) 
 
 * * * * *
