@@ -4,6 +4,18 @@
 
 **NSW**
 
+**Saturday 17 October 2020**\
+Kingscliff Beach Hotel **KINGSCLIFF**\
+w Tex Perkins  
+
+**Friday 16 October 2020**\
+Kingscliff Beach Hotel **KINGSCLIFF**\
+w Tex Perkins
+  
+* * * * *
+
+**NSW**
+
 **Saturday 5 September 2020**\
 [NORPA](http://www.norpa.org.au) **LISMORE**\
 w Sara Tindley\
