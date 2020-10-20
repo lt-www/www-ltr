@@ -3,19 +3,21 @@
 
 * * * * *
 
-**NSW**
+**QLD**
 
-**Friday 16 October 2020**\
-Kingscliff Beach Hotel **KINGSCLIFF**\
-w Tex Perkins\
-[Tickets](https://kingscliffbeachhotel.oztix.com.au/outlet/event/180aa220-f22e-43c8-b3c1-c880acedba0f?Event=116988) 
-
-**Saturday 17 October 2020**\
-Kingscliff Beach Hotel **KINGSCLIFF**\
-w Tex Perkins  
-[Tickets](https://kingscliffbeachhotel.oztix.com.au/outlet/event/8fff31f3-e152-47ec-92dd-9f167d3a6957?Event=116989) 
+**Saturday 31 October 2020**\
+The Triffid **BRISBANE**\
+w Tex Perkins
 
 * * * * *
 
+**NSW**
+
+**Sunday 1 November 2020**\
+Brunswick Picture House **BRUNSWICK HEADS**\
+w Sara Tindley\
+*benefit show for Bayfm*
+
+* * * * *
 
 [Tour Archive](tour/archive)
