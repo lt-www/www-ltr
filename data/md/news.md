@@ -1,5 +1,13 @@
 * * * * * 
 
+### 20 October 2020
+
+I'll be joining forces with one of my all-time favourites again - the fabulous Sara Tindley - for a very special fundraising gig for local community radio station Bayfm at the gorgeous Brunswick Picture House on Sunday 1st November.  [Tickets here](tour)
+ 
+![](data/image/news/Bayfm.jpeg)
+
+* * * * * 
+
 ### 22 September 2020
 
 More real live musics comin up! I'll be playing in the Tex Parkins Band for these two shows in Kingscliff NSW, and i'll also be opening each show with a solo LT set. These are limited capacity events that are gonna sell out quick folks! [Tickets here](tour)
