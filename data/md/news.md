@@ -1,6 +1,6 @@
 ### 20 October 2020
 
-I'll be joining forces with one of my all-time favourites again - Sara Tindley - for a very special fundraising show for local community radio station Bayfm, at the gorgeous Brunswick Picture House on Sunday 1st November. [Tickets here](tour)
+I'll be joining forces with one of my all-time favourites again - the fabulous Sara Tindley - for a very special fundraising show for local community radio station Bayfm, at the gorgeous Brunswick Picture House on Sunday 1st November. [Tickets here](tour)
  
 ![](data/image/news/Bayfm.jpeg)
 
