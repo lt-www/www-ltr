@@ -36,7 +36,7 @@ w Tex Perkins\
 **Friday 20 November 2020**\
 Byron Theatre **BYRON BAY**\
 w Tex Perkins\
-*benefit show for Bayfm*\ 
+*benefit show for Bayfm*\
 [Tickets](https://byroncentre.com.au/event/bay-fm-benefit-gig-with-tex-perkins/)
 
 **Saturday 21 November 2020**\
