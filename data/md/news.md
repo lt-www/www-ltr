@@ -1,5 +1,11 @@
 * * * * * 
 
+### 4 November 2020
+ 
+![](data/image/news/HSLTMMF.jpeg)
+
+* * * * * 
+
 ### 20 October 2020
 
 I'll be joining forces with one of my all-time favourites again - the fabulous Sara Tindley - for a very special fundraising gig for local community radio station Bayfm at the gorgeous Brunswick Picture House on Sunday 1st November.  [Tickets here](tour)
