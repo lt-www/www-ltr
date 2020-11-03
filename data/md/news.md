@@ -1,8 +1,3 @@
-* * * * * 
-
-### 4 November 2020
-
-![](data/image/news/HSLTAGNSW.jpeg)
 
 * * * * * 
 
