@@ -1,5 +1,13 @@
 <!-- ## shows/archive -->
 
+* * * * *
+
+**NSW**
+
+**Sunday 1 November 2020**\
+Brunswick Picture House **BRUNSWICK HEADS**\
+w Sara Tindley\
+*benefit show for Bayfm*
 
 * * * * *
 
