@@ -1,8 +1,8 @@
 * * * * * 
 
 ### 4 November 2020
- 
-![](data/image/news/HSLTMMF.jpeg)
+
+![](data/image/news/HSLTAGNSW.jpeg)
 
 * * * * * 
 
