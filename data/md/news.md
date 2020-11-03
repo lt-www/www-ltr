@@ -2,9 +2,9 @@
 
 ### 4 November 2020
 
-So delighted to be a part of this rare & wonderful event! On Thursday 5th November 2020, my dear long-time musical comrade - the one n only Hamish Stuart celebrates the 10th Anniversary of his extraordinary solo* album Someone Else's Child, and has assembled 18 of Sydney's finest to bring this wild & beautiful body of work to life! I'll be opening the show solo (playing Hame's requests!) and then will be getting the ol dreateam (Hamish, Dave Symes & CHris Abrahams) together for a few songs! The live audience tix have sold out, but the whole thing will be streamed live on the nets via [Johnston St Jazz](https://www.facebook.com/JohnstonStreetJazz) 
+So delighted to be a part of this rare & wonderful event! On Thursday 5th November 2020, my dear long-time musical comrade - the one n only Hamish Stuart celebrates the 10th Anniversary of his extraordinary solo* album Someone Else's Child, and has assembled 18 of Sydney's finest to bring this wild & beautiful body of work to life! I'll be opening the show solo (playing Hame's requests!) and then will be getting the ol dreateam (Hamish, Dave Symes & Chris Abrahams) together for a few songs! The live audience tix have sold out, but the whole thing will be streamed live on the nets via [Johnston St Jazz](https://www.facebook.com/JohnstonStreetJazz) 
  
-![](data/image/news/LTHSMMF.jpeg)
+![](data/image/news/HSLTMMF.jpeg)
 
 * * * * * 
 
