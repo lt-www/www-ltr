@@ -1,5 +1,20 @@
 <!-- ## shows/archive -->
 
+
+* * * * *
+
+**QLD**
+
+**Saturday 31 October 2020**\
+The Triffid **BRISBANE**\
+w Tex Perkins\
+9pm
+
+**Saturday 31 October 2020**\
+The Triffid **BRISBANE**\
+w Tex Perkins\
+7pm
+
 * * * * *
 
 **NSW**
