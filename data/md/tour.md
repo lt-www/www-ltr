@@ -9,7 +9,7 @@
 Johnston St Jazz at St David's Uniting Church, **HABERFIELD**\
 *Hamish Stuart presents 'Someone Else's Child'*\
 [Tickets](https://www.trybooking.com/BMCDF)\
-*streaming live at [Johnston St Jazz](https://www.facebook.com/JohnstonStreetJazz)*
+*streaming live at [Johnston St Jazz](https://www.facebook.com/JohnstonStreetJazz)*\
 8pm
  
 **Saturday 7 November 2020**\
