@@ -9,7 +9,7 @@
 Johnston St Jazz at St David's Uniting Church, **HABERFIELD**\
 *Hamish Stuart presents 'Someone Else's Child'*\
 [Tickets](https://www.trybooking.com/BMCDF)\
-*streaming live at [Johnston St Jazz](https://www.facebook.com/JohnstonStreetJazz)*\
+*streaming at [Johnston St Jazz](https://www.facebook.com/JohnstonStreetJazz)*\
 7pm
  
 **Saturday 7 November 2020**\
@@ -19,7 +19,7 @@ w Tex Perkins\
 
 **Thursday 12 November 2020**\
 The Eltham Hotel **ELTHAM**\
-*guest set w The Eltham House Band*\
+*with the Eltham House Band*\
 [Tickets](https://tickets.oztix.com.au/outlet/event/391dd82b-410b-4408-a8f4-3d20fa87712e?utm_source=Oztix&utm_medium=Website&utm_content=EventGuide) 
 
 **Friday 20 November 2020**\
