@@ -19,7 +19,7 @@ w Tex Perkins\
 
 **Thursday 12 November 2020**\
 The Eltham Hotel **ELTHAM**\
-*with the Eltham House Band*\
+*guest set w The Eltham House Band*\
 [Tickets](https://tickets.oztix.com.au/outlet/event/391dd82b-410b-4408-a8f4-3d20fa87712e?utm_source=Oztix&utm_medium=Website&utm_content=EventGuide) 
 
 **Friday 20 November 2020**\
