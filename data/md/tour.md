@@ -5,18 +5,6 @@
 
 **NSW**
 
-**Thursday 5 November 2020**\
-Johnston St Jazz at St David's Uniting Church, **HABERFIELD**\
-*Hamish Stuart presents 'Someone Else's Child'*\
-[Tickets](https://www.trybooking.com/BMCDF)\
-*streaming at [Johnston St Jazz](https://www.facebook.com/JohnstonStreetJazz)*\
-7pm
- 
-**Saturday 7 November 2020**\
-Lennox Head Cultural Centre **LENNOX HEAD**\
-w Tex Perkins\
-[Tickets](https://www.trybooking.com/book/sessions?eid=665317)
-
 **Thursday 12 November 2020**\
 The Eltham Hotel **ELTHAM**\
 *guest set w The Eltham House Band*\
