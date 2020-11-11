@@ -4,6 +4,15 @@
 
 **NSW**
 
+**Saturday 7 November 2020**\
+Lennox Head Cultural Centre **LENNOX HEAD**\
+w Tex Perkins
+
+**Thursday 5 November 2020**\
+Johnston St Jazz at St David's Uniting Church, **HABERFIELD**\
+*Hamish Stuart presents 'Someone Else's Child'*\
+*streaming at [Johnston St Jazz](https://www.facebook.com/JohnstonStreetJazz)*\
+
 **Sunday 1 November 2020**\
 Brunswick Picture House **BRUNSWICK HEADS**\
 w Sara Tindley\
