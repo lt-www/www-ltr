@@ -1,3 +1,9 @@
+### 15 November 2020
+
+More shows with Tex Perkins comin up next weekend in Byron Bay & Tweed Heads. [Details here](tour) 
+ 
+![](data/image/news/TexBand.jpeg)
+
 * * * * * 
 
 ### 4 November 2020
