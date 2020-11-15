@@ -7,14 +7,13 @@
 
 **Thursday 12 November 2020**\
 The Eltham Hotel **ELTHAM**\
-*guest set w The Eltham House Band*\
-[Tickets](https://tickets.oztix.com.au/outlet/event/391dd82b-410b-4408-a8f4-3d20fa87712e?utm_source=Oztix&utm_medium=Website&utm_content=EventGuide) 
-
+*guest set w The Eltham House Band*
+ 
 **Friday 20 November 2020**\
 Byron Theatre **BYRON BAY**\
 w Tex Perkins\
 *benefit show for Bayfm*\
-[Tickets](https://byroncentre.com.au/event/bay-fm-benefit-gig-with-tex-perkins/)
+SOLD OUT
 
 **Saturday 21 November 2020**\
 Twin Towns Showroom **TWEED HEADS**\
