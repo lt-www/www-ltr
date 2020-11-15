@@ -4,6 +4,11 @@
 
 **NSW**
 
+**Thursday 12 November 2020**\
+The Eltham Hotel **ELTHAM**\
+*guest set w The Eltham House Band*
+SOLD OUT
+
 **Saturday 7 November 2020**\
 Lennox Head Cultural Centre **LENNOX HEAD**\
 w Tex Perkins
