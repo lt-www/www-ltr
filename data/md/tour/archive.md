@@ -4,9 +4,18 @@
 
 **NSW**
 
+**Saturday 21 November 2020**\
+Twin Towns **TWEED HEADS**\
+w Tex Perkins
+
+**Friday 20 November 2020**\
+Byron Community Theatre **BYRON BAY**\
+w Tex Perkins\
+SOLD OUT
+
 **Thursday 12 November 2020**\
 The Eltham Hotel **ELTHAM**\
-*guest set w The Eltham House Band*\
+*guest set w The Eltham House Band*
 SOLD OUT
 
 **Saturday 7 November 2020**\
