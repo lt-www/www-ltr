@@ -17,7 +17,7 @@ w Lisa Richards\
 
 **Thursday 7 January 2021**\
 The Royal Oak Hotel **LAUNCESTON**\
-w Tex Perkins
+w Tex Perkins\
 [Tickets](https://royaloakhotel.oztix.com.au/outlet/event/f0716767-d483-41be-b0a2-19e422dcf592?Event=119614)
 
 **Friday 8 January 2021**\
