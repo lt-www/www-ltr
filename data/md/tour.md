@@ -7,13 +7,16 @@
 
 **Friday 27 November 2020**\
 Star Court Theatre **LISMORE**\
-w Lisa Richards\
-6.30pm\
-[Tickets](https://www.starcourttheatre.com.au/events/lisarich)
+w Lisa Richards
 
 * * * * *
 
 **TASMANIA**
+
+**Wednesday 6 January 2021**\
+Scamander Beach Resort **SCAMANDER**\
+w Tex Perkins\
+[Tickets](https://www.moshtix.com.au/v2/event/tex-perkins-friends/124020)
 
 **Thursday 7 January 2021**\
 The Royal Oak Hotel **LAUNCESTON**\
