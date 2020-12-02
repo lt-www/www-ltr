@@ -1,3 +1,12 @@
+* * * * * 
+
+### 2 December 2020
+
+More shows with Tex Perkins coming up in Tassie in the new year! I'll be opening all these shows with a solo LT-set, and then joining in on the TP band. Tickets selling fast - [details here](tour) 
+ 
+![](data/image/news/Perko2.jpeg)
+
+
 ### 26 November 2020
 
 Final show for the year will be a solo set at the beautiful Star Court Theatre in Lismore tomorrow night...
