@@ -6,6 +6,7 @@ More shows with Tex Perkins coming up in Tassie in the new year! I'll be opening
  
 ![](data/image/news/Perko2.jpeg)
 
+* * * * * 
 
 ### 26 November 2020
 
