@@ -4,6 +4,10 @@
 
 **NSW**
 
+**Friday 27 November 2020**\
+Star Court Theatre **LISMORE**\
+w Lisa Richards
+
 **Saturday 21 November 2020**\
 Twin Towns **TWEED HEADS**\
 w Tex Perkins
