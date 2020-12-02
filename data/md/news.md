@@ -1,3 +1,9 @@
+### 26 November 2020
+
+Final show for the year will be a solo set at the beautiful Star Court Theatre in Lismore tomorrow night...
+
+![](data/image/news/LTsolo.jpeg)
+
 ### 15 November 2020
 
 More shows with Tex Perkins comin up next weekend in Byron Bay & Tweed Heads. [Details here](tour) 
