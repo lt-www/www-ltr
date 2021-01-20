@@ -6,7 +6,7 @@
 
 **Wednesday 6 January 2021**\
 Scamander Beach Resort **SCAMANDER**\
-w Tex Perkins\
+w Tex Perkins 
 
 **Thursday 7 January 2021**\
 The Royal Oak Hotel **LAUNCESTON**\
@@ -20,7 +20,7 @@ SOLD OUT
 
 **Saturday 9 January 2021**\
 The Pub Rock Diner **DEVONPORT**\
-w Tex Perkins\
+w Tex Perkins 
 
 **Sunday 10 January 2021**\
 The Longley Hotel **LONGLEY**\
