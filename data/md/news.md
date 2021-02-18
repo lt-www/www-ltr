@@ -2,7 +2,7 @@
 
 ### 16 February 2021
 
-Heading back to the beautiful south coast & playing this Sunday in Cobargo!
+Heading back to the beautiful south coast & playing in Cobargo this Sunday!
  
 ![](data/image/news/Cobargo.jpeg)
 
