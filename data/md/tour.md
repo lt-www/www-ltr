@@ -6,8 +6,8 @@
 
 **Sunday 21 February 2021**\
 The Cobargo Hotel **COBARGO**\
-w Jay McMahon & Alice Williams 
-5pm\
+w Jay McMahon & Alice Williams\
+5pm\ 
 Bookings: 0264936423
 
 * * * * *
