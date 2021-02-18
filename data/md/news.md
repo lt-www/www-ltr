@@ -2,7 +2,7 @@
 
 ### 16 February 2021
 
-Heading back to the beautiful south coast & playing this Sunday in Cobargo! (Entry is free but bookings are essential) x [details here](tour) 
+Heading back to the beautiful south coast & playing this Sunday in Cobargo! Free entry! but bookings are essential x 
  
 ![](data/image/news/Cobargo.jpeg)
 
