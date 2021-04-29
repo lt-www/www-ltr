@@ -1,5 +1,10 @@
 * * * * * 
 
+### 29 April 2021
+Tickets are [now on sale](tour) for a matinee show in Mullumbimby on Sunday 6th June. And there are plenty of plans afoot for the winter & spring... more news soon folks x 
+
+* * * * * 
+
 ### 16 February 2021
 
 Heading back to the beautiful south coast & playing in Cobargo this Sunday!
