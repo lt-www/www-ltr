@@ -11,7 +11,7 @@ w Hamish Stuart\
 
 **Sunday 11 July 2021**\
 House Concert, **MULLUMBIMBY**\
-w Hamish Stuart
+w Hamish Stuart\
 2pm
 
 * * * * *
