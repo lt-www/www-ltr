@@ -1,5 +1,13 @@
 * * * * * 
 
+### 9 June 2021
+
+Two house concerts coming up in the Northern Rivers - both shows with Hamish Stuart! Booking info [here](tour) 
+
+![](data/image/news/HSLTMMF.jpeg)
+
+* * * * * 
+
 ### 29 April 2021
 Tickets are [now on sale](tour) for a matinee show in Mullumbimby on Sunday 6th June. And there are plenty of plans afoot for the winter & spring... more news soon folks x 
 
