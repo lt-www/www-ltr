@@ -7,12 +7,14 @@
 **Saturday 10 July 2021**\
 House Concert, **DURANBAH**\
 w Hamish Stuart\
-6pm
+6pm | BYO\
+[Tickets](http://www.trybooking.com/BRZWY)
 
 **Sunday 11 July 2021**\
 House Concert, **MULLUMBIMBY**\
 w Hamish Stuart\
-2pm
+2pm\
+*email lucie@luciethorne.com to find out how to book tix*
 
 * * * * *
 
