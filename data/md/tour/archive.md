@@ -9,6 +9,22 @@ w Steve Balbi
 
 * * * * *
 
+**QLD**
+
+**Saturday 20 March 2021**\
+Gallery of Modern Art **BRISBANE**\
+w Tex Perkins
+
+* * * * *
+
+**NSW**
+
+**Sunday 21 February 2021**\
+The Cobargo Hotel **COBARGO**\
+w Jay McMahon & Alice Williams
+
+* * * * *
+
 **TASMANIA**
 
 **Sunday 10 January 2021**\
