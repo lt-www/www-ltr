@@ -2,7 +2,7 @@
 
 ### 9 June 2021
 
-Two house concerts coming up in the Northern Rivers - both shows with Hamish Stuart! Booking info [here](tour) 
+Two house concerts coming up in the Northern Rivers - both with Hamish Stuart! Booking info [here](tour) 
 
 ![](data/image/news/HSLTMMF.jpeg)
 
