@@ -13,7 +13,7 @@ w Hamish Stuart\
 **Sunday 11 July 2021**\
 House Concert, **MULLUMBIMBY**\
 w Hamish Stuart\
-2pm\
+2pm | BYO\
 *email lucie@luciethorne.com to find out how to book tix*
 
 * * * * *
