@@ -24,7 +24,8 @@ w Hamish Stuart\
 
 **Saturday 24 July 2021**\
 Boo Radley Hall, **GLENREAGH**\
-6pm
+6pm | BYO\
+[Tickets](http://www.trybooking.com/BSHLT)
 
 * * * * *
 
