@@ -10,7 +10,7 @@ w Tex Perkins
 
 **NSW**
 
-**Saturday 10 July 2021**\
+**Friday 9 July 2021**\
 House Concert, **DURANBAH**\
 w Hamish Stuart\
 6pm | BYO\
