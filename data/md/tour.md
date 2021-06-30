@@ -13,14 +13,12 @@ w Tex Perkins
 **Friday 9 July 2021**\
 House Concert, **DURANBAH**\
 w Hamish Stuart\
-6pm | BYO\
-[Tickets](http://www.trybooking.com/BRZWY)
+*cancelled*
 
 **Sunday 11 July 2021**\
 House Concert, **MULLUMBIMBY**\
 w Hamish Stuart\
-2pm | BYO\
-*email lucie@luciethorne.com to find out how to book tix*
+*cancelled* 
 
 **Saturday 24 July 2021**\
 Boo Radley Hall, **GLENREAGH**\
