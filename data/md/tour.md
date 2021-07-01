@@ -1,11 +1,5 @@
 ![](data/image/news/tourbanner2.jpg)
 
-**QLD**
-
-**Saturday 19 June 2021**\
-Spring Loaded Festival, **BRIBIE ISLAND**\
-w Tex Perkins
-
 * * * * *
 
 **NSW**
@@ -26,5 +20,34 @@ Boo Radley Hall, **GLENREAGH**\
 [Tickets](http://www.trybooking.com/BSHLT)
 
 * * * * *
+
+**NSW**
+
+**Friday 3 September 2021**\
+The Citadel, **MURWILLUMBAH**\
+w Sara Tindley
+
+**Saturday 4 September 2021**\
+Little Birdy, **URALLA**\
+w Jhana Allan 
+
+**Sunday 5 September 2021**\
+Studio Folk Club, **ARMIDALE**
+
+**Friday 10 September 2021**\
+House Concert, **MITTAGONG**\
+w Hamish Stuart
+
+**ACT**
+
+**Saturday 11 September 2021**\
+Smiths Alternative, **CANBERRA**\
+w Hamish Stuart
+
+**NSW**
+
+**Sunday 12 September 2021**\
+The Cobargo Hotel, **COBARGO**\
+w Hamish Stuart
 
 [Tour Archive](tour/archive)
