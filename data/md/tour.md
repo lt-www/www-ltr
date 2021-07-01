@@ -69,4 +69,18 @@ Cooee Arthouse, **ALDINGA**
 **Sunday 24 October 2021**\
 The Wheatsheaf, **ADELAIDE**
 
+**TAS**
+
+**Friday 5 November 2021**\
+The Royal Oak, **LAUNCESTON**\
+w Hamish Stuart
+
+**Thursday 11 November 2021**\
+Peppermint Bay Boat, **HOBART**\
+w Hamish Stuart
+
+**Saturday 13 November 2021**\
+The Copping Hall, **COPPING**\
+w Hamish Stuart
+
 [Tour Archive](tour/archive)
