@@ -77,7 +77,7 @@ The Royal Oak, **LAUNCESTON**\
 w Hamish Stuart
 
 **Sunday 7 November 2021**\
-House Concert, **NEIKA**\
+House Concert, **NEIKA**
 
 **Thursday 11 November 2021**\
 Peppermint Bay Boat, **HOBART**\
