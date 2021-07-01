@@ -1,4 +1,11 @@
 <!-- ## shows/archive -->
+
+**QLD**
+
+**Saturday 19 June 2021**\
+Spring Loaded Festival, **BRIBIE ISLAND**\
+w Tex Perkins
+
 * * * * *
 
 **NSW**
