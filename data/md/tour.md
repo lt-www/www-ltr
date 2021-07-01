@@ -50,4 +50,23 @@ w Hamish Stuart
 The Cobargo Hotel, **COBARGO**\
 w Hamish Stuart
 
+**VIC**
+
+**Friday 17 September 2021**\
+New Hall, **POINT LONSDALE**
+
+**Friday 1 October 2021**\
+The Public Hall, **YACKANDANDAH**
+
+**Sunday 3 October 2021**\
+The Bridge Hotel, **CASTLEMAINE**
+
+**SA**
+
+**Saturday 23 October 2021**\
+Cooee Arthouse, **ALDINGA**
+
+**Sunday 24 October 2021**\
+The Wheatsheaf, **ADELAIDE**
+
 [Tour Archive](tour/archive)
