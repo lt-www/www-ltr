@@ -83,6 +83,10 @@ House Concert, **NEIKA**
 Peppermint Bay Boat, **HOBART**\
 w Hamish Stuart
 
+**Friday 12 November 2021**\
+venue tba, **HUON VALLEY**\
+w Hamish Stuart
+
 **Saturday 13 November 2021**\
 The Copping Hall, **COPPING**\
 w Hamish Stuart
