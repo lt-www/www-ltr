@@ -7,12 +7,12 @@
 **Friday 9 July 2021**\
 House Concert, **DURANBAH**\
 w Hamish Stuart\
-*cancelled*
+*cancelled due to current covid19 health regulations*
 
 **Sunday 11 July 2021**\
 House Concert, **MULLUMBIMBY**\
 w Hamish Stuart\
-*cancelled* 
+*cancelled due to current covid19 health regulations* 
 
 **Saturday 24 July 2021**\
 Boo Radley Hall, **GLENREAGH**\
@@ -20,30 +20,40 @@ Boo Radley Hall, **GLENREAGH**\
 [Tickets](http://www.trybooking.com/BSHLT)
 
 * * * * *
-**SPRING TOUR 2021 - TICKETS ON SALE SOON**
+**SPRING TOUR 2021**
 
 **NSW**
 
 **Friday 3 September 2021**\
 The Citadel, **MURWILLUMBAH**\
-w Sara Tindley
+w Sara Tindley\
+Doors 7pm | Show 7.30pm\
+[Tickets](https://events.humanitix.com/lucie-thorne-and-sara-tindley)
 
 **Saturday 4 September 2021**\
 Little Birdy, **URALLA**\
-w Jhana Allan 
+w Jhana Allan\
+Doors 7pm | Show 7.30pm\
+[Tickets](https://www.trybooking.com/BSVSA)
 
 **Sunday 5 September 2021**\
-Studio Folk Club, **ARMIDALE**
+Studio Folk Club, **ARMIDALE**\
+Doors 6pm | Show 6.30pm\
+[Tickets](https://www.trybooking.com/BSVSG)
 
 **Friday 10 September 2021**\
 House Concert, **MITTAGONG**\
-w Hamish Stuart
+w Hamish Stuart\
+BYO | Doors 7pm | Show 7.30pm\
+[Tickets](https://www.trybooking.com/BSVSO)
 
 **ACT**
 
 **Saturday 11 September 2021**\
 Smiths Alternative, **CANBERRA**\
-w Hamish Stuart
+w Hamish Stuart\
+4pm\
+Tickets on sale soon
 
 **NSW**
 
