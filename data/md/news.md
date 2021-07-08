@@ -2,7 +2,7 @@
 
 ### 8 July 2021
 
-We've of course had to cancel this weekend's shows in NSW. But... just becasue making-plans aint quite what it used to be, that's not stopping us from making more plans! Tickets are now on sale for this! A double-bill with dreamboat/legend & darlin comrade Sara Tindley! The Citadel is a beautiful listening room in Murwillumbah, and capacity is limited, so hop on over and [book some tickets](tour) xx
+We've of course had to cancel this weekend's shows in NSW. But... just because making-plans aint quite what it used to be, that's not stopping us from making more plans! Tickets are now on sale for this! A double-bill with dreamboat/legend & darlin comrade Sara Tindley! The Citadel is a beautiful listening room in Murwillumbah, and capacity is limited, so hop on over and [book some tickets](tour) xx
 
 ![](data/image/news/LTSTcitadel.jpeg)
 
