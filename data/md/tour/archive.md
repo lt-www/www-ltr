@@ -1,5 +1,19 @@
 <!-- ## shows/archive -->
 
+* * * * *
+
+**NSW**
+
+**Sunday 11 July 2021**\
+House Concert, **MULLUMBIMBY**\
+w Hamish Stuart\
+*cancelled due to current covid19 health regulations* 
+
+**Friday 9 July 2021**\
+House Concert, **DURANBAH**\
+w Hamish Stuart\
+*cancelled due to current covid19 health regulations*
+
 **QLD**
 
 **Saturday 19 June 2021**\
