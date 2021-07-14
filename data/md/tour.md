@@ -55,7 +55,6 @@ w Hamish Stuart
 **Friday 17 September 2021**\
 New Hall, **POINT LONSDALE**\
 w Mess Esque\
-7pm\
 Tickets on sale soon
 
 **Friday 1 October 2021**\
