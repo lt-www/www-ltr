@@ -6,8 +6,7 @@
 
 **Saturday 24 July 2021**\
 Boo Radley Hall, **GLENREAGH**\
-6pm | BYO\
-[Tickets](http://www.trybooking.com/BSHLT)
+*cancelled due to current covid19 health regulations*
 
 * * * * *
 **SPRING TOUR 2021**
@@ -54,7 +53,10 @@ w Hamish Stuart
 **VIC**
 
 **Friday 17 September 2021**\
-New Hall, **POINT LONSDALE**
+New Hall, **POINT LONSDALE**\
+w Mess Esque\
+7pm\
+Tickets on sale soon
 
 **Friday 1 October 2021**\
 The Public Hall, **YACKANDANDAH**
