@@ -41,7 +41,7 @@ BYO | Doors 7pm | Show 7.30pm\
 **Saturday 11 September 2021**\
 Smiths Alternative, **CANBERRA**\
 w Hamish Stuart\
-4pm\
+4-6pm\
 Tickets on sale soon
 
 **NSW**
@@ -85,7 +85,7 @@ Peppermint Bay Boat, **HOBART**\
 w Hamish Stuart
 
 **Friday 12 November 2021**\
-venue tba, **HUON VALLEY**\
+venue tba, **CYGNET**\
 w Hamish Stuart
 
 **Saturday 13 November 2021**\
