@@ -42,7 +42,7 @@ BYO | Doors 7pm | Show 7.30pm\
 Smiths Alternative, **CANBERRA**\
 w Hamish Stuart\
 4-6pm\
-Tickets on sale soon
+[Tickets](https://www.smithsalternative.com/events/lucie-thorne-hamish-stuart-73407?d=11%2F09%2F2021+4%3A00%3A00+PM) 
 
 **NSW**
 
