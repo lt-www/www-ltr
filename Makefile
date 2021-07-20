@@ -31,7 +31,7 @@ push-lt:
 	git push git@github.com:lt-www/www-ltr main
 
 push-rd:
-	git push ssh://rd@rohandrape.net/~rd/ut/www-ltr.git master
+	git push ssh://rd@rohandrape.net/~rd/ut/www-ltr.git main
 
 remote-update:
 	ssh lucie@luciethorne.com "(cd luciethorne.com;make pull-lt)"
