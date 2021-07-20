@@ -2,7 +2,7 @@
 
 ### 20 July 2021
 
-More shows announced for the spring! Stay safe, be cool, & here's hoping xx More details over at the [tour page](tour) 
+More shows announced for the spring! More details over at the [tour page](tour) 
 
 ![](data/image/news/SPRING2021banner1.jpeg)
 
