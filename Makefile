@@ -24,18 +24,17 @@ clean:
 	(cd hs ; make clean)
 	rm -f index.cgi
 
+pull-lt:
+	git pull https://github.com/lt-www/www-ltr
+
+push-lt:
+	git push git@github.com:lt-www/www-ltr
+
 push-rd:
 	git push ssh://rd@rohandrape.net/~rd/ut/www-ltr.git master
 
-pull-rd:
-	git pull ssh://rd@rohandrape.net/~rd/ut/www-ltr.git
-
 remote-update:
-	ssh lucie@luciethorne.com "(cd luciethorne.com;make pull-rd)"
+	ssh lucie@luciethorne.com "(cd luciethorne.com;make pull-lt)"
 
 remote-rebuild:
-	ssh lucie@luciethorne.com "(cd luciethorne.com;make pull-rd all)"
-
-remote-fetch:
-	ssh lucie@luciethorne.com "(cd luciethorne.com;make push-rd)"
-	make pull-rd
+	ssh lucie@luciethorne.com "(cd luciethorne.com;make pull-lt all)"

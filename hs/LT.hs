@@ -98,7 +98,7 @@ std_copyright _ _ =
         ,H.a [H.href "http://soundcloud.com/lucie-1-2"] [H.cdata "SC"]
         ,H.copy
         ,H.a [H.href lt_site] [H.cdata "lucie thorne"]
-        ,H.cdata ", 2019. "]
+        ,H.cdata ", 2021. "]
 
 div_c :: String -> [H.Content] -> H.Content
 div_c c = H.div [H.class_attr c]
