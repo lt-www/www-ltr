@@ -25,10 +25,10 @@ clean:
 	rm -f index.cgi
 
 pull-lt:
-	git pull https://github.com/lt-www/www-ltr
+	git pull https://github.com/lt-www/www-ltr main
 
 push-lt:
-	git push git@github.com:lt-www/www-ltr
+	git push git@github.com:lt-www/www-ltr main
 
 push-rd:
 	git push ssh://rd@rohandrape.net/~rd/ut/www-ltr.git master
