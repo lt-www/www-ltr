@@ -1,5 +1,13 @@
 * * * * * 
 
+### 20 July 2021
+
+More shows announced for the spring! Stay safe, be cool, & here's hoping xx More details over at the [tour page](tour) 
+
+![](data/image/news/SPRING2021banner1.jpeg)
+
+* * * * * 
+
 ### 8 July 2021
 
 We've of course had to cancel this weekend's shows in NSW. But... just because making-plans aint quite what it used to be, that's not stopping us from making more plans! Tickets are now on sale for this! A double-bill with my darlin comrade Sara Tindley! The Citadel is a beautiful listening room in Murwillumbah, and capacity is limited, so hop on over and [book some tickets](tour) xx
