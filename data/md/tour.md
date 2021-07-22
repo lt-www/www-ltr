@@ -75,7 +75,9 @@ The Wheatsheaf, **ADELAIDE**
 
 **Friday 5 November 2021**\
 The Royal Oak, **LAUNCESTON**\
-w Hamish Stuart
+w Hamish Stuart\
+Doors 8.30pm / Show 9pm\
+[Tickets](https://royaloakhotel.oztix.com.au/outlet/event/1ba89cae-9dfa-4dc5-b21a-47efb9625273) 
 
 **Sunday 7 November 2021**\
 House Concert, **NEIKA**
@@ -85,11 +87,13 @@ Peppermint Bay Boat, **HOBART**\
 w Hamish Stuart
 
 **Friday 12 November 2021**\
-venue tba, **CYGNET**\
-w Hamish Stuart
+Carmel Hall, **CYGNET**\
+w Hamish Stuart\
+Tickets on sale soon 
 
 **Saturday 13 November 2021**\
 The Copping Hall, **COPPING**\
-w Hamish Stuart
+w Hamish Stuart\
+Tickets on sale soon 
 
 [Tour Archive](tour/archive)
