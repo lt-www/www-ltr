@@ -1,14 +1,6 @@
 ![](data/image/news/tourbanner2.jpg)
 
 * * * * *
-
-**NSW**
-
-**Saturday 24 July 2021**\
-Boo Radley Hall, **GLENREAGH**\
-*cancelled due to current covid19 health regulations*
-
-* * * * *
 **SPRING TOUR 2021**
 
 **NSW**
