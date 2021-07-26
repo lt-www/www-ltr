@@ -1,4 +1,4 @@
-> [**LISTEN / BUY at BANDCAMP**](https://luciethorne.bandcamp.com/album/kitty-frank) **KITTY & FRANK**  
+> **KITTY & FRANK** [**LISTEN / BUY at BANDCAMP**](https://luciethorne.bandcamp.com/album/kitty-frank)  
 
 ![](data/image/front/lt-kitty-and-frank.jpg)
 
