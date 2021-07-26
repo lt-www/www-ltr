@@ -1,4 +1,4 @@
->NEW ALBUM **KITTY & FRANK** OUT NOW [**LISTEN / BUY at BANDCAMP**](https://luciethorne.bandcamp.com/album/kitty-frank) 
+> [**LISTEN / BUY at BANDCAMP**](https://luciethorne.bandcamp.com/album/kitty-frank) **KITTY & FRANK**  
 
 ![](data/image/front/lt-kitty-and-frank.jpg)
 
