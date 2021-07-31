@@ -68,7 +68,7 @@ The Wheatsheaf, **ADELAIDE**
 **Friday 5 November 2021**\
 The Royal Oak, **LAUNCESTON**\
 w Hamish Stuart\
-Doors 8.30pm / Show 9pm\
+Doors 8.30pm | Show 9pm\
 [Tickets](https://royaloakhotel.oztix.com.au/outlet/event/1ba89cae-9dfa-4dc5-b21a-47efb9625273) 
 
 **Sunday 7 November 2021**\
@@ -81,11 +81,14 @@ w Hamish Stuart
 **Friday 12 November 2021**\
 Carmel Hall, **CYGNET**\
 w Hamish Stuart\
-Tickets on sale soon 
+plus special guest Claire Anne Taylor\
+Doors 7.30 | Show 8pm\
+[Tickets](http://www.trybooking.com/BTHHN)
 
 **Saturday 13 November 2021**\
 The Copping Hall, **COPPING**\
 w Hamish Stuart\
-Tickets on sale soon 
+BYO | Doors 7pm | Show 8pm\
+[Tickets](http://www.trybooking.com/BTIKR) 
 
 [Tour Archive](tour/archive)
