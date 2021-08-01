@@ -11,16 +11,11 @@ w Sara Tindley\
 Doors 7pm | Show 7.30pm\
 [Tickets](https://events.humanitix.com/lucie-thorne-and-sara-tindley)
 
-**Saturday 4 September 2021**\
+**Wednesday 8 September 2021**\
 Little Birdy, **URALLA**\
 w Jhana Allan\
 Doors 7pm | Show 7.30pm\
 [Tickets](https://www.trybooking.com/BSVSA)
-
-**Sunday 5 September 2021**\
-Studio Folk Club, **ARMIDALE**\
-Doors 6pm | Show 6.30pm\
-[Tickets](https://www.trybooking.com/BSVSG)
 
 **Friday 10 September 2021**\
 House Concert, **MITTAGONG**\
