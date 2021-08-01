@@ -54,17 +54,17 @@ The Bridge Hotel, **CASTLEMAINE**
 
 **Thursday 21 October 2021**\
 The Three Brothers Arms, **MACCLESFIELD**\
-with The Yearlings & Sara Tindley\
+w The Yearlings & Sara Tindley\
 Tickets on sale soon
 
 **Friday 22 October 2021**\
 Murray Delta Juke Joint, **GOOLWA**\
-with The Yearlings & Sara Tindley\
+w The Yearlings & Sara Tindley\
 Tickets on sale soon
 
 **Sunday 24 October 2021**\
 The Wheatsheaf, **ADELAIDE**\
-with The Yearlings & Sara Tindley\
+w The Yearlings & Sara Tindley\
 Tickets on sale soon
 
 **TAS**
