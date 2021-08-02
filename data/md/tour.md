@@ -44,11 +44,11 @@ New Hall, **POINT LONSDALE**\
 w Mess Esque\
 Tickets on sale soon
 
-**Friday 1 October 2021**\
-The Public Hall, **YACKANDANDAH**
-
 **Sunday 3 October 2021**\
 The Bridge Hotel, **CASTLEMAINE**
+
+**Sunday 10 October 2021**\
+The Public Hall, **YACKANDANDAH**
 
 **SA**
 
