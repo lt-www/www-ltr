@@ -4,7 +4,7 @@
 
 More shows announced for the spring! Details over at the [tour page](tour) 
 
-![](data/image/news/SPRING2021banner1.jpeg)
+![](data/image/news/newSPRING2021.jpeg)
 
 * * * * * 
 
