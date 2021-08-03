@@ -1,6 +1,6 @@
 * * * * * 
 
-### 20 July 2021
+### 30 July 2021
 
 More shows announced for the spring! Details over at the [tour page](tour) 
 
