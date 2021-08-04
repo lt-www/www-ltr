@@ -17,12 +17,6 @@ w Jhana Allan\
 Doors 7pm | Show 7.30pm\
 [Tickets](https://www.trybooking.com/BSVSA)
 
-**Friday 10 September 2021**\
-House Concert, **MITTAGONG**\
-w Hamish Stuart\
-BYO | Doors 7pm | Show 7.30pm\
-[Tickets](https://www.trybooking.com/BSVSO)
-
 **ACT**
 
 **Saturday 11 September 2021**\
@@ -48,7 +42,9 @@ Tickets on sale soon
 The Bridge Hotel, **CASTLEMAINE**
 
 **Sunday 10 October 2021**\
-The Public Hall, **YACKANDANDAH**
+The Public Hall, **YACKANDANDAH**\
+w Jo Jo Smith\
+Tickets on sale soon
 
 **SA**
 
