@@ -51,7 +51,8 @@ Tickets on sale soon
 **Thursday 21 October 2021**\
 The Three Brothers Arms, **MACCLESFIELD**\
 w The Yearlings & Sara Tindley\
-Tickets on sale soon
+8pm\
+[Tickets](http://www.trybooking.com/BTPBX)
 
 **Friday 22 October 2021**\
 Murray Delta Juke Joint, **GOOLWA**\
