@@ -2,7 +2,7 @@
 
 ### 30 July 2021
 
-More shows announced for the spring! Details over at the [tour page](tour) 
+More shows announced for the spring! Updates & details over at the [tour page](tour) 
 
 ![](data/image/news/newSPRING2021.jpeg)
 
