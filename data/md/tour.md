@@ -45,7 +45,7 @@ The Bridge Hotel, **CASTLEMAINE**
 The Public Hall, **YACKANDANDAH**\
 w Jo Jo Smith\
 1.30-4pm\
-[Tickets](http;//www.trybooking.com/BTRSF) 
+[Tickets](http://www.trybooking.com/BTRSF) 
 
 **SA**
 
