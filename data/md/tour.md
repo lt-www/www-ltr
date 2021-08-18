@@ -44,7 +44,8 @@ The Bridge Hotel, **CASTLEMAINE**
 **Sunday 10 October 2021**\
 The Public Hall, **YACKANDANDAH**\
 w Jo Jo Smith\
-Tickets on sale soon
+1.30-4pm\
+[Tickets](http;//www.trybooking.com/BTRSF) 
 
 **SA**
 
@@ -71,9 +72,6 @@ The Royal Oak, **LAUNCESTON**\
 w Hamish Stuart\
 Doors 8.30pm | Show 9pm\
 [Tickets](https://royaloakhotel.oztix.com.au/outlet/event/1ba89cae-9dfa-4dc5-b21a-47efb9625273) 
-
-**Sunday 7 November 2021**\
-House Concert, **NEIKA**
 
 **Thursday 11 November 2021**\
 Peppermint Bay Boat, **HOBART**\
