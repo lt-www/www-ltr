@@ -14,7 +14,7 @@ Doors 7pm | Show 7.30pm\
 **Wednesday 8 September 2021**\
 Little Birdy, **URALLA**\
 w Jhana Allan\
-Doors 7pm |Show 7.30pm\
+Doors 7pm | Show 7.30pm\
 [Tickets](https://www.trybooking.com/BSVSA)
 
 **ACT**
