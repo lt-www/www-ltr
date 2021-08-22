@@ -63,7 +63,8 @@ Tickets on sale soon
 **Sunday 24 October 2021**\
 The Wheatsheaf, **ADELAIDE**\
 w The Yearlings & Sara Tindley\
-Tickets on sale soon
+4pm\
+[Tickets](http://www.trybooking.com/BTSFF)
 
 **TAS**
 
