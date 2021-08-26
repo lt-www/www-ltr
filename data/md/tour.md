@@ -8,28 +8,26 @@
 **Friday 3 September 2021**\
 The Citadel, **MURWILLUMBAH**\
 w Sara Tindley\
-Doors 7pm | Show 7.30pm\
-[Tickets](https://events.humanitix.com/lucie-thorne-and-sara-tindley)
+*cancelled*
 
 **Wednesday 8 September 2021**\
 Little Birdy, **URALLA**\
 w Jhana Allan\
-Doors 7pm | Show 7.30pm\
-[Tickets](https://www.trybooking.com/BSVSA)
+*cancelled*
 
 **ACT**
 
 **Saturday 11 September 2021**\
 Smiths Alternative, **CANBERRA**\
 w Hamish Stuart\
-4-6pm\
-[Tickets](https://www.smithsalternative.com/events/lucie-thorne-hamish-stuart-73407?d=11%2F09%2F2021+4%3A00%3A00+PM) 
+*cancelled* 
 
 **NSW**
 
 **Sunday 12 September 2021**\
 The Cobargo Hotel, **COBARGO**\
 w Hamish Stuart
+*cancelled* 
 
 **VIC**
 
