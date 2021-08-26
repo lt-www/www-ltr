@@ -26,7 +26,7 @@ w Hamish Stuart\
 
 **Sunday 12 September 2021**\
 The Cobargo Hotel, **COBARGO**\
-w Hamish Stuart
+w Hamish Stuart\
 *cancelled* 
 
 **VIC**
