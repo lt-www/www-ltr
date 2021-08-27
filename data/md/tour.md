@@ -34,7 +34,11 @@ w Hamish Stuart\
 **Friday 17 September 2021**\
 New Hall, **POINT LONSDALE**\
 w Mess Esque\
-Tickets on sale soon
+*cancelled* 
+
+* * * * *
+
+**VIC**
 
 **Sunday 3 October 2021**\
 The Bridge Hotel, **CASTLEMAINE**
