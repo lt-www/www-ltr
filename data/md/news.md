@@ -1,5 +1,15 @@
 * * * * * 
 
+### 27 August 2021
+
+Date update: given the state of the pandemic, all the September tour dates have now been cancelled. Our [Oct/Nov shows](tour) are still hovering in place - like this one! with the one n only Jo Jo Smith!! And, as ever... you can [shop online](http://www.luciethorne.bandcamp.com) for the musics & the merch. Stay safe lovin comrades xo
+
+![](data/image/news/Yack2021.jpeg)
+
+* * * * * 
+
+* * * * * 
+
 ### 30 July 2021
 
 More shows announced for the spring! Updates & details over at the [tour page](tour) 
