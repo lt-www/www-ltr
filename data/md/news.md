@@ -8,8 +8,6 @@ Date update: given the state of the pandemic, all the September tour dates have 
 
 * * * * * 
 
-* * * * * 
-
 ### 30 July 2021
 
 More shows announced for the spring! Updates & details over at the [tour page](tour) 
