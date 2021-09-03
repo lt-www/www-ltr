@@ -36,8 +36,6 @@ New Hall, **POINT LONSDALE**\
 w Mess Esque\
 *cancelled* 
 
-**VIC**
-
 **Sunday 3 October 2021**\
 The Bridge Hotel, **CASTLEMAINE**\
 *cancelled* 
