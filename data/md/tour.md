@@ -40,15 +40,12 @@ w Mess Esque\
 The Bridge Hotel, **CASTLEMAINE**\
 *cancelled* 
 
-* * * * *
-
-**VIC**
-
 **Sunday 10 October 2021**\
 The Public Hall, **YACKANDANDAH**\
 w Jo Jo Smith\
-1.30-4pm\
-[Tickets](http://www.trybooking.com/BTRSF)
+*cancelled*
+
+* * * * *
 
 **SA**
 
