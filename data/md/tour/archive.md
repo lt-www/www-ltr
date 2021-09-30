@@ -9,6 +9,7 @@ Sunday 3 October - **CASTLEMAINE, VIC**\
 Friday 17 September - **POINT LONSDALE, VIC**\
 Sunday 12 September - **COBARGO, NSW**\
 Saturday 11 September - **CANBERRA, ACT**\
+Friday 10 September - **MITTAGONG, NSW**\
 Wednesday 8 September - **URALLA, NSW**\
 Sunday 5 September - **ARMIDALE, NSW**\
 Friday 3 September - **MURWILLUMBAH, NSW**
