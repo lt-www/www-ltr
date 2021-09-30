@@ -1,51 +1,6 @@
 ![](data/image/news/tourbanner2.jpg)
 
 * * * * *
-**SPRING TOUR 2021**
-
-**NSW**
-
-**Friday 3 September 2021**\
-The Citadel, **MURWILLUMBAH**\
-w Sara Tindley\
-*cancelled*
-
-**Wednesday 8 September 2021**\
-Little Birdy, **URALLA**\
-w Jhana Allan\
-*cancelled*
-
-**ACT**
-
-**Saturday 11 September 2021**\
-Smiths Alternative, **CANBERRA**\
-w Hamish Stuart\
-*cancelled* 
-
-**NSW**
-
-**Sunday 12 September 2021**\
-The Cobargo Hotel, **COBARGO**\
-w Hamish Stuart\
-*cancelled* 
-
-**VIC**
-
-**Friday 17 September 2021**\
-New Hall, **POINT LONSDALE**\
-w Mess Esque\
-*cancelled* 
-
-**Sunday 3 October 2021**\
-The Bridge Hotel, **CASTLEMAINE**\
-*cancelled* 
-
-**Sunday 10 October 2021**\
-The Public Hall, **YACKANDANDAH**\
-w Jo Jo Smith\
-*cancelled*
-
-* * * * *
 
 **SA**
 
