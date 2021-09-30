@@ -2,17 +2,21 @@
 
 **Cancelled Spring 2021 Tour Dates due to the ongoing state of the pandemic**
 
-**Sunday 10 October - YACKANDANDAH**\
-**Sunday 3 October - CASTLEMAINE**\
-**Friday 17 September - POINT LONSDALE**\
-**Sunday 12 September - COBARGO**\
-**Saturday 11 September - CANBERRA**\
-**Wednesday 8 September - URALLA**
-**Friday 3 September - MURWILLUMBAH**\
+Sunday 10 October - **YACKANDANDAH**\
+Sunday 3 October - **CASTLEMAINE**\
+Friday 17 September - **POINT LONSDALE**\
+Sunday 12 September - **COBARGO**\
+Saturday 11 September - **CANBERRA**\
+Wednesday 8 September - **URALLA**\
+Friday 3 September - **MURWILLUMBAH**\
 
 * * * * *
 
 **NSW**
+
+**Thursday 19 August 2021**\
+The Eltham Hotel, **ELTHAM**\
+*cancelled due to current covid19 health regulations*
 
 **Saturday 24 July 2021**\
 Boo Radley Hall, **GLENREAGH**\
