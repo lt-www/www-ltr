@@ -2,7 +2,7 @@
 
 * * * * *
 
-**SA**
+**SOUTH AUSTRALIA**
 
 **Thursday 21 October 2021**\
 The Three Brothers Arms, **MACCLESFIELD**\
@@ -24,7 +24,7 @@ w The Yearlings & Sara Tindley\
 
 * * * * *
 
-**TAS**
+**TASMANIA**
 
 **Friday 5 November 2021**\
 The Royal Oak, **LAUNCESTON**\
@@ -48,5 +48,7 @@ The Copping Hall, **COPPING**\
 w Hamish Stuart\
 BYO | Doors 7pm | Show 8pm\
 [Tickets](http://www.trybooking.com/BTIKR) 
+
+* * * * *
 
 [Tour Archive](tour/archive)
