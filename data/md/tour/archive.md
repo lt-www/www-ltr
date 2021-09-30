@@ -1,6 +1,6 @@
 <!-- ## shows/archive -->
 
-**Cancelled Spring 2021 Tour Dates due to the ongoing state of the pandemic**
+**Cancelled Spring 2021 Tour Dates due to the ongoing state of the pandemic;**
 
 Sunday 10 October - **YACKANDANDAH**\
 Sunday 3 October - **CASTLEMAINE**\
