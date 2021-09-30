@@ -13,7 +13,8 @@ w The Yearlings & Sara Tindley\
 **Friday 22 October 2021**\
 Murray Delta Juke Joint, **GOOLWA**\
 w The Yearlings & Sara Tindley\
-Tickets on sale soon
+7pm\
+[Tickets](http://www.trybooking.com/BTUUU)
 
 **Sunday 24 October 2021**\
 The Wheatsheaf, **ADELAIDE**\
