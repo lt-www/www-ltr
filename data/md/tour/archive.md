@@ -1,14 +1,17 @@
 <!-- ## shows/archive -->
 
-**Cancelled Spring 2021 Tour Dates due to the ongoing state of the pandemic;**
+* * * * *
 
-Sunday 10 October - **YACKANDANDAH**\
-Sunday 3 October - **CASTLEMAINE**\
-Friday 17 September - **POINT LONSDALE**\
-Sunday 12 September - **COBARGO**\
-Saturday 11 September - **CANBERRA**\
-Wednesday 8 September - **URALLA**\
-Friday 3 September - **MURWILLUMBAH**\
+*Cancelled Spring 2021 Tour Dates due to the ongoing state of the pandemic;*
+
+Sunday 10 October - **YACKANDANDAH, VIC**\
+Sunday 3 October - **CASTLEMAINE, VIC**\
+Friday 17 September - **POINT LONSDALE, VIC**\
+Sunday 12 September - **COBARGO, NSW**\
+Saturday 11 September - **CANBERRA, ACT**\
+Wednesday 8 September - **URALLA, NSW**\
+Sunday 5 September - **ARMIDALE, NSW**\
+Friday 3 September - **MURWILLUMBAH, NSW**
 
 * * * * *
 
