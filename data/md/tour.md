@@ -4,12 +4,6 @@
 
 **SOUTH AUSTRALIA**
 
-**Thursday 21 October 2021**\
-The Three Brothers Arms, **MACCLESFIELD**\
-w The Yearlings & Sara Tindley\
-8pm\
-[Tickets](http://www.trybooking.com/BTPBX)
-
 **Friday 22 October 2021**\
 Murray Delta Juke Joint, **GOOLWA**\
 w The Yearlings & Sara Tindley\
