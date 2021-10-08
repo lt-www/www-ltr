@@ -4,6 +4,8 @@
 
 *Cancelled Spring 2021 Tour Dates due to the ongoing state of the pandemic;*
 
+Sunday 24 October - **ADELAIDE, SA**\
+Friday 22 October - **GOOLWA, SA**\
 Thursday 21 October - **MACCLESFIELD, SA**\
 Sunday 10 October - **YACKANDANDAH, VIC**\
 Sunday 3 October - **CASTLEMAINE, VIC**\
