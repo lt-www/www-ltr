@@ -4,6 +4,7 @@
 
 *Cancelled Spring 2021 Tour Dates due to the ongoing state of the pandemic;*
 
+Thursday 21 October - **MACCLESFIELD, SA**\
 Sunday 10 October - **YACKANDANDAH, VIC**\
 Sunday 3 October - **CASTLEMAINE, VIC**\
 Friday 17 September - **POINT LONSDALE, VIC**\
