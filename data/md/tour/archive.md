@@ -4,6 +4,11 @@
 
 *Cancelled Spring 2021 Tour Dates due to the ongoing state of the pandemic;*
 
+Saturday 13 November - **COPPING, TAS**\
+Friday 12 November - **CYGNET, TAS**\
+Thursday 11 November - **HOBART, TAS**\
+Sunday 7 November - **NEIKA, TAS**\
+Friday 5 November - **LAUNCESTON, TAS**\
 Sunday 24 October - **ADELAIDE, SA**\
 Friday 22 October - **GOOLWA, SA**\
 Thursday 21 October - **MACCLESFIELD, SA**\
