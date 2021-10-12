@@ -8,10 +8,10 @@ resize-genera:
 
 # unused
 setup-editor:
-        rm -f editor.cgi upload.cgi
-        cp $(HOME)/sw/www-minus/py/editor.py editor.cgi
-        cp $(HOME)/sw/www-minus/py/upload.py upload.cgi
-        chmod 755 editor.cgi upload.cgi
+	rm -f editor.cgi upload.cgi
+	cp $(HOME)/sw/www-minus/py/editor.py editor.cgi
+	cp $(HOME)/sw/www-minus/py/upload.py upload.cgi
+	chmod 755 editor.cgi upload.cgi
 
 ln-config:
 	ln -s data/config/htaccess .htaccess
