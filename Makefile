@@ -6,11 +6,12 @@ resize-genera:
 	sh sh/cover.sh
 	(cd data/png/icon ; make all)
 
+# unused
 setup-editor:
-	mkdir -p e u
-	rm -f e/index.cgi u/index.cgi
-	cp $(HOME)/sw/www-minus/py/editor.py e/index.cgi
-	cp $(HOME)/sw/www-minus/py/upload.py u/index.cgi
+        rm -f editor.cgi upload.cgi
+        cp $(HOME)/sw/www-minus/py/editor.py editor.cgi
+        cp $(HOME)/sw/www-minus/py/upload.py upload.cgi
+        chmod 755 editor.cgi upload.cgi
 
 ln-config:
 	ln -s data/config/htaccess .htaccess
