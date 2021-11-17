@@ -2,7 +2,7 @@
 
 * * * * *
 
-*Cancelled Spring 2021 Tour Dates due to the ongoing state of the pandemic;*
+*Cancelled Spring 2021 Tour Dates;*
 
 Saturday 13 November - **COPPING, TAS**\
 Friday 12 November - **CYGNET, TAS**\
