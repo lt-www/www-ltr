@@ -1,5 +1,11 @@
 * * * * * 
 
+### 25 November 2021
+
+Getting back on the boards in the new year - starting with a tour of Tassie with Tex Perkins & Matt Walker! [Dates & details here](tour) 
+
+* * * * * 
+
 ### 27 August 2021
 
 Date update: given the state of the pandemic, all the September tour dates have now been cancelled. Our [Oct/Nov shows](tour) are still hovering in place - like this one! with the one n only Jo Jo Smith!! And, as ever... you can [shop online](http://www.luciethorne.bandcamp.com) for the musics & the merch. Stay safe lovin comrades xo
