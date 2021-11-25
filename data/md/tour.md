@@ -42,4 +42,27 @@ w Tex Perkins & Matt Walker\
 
 * * * * *
 
+**VICTORIA**
+
+**Thursday 13 January 2022**\
+Memo Music Hall, **St Kilda**\
+w Tex Perkins & Matt Walker\
+7.30pm
+
+**Friday 14 January 2022**\
+Archies Creek Hotel, **Archies Creek**\
+w Tex Perkins & The Fat Rubber Band\
+8pm
+
+* * * * *
+
+**NSW**
+
+**Saturday 22 January 2022**\
+Lismore City Hall, **LISMORE**\
+w Tex Perkins & Matt Walker\
+7.30pm
+
+* * * * *
+
 [Tour Archive](tour/archive)
