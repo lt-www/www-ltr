@@ -54,6 +54,11 @@ Archies Creek Hotel, **Archies Creek**\
 w Tex Perkins & The Fat Rubber Band\
 8pm
 
+**Saturday 15 January 2022**\
+Queenscliff Town Hall, **Queenscliff**\
+w Tex Perkins & Matt Walker\
+7pm
+
 * * * * *
 
 **NSW**
