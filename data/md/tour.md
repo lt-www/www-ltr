@@ -6,39 +6,47 @@
 **TASMANIA**
 
 **Sunday 2 January 2022**\
-Stefano Lubiana Vineyard, **GRANTON**\
+Peppermint Bay Hotel, **WOODBRIDGE**\
 w Tex Perkins & Matt Walker\
-2.30pm
+4pm\
+[Tickets](https://moshtix.com.au/v2/event/tex-perkins-matt-walker/130449)
+
 
 **Monday 3 January 2022**\
 The Clarendon Arms, **EVANDALE**\
 w Tex Perkins & Matt Walker\
-2.30pm
+3pm\
+[Tickets](https://www.moshtix.com.au/v2/event/tex-perkins-matt-walker/130450)
 
 **Wednesday 5 January 2022**\
 Rocky Cape Tavern, **ROCKY CAPE**\
 w Tex Perkins & Matt Walker\
-7pm
+7pm\
+[Tickets](https://www.moshtix.com.au/v2/event/tex-perkins-matt-walker/130452)
 
 **Thursday 6 January 2022**\
 Gnomon Room, **ULVERSTONE**\
 w Tex Perkins & Matt Walker\
-7pm
+7pm\
+[Tickets](https://www.moshtix.com.au/v2/event/tex-perkins-matt-walker/130454) 
 
 **Friday 7 January 2022**\
 Paragon Theatre, **QUEENSTOWN**\
 w Tex Perkins & Matt Walker\
-7pm
+7pm\
+[Tickets](https://www.moshtix.com.au/v2/event/tex-perkins-matt-walker/130455) 
 
 **Saturday 8 January 2022**\
 Scamander Beach Resort, **SCAMANDER**\
 w Tex Perkins & Matt Walker\
-6.30pm
+6.30pm\
+[Tickets](https://www.moshtix.com.au/v2/event/tex-perkins-matt-walker/130456) 
 
 **Sunday 9 January 2022**\
 Port Cygnet Cannery, **CYGNET**\
 w Tex Perkins & Matt Walker\
-1pm
+2pm\
+[Tickets](https://www.moshtix.com.au/v2/event/tex-perkins-matt-walker/130459)
 
 * * * * *
 
