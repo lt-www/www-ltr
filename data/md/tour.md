@@ -102,8 +102,8 @@ tickets on sale soon
 
 **Friday 20 May 2022**\
 New Hall, **POINT LONSDALE**\
-+ Mess Esque\
-tickets on sale soon
+w Mess Esque\
+tickets on sale soon 
 
 * * * * * 
 
