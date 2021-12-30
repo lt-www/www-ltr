@@ -69,6 +69,15 @@ w Tex Perkins & Matt Walker\
 
 * * * * *
 
+**QLD**
+
+**Friday 21 January 2022**\
+Miami Marketta, **GOLD COAST**\
+w Tex Perkins & Matt Walker\
+6.30pm
+
+* * * * *
+
 **NSW**
 
 **Saturday 22 January 2022**\
@@ -77,5 +86,25 @@ w Tex Perkins & Matt Walker\
 7.30pm
 
 * * * * *
+
+
+**TASMANIA**
+
+**Sunday 24 April 2022**\
+The Royal Oak Hotel, **LAUNCESTON**\
+w Hamish Stuart\
+tickets on sale soon 
+
+* * * * * 
+
+
+**VICTORIA**
+
+**Friday 20 May 2022**\
+New Hall, **POINT LONSDALE**\
++ Mess Esque\
+tickets on sale soon
+
+* * * * * 
 
 [Tour Archive](tour/archive)
