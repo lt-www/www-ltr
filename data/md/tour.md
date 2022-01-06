@@ -37,7 +37,7 @@ w Tex Perkins & Matt Walker\
 [Tickets](https://www.moshtix.com.au/v2/event/tex-perkins-matt-walker/130455) 
 
 **Saturday 8 January 2022**\
-Scamander Beach Resort, **SCAMANDER**\
+Panorama, **St HELENS**\
 w Tex Perkins & Matt Walker\
 6.30pm\
 [Tickets](https://www.moshtix.com.au/v2/event/tex-perkins-matt-walker/130456) 
@@ -55,7 +55,7 @@ w Tex Perkins & Matt Walker\
 **Thursday 13 January 2022**\
 Memo Music Hall, **St Kilda**\
 w Tex Perkins & The Fat Rubber Band\
-7.30pm
+7pm
 
 **Friday 14 January 2022**\
 Archies Creek Hotel, **Archies Creek**\
