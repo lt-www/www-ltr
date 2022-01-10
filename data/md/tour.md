@@ -55,7 +55,7 @@ w Tex Perkins & Matt Walker\
 **Thursday 13 January 2022**\
 Memo Music Hall, **St Kilda**\
 w Tex Perkins & The Fat Rubber Band\
-*now two show:s*\
+*now two shows:*\
 Early show: 7pm | Late show: 9.30pm 
 
 **Friday 14 January 2022**\
