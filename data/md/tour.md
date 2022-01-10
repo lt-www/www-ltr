@@ -55,7 +55,8 @@ w Tex Perkins & Matt Walker\
 **Thursday 13 January 2022**\
 Memo Music Hall, **St Kilda**\
 w Tex Perkins & The Fat Rubber Band\
-7pm
+*now two show:s*\
+Early show: 7pm | Late show: 9.30pm 
 
 **Friday 14 January 2022**\
 Archies Creek Hotel, **Archies Creek**\
@@ -66,6 +67,11 @@ w Tex Perkins & The Fat Rubber Band\
 Queenscliff Town Hall, **Queenscliff**\
 w Tex Perkins & Matt Walker\
 7pm
+
+**Sunday 16 January 2022**\
+Macedon Railway Hotel, **Macedon**\
+w Tex Perkins & Matt Walker\
+2.30pm
 
 * * * * *
 
