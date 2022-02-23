@@ -2,6 +2,40 @@
 
 * * * * *
 
+**TASMANIA**
+
+**Sunday 9 January 2022**\
+Port Cygnet Cannery, **CYGNET**\
+w Tex Perkins & Matt Walker\
+SOLD OUT
+
+**Saturday 8 January 2022**\
+Panorama, **St HELENS**\
+w Tex Perkins & Matt Walker
+
+**Friday 7 January 2022**\
+Paragon Theatre, **QUEENSTOWN**\
+w Tex Perkins & Matt Walker 
+
+**Thursday 6 January 2022**\
+Gnomon Room, **ULVERSTONE**\
+w Tex Perkins & Matt Walker
+
+**Wednesday 5 January 2022**\
+Rocky Cape Tavern, **ROCKY CAPE**\
+w Tex Perkins & Matt Walker
+
+**Monday 3 January 2022**\
+The Clarendon Arms, **EVANDALE**\
+w Tex Perkins & Matt Walker\
+SOLD OUT
+
+**Sunday 2 January 2022**\
+Peppermint Bay Hotel, **WOODBRIDGE**\
+w Tex Perkins & Matt Walker
+
+* * * * *
+
 *Cancelled Spring 2021 Tour Dates;*
 
 Saturday 13 November - **COPPING, TAS**\
