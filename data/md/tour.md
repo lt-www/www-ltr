@@ -11,6 +11,14 @@ w Tex Perkins & Matt Walker\
 
 * * * * *
 
+**NSW**
+
+**Saturday 19 March 2022**\
+Sydney Harbour Bridge 90th Anniversay, **CAMPBELLS COVE**\
+w Tex Perkins
+
+* * * * *
+
 **TASMANIA**
 
 **Sunday 24 April 2022**\
