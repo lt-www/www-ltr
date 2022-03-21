@@ -2,15 +2,6 @@
 
 * * * * *
 
-**VICTORIA**
-
-**Sunday 6 March 2022**\
-Archies Creek Hotel, **ARCHIES CREEK**\
-w Tex Perkins & Matt Walker\
-2.30pm
-
-* * * * *
-
 **NSW**
 
 **Saturday 19 March 2022**\
@@ -23,6 +14,11 @@ w Tex Perkins & Jez Mead
 
 **Sunday 24 April 2022**\
 The Royal Oak Hotel, **LAUNCESTON**\
+w Hamish Stuart\
+tickets on sale soon 
+
+**Saturday 30 April 2022**\
+The Copping Community Hall, **COPPING**\
 w Hamish Stuart\
 tickets on sale soon 
 
