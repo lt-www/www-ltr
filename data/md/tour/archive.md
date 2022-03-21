@@ -2,6 +2,14 @@
 
 * * * * *
 
+**VICTORIA**
+
+**Sunday 6 March 2022**\
+Archies Creek Hotel, **ARCHIES CREEK**\
+w Tex Perkins & Matt Walker
+
+* * * * *
+
 **NSW**
 
 **Saturday 22 January 2022**\
