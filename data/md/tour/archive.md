@@ -2,6 +2,14 @@
 
 * * * * *
 
+**NSW**
+
+**Saturday 19 March 2022**\
+Sydney Harbour Bridge 90th Anniversay, **CAMPBELLS COVE**\
+w Tex Perkins & Jez Mead
+
+* * * * *
+
 **VICTORIA**
 
 **Sunday 6 March 2022**\
