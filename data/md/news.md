@@ -1,5 +1,9 @@
 * * * * * 
 
+### 28 March 2022
+
+Shows in Tassie comin up with Hamish Stuart! AND The Yearlings! Now there's some good medicine. Tix on sale now via the [tour page](tour) 
+
 ![](data/image/news/Tas22.jpeg)
 
 * * * * * 
