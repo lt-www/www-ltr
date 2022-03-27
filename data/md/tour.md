@@ -2,25 +2,21 @@
 
 * * * * *
 
-**NSW**
-
-**Saturday 19 March 2022**\
-Sydney Harbour Bridge 90th Anniversay, **CAMPBELLS COVE**\
-w Tex Perkins & Jez Mead
-
-* * * * *
-
 **TASMANIA**
 
 **Sunday 24 April 2022**\
 The Royal Oak Hotel, **LAUNCESTON**\
 w Hamish Stuart\
-tickets on sale soon 
++ The Yearlings\
++ 7-9pm\
+[Tickets](https://royaloakhotel.iwannaticket.com.au/event/lucie-thorne-hamish-stuart-the-yearlings-MjYyODk)
 
 **Saturday 30 April 2022**\
 The Copping Community Hall, **COPPING**\
 w Hamish Stuart\
-tickets on sale soon 
++ The Yearlings\
++ Doors 7pm | Show 7.30pm | BYO\
+[Tickets](http://www.trybooking.com/BYLGX) 
 
 * * * * * 
 
