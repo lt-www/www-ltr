@@ -7,15 +7,15 @@
 **Sunday 24 April 2022**\
 The Royal Oak Hotel, **LAUNCESTON**\
 w Hamish Stuart\
-+ The Yearlings\
-+ 7-9pm\
+and The Yearlings\
+7-9pm\
 [Tickets](https://royaloakhotel.iwannaticket.com.au/event/lucie-thorne-hamish-stuart-the-yearlings-MjYyODk)
 
 **Saturday 30 April 2022**\
 The Copping Community Hall, **COPPING**\
 w Hamish Stuart\
-+ The Yearlings\
-+ Doors 7pm | Show 7.30pm | BYO\
+and The Yearlings\
+Doors 7pm | Show 7.30pm | BYO\
 [Tickets](http://www.trybooking.com/BYLGX) 
 
 * * * * * 
