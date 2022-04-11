@@ -23,7 +23,8 @@ Doors 7pm | Show 7.30pm | BYO\
 **Friday 6 May 2022**\
 New Hall, **POINT LONSDALE**\
 w Mess Esque\
-tickets on sale soon 
+Doors 7pm | Show 7.30pm\
+[Tickets](https://www.trybooking.com/events/landing?eid=890351&) 
 
 * * * * * 
 
