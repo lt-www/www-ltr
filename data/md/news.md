@@ -2,7 +2,9 @@
 
 ### 8 June 2022
 
-I'll be playing [three shows](tour) on the Yorke Pennisula in July as part of the Adelaide Guitar Festival *On The Road* concert series, in Crystal Brooke, Edithburgh and Wallaroo.  
+I'll be playing [three shows](tour) on the Yorke Pennisula in July as part of the Adelaide Guitar Festival *On The Road* concert series, in Crystal Brooke, Edithburgh and Wallaroo x 
+
+![](data/image/news/LTTOH_BWsm.jpeg) 
 
 * * * * * 
 
