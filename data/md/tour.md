@@ -2,24 +2,16 @@
 
 * * * * *
 
-**TASMANIA**
+**SOUTH AUSTRALIA**
 
-**Sunday 24 April 2022**\
-The Royal Oak Hotel, **LAUNCESTON**\
-w Hamish Stuart and The Yearlings\
+**Friday 15 JULY 2022**\
+Adeliade Guitar Festival, **CRYSTAL BROOK**
 
-**Saturday 30 April 2022**\
-The Copping Community Hall, **COPPING**\
-w Hamish Stuart and The Yearlings\
+**Saturday 16 JULY 2022**\
+Adeliade Guitar Festival, **EDITHBURGH**
 
-* * * * * 
-
-**VICTORIA**
-
-**Friday 6 May 2022**\
-New Hall, **POINT LONSDALE**\
-w Mess Esque\
-
+**Sunday 17 JULY 2022**\
+Adeliade Guitar Festival, **WALLAROO**
 
 * * * * * 
 
