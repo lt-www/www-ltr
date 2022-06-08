@@ -5,13 +5,20 @@
 **SOUTH AUSTRALIA**
 
 **Friday 15 JULY 2022**\
-Adeliade Guitar Festival, **CRYSTAL BROOK**
+Crystal Brook Institute, **CRYSTAL BROOK**\
+Adelaide Guitar Festival\
+6pm 
 
 **Saturday 16 JULY 2022**\
-Adeliade Guitar Festival, **EDITHBURGH**
+Edithburgh Institute, **EDITHBURGH**\
+Adelaide Guitar Festival\
+5pm
 
 **Sunday 17 JULY 2022**\
-Adeliade Guitar Festival, **WALLAROO**
+Wallaroo Town Hall, **WALLAROO**
+Adelaide Guitar Festival\
+with The Yearlings\
+4pm
 
 * * * * * 
 
