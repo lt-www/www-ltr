@@ -1,5 +1,11 @@
 * * * * * 
 
+### 8 June 2022
+
+I'll be playing three [three shows](tour) on the Yorke Pennisula in July as part of the Adelaide Guitar Festival *On The Road* concert series, in Crystal Brooke, Edithburgh and Wallaroo.  
+
+* * * * * 
+
 ### 28 March 2022
 
 Shows in Tassie comin up with Hamish Stuart! AND The Yearlings! Now there's some good medicine. [Tix on sale now](tour) 
