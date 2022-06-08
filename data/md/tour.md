@@ -15,7 +15,7 @@ Adelaide Guitar Festival\
 5pm
 
 **Sunday 17 July 2022**\
-Wallaroo Town Hall, **WALLAROO**
+Wallaroo Town Hall, **WALLAROO**\
 Adelaide Guitar Festival\
 with The Yearlings\
 4pm
