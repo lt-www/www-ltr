@@ -4,7 +4,7 @@
 
 South Australia! I'll be playing [three shows](tour) on the Yorke Peninsula in July as part of the Adelaide Guitar Festival *On The Road* concert series, in Crystal Brook, Edithburgh and Wallaroo x 
 
-![](data/image/news/LTTOH_BWsm.jpeg)
+![](data/image/news/TOH_bw.jpeg)
 
 * * * * * 
 
