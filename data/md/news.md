@@ -1,5 +1,13 @@
 * * * * * 
 
+### 30 August 2022
+
+I've been busy this winter working on two very special projects - producing new albums by dear friends and beautiful song-makers The Yearlings, and Sara Tindley! More news on all that soon... really looking forward to sharing this gorgeous new music with you all! xoLT 
+
+![](data/image/news/StudioLoretta.jpeg)
+
+* * * * * 
+
 ### 8 June 2022
 
 South Australia! I'll be playing [three shows](tour) on the Yorke Peninsula in July as part of the Adelaide Guitar Festival *On The Road* concert series, in Crystal Brook, Edithburgh and Wallaroo x 
