@@ -2,20 +2,14 @@
 
 * * * * *
 
-**SOUTH AUSTRALIA**
+**TASMANIA**
 
-**Sunday 17 July 2022**\
-Wallaroo Town Hall, **WALLAROO**\
-Adelaide Guitar Festival\
-with The Yearlings
- 
-**Saturday 16 July 2022**\
-Edithburgh Institute, **EDITHBURGH**\
-Adelaide Guitar Festival
+**Saturday 10 September 2022**\
+The Grand Chancellor, **LAUNCESTON**\
+*playing a selection of Joni songs as part of the Tasmanian Poetry Festival's 'Joni & Leonard' tribute concert*\
+Doors from 6pm / Show from 7pm\
+[Bookings](http://trybooking.com/CAUZU) 
 
-**Friday 15 July 2022**\
-Crystal Brook Institute, **CRYSTAL BROOK**\
-Adelaide Guitar Festival
 
 * * * * * 
 
