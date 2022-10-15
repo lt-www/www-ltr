@@ -6,7 +6,7 @@
 
 **Thursday 10 November 2022**\
 Star Court Theatre, **LISMORE**\
-w Sara Tindley - launching her new album *Greetings from Lake St Clair*\
+w Sara Tindley, launching her new album *Greetings from Lake St Clair*\
 + The Yearlings\ 
 7pm\
 [Tickets](https://www.starcourttheatre.com.au/events/80280)
