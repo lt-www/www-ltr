@@ -2,6 +2,7 @@
 
 ### 7 November 2022
  
+Delighted and excited to share the news that this beautiful new album is out today! Sara Tindley's 'Greetings from Lake St Clair'. I'm so proud to have played a part of the making of this record - and we're launching it with a very special one-off show at Lismore's Star Court Theatre, this Thursday, 10th November. Recorded at La Cueva Studios in Tyagrah, produced by yours truely, with a band of beuatiful players (Sara, me & Chris Parkinson on guitars, Scott Hills on drums, Brett Canning on bass, plus cameo appearances by Ashley Bell, Jimmy Dowling, Poppy Bayley-Tindley, Robyn Chalklen, Suzannah Espie and Nadine Budge). You can get yourselves a copy via [saratindley.bandcamp.com](saratindley.bandcamp.com) - where you can also stream it. Get your ears on it folks! x 
 
 ![](data/image/news/GFLSC.jpeg)
 
