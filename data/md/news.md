@@ -1,5 +1,13 @@
 * * * * * 
 
+### 7 November 2022
+ 
+
+![](data/image/news/GFLSC.jpeg)
+
+
+* * * * * 
+
 ### 30 August 2022
 
 I've been busy this winter working on two very special projects - producing new albums by dear friends and beautiful song-makers The Yearlings, and Sara Tindley! More news on all that soon... really looking forward to sharing this gorgeous new music with you all! xoLT 
