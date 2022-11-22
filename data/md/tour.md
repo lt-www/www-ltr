@@ -1,21 +1,5 @@
 ![](data/image/news/tourbanner2.jpg)
 
-* * * * *
-
-**NSW**
-
-**Sunday 6 November 2022**\
-House Concert, **LENNOX SESSIONS**\
-with The Yearlings\
-Doors 5pm\
-email lennoxsessions @ gmail dot com for info/tix
-
-**Thursday 10 November 2022**\
-Star Court Theatre, **LISMORE**\
-w Sara Tindley, launching her new album *Greetings from Lake St Clair*\
-plus special guests The Yearlings\
-7pm\
-[Tickets](https://www.starcourttheatre.com.au/events/80280)
 
 * * * * *
 
