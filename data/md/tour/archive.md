@@ -1,6 +1,16 @@
 <!-- ## shows/archive -->
 
+* * * * *
 
+**VICTORIA**
+
+**Saturday 18 November 2022**\
+George Lane, **St KILDA**\
+w Checkerboard Lounge 
+
+**Saturday 12 November 2022**\
+Memo Hall, **St KILDA**\
+w Tex Perkins & The Fat Rubber Band 
 
 * * * * *
 
