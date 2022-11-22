@@ -1,19 +1,13 @@
 ![](data/image/news/tourbanner2.jpg)
 
-
-* * * * *
+* * * * * 
 
 **VICTORIA**
 
-**Saturday 12 November 2022**\
-Memo Hall, **St KILDA**\
-w Tex Perkins & The Fat Rubber Band\
-7pm
-
-**Saturday 18 November 2022**\
+**Saturday 25 February 2023**\
 George Lane, **St KILDA**\
-w Checkerboard Lounge\
-7pm
+w Hamish Stuart\
+[Tickets](https://www.trybooking.com/events/landing?eid=991677&) 
 
 * * * * * 
 
