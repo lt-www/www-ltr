@@ -7,6 +7,7 @@
 **Saturday 25 February 2023**\
 George Lane, **St KILDA**\
 w Hamish Stuart\
+7pm\ 
 [Tickets](https://www.trybooking.com/events/landing?eid=991677&) 
 
 * * * * * 
