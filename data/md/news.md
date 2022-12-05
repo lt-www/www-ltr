@@ -3,6 +3,7 @@
 
 ### 5 December 2022
 
+Two shows coming up in duet with Hamish Stuart! And both of them with the fabulous Matt Walker & Ben Franz! [Tickets on sale now](tour) 
 
 ![](data/image/news/Feb2023Poster.jpeg)
 
