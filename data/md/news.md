@@ -1,6 +1,14 @@
 
 * * * * * 
 
+### 5 December 2022
+
+
+![](data/image/news/Feb2023Poster.jpeg)
+
+
+* * * * * 
+
 ### 29 November 2022
 
 there are a couple of recent interviews now up on the nets: one with Chris Sayer for ['The Hot Seat'](https://omny.fm/shows/the-hot-seat-on-city-park-radio/lucie-thorne) on (DJ Stephie's beloved!) City Park Radio, and one with Pete Cornelius for his podcast ['Say it with Guitars'](https://sayitwithguitarspodcast.podbean.com/e/113-lucie-thorne/). Both conversations were recorded during my final days in the old house on the hill in West Launceston x Back in Melbourne/Naarm now with news of summer shows coming real soon. Hope you're going alright out there x 
