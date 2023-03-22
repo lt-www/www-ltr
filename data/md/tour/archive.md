@@ -4,6 +4,16 @@
 
 **VICTORIA**
 
+**Sunday 26 February 2023**\
+Brunswick Ballroom, **BRUNSWICK**\
+w Hamish Stuart\
+plus Matt Walker & Ben Franz
+
+**Saturday 25 February 2023**\
+George Lane, **St KILDA**\
+w Hamish Stuart\
+plus Matt Walker & Ben Franz 
+
 **Friday 17 February 2023**\
 Melbourne Recital Centre, **MELBOURNE**\
 with Tim Rogers & Tex Perkins
