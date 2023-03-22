@@ -4,17 +4,15 @@
 
 **VICTORIA**
 
-**Saturday 25 February 2023**\
-George Lane, **St KILDA**\
-w Hamish Stuart\
-plus Matt Walker & Ben Franz\
-[Tickets](https://www.trybooking.com/events/landing?eid=991677&)
-
-**Sunday 26 February 2023**\
+**Thursday 23 March 2023**\
 Brunswick Ballroom, **BRUNSWICK**\
-w Hamish Stuart\
-plus Matt Walker & Ben Franz\
-[Tickets](https://moshtix.com.au/v2/event/lucie-thorne/147332)
+w Tex Perkins & the Fat Rubber Band\
+[Tickets](https://www.moshtix.com.au/v2/event/tex-perkins-the-fat-rubber-band/148424?ref=RSS_rss_bb_homepage&skin=brunswickballroom)
+
+**Sunday 23 April 2023**\
+The Palais, **GEELONG**\
+w Tex Perkins & Matt Walker\
+[Tickets](https://palais.sales.ticketsearch.com/sales/salesevent/96024) 
 
 * * * * * 
 
