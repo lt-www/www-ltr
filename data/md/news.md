@@ -4,13 +4,16 @@
 
 
 Sara Tindley ( 14.11.66 - 15.01.23 )  
+
 We’ve set up a [GoFundMe](https://gofund.me/c39e90b4) campaign to bring our beautiful Sara’s extraordinary final sonic offering *Greetings from Lake St Clair* out on vinyl. 
+
+![](data/image/news/sara1.jpeg)
 
 We made [this record](https://saratindley.bandcamp.com) in August last year. Sara was incredibly unwell with terminal cancer, and it was less than a year since Lily’s tragic death. She didn’t know if she could even manage to record it. But with that incredible fire, strength and huge-hearted-ness that Sara shone with - in three amazing days in the studio - she smashed it out of the park. And the whole thing turned around in lightning speed. Just 2 months later we were launching it to the most overwhelmingly love-charged packed-out home-town crowd in her beloved Lismore. I’m lucky enough to have performed with Sara many times, but this night was like nothing i’ve ever experienced. Transcendent.  
 
-...Sara loved the idea of one of her albums finally getting pressed to vinyl, but she knew she was unlikely to be around to see that eventuate. But we're making it happen! And we’re talkin a super deluxe limited edition gatefold beauty with extended liner notes & photos and appropriately hot coloured vinyl, folks... Head to [GoFundMe](https://gofund.me/c39e90b4) - nb: ANY contribution is fabulous! Donate $50+ we’ll send you a record once it's hot off the press. ($100 and we’ll send you two:) 
+...Sara loved the idea of one of her albums finally getting pressed to vinyl, but she knew she was unlikely to be around to see that eventuate. But we're making it happen! Head to [GoFundMe](https://gofund.me/c39e90b4) - nb: any contribution is fabulous! And if you donate $50+ we’ll send you a record once it's hot off the press. ($100 and we’ll send you two:) 
 
-![](data/image/news/sara1.jpeg)
+
 
 * * * * * 
 
