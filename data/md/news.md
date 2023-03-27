@@ -16,7 +16,7 @@ We made [this record](https://saratindley.bandcamp.com) in August last year. Sar
 
 ### 18 March 2023
 
-Loving thanks to all who've came out to recent shows xo Got some new music news coming soon! Stay tuned...   
+Loving thanks to all who've come out to recent shows xo Got some new music news coming soon! Stay tuned...   
 
 ![](data/image/news/LT2196.jpeg)
 
