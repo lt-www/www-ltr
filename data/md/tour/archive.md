@@ -4,6 +4,14 @@
 
 **VICTORIA**
 
+**Sunday 23 April 2023**\
+The Palais, **GEELONG**\
+w Tex Perkins & Matt Walker 
+
+**Thursday 23 March 2023**\
+Brunswick Ballroom, **BRUNSWICK**\
+w Tex Perkins & the Fat Rubber Band 
+
 **Sunday 26 February 2023**\
 Brunswick Ballroom, **BRUNSWICK**\
 w Hamish Stuart\
