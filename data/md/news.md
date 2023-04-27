@@ -2,7 +2,7 @@
 
 ### 28 April 2023
 
-Thrilled to share the news that the stunning new album [LUCK by The Yearlings](http://theyearlings1.bandcamp.com/album/luck) will be released this June on my label Little Secret Records! and you can get your ears around the first two songs now! Head to their bandcamp page to [preorder your album] (http://theyearlings1.bandcamp.com/album/luck) [LP | CD | DL] - and lean on in to [DOWNTOWN](http://theyearlings1.bandcamp.com/track/dowtown) & [GONE ARE THE DAYS](http://theyearlings1.bandcamp.com/track/gone-are-the-days). 
+Thrilled to share the news that the stunning new album [LUCK by The Yearlings](http://theyearlings1.bandcamp.com/album/luck) will be released this June on my label Little Secret Records! and you can get your ears around the first two songs now! Head to their bandcamp page to [preorder your album](http://theyearlings1.bandcamp.com/album/luck) [LP | CD | DL] - and lean on in to [DOWNTOWN](http://theyearlings1.bandcamp.com/track/dowtown) & [GONE ARE THE DAYS](http://theyearlings1.bandcamp.com/track/gone-are-the-days). 
 
 It was a total joy and honour to collaborate with The Yearlings to produce LUCK. The album was recorded with dream team Hamish Stuart (drums) & James Haselwood (bass) in just a couple of days last winter, tracked live to tape by Mick Wordley at the beautiful Mixmasters Studio in South Australia, and completed by the nuanced mixing wizardry of Chris Shaw in Austin, Texas. It's an album of great songs by great players and it sounds *really freaking good*. I’m so excited to start sharing what we made. Do your ears and hearts a favour xo 
 
