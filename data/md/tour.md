@@ -5,10 +5,11 @@
 **SOUTH AUSTRALIA**
 
 **Sunday 25 June 2023**\
-Goodwood Theatre, **ADELAIDE**\
+Goodwood Theatre & Studios, **ADELAIDE**\
 w The Yearlings & Hamish Stuart\
 Launching The Yearlings' New Album LUCK\
-Tickets on sale Fri 5th May
+4pm\
+[Tickets](https://www.trybooking.com/events/landing?eid=1055015&)
 
 * * * * * 
 
