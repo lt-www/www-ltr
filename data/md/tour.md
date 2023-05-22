@@ -7,7 +7,7 @@
 **Sunday 25 June 2023**\
 Goodwood Theatre & Studios, **ADELAIDE**\
 w The Yearlings & Hamish Stuart\
-Launching The Yearlings' New Album LUCK\
+Launching The Yearlings' New Album [LUCK](https://theyearlings1.bandcamp.com/album/luck)\
 4pm\
 [Tickets](https://www.trybooking.com/events/landing?eid=1055015&)
 
