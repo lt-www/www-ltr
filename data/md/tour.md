@@ -1,5 +1,15 @@
 ![](data/image/news/tourbanner2.jpg)
 
+* * * * * 
+
+**VICTORIA**
+
+**Wednesday 21 June 2023**\
+Jazzlab, **MELBOURNE**\
+w Hamish Stuart & Kade Brown Quartet\
+7.30pm\
+[Tickets](https://thejazzlab.com.au/event/kade-brown-trio/) 
+
 * * * * *
 
 **SOUTH AUSTRALIA**
