@@ -1,5 +1,11 @@
 * * * * * 
 
+### 17 June 2023
+
+![](data/image/news/LT_MRC.jpeg)
+
+* * * * * 
+
 ### 28 April 2023
 
 Thrilled to share the news that the stunning new album [LUCK by The Yearlings](http://theyearlings1.bandcamp.com/album/luck) will be released this June on my label Little Secret Records! and you can get your ears around the first two songs now! Head to their bandcamp page to [preorder your album](http://theyearlings1.bandcamp.com/album/luck) [LP | CD | DL] - and lean on in to [DOWNTOWN](http://theyearlings1.bandcamp.com/track/downtown) & [GONE ARE THE DAYS](http://theyearlings1.bandcamp.com/track/gone-are-the-days). 
