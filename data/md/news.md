@@ -2,7 +2,7 @@
 
 ### 17 June 2023
 
-Some special-event shows comin right up: this Wednesday 21st June i'll be reuniting with Hamish Stuart for a double-bill show with the Kade Brown Quartet at Jazzlab in Melbourne. And then on Sunday 25th June we launch [The Yearlings new record LUCK](http://theyearlings1.bandcamp.com/album/luck) at the Goodwood THeatre in Adelaide. [Tix & info here](tour) 
+A couple of special-event shows comin right up: this Wednesday 21st June i'll be reuniting with Hamish Stuart for a double-bill show with the Kade Brown Quartet!  at Jazzlab in Melbourne. And then on Sunday 25th June we launch [The Yearlings new record LUCK](http://theyearlings1.bandcamp.com/album/luck) at the Goodwood Theatre in Adelaide. [Tix & info here](tour) 
 
 ![](data/image/news/LT_MRC.jpeg)
 
