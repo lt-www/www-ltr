@@ -2,7 +2,20 @@
 
 * * * * *
 
+**SOUTH AUSTRALIA**
+
+**Sunday 25 June 2023**\
+Goodwood Theatre & Studios, **ADELAIDE**\
+w The Yearlings & Hamish Stuart\
+Launching The Yearlings' New Album [LUCK](https://theyearlings1.bandcamp.com/album/luck) 
+
+* * * * * 
+
 **VICTORIA**
+
+**Wednesday 21 June 2023**\
+Jazzlab, **MELBOURNE**\
+w Hamish Stuart & Kade Brown Quartet 
 
 **Sunday 23 April 2023**\
 The Palais, **GEELONG**\
