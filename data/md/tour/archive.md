@@ -1,5 +1,20 @@
 <!-- ## shows/archive -->
 
+
+* * * * * 
+
+**VICTORIA**
+
+**Friday 28 July 2023**\
+The Wesley Anne, **MELBOURNE**\
+w The Yearlings\
+Launching their New Album [LUCK](https://theyearlings1.bandcamp.com/album/luck) 
+
+**Thursday 27 July 2023**\
+Birds Basement, **MELBOURNE**\
+w Tex Perkins & Matt Walker\
+SOLD OUT 
+
 * * * * *
 
 **SOUTH AUSTRALIA**
@@ -16,6 +31,10 @@ Launching The Yearlings' New Album [LUCK](https://theyearlings1.bandcamp.com/alb
 **Wednesday 21 June 2023**\
 Jazzlab, **MELBOURNE**\
 w Hamish Stuart & Kade Brown Quartet 
+
+* * * * * 
+
+**VICTORIA**
 
 **Sunday 23 April 2023**\
 The Palais, **GEELONG**\
