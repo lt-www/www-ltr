@@ -26,6 +26,38 @@ w The Yearlings + Hamish Stuart + Jimmy Dowling\
 Launching [LUCK](https://theyearlings1.bandcamp.com/album/luck)\
 7.30pm | [tickets](https://www.trybooking.com/CKNFI) 
 
+**Thursday 19 October 2023**\
+Lazybones, **SYDNEY**\
+w The Yearlings + Hamish Stuart\
+Launching [LUCK](https://theyearlings1.bandcamp.com/album/luck)\
+*Tickets on sale soon.*  
+
+**Friday 20 October 2023**\
+House Concert, **MITTAGONG**\
+w The Yearlings + Hamish Stuart\
+Launching [LUCK](https://theyearlings1.bandcamp.com/album/luck)\
+7.30pm | BYO | [tickets](https://www.trybooking.com/CKOQC)
+
+* * * * * 
+
+**ACT**
+
+**Saturday 21 October 2023**\
+Smiths, **CANBERRA**\
+w The Yearlings + Hamish Stuart\
+Launching [LUCK](https://theyearlings1.bandcamp.com/album/luck)\
+*Tickets on sale soon.*  
+
+* * * * * 
+
+**NSW**
+
+**Sunday 22 October 2023**\
+The Town Hall, **CANDELO**\
+w The Yearlings + Hamish Stuart\
+Launching [LUCK](https://theyearlings1.bandcamp.com/album/luck)\
+*Tickets on sale soon.*  
+
 * * * * *
 
 [Tour Archive](tour/archive)
