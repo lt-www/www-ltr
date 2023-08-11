@@ -29,7 +29,7 @@ Launching [LUCK](https://theyearlings1.bandcamp.com/album/luck)\
 Lazybones, **SYDNEY**\
 w The Yearlings + Hamish Stuart\
 Launching [LUCK](https://theyearlings1.bandcamp.com/album/luck)\
-*Tickets on sale soon.*  
+7pm | [tickets](https://moshtix.com.au/v2/event/y/155998) 
 
 **Friday 20 October 2023**\
 House Concert, **MITTAGONG**\
