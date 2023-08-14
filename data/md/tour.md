@@ -45,7 +45,7 @@ Launching [LUCK](https://theyearlings1.bandcamp.com/album/luck)\
 Smiths, **CANBERRA**\
 w The Yearlings + Hamish Stuart\
 Launching [LUCK](https://theyearlings1.bandcamp.com/album/luck)\
-*Tickets on sale soon.*  
+6pm | [tickets](www.smithsalternative.com/events/the-yearlings-82553)   
 
 * * * * * 
 
