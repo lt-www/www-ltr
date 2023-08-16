@@ -55,7 +55,7 @@ Launching [LUCK](https://theyearlings1.bandcamp.com/album/luck)\
 The Town Hall, **CANDELO**\
 w The Yearlings + Hamish Stuart\
 Launching [LUCK](https://theyearlings1.bandcamp.com/album/luck)\
-*Tickets on sale soon.*  
+3pm | [tickets](https://events.humanitix.com/the-yearlings-album-launch-plus-special-guests-lucie-thorne-and-hamish-stuart)   
 
 * * * * *
 
