@@ -25,6 +25,20 @@ w The Yearlings + Hamish Stuart + Jimmy Dowling\
 Launching [LUCK](https://theyearlings1.bandcamp.com/album/luck)\
 7.30pm | [tickets](https://www.trybooking.com/CKNFI) 
 
+* * * * * 
+
+**QLD**
+
+**Sunday 15 October 2023**\
+Tom Atkin Hall, **TUGUN**\
+w The Yearlings + Hamish Stuart\
+Launching [LUCK](https://theyearlings1.bandcamp.com/album/luck)\
+6pm | [tickets]([https://www.trybooking.com/CKNFI](https://www.tomatkinhall.com.au/buytickets/p/oct15-yearlings)) 
+
+* * * * * 
+
+**NSW**
+
 **Thursday 19 October 2023**\
 Lazybones, **SYDNEY**\
 w The Yearlings + Hamish Stuart\
