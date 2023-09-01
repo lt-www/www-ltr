@@ -1,5 +1,13 @@
 * * * * * 
 
+### 31 August 2023
+
+Our darlin Sara Tindley's extraordinary final sonic offering - Greetings from Lake St Clair - is now out on vinyl on Little Secret Records. Loving thanks to all who contributed to bringing this treasure in to the world. The [GoFundMe page](https://gofund.me/c39e90b4) is still open if you'd like to mail-order a copy... xo 
+
+![](data/image/news/STLP.jpeg)
+
+* * * * * 
+
 ### 17 June 2023
 
 A couple of special-event shows comin right up: this Wednesday 21st June i'll be reuniting with Hamish Stuart for a double-bill with the Kade Brown Quartet!  at Jazzlab in Melbourne. And then on Sunday 25th June we launch [The Yearlings new record LUCK](http://theyearlings1.bandcamp.com/album/luck) at the Goodwood Theatre in Adelaide. [Tix & info here](tour) 
