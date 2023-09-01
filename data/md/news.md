@@ -2,7 +2,7 @@
 
 ### 31 August 2023
 
-Our darlin Sara Tindley's extraordinary final sonic offering - Greetings from Lake St Clair - is now out on vinyl on Little Secret Records. Loving thanks to all who contributed to bringing this treasure in to the world. The [GoFundMe page](https://gofund.me/c39e90b4) is still open if you'd like to mail-order a copy... xo 
+Our darlin Sara Tindley's stunning final album - Greetings from Lake St Clair - is now out on vinyl! on Little Secret Records. Loving thanks to all who contributed to bringing this treasure in to the world. The [GoFundMe page](https://gofund.me/c39e90b4) is still open if you'd like to mail-order a copy... xo 
 
 ![](data/image/news/STLP.jpeg)
 
