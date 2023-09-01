@@ -7,7 +7,7 @@
 **Sunday 24 September 2023**\
 Shotkickers, **MELBOURNE**\
 w Alice Williams\
-4pm | Free entry!  
+2-5pm | Free entry!  
 
 * * * * * 
 
