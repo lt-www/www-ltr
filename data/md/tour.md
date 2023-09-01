@@ -33,7 +33,7 @@ Launching [LUCK](https://theyearlings1.bandcamp.com/album/luck)\
 Tom Atkin Hall, **TUGUN**\
 w The Yearlings + Hamish Stuart\
 Launching [LUCK](https://theyearlings1.bandcamp.com/album/luck)\
-6pm | [tickets]([https://www.trybooking.com/CKNFI](https://www.tomatkinhall.com.au/buytickets/p/oct15-yearlings)) 
+6pm | [tickets](https://www.tomatkinhall.com.au/buytickets/p/oct15-yearlings)) 
 
 * * * * * 
 
