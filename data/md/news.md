@@ -8,6 +8,14 @@ Friends in Naarm! Harmony lovers! Come join us for an afternoon of real live mus
 
 * * * * * 
 
+### 2 September 2023
+
+On the road this spring with Hamish Stuart & The Yearlings!! [Tix & info here](tour)    
+
+![](data/image/news/October23.jpeg)
+
+* * * * * 
+
 ### 31 August 2023
 
 Our darlin Sara Tindley's stunning final album - Greetings from Lake St Clair - is now out on vinyl! on Little Secret Records. Loving thanks to all who contributed to bringing this treasure in to the world. The [GoFundMe page](https://gofund.me/c39e90b4) is still open if you'd like to mail-order a copy... xo 
