@@ -2,7 +2,7 @@
 
 ### 16 September 2023
 
-Friends in Naarm! Harmony lovers! Come join us for an afternoon of real live music next Sun 24th Sep - singing duets with my honey-piped babe Alice Pearl. And it's even freee!  
+Friends in Naarm! Harmony lovers! Come join us for an afternoon of real live music next Sun 24th Sep - singing duets with my honey-piped babe Alice Pearl Williams. And it's even freee! xx   
 
 ![](data/image/news/ShotPink.jpeg)
 
