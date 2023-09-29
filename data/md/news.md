@@ -1,3 +1,10 @@
+### 29 September 2023
+
+On the road in October with Hamish Stuart & The Yearlings!! [Tix & info here](tour)    
+
+![](data/image/news/October23.jpeg)
+
+
 * * * * * 
 
 ### 16 September 2023
