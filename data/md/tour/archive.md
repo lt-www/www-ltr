@@ -1,5 +1,12 @@
 <!-- ## shows/archive -->
 
+* * * * * 
+
+**VICTORIA**
+
+**Sunday 24 September 2023**\
+Shotkickers, **MELBOURNE**\
+w Alice Williams 
 
 * * * * * 
 
