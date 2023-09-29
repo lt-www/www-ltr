@@ -2,15 +2,6 @@
 
 * * * * * 
 
-**VICTORIA**
-
-**Sunday 24 September 2023**\
-Shotkickers, **MELBOURNE**\
-w Alice Williams\
-2-5pm | Free entry!  
-
-* * * * * 
-
 **NSW**
 
 **Friday 13 October 2023**\
