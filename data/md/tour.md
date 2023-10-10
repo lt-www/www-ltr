@@ -16,10 +16,6 @@ w The Yearlings + Hamish Stuart + Jimmy Dowling\
 Launching [LUCK](https://theyearlings1.bandcamp.com/album/luck)\
 7.30pm | [tickets](https://www.trybooking.com/CKNFI) 
 
-* * * * * 
-
-**NSW**
-
 **Thursday 19 October 2023**\
 Lazybones, **SYDNEY**\
 w The Yearlings + Hamish Stuart\
