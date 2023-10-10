@@ -18,15 +18,6 @@ Launching [LUCK](https://theyearlings1.bandcamp.com/album/luck)\
 
 * * * * * 
 
-**QLD**
-
-**Sunday 15 October 2023**\
-House Concert, **CURRUMBIN VALLEY**\
-w The Yearlings + Hamish Stuart\
-3pm
-
-* * * * * 
-
 **NSW**
 
 **Thursday 19 October 2023**\
