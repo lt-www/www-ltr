@@ -2,7 +2,7 @@
 
 On the road in October with Hamish Stuart & The Yearlings!! [Tix & info here](tour)    
 
-![](data/image/news/Oct23.jpeg)
+![](data/image/news/Oct2023.jpeg)
 
 
 * * * * * 
