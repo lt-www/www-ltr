@@ -1,3 +1,12 @@
+### 7 November 2023
+
+Loving thanks to all who came out to these shows! And huge congrats to The Yearlings on winning ARBA Best Roots Album of 2023! So proud to be a part of it. You can get your copy of LUCK on LP, CD or DL [via bandcamp](http://theyearlings1.bandcamp.com/album/luck)      
+
+![](data/image/news/LT_Bari.jpeg)
+
+
+* * * * * 
+
 ### 29 September 2023
 
 On the road in October with Hamish Stuart & The Yearlings!! [Tix & info here](tour)    
