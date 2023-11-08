@@ -1,8 +1,8 @@
 ### 7 November 2023
 
-Loving thanks to all who came out to these shows! And huge congrats to The Yearlings on winning ARBA Best Roots Album of 2023! So proud to be a part of it. You can get your copy of LUCK on LP, CD or DL [via bandcamp](http://theyearlings1.bandcamp.com/album/luck)      
+Loving thanks to all who came out to these shows! And huge congrats to The Yearlings on winning ARBA Best Roots Album of 2023! So proud to be a part of this beautiful record. You can get your copy of LUCK on LP, CD or DL [via bandcamp](http://theyearlings1.bandcamp.com/album/luck)      
 
-![](data/image/news/LT_Bari.jpeg)
+![](data/image/news/LT_Baritone.jpeg)
 
 
 * * * * * 
