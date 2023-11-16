@@ -1,3 +1,13 @@
+### 17 November 2023
+
+New Merch! ‘Labyrinth’ T Shirts - feat. Tim Thorne’s 1982 drawing of Theseus & the Minotaur! [On sale now via bandcamp](http://www.luciethorne.bandcamp.com) & shipped by xmas! 
+
+Thats right folks! I’m making a limited edition run of these fabulous tees with this incredible drawing - by my dad! Story of the picture below*. Place your orders now via [luciethorne.bandcamp.com]((http://www.luciethorne.bandcamp.com) & i’ll send them out to you before xmas xo   
+
+It was 1982. I was in prep at West Launceston Primary School, and Dad, as our stay-at-home parent, would partake in the school’s roster of parental helpers (known then by the  antiquated term ‘Mother Help’). Rather than, you know, read a story - from a book - to the class like the other mums… ah… Tim, in his extraordinary way, would free-style/story-tell tales from Greek Mythology which he accompanied by dozens of his home-made drawings!! I discovered a satchel filled with these amazing drawings when I was sorting through the old family home last year. This one of Theseus & the Minotaur in the Labyrinth is one of my faves. I have it framed on my wall. And now you can wear it on a t-shirt! 
+
+![](data/image/news/LT_shirt.jpeg)
+
 ### 7 November 2023
 
 Loving thanks to all who came out to these shows! And huge congrats to The Yearlings on winning ARBA Best Roots Album of 2023! So proud to be a part of this beautiful record. You can get your copy of LUCK on LP, CD or DL [via bandcamp](http://theyearlings1.bandcamp.com/album/luck)      
