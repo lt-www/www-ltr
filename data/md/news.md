@@ -8,6 +8,8 @@ It was 1982. I was in prep at West Launceston Primary School, and Dad, as our st
 
 ![](data/image/news/LT_shirt.jpeg)
 
+* * * * * 
+
 ### 7 November 2023
 
 Loving thanks to all who came out to these shows! And huge congrats to The Yearlings on winning ARBA Best Roots Album of 2023! So proud to be a part of this beautiful record. You can get your copy of LUCK on LP, CD or DL [via bandcamp](http://theyearlings1.bandcamp.com/album/luck)      
