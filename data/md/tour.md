@@ -7,7 +7,8 @@
 **Saturday 13 January 2024**\
 The Star Court Theatre, **LISMORE**\
 *Sara Tindley Memorial Concert*\
-tickets on sale soon
+7pm\
+[tickets](https://starcourt20.sales.ticketsearch.com/sales/salesevent/117031) 
 
 * * * * *
 
