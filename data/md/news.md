@@ -1,6 +1,6 @@
 ### 17 November 2023
 
-New Merch! ‘Labyrinth’ T Shirts - feat. Tim Thorne’s 1982 drawing of Theseus & the Minotaur! [On sale now via bandcamp](http://www.luciethorne.bandcamp.com) & shipped by xmas! 
+New Merch! ‘Labyrinth’ T Shirts - feat. [Tim Thorne’s](http://www.timthornepoet.com) 1982 drawing of Theseus & the Minotaur! [On sale now via bandcamp](http://www.luciethorne.bandcamp.com) & shipped by xmas! 
 
 Thats right folks! I’m making a limited edition run of these fabulous tees with this incredible drawing - by my dad! Story of the picture below. [Place your orders now](http://www.luciethorne.bandcamp.com) & we'll send them out from Dec 8th. xo   
 
