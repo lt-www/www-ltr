@@ -1,24 +1,14 @@
 ![](data/image/news/tourbanner2.jpg)
  
 * * * * * 
-
-**NSW**
-
-**Saturday 13 January 2024**\
-The Star Court Theatre, **LISMORE**\
-*Sara Tindley Memorial Concert*\
-7pm\
-[tickets](https://starcourt20.sales.ticketsearch.com/sales/salesevent/117031) 
-
-* * * * *
+*no shows for a while... but come see my paintings!*
 
 **VICTORIA**
 
-**Saturday 27 January 2024**\
-George Lane, **St KILDA**\
-w David Keenan\
-7pm\
-[tickets](https://www.georgelane.com.au/events-1/david-keenan-ire)  
+**Wednesday 20 March 2024**\
+The Carringbush Hotel, **ABBOTSFORD**\
+6pm\
+*Exhibition runs from Wed 20th - Mon 25th March 2024* 
 
 * * * * *
 
