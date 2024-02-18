@@ -1,3 +1,11 @@
+### 18 February 2024
+
+As some of you know, I've been spending a lot of time playing with *paints* this past year, and I'm delighted to let you know i'll be having my first exhibition next month in Naarm! 
+
+![](data/image/news/LTpaints.jpeg)
+
+* * * * * 
+
 ### 17 November 2023
 
 New Merch! ‘Labyrinth’ T Shirts - feat. [Tim Thorne’s](http://www.timthornepoet.com) 1982 drawing of Theseus & the Minotaur! [On sale now via bandcamp](http://www.luciethorne.bandcamp.com) & shipped by xmas! 
