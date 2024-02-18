@@ -2,6 +2,22 @@
 
 * * * * * 
 
+**VICTORIA**
+
+**Saturday 27 January 2024**\
+George Lane, **St KILDA**\
+w David Keenan 
+
+* * * * *
+
+**NSW**
+
+**Saturday 13 January 2024**\
+The Star Court Theatre, **LISMORE**\
+*Sara Tindley Memorial Concert*
+
+* * * * * 
+
 **NSW**
 
 **Sunday 22 October 2023**\
