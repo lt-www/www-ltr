@@ -9,9 +9,11 @@ Tim possessed a truly brilliant mind, produced a profound body of work, and had 
 And what a way with words.
 
 I am thrilled that *TT’s Greatest Hits* will be out in beautiful print this spring! 
-News of launches/readings to come... 
+News of launches/readings to come. And in the meantime, you'll find copies of the six titles of Tim's that are still in print [here](http://www.timthornepoet.com)
 
 ![](data/image/news/TL.jpeg)
+
+* * * * * 
 
 ### 18 February 2024
 
