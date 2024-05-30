@@ -1,3 +1,18 @@
+### 30 May 2024
+
+Dear friends, I am so happy to be sharing the news that my selection of favourite papa T poems: TIM THORNE - GREATEST HITS - Poems 1968-2021 will be published this September by Puncher & Wattmann. 
+
+I started putting this collection together in the months after Tim & Stephanie both died...
+I read every book of Tim’s from cover to cover...
+Over long months in that big old house on the hill, I trawled reams of writings, folders of scraps and miscellany and unpublished poems...
+Tim possessed a truly brilliant mind, produced a profound body of work, and had a mighty mighty heart.
+And what a way with words.
+
+I am thrilled that *TT’s Greatest Hits* will be out in beautiful print this spring! 
+News of launches/readings to come... 
+
+![](data/image/news/TL.jpeg)
+
 ### 18 February 2024
 
 As some of you know, I've been spending a lot of time playing with *paints* this past year, and I'm delighted to let you know i'll be having my first exhibition next month in Naarm! 
