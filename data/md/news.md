@@ -1,6 +1,6 @@
 ### 30 May 2024
 
-Dear friends, I am so happy to be sharing the news that my selection of favourite papa T poems: TIM THORNE - GREATEST HITS - Poems 1968-2021 will be published this September by Puncher & Wattmann. 
+Dear friends, I am so happy to be sharing the news that my selection of favourite papa T poems: TIM THORNE - GREATEST HITS - Poems 1968-2021 will be published this September by [Puncher & Wattmann.](https://puncherandwattmann.com)  
 
 I started putting this collection together in the months after Tim & Stephanie both died...
 I read every book of Tim’s from cover to cover...
