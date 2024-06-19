@@ -5,7 +5,7 @@
 **VICTORIA**
 
 **Friday 26 July 2024**\
-*Paradise: The Music of John Prine*\  
+*Paradise: The Music of John Prine* \  
 The Catfish, **FITZROY**\
 7.30pm 
 
