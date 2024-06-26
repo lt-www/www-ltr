@@ -18,4 +18,14 @@ The Catfish, **FITZROY**\
 
 * * * * *
 
+**TASMANIA**
+
+**Thursday 10 October 2024**\
+Book Launch & Reading\
+*Tim Thorne - Greatest Hits. Poems: 1968 - 2021*   
+in conjuction with the Tasmanian Poetery Festival, **LAUNCESTON**\
+details tba. 
+
+* * * * *
+
 [Tour Archive](tour/archive)
