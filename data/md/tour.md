@@ -4,17 +4,15 @@
 
 **VICTORIA**
 
-**Saturday 20 July 2024**\
-*Yodhi Fest!*  
-Lot 19, **CASTLEMAINE**\
-from 2pm\
-[Tickets](https://lot19.au/yodhifest/)
-
-
 **Friday 26 July 2024**\
 *Paradise: The Music of John Prine*  
 The Catfish, **FITZROY**\
-7.30pm 
+7.30pm.   
+
+**Saturday 17 August 2024**\ 
+The North Eastern, **EUROA**\
+with JO JO SMITH\
+details tba.
 
 * * * * *
 
