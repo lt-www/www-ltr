@@ -18,6 +18,16 @@ The Catfish, **FITZROY**\
 
 * * * * *
 
+**VICTORIA**
+
+**Wednesday 2 October 2024**\
+Book Launch & Reading\
+*Tim Thorne - Greatest Hits. Poems: 1968 - 2021*   
+READINGS, Carlton, **MELBOURNE**\
+details tba. 
+
+* * * * *
+
 **TASMANIA**
 
 **Thursday 10 October 2024**\
