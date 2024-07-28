@@ -9,7 +9,7 @@
 The Catfish, **FITZROY**\
 7.30pm.   
 
-**Saturday 17 August 2024**\ 
+**Saturday 17 August 2024**\
 The North Eastern, **EUROA**\
 with JO JO SMITH\
 details tba.
