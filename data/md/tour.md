@@ -3,15 +3,12 @@
 * * * * * 
 
 **VICTORIA**
-
-**Friday 26 July 2024**\
-*Paradise: The Music of John Prine*  
-The Catfish, **FITZROY**\
    
 **Saturday 17 August 2024**\
 The North Eastern, **EUROA**\
 with JO JO SMITH\
-details tba.
+6.30pm\
+[Tickets](https://events.humanitix.com/lucy-thorne-and-jojo-smith-live-at-the-northy) 
 
 * * * * *
 
