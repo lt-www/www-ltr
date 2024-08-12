@@ -1,3 +1,10 @@
+### 11 August 2024
+
+Reuniting with the one n only JO JO SMITH this Saturday 17 August in Euroa! [Tix & info here](tour)  
+![](data/image/news/JJSLT2.jpeg)
+
+* * * * * 
+
 ### 30 May 2024
 
 Dear friends, I am so happy to be sharing the news that my selection of favourite papa T poems: TIM THORNE - GREATEST HITS - Poems 1968-2021 will be published this September by [Puncher & Wattmann.](https://puncherandwattmann.com)  
