@@ -8,7 +8,7 @@
 The North Eastern, **EUROA**\
 with JO JO SMITH\
 6.30pm\
-[Tickets](https://events.humanitix.com/lucy-thorne-and-jojo-smith-live-at-the-northy) 
+SOLD OUT 
 
 * * * * *
 
@@ -17,8 +17,8 @@ with JO JO SMITH\
 **Wednesday 2 October 2024**\
 Book Launch & Reading\
 *Tim Thorne - Greatest Hits. Poems: 1968 - 2021*   
-READINGS, Carlton, **MELBOURNE**\
-details tba. 
+[READINGS](https://www.readings.com.au/events/poetry-launch-tim-thorne-greatest-hits) Carlton, **MELBOURNE**\
+6.30pm
 
 * * * * *
 
