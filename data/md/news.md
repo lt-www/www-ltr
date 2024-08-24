@@ -1,3 +1,11 @@
+### 22 August 2024
+
+Delighted to invite you to the launching of TIM THORNE'S GREATEST HITS! I'll be joined by a host of wonderful readers reading a selection of the Hits in both [Melbourne](https://www.readings.com.au/events/poetry-launch-tim-thorne-greatest-hits) & [Launceston](https://www.trybooking.com/events/landing/1263464) xo 
+
+![](data/image/news/TTLaunches.jpeg)
+
+* * * * * 
+
 ### 11 August 2024
 
 Reuniting with the one n only JO JO SMITH this Saturday 17 August in Euroa! [Tix & info here](tour)  
