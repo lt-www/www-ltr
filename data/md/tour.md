@@ -1,15 +1,5 @@
 ![](data/image/news/tourbanner2.jpg)
  
-* * * * * 
-
-**VICTORIA**
-   
-**Saturday 17 August 2024**\
-The North Eastern, **EUROA**\
-with JO JO SMITH\
-6.30pm\
-SOLD OUT 
-
 * * * * *
 
 **VICTORIA**
