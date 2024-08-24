@@ -2,6 +2,15 @@
 * * * * * 
 
 **VICTORIA**
+   
+**Saturday 17 August 2024**\
+The North Eastern, **EUROA**\
+with JO JO SMITH\
+SOLD OUT 
+
+* * * * * 
+
+**VICTORIA**
 
 **Friday 26 July 2024**\
 *Paradise: The Music of John Prine*  
