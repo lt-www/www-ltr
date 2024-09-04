@@ -21,6 +21,14 @@ in conjuction with the [Tasmanian Poetery Festival](https://www.trybooking.com/e
 SPORTIES LOUNGE, Charles St **LAUNCESTON**\
 6.30pm  
 
+* * * * *
+
+**ACT**
+
+**Saturday 2 November 2024**\
+*Land and Language* Exhibition Opening\   
+[CIVIC ART BUREAU](https://www.civicartbureau.com/)\
+3pm  
 
 * * * * *
 
