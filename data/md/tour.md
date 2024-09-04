@@ -30,6 +30,8 @@ SPORTIES LOUNGE, Charles St **LAUNCESTON**\
 [CIVIC ART BUREAU](https://www.civicartbureau.com/)\
 3pm  
 
+![](data/image/news/LTLAL.jpeg)
+
 * * * * *
 
 [Tour Archive](tour/archive)
