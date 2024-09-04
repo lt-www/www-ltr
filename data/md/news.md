@@ -1,3 +1,12 @@
+### 5 September 2024
+
+Thrilled to announce I’ll be exhibiting my new batch of paintings this November! ‘Land and Language’ will hang on the fabulous new walls of Canberra’s newest gallery [CIVIC ART BUREAU](https://www.civicartbureau.com/) upstairs from Smiths Alternative, on Ngunnawal country. Show opens Sat 2 Nov.  
+
+
+![](data/image/news/LTLAL.jpeg)
+
+* * * * * 
+
 ### 22 August 2024
 
 Delighted to invite you to the launchings of TIM THORNE'S GREATEST HITS! I'll be joined by a host of wonderful readers reading a selection of the Hits in both [Melbourne](https://www.readings.com.au/events/poetry-launch-tim-thorne-greatest-hits) & [Launceston](https://www.trybooking.com/events/landing/1263464) xo 
