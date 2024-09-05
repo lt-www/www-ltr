@@ -26,9 +26,9 @@ SPORTIES LOUNGE, Charles St **LAUNCESTON**\
 **ACT**
 
 **Saturday 2 November 2024**\
-*Land and Language* Exhibition Opening\   
-[CIVIC ART BUREAU](https://www.civicartbureau.com/)\
-3pm  
+*Land and Language* Exhibition Opening\
+[CIVIC ART BUREAU](https://www.civicartbureau.com/) \
+3pm
 
 ![](data/image/news/LTLAL.jpeg)
 
