@@ -1,3 +1,11 @@
+### 25 September 2024
+
+Oh my. It's landed! TIM THORNE - GREATEST HITS is out now through [Puncher and Wattmann.](https://puncherandwattmann.com/product/greatest-hits-selected-poems-1968-2021/)  Ask for it at your local bookshop, [order it online](https://puncherandwattmann.com/product/greatest-hits-selected-poems-1968-2021/) and if you're within cooee of Melbourne or Launceston, hope to see you at a celebratory launch and reading [coming right up](tour)! 
+
+![](data/image/news/TTGH1.jpeg)
+
+* * * * * 
+
 ### 5 September 2024
 
 Thrilled to announce I’ll be exhibiting my new batch of paintings this November! ‘Land and Language’ will hang on the fabulous new walls of Canberra’s newest gallery [CIVIC ART BUREAU](https://www.civicartbureau.com/) upstairs from Smiths Alternative, on Ngunnawal country. Show opens Sat 2 Nov.  
