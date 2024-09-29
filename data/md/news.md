@@ -15,6 +15,8 @@ Oh my. It's landed! TIM THORNE - GREATEST HITS is out now through [Puncher and W
 
 ![](data/image/news/TTGH1.jpeg)
 
+- *cover painting: detail from '(I Can't Get No) Patefaction' 2023* by me, LT xo
+  
 * * * * * 
 
 ### 5 September 2024
