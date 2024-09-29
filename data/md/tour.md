@@ -51,8 +51,10 @@ with Ash Bell\
 The Rochdale Theatre, **LISMORE**\
 603 Ballina Rd Goonellabah\
 with Ash Bell\
-Doors 2.30pm | Show 3-5pm\  
+Doors 2.30pm | Show 3-5pm\
 [Tickets](https://www.trybooking.com/events/landing/1298296) 
+
+![](data/image/news/GGCover.jpeg)
 
 * * * * *
 
