@@ -31,7 +31,6 @@ SPORTIES LOUNGE, Charles St **LAUNCESTON**\
 Upstairs, Smith's Alternative\
 Alinga St Civic, **CANBERRA**\
 3pm\
-
 *Exhibition runs 2nd - 23rd November* 
 
 ![](data/image/news/LTLAL.jpeg)
