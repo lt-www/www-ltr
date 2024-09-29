@@ -1,4 +1,4 @@
-### 25 September 2024
+### 29 September 2024
 
 We've been working on this precious bundle of treasure for a while now... and I'm thrilled to announce the news: 
 ![](data/image/news/GGCover.jpeg)
