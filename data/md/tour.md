@@ -37,14 +37,14 @@ SPORTIES LOUNGE, Charles St **LAUNCESTON**\
 **NSW**
 
 **Saturday 16 November 2024**\
-Lucie Thorne & Ash Bell present:\ 
+Lucie Thorne & Ash Bell present: \ 
 *SONGS FOR SARA // GOLDEN GIRL* Album Launch\
 [The Citadel](https://thecitadel.com.au/)\
 21 Queen St **MURWILLUMBAH**\
 7pm  
 
 **Sunday 17 November 2024**\
-Lucie Thorne & Ash Bell present:\ 
+Lucie Thorne & Ash Bell present: \ 
 *SONGS FOR SARA // GOLDEN GIRL* Album Launch\
 The Rochdale Theatre, **LISMORE**\
 603 Ballina Rd Goonellabah\
