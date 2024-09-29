@@ -3,7 +3,7 @@
 We've been working on this precious bundle of treasure for a while now... and I'm thrilled to announce the news: 
 ![](data/image/news/GGCover.jpeg)
 
-GOLDEN GIRL is a posthumous Sara Tindley album which will be released on little secret records on 14 November 2024. A collection of solo home recordings made by Sara in the last year of her life, the album also features two new songs written by me and Ash Bell in tribute to their dear friend, alongside two previously unreleased duets with Sara. To launch the album - AB and I will join forces for two very special shows in Murwillumbah and Lismore NOv 16th and 17th xo 
+GOLDEN GIRL is a posthumous Sara Tindley album which will be released on little secret records on 14 November 2024. A collection of solo home recordings made by Sara in the last year of her life, the album also features two new songs written by Ash Bell and myself, alongside two previously unreleased duets with Sara. To launch the album - AB and I will join forces for [two very special shows](tour) in Murwillumbah and Lismore Nov 16 and 17 xo 
 
 * * * * * 
 
