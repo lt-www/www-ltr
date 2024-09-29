@@ -30,9 +30,9 @@ SPORTIES LOUNGE, Charles St **LAUNCESTON**\
 [CIVIC ART BUREAU](https://www.civicartbureau.com/) \
 Upstairs, Smith's Alternative\
 Alinga St Civic, **CANBERRA**\
-3pm\
+3pm \
 
-*exhibition runs 2ns - 23rd November* 
+*Exhibition runs 2nd - 23rd November* 
 
 ![](data/image/news/LTLAL.jpeg)
 
@@ -40,9 +40,9 @@ Alinga St Civic, **CANBERRA**\
 
 **NSW**
 
-**Saturday 16 November 2024**\
+**Saturday 16 November 2024**\ 
 *SONGS FOR SARA // GOLDEN GIRL* Album Launch\
-[The Citadel](https://thecitadel.com.au/)\
+[The Citadel](https://thecitadel.com.au/)\ 
 21 Queen St **MURWILLUMBAH**\
 with Ash Bell\
 7pm  
