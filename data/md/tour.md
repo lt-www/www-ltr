@@ -56,6 +56,8 @@ Doors 2.30pm | Show 3-5pm\
 
 ![](data/image/news/GGCover.jpeg)
 
+GOLDEN GIRL will be released on *little secret records* 14 November 2024
+
 * * * * *
 
 [Tour Archive](tour/archive)
