@@ -28,7 +28,11 @@ SPORTIES LOUNGE, Charles St **LAUNCESTON**\
 **Saturday 2 November 2024**\
 *Land and Language* Exhibition Opening\
 [CIVIC ART BUREAU](https://www.civicartbureau.com/) \
-3pm
+Upstairs, Smith's Alternative\
+Alinga St Civic, **CANBERRA**\
+3pm\
+
+*exhibition runs 2ns - 23rd November* 
 
 ![](data/image/news/LTLAL.jpeg)
 
@@ -37,17 +41,17 @@ SPORTIES LOUNGE, Charles St **LAUNCESTON**\
 **NSW**
 
 **Saturday 16 November 2024**\
-Lucie Thorne & Ash Bell present: \ 
 *SONGS FOR SARA // GOLDEN GIRL* Album Launch\
 [The Citadel](https://thecitadel.com.au/)\
 21 Queen St **MURWILLUMBAH**\
+with Ash Bell\
 7pm  
 
-**Sunday 17 November 2024**\
-Lucie Thorne & Ash Bell present: \ 
+**Sunday 17 November 2024**\ 
 *SONGS FOR SARA // GOLDEN GIRL* Album Launch\
 The Rochdale Theatre, **LISMORE**\
 603 Ballina Rd Goonellabah\
+with Ash Bell\
 Doors 2.30pm | Show 3-5pm\  
 [Tickets](https://www.trybooking.com/events/landing/1298296) 
 
