@@ -1,5 +1,14 @@
 ### 25 September 2024
 
+We've been working on this precious bundle of treasure for a while now... and I'm thrilled to announce the news: 
+![](data/image/news/GGCover.jpeg)
+
+GOLDEN GIRL is a posthumous Sara Tindley album which will be released on little secret records on 14 November 2024. A collection of solo home recordings made by Sara in the last year of her life, the album also features two new songs written by me and Ash Bell in tribute to their dear friend, alongside two previously unreleased duets with Sara. To launch the album - AB and I will join forces for two very special shows in Murwillumbah and Lismore NOv 16th and 17th xo 
+
+* * * * * 
+
+### 25 September 2024
+
 Oh my. It's landed! TIM THORNE - GREATEST HITS is out now through [Puncher and Wattmann.](https://puncherandwattmann.com/product/greatest-hits-selected-poems-1968-2021/)  Ask for it at your local bookshop, [order it online](https://puncherandwattmann.com/product/greatest-hits-selected-poems-1968-2021/) and if you're within cooee of Melbourne or Launceston, hope to see you at a celebratory launch and reading [coming right up](tour)! 
 
 ![](data/image/news/TTGH1.jpeg)
