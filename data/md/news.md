@@ -1,3 +1,13 @@
+* * * * * 
+
+### 5 October 2024
+
+Loving thanks to all who joined us at the Melb book launch! Home town Launnie Launch coming right up! Come celebrate Tim Thorne and his Greatest Hits! Thursday 10th October at Sporties Lounge, 6.30pm, in conjunction with the [Tasmanian Poetry Festival.](https://www.trybooking.com/events/landing/1263464)  
+
+![](data/image/news/LtonLaunch.jpeg)
+
+* * * * * 
+
 ### 29 September 2024
 
 We've been working on this precious bundle of treasure for a while now... and I'm thrilled to announce the news: 
