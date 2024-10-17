@@ -1,4 +1,24 @@
 <!-- ## shows/archive -->
+
+* * * * *
+
+**TASMANIA**
+
+**Thursday 10 October 2024**\
+Book Launch & Reading\
+*Tim Thorne - Greatest Hits. Poems: 1968 - 2021*   
+in conjuction with the Tasmanian Poetry Festival. 
+SPORTIES LOUNGE, Charles St **LAUNCESTON**
+
+* * * * *
+
+**VICTORIA**
+
+**Wednesday 2 October 2024**\
+Book Launch & Reading\
+*Tim Thorne - Greatest Hits. Poems: 1968 - 2021*   
+Readings Books, Carlton. 
+
 * * * * * 
 
 **VICTORIA**
