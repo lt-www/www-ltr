@@ -1,5 +1,13 @@
 * * * * * 
 
+### 18 October 2024
+
+Huge loving thanks to all who joined us at the Launnie Launch of Tim Thorne - Greatest Hits! It's been an overwhelmingly wonderful time seeing and hearing these hits brought to life! Extra thanks to all the readers and the Tasmanian Poetry Festival crew. In art news - please note date change: Civic Art Bureau has had to reschedule my upcoming exhibition - Land and Language - which will now open Saturday 5th April 2025. 
+
+![](data/image/news/LandL25.jpeg)
+
+* * * * * 
+
 ### 5 October 2024
 
 Loving thanks to all who joined us at the Melb book launch! Home town Launnie Launch coming right up! Come celebrate Tim Thorne and his Greatest Hits! Thursday 10th October at Sporties Lounge, 6.30pm, in conjunction with the [Tasmanian Poetry Festival.](https://www.trybooking.com/events/landing/1263464)  
