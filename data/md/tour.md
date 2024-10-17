@@ -2,39 +2,6 @@
  
 * * * * *
 
-**VICTORIA**
-
-**Wednesday 2 October 2024**\
-Book Launch & Reading\
-*Tim Thorne - Greatest Hits. Poems: 1968 - 2021*   
-Readings Bokks, Carlton. 
-
-* * * * *
-
-**TASMANIA**
-
-**Thursday 10 October 2024**\
-Book Launch & Reading\
-*Tim Thorne - Greatest Hits. Poems: 1968 - 2021*   
-in conjuction with the Tasmanian Poetry Festival. 
-SPORTIES LOUNGE, Charles St **LAUNCESTON**
-
-* * * * *
-
-**ACT**
-
-**Saturday 2 November 2024**\
-*Land and Language* Exhibition Opening\
-[CIVIC ART BUREAU](https://www.civicartbureau.com/) \
-Upstairs, Smith's Alternative\
-Alinga St Civic, **CANBERRA**\
-3pm\
-*Exhibition runs 2nd - 23rd November* 
-
-![](data/image/news/LTLAL.jpeg)
-
-* * * * *
-
 **NSW**
 
 **Saturday 16 November 2024**\
@@ -56,6 +23,20 @@ Doors 2.30pm | Show 3-5pm\
 ![](data/image/news/GGCover.jpeg)
 
 GOLDEN GIRL Out 14 November 2024 on *little secret records*
+
+* * * * *
+
+**ACT**
+
+**Saturday 5 April 2025**\
+*Land and Language* Exhibition Opening\
+[CIVIC ART BUREAU](https://www.civicartbureau.com/) \
+Upstairs, Smith's Alternative\
+Alinga St Civic, **CANBERRA**\
+3pm\
+*Exhibition runs 5th - 20th April 2025* 
+
+![](data/image/news/LandL25.jpeg)
 
 * * * * *
 
