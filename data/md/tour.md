@@ -7,8 +7,7 @@
 **Wednesday 2 October 2024**\
 Book Launch & Reading\
 *Tim Thorne - Greatest Hits. Poems: 1968 - 2021*   
-[READINGS](https://www.readings.com.au/events/poetry-launch-tim-thorne-greatest-hits) Carlton, **MELBOURNE**\
-6.30pm
+Readings Bokks, Carlton. 
 
 * * * * *
 
@@ -17,9 +16,8 @@ Book Launch & Reading\
 **Thursday 10 October 2024**\
 Book Launch & Reading\
 *Tim Thorne - Greatest Hits. Poems: 1968 - 2021*   
-in conjuction with the [Tasmanian Poetry Festival](https://www.trybooking.com/events/landing/1263464) \
-SPORTIES LOUNGE, Charles St **LAUNCESTON**\
-6.30pm  
+in conjuction with the Tasmanian Poetry Festival. 
+SPORTIES LOUNGE, Charles St **LAUNCESTON**
 
 * * * * *
 
