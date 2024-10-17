@@ -9,7 +9,7 @@
 [The Citadel](https://thecitadel.com.au/)\
 21 Queen St **MURWILLUMBAH**\
 with Ash Bell\
-7pm\
+Doors 7pm | Show 7.30-9.30pm\
 [Tickets](https://events.humanitix.com/ash-bell-and-lucie-thorne) 
 
 **Sunday 17 November 2024**\
