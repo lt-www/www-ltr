@@ -1,3 +1,3 @@
 # Art
 
-Picture of art
+Pictures of art
