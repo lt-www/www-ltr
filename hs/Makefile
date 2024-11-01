@@ -11,7 +11,7 @@ clean:
 	rm -f lt-cgi
 
 ln-local:
-	rm -f WWW Text
+	rm -f Www Text/*
 	mkdir -p Text
 	ln -s $(HOME)/sw/www-minus/Www Www
 	ln -s $(HOME)/sw/html-minus/Text/Html Text/Html
