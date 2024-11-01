@@ -1,5 +1,13 @@
 * * * * * 
 
+### 1 November 2024
+
+Joining forces with Ash Bell to present to you: GOLDEN GIRL. GOLDEN GIRL is a posthumous Sara Tindley album which will be released on *little secret records* on 14 November 2024. A collection of solo home recordings made by Sara in the last year of her life, the album also features two new songs written in tribute to Sara by Ash and myself, alongside two previously unreleased duets with Sara. We launch the album with two very special [*Songs for Sara* concerts](tour) in Murwillumbah and Lismore November 16 and 17.
+
+![](data/image/news/SFSflyer.jpeg)
+
+* * * * * 
+
 ### 18 October 2024
 
 Huge loving thanks to all who joined us at the Launnie Launch of Tim Thorne - Greatest Hits! It's been an overwhelmingly wonderful time seeing and hearing these hits brought to life! Extra thanks to all the readers and the Tasmanian Poetry Festival crew. In art news - please note date change: Civic Art Bureau has had to reschedule my upcoming exhibition - Land and Language - which will now open Saturday 5th April 2025. 
