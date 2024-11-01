@@ -13,6 +13,6 @@ clean:
 ln-local:
 	rm -f WWW Text
 	mkdir -p Text
-	ln -s $(HOME)/sw/www-minus/WWW WWW
-	ln -s $(HOME)/sw/html-minus/Text/HTML Text/HTML
+	ln -s $(HOME)/sw/www-minus/Www Www
+	ln -s $(HOME)/sw/html-minus/Text/Html Text/Html
 	ln -s $(HOME)/opt/src/xml-1.3.9/Text/XML Text/XML
