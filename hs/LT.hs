@@ -3,8 +3,8 @@ module LT where
 import Data.Char {- base -}
 import System.FilePath {- filepath -}
 
-import qualified Text.HTML.Minus as H {- html-minus -}
-import qualified WWW.Minus.MD as MD {- xml -}
+import qualified Text.Html.Minus as Html {- html-minus -}
+import qualified Www.Minus.Md as Md {- xml -}
 
 -- * Genera
 
@@ -62,65 +62,65 @@ lt_class_tag p =
 -- * HTML
 
 -- dsc = description
-std_meta :: Config -> String -> [H.Content]
+std_meta :: Config -> String -> [Html.Content]
 std_meta cf dsc =
-    [H.title [] [H.cdata ("LUCIE THORNE: " ++ display_text dsc)]
-    ,H.meta_description dsc
-    ,H.meta_author "lucie thorne"
-    ,H.meta_content_type "text/html; charset=UTF-8"
-    ,H.link_css "all" (lt_css cf)
-    ,H.link_ty H.Link_Icon [H.type_attr "image/png",H.href "https://luciethorne.com/data/image/ground/lt.512.png"]
-    ,H.meta_viewport "width=device-width,initial-scale=1,user-scalable=yes"]
+    [Html.title [] [Html.cdata ("LUCIE THORNE: " ++ display_text dsc)]
+    ,Html.meta_description dsc
+    ,Html.meta_author "lucie thorne"
+    ,Html.meta_content_type "text/html; charset=UTF-8"
+    ,Html.link_css "all" (lt_css cf)
+    ,Html.link_ty Html.Link_Icon [Html.type_attr "image/png",Html.href "https://luciethorne.com/data/image/ground/lt.512.png"]
+    ,Html.meta_viewport "width=device-width,initial-scale=1,user-scalable=yes"]
 
-std_html :: [H.Content] -> H.Element
-std_html = H.html [H.lang "en"]
+std_html :: [Html.Content] -> Html.Element
+std_html = Html.html [Html.lang "en"]
 
-std_menu :: Config -> String -> H.Content
+std_menu :: Config -> String -> Html.Content
 std_menu cf =
     let f (m,p_) = (m,p_,Just (lt_base cf p_))
-    in H.nav_menu_list id "menu" (map f (lt_menu display_text))
+    in Html.nav_menu_list id "menu" (map f (lt_menu display_text))
 
-lt_h1 :: H.Content
+lt_h1 :: Html.Content
 lt_h1 =
-    let t = H.h1
-            [H.title_attr "lucie thorne"]
-            [H.img [H.alt "LUCIE THORNE"
-                   ,H.src "data/image/ground/lucie-thorne.png"]]
-    in div_c "lucie-thorne" [H.a [H.class_attr "h1",H.href lt_site] [t]]
+    let t = Html.h1
+            [Html.title_attr "lucie thorne"]
+            [Html.img [Html.alt "LUCIE THORNE"
+                   ,Html.src "data/image/ground/lucie-thorne.png"]]
+    in div_c "lucie-thorne" [Html.a [Html.class_attr "h1",Html.href lt_site] [t]]
 
-std_copyright :: Config -> FilePath -> H.Content
+std_copyright :: Config -> FilePath -> Html.Content
 std_copyright _ _ =
-  H.footer
-        [H.class_attr "footer"]
-        [H.a [H.href "https://luciethorne.bandcamp.com"] [H.cdata "BC"]
-        ,H.a [H.href "http://instagram.com/luciennethorne"] [H.cdata "IG"]
-        ,H.a [H.href "http://www.facebook.com/lucie.thorne"] [H.cdata "FB"]
-        ,H.a [H.href "http://soundcloud.com/lucie-1-2"] [H.cdata "SC"]
-        ,H.copy
-        ,H.a [H.href lt_site] [H.cdata "lucie thorne"]
-        ,H.cdata ", 2021. "]
+  Html.footer
+        [Html.class_attr "footer"]
+        [Html.a [Html.href "https://luciethorne.bandcamp.com"] [Html.cdata "BC"]
+        ,Html.a [Html.href "http://instagram.com/luciennethorne"] [Html.cdata "IG"]
+        ,Html.a [Html.href "http://www.facebook.com/lucie.thorne"] [Html.cdata "FB"]
+        ,Html.a [Html.href "http://soundcloud.com/lucie-1-2"] [Html.cdata "SC"]
+        ,Html.copy
+        ,Html.a [Html.href lt_site] [Html.cdata "lucie thorne"]
+        ,Html.cdata ", 2021. "]
 
-div_c :: String -> [H.Content] -> H.Content
-div_c c = H.div [H.class_attr c]
+div_c :: String -> [Html.Content] -> Html.Content
+div_c c = Html.div [Html.class_attr c]
 
-div_cid :: String -> String -> [H.Content] -> H.Content
-div_cid c i = H.div [H.class_attr c,H.id i]
+div_cid :: String -> String -> [Html.Content] -> Html.Content
+div_cid c i = Html.div [Html.class_attr c,Html.id i]
 
 null_replace :: [a] -> [a] -> [a]
 null_replace z e = if null e then z else e
 
 -- > joinPath ["a","b"] == "a/b"
-lt_std_html :: Config -> [String] -> H.Content -> H.Element
+lt_std_html :: Config -> [String] -> Html.Content -> Html.Element
 lt_std_html cf p t =
     let n_ = lt_class_tag p
         a_ = null_replace "home" (joinPath p)
         m_ = std_meta cf a_
         x_ = div_c "content" [t]
-        bg = [div_cid "bg" "noise" [H.nbsp]
-             ,div_cid "bg" "image" [H.nbsp]]
+        bg = [div_cid "bg" "noise" [Html.nbsp]
+             ,div_cid "bg" "image" [Html.nbsp]]
         b_ = [lt_h1,std_menu cf n_,x_,std_copyright cf a_]
-    in std_html [H.head [] m_
-                ,H.body [H.class_attr n_] (bg ++ [div_c "main" b_])]
+    in std_html [Html.head [] m_
+                ,Html.body [Html.class_attr n_] (bg ++ [div_c "main" b_])]
 
 -- * Markdown
 
@@ -131,7 +131,7 @@ lt_no_file =
             ,"please try finding it using the menu."]
 
 lt_markdown_to_html_io :: FilePath -> IO String
-lt_markdown_to_html_io = MD.md_load_html "bin"
+lt_markdown_to_html_io = Md.md_load_html "bin"
 
 -- | Special case for the 'home' file.
 lt_markdown_file_name_f :: FilePath -> FilePath
