@@ -6,8 +6,6 @@
 
 [**PRESS QUOTES**](?p=press)
 
-[**MEDIA RELEASE - KITTY & FRANK**](data/pr/LT_KF_MediaRelease_2020.pdf) (PDF)
-
 [FIND OUT MORE ABOUT **KITTY & FRANK**](?p=albums/kitty-and-frank)
 
 **MEDIA ENQUIRIES**: Clare McGregor Publicity > clarempublicity[at]gmail[dot]com
