@@ -2,7 +2,7 @@
 
 ### 14 November 2024
 
-GOLDEN GIRL is out now! [Hear it at bandcamp](https://saratindley.bandcamp.com/album/golden-girl) where you can stream for free & buy the album on CD or as a digital download. 
+GOLDEN GIRL is out now! Hear it at [bandcamp](https://saratindley.bandcamp.com/album/golden-girl) where you can stream for free & [buy the album](https://saratindley.bandcamp.com/album/golden-girl) on CD or as a digital download. 
 ![](data/image/news/GGCover.jpeg)
 
 
