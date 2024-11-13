@@ -6,7 +6,7 @@ GOLDEN GIRL is out now! [Hear it at bandcamp](https://luciethorne.bandcamp.com/a
 
 ![](data/image/news/GGCover.jpeg)
 
-Happy celestial birthday Sara. An endlessly inspirational lover of love and truth, a tower of a woman in spirit and in song, and that voice that sings straight in to your heart... 
+Happy celestial birthday Sara. An endlessly inspirational lover of love and truth, a tower of a woman in spirit and in song, and that voice that sings straight to your heart... 
 
 *"When in doubt, just be kind that's what I've been told*\
 *figure out what to keep and what to let go*\
