@@ -1,5 +1,23 @@
 * * * * * 
 
+### 14 November 2024
+
+GOLDEN GIRL is out now! [Hear it at bandcamp](https://luciethorne.bandcamp.com/album/golden-girl) where you can stream for free & buy the album on CD or as a digital download. All proceeds from GOLDEN GIRL sales go to Sara's family. 
+
+![](data/image/news/GGCover.jpeg)
+
+Happy celestial birthday Sara. An endlessly inspirational lover of love and truth, a tower of a woman in spirit and in song, and that voice that sings straight in to your heart... 
+
+*"When in doubt, just be kind that's what I've been told*\
+*figure out what to keep and what to let go*\
+*pare it back to only what is real and true and then*\
+*maybe I'll be golden too"*\
+from *Golden*, by Sara Tindley\
+
+album cover art: detail from *The Singing Farmer*, by me, LT xo 
+
+* * * * * 
+
 ### 1 November 2024
 
 Joining forces with Ash Bell to present to you: GOLDEN GIRL. GOLDEN GIRL is a posthumous Sara Tindley album which will be released on *little secret records* on 14 November 2024. A collection of solo home recordings made by Sara in the last year of her life, the album also features two new songs written in tribute to Sara by Ash and myself, alongside two previously unreleased duets with Sara. We launch the album with two very special [*Songs for Sara* concerts](tour) in Murwillumbah and Lismore November 16 and 17.
