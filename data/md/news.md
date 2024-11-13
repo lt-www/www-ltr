@@ -12,7 +12,7 @@ Happy celestial birthday Sara. An endlessly inspirational lover of love and tru
 *figure out what to keep and what to let go*\
 *pare it back to only what is real and true and then*\
 *maybe I'll be golden too"*\
-from *Golden*, by Sara Tindley\
+from *Golden*, by Sara Tindley
 
 album cover art: detail from *The Singing Farmer*, by me, LT xo 
 
