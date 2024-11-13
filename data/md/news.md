@@ -14,9 +14,7 @@ Happy celestial birthday Sara. An endlessly inspirational lover of love and tru
 *maybe I'll be golden too"*\
 from *Golden*, by Sara Tindley
 
-album cover art: detail from *The Singing Farmer*, by me, LT xo \
-All proceeds from [Golden Girl](https://saratindley.bandcamp.com/album/golden-girl) sales go to Sara's family. 
-
+album cover art: detail from *The Singing Farmer*, by me, LT xo
 * * * * * 
 
 ### 1 November 2024
