@@ -1,5 +1,3 @@
-![](data/image/news/tourbanner2.jpg)
- 
 * * * * *
 
 ![](data/image/news/April2025Flyer.jpeg)
