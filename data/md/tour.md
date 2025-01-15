@@ -5,11 +5,11 @@
 **ACT**
 
 **Friday 4 April 2025**\
-*Land and Language* Exhibition Opening\
+*Land and Language* - An Exhibition of new Paintings by Lucie Thorne\
 [CIVIC ART BUREAU](https://www.civicartbureau.com/) \
 Upstairs, Smith's Alternative\
 Alinga St Civic, **CANBERRA**\
-6-8pm\
+Opening Night: 6-8pm\
 *Exhibition runs 4th - 20th April 2025* 
 
 ![](data/image/news/April2025Flyer.jpeg)
@@ -24,7 +24,7 @@ McGREGOR HALL\
 Next door to Civic Art Bureau, Upstairs, Smith's Alternative\
 Alinga St Civic, **CANBERRA**\
 4-6pm\
-*TIckets on sale in February 2025* 
+*Tickets on sale in February 2025* 
 
 * * * * *
 
