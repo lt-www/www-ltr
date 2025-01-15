@@ -14,10 +14,6 @@ Opening Night: 6-8pm\
 
 ![](data/image/news/April2025Flyer.jpeg)
 
-* * * * *
-
-**ACT**
-
 **Saturday 5 April 2025**\
 *Lucie Thorne & Hamish Stuart - Live in Concert*\
 McGREGOR HALL\
