@@ -2,6 +2,8 @@
  
 * * * * *
 
+![](data/image/news/April2025Flyer.jpeg)
+
 **ACT**
 
 **Friday 4 April 2025**\
@@ -11,8 +13,6 @@ Upstairs, Smith's Alternative\
 Alinga St Civic, **CANBERRA**\
 Opening Night: 6-8pm\
 *Exhibition runs 4th - 20th April 2025* 
-
-![](data/image/news/April2025Flyer.jpeg)
 
 **Saturday 5 April 2025**\
 *Lucie Thorne & Hamish Stuart - Live in Concert*\
