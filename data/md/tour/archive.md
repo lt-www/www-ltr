@@ -1,5 +1,22 @@
 <!-- ## shows/archive -->
 
+**NSW**
+
+**Sunday 17 November 2024**\
+*SONGS FOR SARA // GOLDEN GIRL* Album Launch\
+The Rochdale Theatre, **LISMORE**\
+603 Ballina Rd Goonellabah\
+with Ash Bell 
+
+**Saturday 16 November 2024**\
+*SONGS FOR SARA // GOLDEN GIRL* Album Launch\
+The Citadel, **MURWILLUMBAH**\
+with Ash Bell 
+
+![](data/image/news/GGCover.jpeg)
+
+GOLDEN GIRL Out 14 November 2024 on *little secret records*
+
 * * * * *
 
 **TASMANIA**
