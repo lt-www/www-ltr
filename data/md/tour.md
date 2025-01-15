@@ -18,7 +18,7 @@ Alinga St Civic, **CANBERRA**\
 
 **ACT**
 
-**Friday 4 April 2025**\
+**Saturday 5 April 2025**\
 *Lucie Thorne & Hamish Stuart - Live in Concert*\
 McGREGOR HALL\
 Next door to Civic Art Bureau, Upstairs, Smith's Alternative\
