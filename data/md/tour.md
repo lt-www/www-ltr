@@ -18,7 +18,7 @@ McGREGOR HALL\
 Next door to Civic Art Bureau, Upstairs, Smith's Alternative\
 Alinga St Civic, **CANBERRA**\
 4-6pm\
-*Tickets on sale in February 2025* 
+*Tickets on sale Feb 2025* 
 
 * * * * *
 
