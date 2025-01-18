@@ -5,7 +5,7 @@
 **ACT**
 
 **Friday 4 April 2025**\
-*Land and Language* - An Exhibition of new Paintings by Lucie Thorne\
+*Land and Language - an exhibition of new paintings by Lucie Thorne*\
 [CIVIC ART BUREAU](https://www.civicartbureau.com/) \
 Upstairs, Smith's Alternative\
 Alinga St Civic, **CANBERRA**\
