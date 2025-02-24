@@ -18,7 +18,7 @@ McGREGOR HALL\
 Next door to Civic Art Bureau, Upstairs, Smith's Alternative\
 Alinga St Civic, **CANBERRA**\
 4-6pm\
-*Tickets on sale Feb 2025* 
+[Tickets](https://www.smithsalternative.com/events/lucie-thorne-hamish-stuart-90370?d=5%2F04%2F2025+4%3A00%3A00+PM)  
 
 * * * * *
 
