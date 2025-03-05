@@ -1,4 +1,5 @@
-* * * * * 
+### 24 February 2025
+Thrilled to let you know that my new collection of paintings - *Land and Language* will be exhibited in Canberra this April at the fabulous [Civic Art Bureau](https://www.civicartbureau.com/exhibitions/land-and-language-lucie-thorne/). And SHOW ALERT!! I’ll be reuniting with the one n only Hamish Stuart for a real live musical concert SAT 5 APRIL at McGregor Hall! Which is right next door to the gallery… [Tickets on sale now](https://www.smithsalternative.com/events/lucie-thorne-hamish-stuart-90370?d=5%2F04%2F2025+4%3A00%3A00+PM) xo
 
 ![](data/image/news/AprilFlyer2.jpeg)
 
