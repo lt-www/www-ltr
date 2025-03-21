@@ -1,7 +1,5 @@
 * * * * *
 
-![](data/image/news/AprilFlyer2.jpeg)
-
 **ACT**
 
 **Friday 4 April 2025**\
@@ -14,11 +12,12 @@ Opening Night: 6-8pm\
 
 **Saturday 5 April 2025**\
 *Lucie Thorne & Hamish Stuart - Live in Concert*\
-McGREGOR HALL\
-Next door to Civic Art Bureau, Upstairs, Smith's Alternative\
+SMITH'S ALTERNATIVE\
 Alinga St Civic, **CANBERRA**\
-4-6pm\
+Doors 3.30pm | Show 4-6pm\
 [Tickets](https://www.smithsalternative.com/events/lucie-thorne-hamish-stuart-90370?d=5%2F04%2F2025+4%3A00%3A00+PM)  
+
+![](data/image/news/NewApril25.jpeg)
 
 * * * * *
 
