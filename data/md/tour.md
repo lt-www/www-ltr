@@ -9,6 +9,8 @@ Upstairs, Smith's Alternative\
 Opening Hours: Thu Fri Sat 12-5pm | Sun 2-5pm\
 [Catalogue & info](https://www.civicartbureau.com/exhibitions/land-and-language-lucie-thorne/) 
 
+![](data/image/news/CAB_25.jpeg)
+
 * * * * *
 
 **South Australia**
@@ -62,6 +64,10 @@ opening for *The Cruel Sea*\
 City Recital Hall, **SYDNEY**\
 opening for *The Cruel Sea*\
 7pm
+
+* * * * *
+
+![](data/image/news/TCSMay25.jpeg)
 
 * * * * *
 
