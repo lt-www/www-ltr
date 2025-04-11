@@ -8,7 +8,7 @@ Thanks to all who joined us for the opening of *Land and Language*. The exhibiti
 ### 2 April 2025
 ...on the road with The Cruel Sea in May!!!   
 
-![](data/image/news/TCSMay.jpeg)
+![](data/image/news/TCSMay25.jpeg)
 
 * * * * * 
 
