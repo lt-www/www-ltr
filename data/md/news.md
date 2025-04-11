@@ -1,3 +1,13 @@
+### 9 April 2025
+Thanks to all who joined us for the opening of *Land and Language*. The exhibition is up till Sunday 20th April at [Civic Art Bureau](https://www.civicartbureau.com/exhibitions/land-and-language-lucie-thorne/). And if you can't make it to Canberra, you can have a squiz at [the catalogue here]](https://www.civicartbureau.com/exhibitions/land-and-language-lucie-thorne/).  
+
+![](data/image/news/CAB_25.jpeg)
+
+### 2 April 2025
+...on the road with The Cruel Sea in May!!!   
+
+![](data/image/news/TCSMay.jpeg)
+
 ### 24 February 2025
 Thrilled to let you know that my new collection of paintings - *Land and Language* - will be exhibited in Canberra this April at the fabulous [Civic Art Bureau](https://www.civicartbureau.com/exhibitions/land-and-language-lucie-thorne/). And SHOW ALERT!! I’ll be reuniting with the one n only Hamish Stuart for a real live musical concert SAT 5 APRIL at Smith's Alternative! Which is downstairs from the gallery... xo [Tickets on sale now](https://www.smithsalternative.com/events/lucie-thorne-hamish-stuart-90370?d=5%2F04%2F2025+4%3A00%3A00+PM) 
 
