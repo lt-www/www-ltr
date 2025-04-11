@@ -1,15 +1,15 @@
 * * * * *
 **ACT**
 
-**Friday 4 April 2025**\
+**4-20 April 2025**\
 *Land and Language - an exhibition of new paintings by Lucie Thorne*\
-[CIVIC ART BUREAU](https://www.civicartbureau.com/) \
+[CIVIC ART BUREAU](https://www.civicartbureau.com/exhibitions/land-and-language-lucie-thorne/) \
 Upstairs, Smith's Alternative\
-Alinga St Civic, **CANBERRA**\
-Opening Night: 6-8pm\
-*Exhibition runs 4th - 20th April 2025* 
+76 Alinga St Civic, **CANBERRA**\
+Opening Hours: Thu Fri Sat 12-5pm | Sun 2-5pm\
+[Catalogue & info](https://www.civicartbureau.com/exhibitions/land-and-language-lucie-thorne/) 
 
-
+* * * * *
 
 **South Australia**
 
