@@ -1,5 +1,5 @@
 ### 1 May 2025
-Thrilled to be The Cruel Sea's special guest this month! playing in some extremely gorgeous theatres around the east coast! Adelaide, Melbourne, Canberra, Thirroul, Brisbane & Sydney - [Details here](tour)    
+Thrilled to be The Cruel Sea's special guest this month! playing in some extremely gorgeous theatres around the east coast: Adelaide, Melbourne, Canberra, Thirroul, Brisbane & Sydney - [Details here](tour)    
 
 ![](data/image/news/LT_TCS1.jpeg)
 
