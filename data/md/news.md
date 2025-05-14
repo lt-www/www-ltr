@@ -1,3 +1,10 @@
+### 1 May 2025
+Thrilled to be The Cruel Sea's special guest this month! Playing in some extremely gorgeous theatres around the east coast! Adelaide, Melbourne, Canberra, Thirroul, Brisbane & Sydney - [Details here](tour)    
+
+![](data/image/news/LT_TCS1.jpeg)
+
+* * * * * 
+
 ### 9 April 2025
 Thanks to all who joined us for the opening of *Land and Language*. The exhibition is up till Sunday 20th April at [Civic Art Bureau](https://www.civicartbureau.com/exhibitions/land-and-language-lucie-thorne/). And if you can't make it to Canberra, you can have a squiz at [the catalogue here](https://www.civicartbureau.com/exhibitions/land-and-language-lucie-thorne/).  
 
