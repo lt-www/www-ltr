@@ -3,6 +3,20 @@
 
 **ACT**
 
+**4-20 April 2025**\
+*Land and Language - an exhibition of new paintings by Lucie Thorne*\
+[CIVIC ART BUREAU](https://www.civicartbureau.com/exhibitions/land-and-language-lucie-thorne/) \
+Upstairs, Smith's Alternative\
+76 Alinga St Civic, **CANBERRA**\
+Opening Hours: Thu Fri Sat 12-5pm | Sun 2-5pm\
+[Catalogue & info](https://www.civicartbureau.com/exhibitions/land-and-language-lucie-thorne/) 
+
+![](data/image/news/CAB_25.jpeg)
+
+* * * * *
+
+**ACT**
+
 **Saturday 5 April 2025**\
 *Lucie Thorne & Hamish Stuart - Live in Concert*\
 SMITH'S ALTERNATIVE\
