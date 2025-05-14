@@ -52,8 +52,6 @@ City Recital Hall, **SYDNEY**\
 opening for *The Cruel Sea*\
 7pm
 
-* * * * *
-
 ![](data/image/news/TCSMay25.jpeg)
 
 * * * * *
