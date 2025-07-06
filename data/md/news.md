@@ -3,6 +3,8 @@ Reuniting with the one n only Hamish Stuart for an intimate concert in Sydney ne
 
 ![](data/image/news/19AugustSq.jpeg)
 
+* * * * * 
+
 ### 1 May 2025
 Thrilled to be The Cruel Sea's special guest this month! playing in some extremely gorgeous theatres around the east coast: Adelaide, Melbourne, Canberra, Thirroul, Brisbane & Sydney - [Details here](tour)    
 
