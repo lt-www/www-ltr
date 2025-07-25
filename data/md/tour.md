@@ -6,7 +6,7 @@
 The Listening Station, **BROOKVALE**\
 at ArtBau\
 with Hamish Stuart\
-tix on sale soon 
+6.30pm | [tickets](https://www.artbau.com.au/about-1)  
 
 ![](data/image/news/19AugustSq.jpeg)
 
