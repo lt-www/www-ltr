@@ -6,7 +6,7 @@
 The Listening Station, **BROOKVALE**\
 at ArtBau\
 with Hamish Stuart\
-*rescheduled from August* 
+ 
 
 * * * * *
 
