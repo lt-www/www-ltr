@@ -8,8 +8,6 @@ Rescheduled from August - on October 21st Hamish Stuart and I reunite to play an
 ### 6 July 2025
 Reuniting with the one n only Hamish Stuart for an intimate concert in Sydney next month. A collection of my paintings will be exhibited at ArtBau in Brookvale on 18, 19 & 20 August, and on Tues 19th we'll perform in the gallery space as part of The Listening Station concert series. [Tickets on sale now](https://www.artbau.com.au/about-1). 
 
-![](data/image/news/19AugustSq.jpeg)
-
 * * * * * 
 
 ### 1 May 2025
