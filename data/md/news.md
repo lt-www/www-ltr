@@ -1,5 +1,5 @@
 ### 25 September 2025
-Rescheduled from August - on October 21st Hamish Stuart and I reunite to play an intimate concert at The Listening Station at ArtBau Gallery in Brookvale. A collection of my paintings will also be exhibited on the gallery walls! One night only! [Tickets on sale now](https://www.artbau.com.au/about-1). 
+*Rescheduled from August* - on October 21st Hamish Stuart and I reunite to play an intimate concert at The Listening Station at ArtBau Gallery in Brookvale. A collection of my paintings will also be exhibited on the gallery walls! One night only! [Tickets on sale now](https://www.artbau.com.au/about-1). 
 
 ![](data/image/news/TLSOct25.jpeg)
 
