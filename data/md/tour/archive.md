@@ -4,6 +4,15 @@
 
 **NSW**
 
+**Tuesday 21 October 2025**\
+The Listening Station, **BROOKVALE**\
+at ArtBau\
+with Hamish Stuart
+
+* * * * *
+
+**NSW**
+
 **Saturday 31 May 2025**\
 City Recital Hall, **SYDNEY**\
 opening for *The Cruel Sea*
