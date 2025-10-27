@@ -1,3 +1,10 @@
+### 27 October 2025
+Melbourne! I'll be playing at the gorgeous Merri Creek Tavern on Monday 1st December with my ol mate Dan Tuffy who'll be briefly back on our shores from The Netherlands this summer. [Tickets on sale now](tour)
+
+![](data/image/news/DTLTMCT.jpeg)
+
+* * * * * 
+
 ### 25 September 2025
 *Rescheduled from August* - on October 21st Hamish Stuart and I reunite to play an intimate concert at The Listening Station at ArtBau Gallery in Brookvale. A collection of my paintings will also be exhibited on the gallery walls! One night only! [Tickets on sale now](https://www.artbau.com.au/about-1). 
 
