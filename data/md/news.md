@@ -1,5 +1,5 @@
 ### 2 December 2025
-Thanks to the folks at Art & Style Magazine for the feature review of our recent ArtBau show! And thanks to all who joined us last night at the Merri Creek Tavern! A little selection of my paintings are hanging on the Tav's walls this week for your viewing pleasure -  up till Sunday night xo 
+Thanks to the folks at Art & Style Magazine for the feature review of our recent ArtBau show! And thanks to all who joined us last night at the Merri Creek Tavern! A little selection of my paintings are hanging on the Tav's walls this week for your viewing pleasure -  up till Sunday night xo
 
 ![](data/image/news/ArtStyle1.jpeg)
 
