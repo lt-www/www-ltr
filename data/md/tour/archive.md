@@ -2,6 +2,14 @@
 
 * * * * *
 
+**VIC**
+
+**Monday 1 December 2025**\
+The Merri Creek Tavern, **Westgarth**\
+with Dan Tuffy
+
+* * * * *
+
 **NSW**
 
 **Tuesday 21 October 2025**\
