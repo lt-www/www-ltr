@@ -1,11 +1,10 @@
+* * * * *
 
 **VIC**
 
-**Monday 1 December 2025**\
-The Merri Creek Tavern, **Westgarth**\
-with Dan Tuffy\
-8pm\
-[Tickets on sale now](https://www.trybooking.com/events/landing/1489080)
+**27 February - 24 March 2026**\
+*an exhibition of recent paintings at*
+Little Oberon Cafe and Gallery, **Fish Creek**
 
 * * * * *
 
