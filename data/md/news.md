@@ -1,5 +1,6 @@
 ### 9 February 2026
 
+Delighted to announce i'll be exhibiting some paintings in a co-show with the very excellent Matt Green - from Feb 27 - March 31st at the gorgeous Little Oberon cafe gallery in Fish Creek Vic! Come on down and check it out... 
 
 ![](data/image/news/LTMGLOFC.jpeg)
 
