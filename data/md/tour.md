@@ -8,6 +8,15 @@ Little Oberon Cafe and Gallery, **Fish Creek**
 
 * * * * *
 
+**South Australia**
+
+**Sunday 28 June 2026**\
+The Wheatsheaf, **Adelaide**
+with The Yearlings\
+tix on sale soon 
+
+* * * * *
+
 **NSW**
 
 **Saturday 11 + Sunday 12 July 2026**\
