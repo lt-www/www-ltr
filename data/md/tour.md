@@ -20,7 +20,7 @@ tix on sale soon
 **NSW**
 
 **Friday 10 July 2026**\
-**Bellingen**\ 
+**Bellingen**\
 with Jo Jo Smith\
 details tba 
 
