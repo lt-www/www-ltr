@@ -1,13 +1,5 @@
 * * * * *
 
-**VIC**
-
-**27 February - 31 March 2026**\
-*an exhibition of recent paintings*\
-Little Oberon Cafe and Gallery, **Fish Creek**
-
-* * * * *
-
 **South Australia**
 
 **Sunday 28 June 2026**\
