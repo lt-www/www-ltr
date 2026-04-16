@@ -4,6 +4,14 @@
 
 **VIC**
 
+**27 February - 31 March 2026**\
+*an exhibition of recent paintings*\
+Little Oberon Cafe and Gallery, **Fish Creek**
+
+* * * * *
+
+**VIC**
+
 **Monday 1 December 2025**\
 The Merri Creek Tavern, **Westgarth**\
 with Dan Tuffy
