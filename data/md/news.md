@@ -1,3 +1,11 @@
+### 17 April 2026
+
+News flash! I'll be reuniting with some of my favourite musical humans this June + July in South Australia and NSW! Tickets for all shows [on sale now](tour)  
+
+![](data/image/news/WINTER2026.jpeg)
+
+* * * * * 
+
 ### 9 February 2026
 
 Delighted to announce i'll be exhibiting some paintings in a co-show with the very excellent Matt Green - from Feb 27 - March 31st at the gorgeous Little Oberon cafe gallery in Fish Creek Vic! Come on down and check it out xo 
