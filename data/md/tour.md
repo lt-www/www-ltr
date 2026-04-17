@@ -33,7 +33,7 @@ with Hamish Stuart + Jo Jo Smith\
 **Saturday 11 + Sunday 12 July 2026**\
 [Mullum Roots Festival](https://mullumrootsfest.com), **Mullumbimby**\
 *duet shows with Hamish Stuart*\
-details tba
+[Tickets](https://mullumrootsfest.com/tickets)
 
 * * * * *
 
