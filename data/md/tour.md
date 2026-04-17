@@ -27,7 +27,7 @@ with The Yearlings\
 **Friday 10 July 2026**\
 Memorial Hall Studio **BELLINGEN**\
 with Hamish Stuart + Jo Jo Smith\
-7.30pm
+7.30pm\
 [Tickets](https://www.trybooking.com/DLMAC)
 
 **Saturday 11 + Sunday 12 July 2026**\
