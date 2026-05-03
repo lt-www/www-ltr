@@ -30,9 +30,18 @@ with Hamish Stuart + Jo Jo Smith\
 7.30pm\
 [Tickets](https://www.trybooking.com/DLMAC)
 
-**Saturday 11 + Sunday 12 July 2026**\
+**Saturday 11 July 2026**\
 [Mullum Roots Festival](https://mullumrootsfest.com), **Mullumbimby**\
-*duet shows with Hamish Stuart*\
+Ex Services Club\
+*with Hamish Stuart*\
+5pm\
+[Tickets](https://mullumrootsfest.com/tickets)
+
+**Sunday 12 July 2026**\
+[Mullum Roots Festival](https://mullumrootsfest.com), **Mullumbimby**\
+The Civis Hall\
+*with Hamish Stuart*\
+11am\
 [Tickets](https://mullumrootsfest.com/tickets)
 
 * * * * *
