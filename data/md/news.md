@@ -2,7 +2,7 @@
 
 News flash! I'll be reuniting with some of my favourite musical humans this June + July in South Australia and NSW! Tickets for all shows [on sale now](tour)  
 
-![](data/image/news/WINTER2026.jpeg)
+![](data/image/news/LTWINTER2.jpeg)
 
 * * * * * 
 
