@@ -45,7 +45,7 @@ The Civis Hall\
 [Tickets](https://mullumrootsfest.com/tickets)
 
 **Thursday 16 July 2026**\
-POP-UP ART EXHIBITION\ **Lismore**\
+POP-UP ART EXHIBITION, **Lismore**\
 Maloney Wilson Building, 11 Woodlark St\
 5.30pm-8pm
 
