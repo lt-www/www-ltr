@@ -1,3 +1,11 @@
+### 12 June 2026
+
+Dear North Coast friends! Delighted to announce I’ll be having a pop-up ART SHOW IN LISMORE! Thur 16 July 5.30-8pm - 11 Woodlark St - Maloney Wilson Building. One night only! (And one morning: also open Sat 18th July 10am-12pm) xo 
+
+![](data/image/news/LTLismoreArt.jpeg)
+
+* * * * * 
+
 ### 17 April 2026
 
 I'll be reuniting with some of my favourite musical humans this June + July in South Australia and NSW! Tickets for all shows [on sale now](tour)  
