@@ -20,6 +20,8 @@ with The Yearlings\
 4pm\
 [Tickets](https://www.trybooking.com/DLKOK)
 
+PLUS POP-UP ART SHOW! *a selection of LT paintings will grace a little corner of the Wheaty's walls this weekend only!*
+
 * * * * *
 
 **NSW**
