@@ -1,3 +1,11 @@
+### 22 June 2026
+
+Winter tour starts next week with three shows in South Australia with The Yearlings! [Tix and details here](tour)  
+
+![](data/image/news/LTWINTER2.jpeg)
+
+* * * * * 
+
 ### 12 June 2026
 
 Dear North Coast friends! Delighted to announce I’ll be having a pop-up ART SHOW IN LISMORE! Thur 16 July 5.30-8pm - 11 Woodlark St - Maloney Wilson Building. One night only! (And one morning: also open Sat 18th July 10am-12pm) xo 
