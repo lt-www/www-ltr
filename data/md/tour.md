@@ -5,22 +5,17 @@
 **Friday 26 June 2026**\
 Murray Delta Juke Joint, **GOOLWA**\
 with The Yearlings\
-7.30pm\
-[Tickets](https://www.trybooking.com/DLKXA) 
+*cancelled*
 
 **Saturday 27 June 2026**\
 Three Brothers Arms, **MACCLESFIELD**\
 with The Yearlings\
-8pm\
-[Tickets](https://www.trybooking.com/DLLLU) 
+*cancelled*
 
 **Sunday 28 June 2026**\
 The Wheatsheaf, **ADELAIDE**\
 with The Yearlings\
-4pm\
-[Tickets](https://www.trybooking.com/DLKOK)
-
-PLUS POP-UP ART SHOW! *a selection of LT paintings will grace a little corner of the Wheaty's walls this weekend only!*
+*cancelled*
 
 * * * * *
 
@@ -29,8 +24,7 @@ PLUS POP-UP ART SHOW! *a selection of LT paintings will grace a little corner of
 **Friday 10 July 2026**\
 Memorial Hall Studio **BELLINGEN**\
 with Jo Jo Smith\
-7.30pm\
-[Tickets](https://www.trybooking.com/DLMAC)
+*cancelled*
 
 **Saturday 11 July 2026**\
 [Mullum Roots Festival](https://mullumrootsfest.com), **Mullumbimby**\
