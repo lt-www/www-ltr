@@ -1,3 +1,11 @@
+### 2 July 2026
+
+Dear North Coast friends! Hamish Stuart and I will be playing at the [Mullum Roots Festival](https://mullumrootsfest.com/) next weekend - July 11 + 12, and the following Thur 16 July i'll be having a pop-up art exhibition in Lismore! Hope to see you there xo  
+
+![](data/image/news/LismoreArt2.jpeg)
+
+* * * * * 
+
 ### 22 June 2026
 
 Winter tour starts next week with three shows in South Australia with The Yearlings! [Tix and details here](tour)  
