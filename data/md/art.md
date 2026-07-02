@@ -1,4 +1,3 @@
-![](data/image/news/WheatyArt.jpeg)
 
 
 ![](data/image/news/LTLismoreArt.jpeg)
