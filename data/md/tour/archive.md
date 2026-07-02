@@ -1,4 +1,22 @@
 <!-- ## shows/archive -->
+* * * * *
+
+**South Australia**
+
+**Sunday 28 June 2026**\
+The Wheatsheaf, **ADELAIDE**\
+with The Yearlings\
+*cancelled*
+
+**Saturday 27 June 2026**\
+Three Brothers Arms, **MACCLESFIELD**\
+with The Yearlings\
+*cancelled*
+
+**Friday 26 June 2026**\
+Murray Delta Juke Joint, **GOOLWA**\
+with The Yearlings\
+*cancelled*
 
 * * * * *
 
