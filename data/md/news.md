@@ -1,3 +1,9 @@
+### 9 August 2026
+
+![](data/image/news/Tav2026.jpeg)
+
+* * * * * 
+
 ### 2 July 2026
 
 Dear North Coast friends! Hamish Stuart and I will be playing at the [Mullum Roots Festival](https://mullumrootsfest.com/) next weekend - July 11 + 12, and the following Thur 16 July i'll be having a pop-up art exhibition in Lismore! Hope to see you there xo  
