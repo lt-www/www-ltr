@@ -1,4 +1,6 @@
-### 9 August 2026
+### 10 August 2026
+
+Friends in Naarm! Join us on Friday 2nd October for a musical celebration at the gorgeous Merri Creek Tavern! 
 
 ![](data/image/news/Tav2026.jpeg)
 
