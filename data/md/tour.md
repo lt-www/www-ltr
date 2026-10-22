@@ -17,7 +17,8 @@ plus Craft Fair + Xmas Market\
 
 **Saturday 12 December 2026**\
 MERRI CREEK TAVERN, **NAARM**\
-*with MJ HALLORAN*  
+*with MJ HALLORAN*\
+8pm / [Tickets](https://www.trybooking.com/au/event/1668321?eid=1668321)
 
 * * * * *
 
