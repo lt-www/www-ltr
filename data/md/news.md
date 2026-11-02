@@ -1,3 +1,10 @@
+### 30 October 2026
+
+Friends in Naarm! Join us for a [pop-up community art event](tour) in Preston! More details to come...
+
+
+* * * * * 
+
 ### 10 August 2026
 
 Friends in Naarm! Join us on Friday 2nd October for a musical celebration at the gorgeous Merri Creek Tavern! [Tickets](https://www.trybooking.com/events/landing/1629421) are now on sale. 
