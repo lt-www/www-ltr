@@ -1,6 +1,6 @@
 ### 30 October 2026
 
-Join us for a [pop-up community art event](tour) in Preston! More details to come...
+Join us for a [pop-up community art event](tour) in Preston! More details to come... 
 
 ![](data/image/news/ArtShow26.jpeg)
 
