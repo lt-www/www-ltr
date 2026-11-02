@@ -1,4 +1,4 @@
-
+[LT CURRENT CATALOGUE: SPRING 2026](ArtCatSpring2026.pdf) 
 
 ![](data/image/news/LTLismoreArt.jpeg)
 
