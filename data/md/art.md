@@ -5,7 +5,7 @@ Click link below to view Lucie's Current Catalogue:\
 
 ![](data/image/photos/LTtwoscoops.jpeg)
 
-![](data/image/photos/LT_byslowpost.jpeg)
+![](data/image/photos/LT_byslowpost2.jpeg)
 
 Click link below to view the full current selection:\
 [LUCIE THORNE: CURRENT CATALOGUE NOVEMBER 2026](data/image/photos/LTArtNov2026.pdf)
