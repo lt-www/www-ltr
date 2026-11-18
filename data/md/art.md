@@ -1,6 +1,9 @@
 Click link below to view Lucie's Current Catalogue:\
 [LT ART NOVEMBER 2026](data/image/photos/LTArtNov2026.pdf)
 
+![](data/image/photos/LT_byslowpost.jpeg)
+![](data/image/photos/LTtwoscoops.jpeg)
+
 *****
 
 
