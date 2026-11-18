@@ -12,7 +12,7 @@ Click link below to view the full current selection:\
 
 for sales and enquiries contact lucie at luciethorne dot com\
 *all paintings and frames lovingly hand-made by lucie thorne\
-on the unceded lands of the wurundjeri woi-wurrung people of the kulin nation*\
+on the unceded lands of the wurundjeri woi-wurrung people of the kulin nation*
 
 *****
 *****
