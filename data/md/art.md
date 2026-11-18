@@ -1,5 +1,5 @@
 Click link below to view Lucie's Current Catalogue:\
-[LUCIE THORNE CURRENT CATALOGUE NOVEMBER 2026](data/image/photos/LTArtNov2026.pdf)
+[LUCIE THORNE: CURRENT CATALOGUE NOVEMBER 2026](data/image/photos/LTArtNov2026.pdf)
 
 ![](data/image/photos/LT_kkbhm.jpeg)
 
