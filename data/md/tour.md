@@ -1,13 +1,13 @@
 **VICTORIA**
 
 **Friday 27 November 2026**\
-*Elementary on Watson*, Preston **NAARM**\
-Group Art Exhibition featuring Lucie Thorne, Mia Schoen, Kate Reid, Melissa Murphy, Matt Green + more\
+*Elementary on Watson*, 3 Watson St Preston **NAARM**\
+Group Art Exhibition featuring LT, Mia Schoen, Kate Reid, Melissa Murphy, Matt Green + more!\
 6-9pm 
 
 **Sunday 29 November 2026**\
-*Elementary on Watson*, Preston **NAARM**\
-Group Art Exhibition featuring Lucie Thorne, Mia Schoen, Kate Reid, Melissa Murphy, Matt Green + more\
+*Elementary on Watson*, 3 Watson St Preston **NAARM**\
+Group Art Exhibition featuring LT, Mia Schoen, Kate Reid, Melissa Murphy, Matt Green + more!\
 plus Craft Fair + Xmas Market\
 2-5pm 
 
