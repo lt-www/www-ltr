@@ -11,6 +11,8 @@ Group Art Exhibition featuring Lucie Thorne, Mia Schoen, Kate Reid, Melissa Murp
 plus Craft Fair + Xmas Market\
 2-5pm 
 
+![](data/image/photos/Watson26.jpeg)
+
 * * * * *
 
 **VICTORIA**
