@@ -17,7 +17,7 @@ on the unceded lands of the wurundjeri woi-wurrung people of the kulin nation*
 *****
 *****
 
-ARCHIVE:\
+ARCHIVE:
 
 *Land and Language* - 4-20th April 2025 at [Civic Art Bureau](https://www.civicartbureau.com/exhibitions/land-and-language-lucie-thorne/).\
 [Info and catalgoue here](https://www.civicartbureau.com/exhibitions/land-and-language-lucie-thorne/).  
